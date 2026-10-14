@@ -43,13 +43,25 @@ roots. Those references are listed separately; their availability is unverified.
    trailer, e.g. `Co-authored-by: OpenAI Codex GPT-6.1 <noreply@openai.com>`.
 
 For the Chaos card-gallery follow-up, [the scoped import helper](../tools/import_chaos_gallery.py)
-accepts its frozen `revision-3` directory. The default invocation inventories
+accepts an explicit frozen `revision-3` or `revision-4` directory. The default invocation inventories
 bounded production text and external asset sets without changing the archive;
 `--write` copies that text and refreshes the matching catalogs. It verifies all
 earlier Chaos source hashes, rejects unclassified files and detects source edits
 during its snapshot. Review the resulting project index, source syntax, links
 and public exposure, then run the ordinary catalog verifier before committing.
 An import does not render or certify the movie.
+
+Revision 4 additionally preserves bounded native-audio wrapper sources,
+creator soundboard templates/generated Java and YAML, provenance and observed
+proof JSON under `audio-source`. Rendered WAVs remain external. Compiled/build
+trees, raw logs, general saves and private coordination state are excluded;
+the actual Chaos capture preference recipes remain included.
+
+The revision-4 JSON records use named aliases for original host paths. Each
+changed source row records its original SHA-256 and reversible alias map in
+`catalog/sources.json`; recorded measurements, source hashes and request ordering
+stay intact. Scripts, Java/templates and earlier revisions retain their exact
+original bytes.
 
 ## Rights
 

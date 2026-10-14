@@ -1,8 +1,9 @@
 # Rebuilding an edit
 
 Start with a project's index, then its original plan, edit list and assembly script.
-The source files are historical snapshots, preserved byte for byte. They have not
-all been ported to a common CLI or rerun against today's engine. A historical
+The source files are historical snapshots. Original bytes are preserved unless
+a source row declares reversible path normalization. They have not all been
+ported to a common CLI or rerun against today's engine. A historical
 verification result describes that edit at the time it was made.
 
 ## Find and relink dependencies
@@ -23,6 +24,15 @@ frames remain in the original external root. Place archived sources in a **new
 working copy** of that media root, supply its external dependencies, and adjust
 machine-specific paths or the script's existing environment overrides. Keep the
 preserved archive and earlier deliverables intact.
+
+The focused `revision-4` gallery retains the same root and reuses earlier
+qualified picture intervals. Its new soundboard/wrapper sources and observed
+DAC/SFX proofs belong to that production. Revision-4 JSON host paths are
+descriptive aliases such as `${CHAOS_MEDIA_ROOT}`, `${CHAOS_WORKTREE}` and
+`${S3K_ROM}`; the source catalog records each original path map and original
+SHA-256. Expand those aliases to your relocated paths before replaying recorded
+commands. The maintained recipes still derive their local production root from
+the script location. Earlier source snapshots are unchanged.
 
 ```sh
 python3 tools/catalog.py projects

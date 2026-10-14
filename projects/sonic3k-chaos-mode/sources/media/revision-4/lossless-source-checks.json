@@ -1,0 +1,20 @@
+{
+  "repellent-aiz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "db8a7c9f4a8fed8bca58d5a3e22e05cb45be6429e3e148b8c501c1c5883f6827",
+    "pcmSha256": "5df3eec16d877b75c008b221ffb24bd73661182f5de066de79ee3c29fe4b6de4",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "0e2ba494e7c3aab042baacc0e127cc25abc9ec134bb77f5f84b7adc08036aa63"
+  },
+  "repellent-early-brake-aiz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "a96b1aab4906eca5c9b5e430ca2e07c468f4117cfa7bf95a5d52d1ba2590eca7",
+    "pcmSha256": "441ae94875ef01c7cdd4f47b3d9408b3868cbee7afbfcd489e77ae8cae97655a",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "d28fb89eb792c05172f1f42e592bc0ef44f8cc6c3c5975c745040a73d8850fc3"
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "file": "sonic3k-chaos-mode-demo-v4.mp4",
+  "frames": 6360,
+  "durationSeconds": 106.0,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "cadence": "60/1",
+  "chapters": 22,
+  "qualifiedEffects": 20,
+  "zones": [
+    "ANGEL ISLAND",
+    "CARNIVAL NIGHT",
+    "DEATH EGG",
+    "FLYING BATTERY",
+    "HYDROCITY",
+    "ICECAP",
+    "LAUNCH BASE",
+    "LAVA REEF",
+    "MARBLE GARDEN",
+    "MUSHROOM HILL",
+    "SANDOPOLIS",
+    "SKY SANCTUARY"
+  ],
+  "fullVideoDecode": true,
+  "fullAudioDecode": true,
+  "cadenceCheckedEveryFrame": true,
+  "sourceIntervalsAndDeathChecked": true,
+  "fastStart": {
+    "moov_offset": 32,
+    "mdat_offset": 164977,
+    "passed": true
+  },
+  "loudness": {
+    "input_i": "-15.48",
+    "input_tp": "-2.28",
+    "input_lra": "2.30",
+    "input_thresh": "-25.57",
+    "output_i": "-13.68",
+    "output_tp": "-1.50",
+    "output_lra": "1.90",
+    "output_thresh": "-23.72",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.32"
+  },
+  "actualMovingSamples": [
+    {
+      "effect": "rainbow-player",
+      "samples": [
+        288,
+        348,
+        408
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "afterimages",
+      "samples": [
+        528,
+        588,
+        648
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "pulse-head",
+      "samples": [
+        828,
+        888,
+        948
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "hud-orbit",
+      "samples": [
+        1068,
+        1128,
+        1188
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "blueprint-zone",
+      "samples": [
+        1308,
+        1368,
+        1428
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "gravity-hiccup",
+      "samples": [
+        1548,
+        1608,
+        1668
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ice-shoes",
+      "samples": [
+        1848,
+        1908,
+        1968
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "giant-badniks",
+      "samples": [
+        2148,
+        2208,
+        2268
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "windy-day",
+      "samples": [
+        2388,
+        2448,
+        2508
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "flash-flood",
+      "samples": [
+        2688,
+        2748,
+        2808
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "rescue-buddy",
+      "samples": [
+        2988,
+        3048,
+        3108
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "upside-down-view",
+      "samples": [
+        3288,
+        3348,
+        3408
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-repulsion",
+      "samples": [
+        3528,
+        3588,
+        3648
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-rain",
+      "samples": [
+        3768,
+        3828,
+        3888
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "wrong-zone-scenery",
+      "samples": [
+        4068,
+        4128,
+        4188
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "bumper-ahead",
+      "samples": [
+        4368,
+        4428,
+        4488
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "projectile-overdrive",
+      "samples": [
+        4668,
+        4728,
+        4788
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-leak",
+      "samples": [
+        4968,
+        5028,
+        5088
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "monitor-breakout",
+      "samples": [
+        5328,
+        5388,
+        5448
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "soz-ghost-party",
+      "samples": [
+        5688,
+        5748,
+        5808
+      ],
+      "activeRegionChanged": true
+    }
+  ],
+  "ghostSourcePcmUsed": false,
+  "ghostNativeSfxRenderedFromAcceptedEvents": true,
+  "musicContinuity": {
+    "continuous_hcz_before_during_after_ghost": true,
+    "source_zone_music_used": false,
+    "bed_duck_used": false,
+    "windows": [
+      {
+        "window": "before",
+        "output_frame": 5598,
+        "frames": 30,
+        "zero_lag_correlation": 0.9999195422703274,
+        "recovered_gain": 3.1569269541838287,
+        "configured_gain": 3.1622776601683795
+      },
+      {
+        "window": "during",
+        "output_frame": 5670,
+        "frames": 24,
+        "zero_lag_correlation": 0.9999416950523714,
+        "recovered_gain": 3.1604458329326963,
+        "configured_gain": 3.1622776601683795
+      },
+      {
+        "window": "after",
+        "output_frame": 6018,
+        "frames": 24,
+        "zero_lag_correlation": 0.999824054416318,
+        "recovered_gain": 3.1517056151729452,
+        "configured_gain": 3.1622776601683795
+      }
+    ],
+    "scope": "Actual AAC waveform checks in three cue-free windows; not whole-track bit parity or listening review."
+  },
+  "nativeDacProof": {
+    "full": {
+      "stereo_frames": 5760000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_presentation": 800,
+      "ac_variance": 1705402.6830997271,
+      "ac_rms": 1305.9106719449562,
+      "mean": 100.83099738493723,
+      "peak": 7441,
+      "sha256": "4ea6b9294dc2a98abdfa2359a28853835b25aecf56bded6ac59e0547b508bf8f"
+    },
+    "dac_only": {
+      "stereo_frames": 144000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_presentation": 800,
+      "ac_variance": 524251.23767177673,
+      "ac_rms": 724.0519578537004,
+      "mean": 218.3683,
+      "peak": 3289,
+      "sha256": "3d63064605fd5e5fdab3a8e2314213b55a4c201b0462a698205138d3d7e9cc5f"
+    },
+    "all_muted": {
+      "stereo_frames": 144000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_presentation": 800,
+      "ac_variance": 0,
+      "ac_rms": 0.0,
+      "mean": 288.0,
+      "peak": 288,
+      "sha256": "a674622566b2c4a431e225b2f78deed83960dd2b1f04df83616f52334d2dbbb0"
+    },
+    "dac_enabled": true,
+    "nonconstant_native_dac_stream": true,
+    "proof": "Profile-owned native 2Bh enable and DAC_STREAM 2Ah writes; output-stage DAC-only PCM versus all-muted control. Not shipped-ROM parity certification."
+  },
+  "sha256": "1775172882038bc1d50de22c8c66e054bc1ddb43679480997a0046661a978558",
+  "bytes": 96779395,
+  "scope": "Media qualification only, not continuous route completion or native parity; root reviews generated strips separately."
+}

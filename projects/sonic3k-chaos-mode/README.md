@@ -1,11 +1,59 @@
 # Sonic 3&K Chaos Mode demo and card-gallery revisions
 
-The latest edit is a stationary card gallery: one large labelled effect plays at a time, while completed cards stay frozen around it. Revision 3 shows 48 effects across 12 actual S3K zones in 241 seconds (14,460 frames at 60 Hz), with one continuous HCZ2 music bed and genuine recorded PCM during the final ghost card. The first reel, rapid-fire revision 2 and its earlier draft remain preserved with their original sources.
+## Latest: focused revision-4 gallery
+
+The latest edit shows 20 representative effects across 12 actual S3K zones in
+106 seconds: 6,360 frames at 1920×1080 / 60 Hz, with 22 chapters. One large
+labelled picture plays at a time while completed cards stay frozen on a stationary
+page. The film omits minigames, related challenges and chat; the example mod's
+105-effect pool stays unchanged. A fresh native `ring-repulsion` demonstration
+is labelled Ring Repellent editorially. Earlier reels and source identities
+remain preserved.
+
+Music and SFX reuse Slay the Robotnik and Flappy Tails' production scene-audio
+method through the normal AudioManager, S3K profile and driver session. Actual
+DAC proof combines 526 native enable writes, 980,211 nonconstant sample writes
+and DAC-only output against an all-muted control. A fresh ghost replay reproduces
+all 1,200 state/input rows and 342 selected picture frames; a music-stopped
+soundboard then reproduces all 61 accepted native SFX admissions from their raw
+requests. HCZ continues throughout the ghost card at the same gain. The film
+uses neither DEZ music nor the older mixed PCM, guessed cues or external drums.
+
+The clear Ring Repellent take has full RGB/PCM equality and keeps rings at zero
+without hurt/death. The earlier unclear late-brake take remains rejected, with
+its raw PNG/WAV retained because its interrupted comparison did not run. Native
+roster and resolved-ID replay mistakes are documented without treating them as
+passing evidence. This revision changes media workflows; the general direct-read
+audio exporter and production engine remain unchanged.
+
+Final checks cover complete audio/video decode, every PTS, all source intervals,
+EOF/death, chapters and fast-start. Root and independent review cover seven
+actual moving/cut/bookend pages (125 output samples) plus the six-frame native Ring
+flight page. AAC measures −15.48 LUFS / −2.28 dBTP; three cue-free windows before,
+during and after the ghosts retain HCZ at zero-lag correlations above 0.9998.
+These are bounded media checks, without listening, continuous-route or native
+parity claims.
+
+- [Revision-4 production and rebuild](sources/media/revision-4/README.md), [plan](sources/media/revision-4/PLAN.md) and [20-card edit list](sources/media/revision-4/cards.json)
+- [Final source and visual review](sources/media/revision-4/SHOT_REVIEW.md), [actual timeline](sources/media/revision-4/out/edit-timeline.json), [card/source map](sources/media/revision-4/out/chapters.csv) and [export qualification](sources/media/revision-4/out/media-review/summary.json)
+- [Borrowed native-audio method and rejected approaches](sources/media/revision-4/audio-source/README.md), [production wrapper](sources/media/revision-4/audio-source/NativeAudioCapture.java), [renderer](sources/media/revision-4/render_audio.py) and [audio proof checks](sources/media/revision-4/verify_audio.py)
+- [Music/DAC proof](sources/media/revision-4/assets/hcz2/render-provenance.json), [accepted ghost events](sources/media/revision-4/assets/ghosts/accepted-events.json), [SFX replay proof](sources/media/revision-4/assets/ghosts/render-provenance.json), [actual mix](sources/media/revision-4/out/audio-mix.json) and [source levels](sources/media/revision-4/out/audio-source-levels.json)
+
+The packaged JAR remains byte-identical to revision 3. Its existing text-only
+mod snapshot stays in [revision 3](sources/media/revision-3/mod-source/README.md)
+and is not duplicated. New capture/audio source is engine commit
+`88fc03dacd9835437070d40109d62b97a665f944`; retained earlier picture sources keep
+their original identities and positioned/checkpoint qualifications.
+
+## Published revision-3 gallery
+
+The preceding edit is a stationary card gallery: one large labelled effect plays at a time, while completed cards stay frozen around it. Revision 3 shows 48 effects across 12 actual S3K zones in 241 seconds (14,460 frames at 60 Hz), with an HCZ2 music bed and genuine recorded mixed PCM during the final ghost card. The later DAC/workflow correction is recorded above; this section preserves revision 3's historical evidence.
 
 Footage, ROM-derived artwork/audio, lossless source masters, state CSV, packaged mods and source ZIPs remain external. Their location and measurements belong to the [asset catalog](../../catalog/assets.csv), not downloadable GitHub attachments. This repository preserves the production sources and recorded evidence; it does not certify all effects, acts or ROM parity. See [rebuilding](../../docs/rebuilding.md).
 
 ## Revisions
 
+- [Completed revision 4](sources/media/revision-4/README.md): the focused gallery, clear ring repulsion and qualified native DAC/SFX correction.
 - [Completed revision 3](sources/media/revision-3/README.md): the calmer gallery, varied-zone captures, native ghost sound, exact source intervals and completed media review.
 - [First reel production](sources/media/README.md): the original 89.4-second, 30-chapter demo and its original verification.
 - [Completed revision 2](sources/media/revision-2/README.md): revised native footage, beat-based edit, exact source approvals, rebuild commands and documented limits.

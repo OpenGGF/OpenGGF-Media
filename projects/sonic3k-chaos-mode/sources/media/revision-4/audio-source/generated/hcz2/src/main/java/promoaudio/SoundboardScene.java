@@ -1,0 +1,21 @@
+package promoaudio;
+import com.openggf.mods.scene.ModScene;
+import com.openggf.mods.scene.SceneCanvas;
+import com.openggf.mods.scene.SceneContext;
+/** Native scene audio only; generated schedule comes from accepted capture events. */
+public final class SoundboardScene implements ModScene {
+    private static final int MUSIC = 4;
+    private final int[] FRAMES = {};
+    private final int[] IDS = {};
+    private int frame, next;
+    @Override public void enter(SceneContext ctx) {
+        if (MUSIC >= 0) ctx.audio().playMusic(MUSIC);
+        else ctx.audio().stopMusic();
+    }
+    @Override public void update(SceneContext ctx) {
+        while (next < FRAMES.length && FRAMES[next] == frame)
+            ctx.audio().playSfx(IDS[next++]);
+        frame++;
+    }
+    @Override public void draw(SceneContext ctx, SceneCanvas canvas) { canvas.clear(0); }
+}

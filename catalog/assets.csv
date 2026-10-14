@@ -14199,3 +14199,29 @@ sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-3/out/sonic3k-chaos-mode.ja
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-3/out/media-review/*.png,image-sequence-or-review-set,31361722,12
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-3/out/previews/*.png,image-sequence-or-review-set,354614,4
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-3/review/*.png,image-sequence-or-review-set,8032430,163
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/assets/ghosts/native-sfx.wav,media dependency,3840044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/assets/hcz2/all-muted.wav,media dependency,576044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/assets/hcz2/dac-only.wav,media dependency,576044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/assets/hcz2/native-hcz2.wav,media dependency,23040044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/audio-source/rendered/all-muted/audio.wav,media dependency,576044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/audio-source/rendered/dac-only/audio.wav,media dependency,576044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/audio-source/rendered/ghost-sfx/audio.wav,media dependency,3840044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/audio-source/rendered/ghost-sfx-resolved-id-rejected/audio.wav,media dependency,3840044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/audio-source/rendered/hcz2/audio.wav,media dependency,23040044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/ghost-audio-observed/output/audio.wav,media dependency,3840044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/ghost-audio-observed/output/state.csv,generated state/diagnostic data,93686,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/ghost-audio-observed/source.mkv,media dependency,14303277,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-aiz1/output/state.csv,generated state/diagnostic data,94926,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-aiz1/source.mkv,media dependency,9924873,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-early-brake-aiz1/output/state.csv,generated state/diagnostic data,93575,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-early-brake-aiz1/source.mkv,media dependency,7507227,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-grounded-aiz1/output/audio.wav,media dependency,3840044,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-grounded-aiz1/output/state.csv,generated state/diagnostic data,93563,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-grounded-aiz1/source.mkv,media dependency,7778905,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/out/sonic3k-chaos-mode-demo-v4.mp4,media dependency,96779395,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/out/sonic3k-chaos-mode.jar,media dependency,80855,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/ghost-audio-observed/output/frames/*.png,frame-sequence,50863359,1200
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-grounded-aiz1/output/frames/*.png,frame-sequence,48727699,1200
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/out/media-review/*.png,image-sequence-or-review-set,14637352,7
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/out/previews/*.png,image-sequence-or-review-set,702370,5
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/review/*.png,image-sequence-or-review-set,898941,11

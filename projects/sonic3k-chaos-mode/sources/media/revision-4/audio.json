@@ -1,0 +1,14 @@
+{
+  "bed": "assets/hcz2/native-hcz2.wav",
+  "bed_gain_db": 10,
+  "master_gain_db": 0,
+  "cues": [],
+  "true_peak_linear": 0.75,
+  "ghost_sfx": {
+    "file": "assets/ghosts/native-sfx.wav",
+    "provenance": "assets/ghosts/render-provenance.json"
+  },
+  "ghost_sfx_gain_db": 8,
+  "end_fade_frames": 180,
+  "level_choice": "Source bed measured -25.58 LUFS / -12.72 dBTP; fixed +10 dB retains cue-free peak headroom. Selected SFX +8 dB, with bounded final limiter; final AAC measured separately."
+}

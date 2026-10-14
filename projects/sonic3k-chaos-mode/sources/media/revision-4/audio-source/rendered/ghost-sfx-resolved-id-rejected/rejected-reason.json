@@ -1,0 +1,14 @@
+{
+  "status": "REJECTED",
+  "reason": "Replaying post-resolution SFX IDs as raw requests changes native ring-speaker toggle state.",
+  "sourceAdmission": {
+    "source_frame": 139,
+    "resolved_id": 51
+  },
+  "soundboardAdmission": {
+    "source_frame": 139,
+    "resolved_id": 52
+  },
+  "resolvedComparison": "One of61 admissions mismatched; verifier remained strict.",
+  "replacement": "Replay recorded raw requests, require identical resolved admissions."
+}

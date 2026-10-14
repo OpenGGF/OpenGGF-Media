@@ -1,0 +1,14 @@
+formatVersion: 1
+id: chaos-reel-native-audio
+name: Chaos Reel Native Audio
+version: 0.1.0
+authors:
+  - OpenGGF media
+description: ROM-native audio soundboard reused from the Slay and Flappy production workflow.
+engineApiRange: ">=0.7.0 <0.8.0"
+type: patch
+baseGame: s3k
+entrypoint: promoaudio.AudioMod
+dependencies: []
+audioOverrides: {}
+artOverrides: {}

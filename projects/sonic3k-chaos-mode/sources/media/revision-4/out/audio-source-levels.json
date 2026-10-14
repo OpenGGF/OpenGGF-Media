@@ -1,0 +1,27 @@
+{
+  "bed": {
+    "input_i": "-25.58",
+    "input_tp": "-12.72",
+    "input_lra": "1.60",
+    "input_thresh": "-35.59",
+    "output_i": "-13.80",
+    "output_tp": "-1.50",
+    "output_lra": "1.30",
+    "output_thresh": "-23.81",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.20"
+  },
+  "selected_ghost_sfx": {
+    "input_i": "-22.77",
+    "input_tp": "-13.72",
+    "input_lra": "2.70",
+    "input_thresh": "-33.47",
+    "output_i": "-10.75",
+    "output_tp": "-1.90",
+    "output_lra": "3.60",
+    "output_thresh": "-21.49",
+    "normalization_type": "dynamic",
+    "target_offset": "-3.25"
+  },
+  "purpose": "Source measurement only; mixer gains and final AAC are verified separately."
+}

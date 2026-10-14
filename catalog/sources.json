@@ -53598,5 +53598,618 @@
     "bytes": 7128,
     "sha256": "38cdfc02d5b2c24bdf1d6af001fe457dfdfe14c66194585c81edf424a858acac",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/PLAN.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/PLAN.md",
+    "bytes": 2703,
+    "sha256": "f1d86bdb021d4bea83f2d29158a2c106e5ca4fc1f87afb0595c54f11e610b404",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/README.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/README.md",
+    "bytes": 6506,
+    "sha256": "990497d4524de0a954eae6be6ce5f99c2c77fdf8487ddc9cab4299484675f0d9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/SHOT_REVIEW.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/SHOT_REVIEW.md",
+    "bytes": 2871,
+    "sha256": "fb7c36e78380fbca939dde719307ecac3cc7f0a1f758b4c8eba129e3c086c8ca",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/assemble.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/assemble.py",
+    "bytes": 39204,
+    "sha256": "6e85e3d162f931100171266d641ceb49d28fc24969c6f63f11f133bdb5833efc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/assets/ghosts/accepted-events.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/assets/ghosts/accepted-events.json",
+    "bytes": 13827,
+    "sha256": "a4756e7ab14c75b45235e2b7b1c73a2dc821341e62c793ab7d14820db338450d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/assets/ghosts/render-provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/assets/ghosts/render-provenance.json",
+    "bytes": 20361,
+    "sha256": "a1116fdcd05106b8c260f8e493a955be01096be921a7bbf9d68468a4ee7eef6b",
+    "snapshot": "path-normalized-json",
+    "original_sha256": "9cc771b0c4975af725253497164e1e20e05c137afd5fc35421f094943bceda64",
+    "normalization": {
+      "${CHAOS_MEDIA_ROOT}": "/home/farrell/scratch/sonic3k-chaos-demo-20261014",
+      "${CHAOS_WORKTREE}": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-chaos-reel-v4",
+      "${S3K_ROM}": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+      "${MAVEN_REPOSITORY}": "/home/farrell/.m2/repository"
+    }
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/assets/ghosts/sfx-observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/assets/ghosts/sfx-observed.json",
+    "bytes": 50600,
+    "sha256": "fb58b02e71fdc4a029eeda27805dfdcfc777fdb8c95765821b7f2f5aef683914",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/assets/hcz2/dac-observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/assets/hcz2/dac-observed.json",
+    "bytes": 513,
+    "sha256": "fcf7118fc2e2ed84a26af51c9daff2929b3a8dcf68590e6b2b2f234621565e9e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/assets/hcz2/music-observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/assets/hcz2/music-observed.json",
+    "bytes": 512,
+    "sha256": "c18e7ec89b6b227e5b3834a9847ff4e021f59f2a6cd0d3024323c7238150898e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/assets/hcz2/muted-observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/assets/hcz2/muted-observed.json",
+    "bytes": 514,
+    "sha256": "851e6671727d833b22420910118e2df4fd1b61d237814eab74ec800fced51f10",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/assets/hcz2/render-provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/assets/hcz2/render-provenance.json",
+    "bytes": 34630,
+    "sha256": "7962a15a277de0ae0c314aedeeeda46a795b7de9268e42416e934033629f5359",
+    "snapshot": "path-normalized-json",
+    "original_sha256": "c1af2dd61a0a8138e634cb1c248774e5849c05231927ee16eb21b2b7439bf345",
+    "normalization": {
+      "${CHAOS_MEDIA_ROOT}": "/home/farrell/scratch/sonic3k-chaos-demo-20261014",
+      "${CHAOS_WORKTREE}": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-chaos-reel-v4",
+      "${S3K_ROM}": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+      "${MAVEN_REPOSITORY}": "/home/farrell/.m2/repository"
+    }
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/NativeAudioCapture.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/NativeAudioCapture.java",
+    "bytes": 17582,
+    "sha256": "bde4337aba96dcec2a1193a5eaf753c87ceb760eff68d01ab3c15c8cb55a3b40",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/README.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/README.md",
+    "bytes": 3529,
+    "sha256": "260df43a6ac851b248b1b9cc56bce4074c449cd5406ab147e7f5052737d1a05c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/ghost-sfx/src/main/java/promoaudio/AudioMod.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/ghost-sfx/src/main/java/promoaudio/AudioMod.java",
+    "bytes": 346,
+    "sha256": "cfea07e80041e937d87f82c8f421e8f66d76434a26690235c1c552e253827399",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/ghost-sfx/src/main/java/promoaudio/SoundboardScene.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/ghost-sfx/src/main/java/promoaudio/SoundboardScene.java",
+    "bytes": 1347,
+    "sha256": "32e67139c8cc9e375df5418b0f200a1037bb8011359c95a5145832659159e16e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/ghost-sfx/src/main/resources/META-INF/openggf-mod.yaml",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/ghost-sfx/src/main/resources/META-INF/openggf-mod.yaml",
+    "bytes": 355,
+    "sha256": "b1d60b7b0350f0d479696091e6f843dfa56e7d483a68515a5cdc5637eb8efa2e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/ghost-sfx-resolved-id-rejected/src/main/java/promoaudio/AudioMod.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/ghost-sfx-resolved-id-rejected/src/main/java/promoaudio/AudioMod.java",
+    "bytes": 346,
+    "sha256": "cfea07e80041e937d87f82c8f421e8f66d76434a26690235c1c552e253827399",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/ghost-sfx-resolved-id-rejected/src/main/java/promoaudio/SoundboardScene.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/ghost-sfx-resolved-id-rejected/src/main/java/promoaudio/SoundboardScene.java",
+    "bytes": 1347,
+    "sha256": "0cf8d91d0dfa2039f14b44f336339e8a510045b4696f686520da9d08af0c80bb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/ghost-sfx-resolved-id-rejected/src/main/resources/META-INF/openggf-mod.yaml",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/ghost-sfx-resolved-id-rejected/src/main/resources/META-INF/openggf-mod.yaml",
+    "bytes": 355,
+    "sha256": "b1d60b7b0350f0d479696091e6f843dfa56e7d483a68515a5cdc5637eb8efa2e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/hcz2/src/main/java/promoaudio/AudioMod.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/hcz2/src/main/java/promoaudio/AudioMod.java",
+    "bytes": 346,
+    "sha256": "cfea07e80041e937d87f82c8f421e8f66d76434a26690235c1c552e253827399",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/hcz2/src/main/java/promoaudio/SoundboardScene.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/hcz2/src/main/java/promoaudio/SoundboardScene.java",
+    "bytes": 857,
+    "sha256": "af268a385b5c2a182c9d2ab677e0d887ff182682bab29d94755fe3ab9fd642d1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/generated/hcz2/src/main/resources/META-INF/openggf-mod.yaml",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/generated/hcz2/src/main/resources/META-INF/openggf-mod.yaml",
+    "bytes": 355,
+    "sha256": "b1d60b7b0350f0d479696091e6f843dfa56e7d483a68515a5cdc5637eb8efa2e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/rendered/all-muted/observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/rendered/all-muted/observed.json",
+    "bytes": 513,
+    "sha256": "8b2c574a8cdd7dce30555f1052b9a03a40223fc8790282fa95b2bbd645eab097",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/rendered/dac-only/observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/rendered/dac-only/observed.json",
+    "bytes": 512,
+    "sha256": "cdcd99b06b726aca17b5ba8148a2cd34dd9692d3f06b6d8c018f38303148aae9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/rendered/ghost-sfx/observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/rendered/ghost-sfx/observed.json",
+    "bytes": 47435,
+    "sha256": "3cc9d846dc2cd94d3cd2b427612d4457f143e067547428005064e55d8fcd7fe0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/rendered/ghost-sfx-resolved-id-rejected/observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/rendered/ghost-sfx-resolved-id-rejected/observed.json",
+    "bytes": 47435,
+    "sha256": "bb46bcd053372324defd92829085ac6d91f7bf01c66f7c2f6ef05686beb115dd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/rendered/ghost-sfx-resolved-id-rejected/rejected-reason.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/rendered/ghost-sfx-resolved-id-rejected/rejected-reason.json",
+    "bytes": 462,
+    "sha256": "e9b8e1e2289e64b130a93c5f91521ba0131bde52807b93c1df97441916f7b7a8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/rendered/ghost-sfx-resolved-id-rejected/resolved-events-rejected.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/rendered/ghost-sfx-resolved-id-rejected/resolved-events-rejected.json",
+    "bytes": 8679,
+    "sha256": "54b31885411fcd6b7eb82f17a635b547533aef1916c59a8a8cbff04c18f4c266",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/rendered/hcz2/NativeAudioCapture.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/rendered/hcz2/NativeAudioCapture.java",
+    "bytes": 17507,
+    "sha256": "b4e8c3b5965b90d6c051957df962b830765a0b6ad976af67d42145a49866bf96",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/rendered/hcz2/observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/rendered/hcz2/observed.json",
+    "bytes": 511,
+    "sha256": "a3525281638a02281b1e0fcd76dcfff4a7881c43e3ea0599687bd0dc0b84b8f6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/templates/AudioMod.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/templates/AudioMod.java",
+    "bytes": 346,
+    "sha256": "cfea07e80041e937d87f82c8f421e8f66d76434a26690235c1c552e253827399",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/templates/SoundboardScene.java.in",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/templates/SoundboardScene.java.in",
+    "bytes": 876,
+    "sha256": "847c325a37395a6e7f5b7bc6c53885cd26ed4ad161418cda6bc9518cde23ebfb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio-source/templates/openggf-mod.yaml",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio-source/templates/openggf-mod.yaml",
+    "bytes": 355,
+    "sha256": "b1d60b7b0350f0d479696091e6f843dfa56e7d483a68515a5cdc5637eb8efa2e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/audio.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/audio.json",
+    "bytes": 496,
+    "sha256": "3fdca453e21c283f190790c04dc59e5d88a669279ba492a1d8bd360cd5d4aa1f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/build_package.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/build_package.py",
+    "bytes": 2753,
+    "sha256": "4c71710c948f125a652bec9054873ed8e37b3818b4edef46b8b5331ce5895428",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/capture.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/capture.py",
+    "bytes": 6102,
+    "sha256": "8391337eec8f816cbef46b0360994d80ed1ef1c908b68e446bd591e678ecc813",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/ghost-audio-observed/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/ghost-audio-observed/input.script",
+    "bytes": 22,
+    "sha256": "8ea6a5de6ce5d351e490ce47f49f6fe1cccf0b38c01bacc463f7c037f0bd329f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/ghost-audio-observed/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/ghost-audio-observed/input.txt",
+    "bytes": 24137,
+    "sha256": "17e68cb130f1c0bbc832a4dfdb527d2805d3ce569b331a734515323b593565e2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/ghost-audio-observed/output/observed.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/ghost-audio-observed/output/observed.json",
+    "bytes": 47463,
+    "sha256": "74b5e5aa4efa1621e1e40214e373357cce98a11290ae8e3cfa7d40fe388e96cd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/ghost-audio-observed/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/ghost-audio-observed/provenance.json",
+    "bytes": 19815,
+    "sha256": "da4b99a82dea82d88e86490c3ca660d994e05f30f713b3334e7eda3ed4e5c705",
+    "snapshot": "path-normalized-json",
+    "original_sha256": "1c7c1b39a1fdf091c64b3a90c190b40ea38a1cbda64cbb508635638c30339e24",
+    "normalization": {
+      "${CHAOS_MEDIA_ROOT}": "/home/farrell/scratch/sonic3k-chaos-demo-20261014",
+      "${CHAOS_WORKTREE}": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-chaos-reel-v4",
+      "${S3K_ROM}": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+      "${MAVEN_REPOSITORY}": "/home/farrell/.m2/repository"
+    }
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/ghost-audio-observed/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/ghost-audio-observed/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 92,
+    "sha256": "272edc901672cbe56175142f28d80b297cbad052555ddd4f23f10d720495da60",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-aiz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-aiz1/input.script",
+    "bytes": 39,
+    "sha256": "5e88fc05b3b162b8b0731ac5302ef9b936b010f0f658f21a6071455a2f3deb2e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-aiz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-aiz1/input.txt",
+    "bytes": 24137,
+    "sha256": "72a96bd6192b55ff15e69f1a0f95665fc909f62db2f7daab1cf415782d977794",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-aiz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-aiz1/provenance.json",
+    "bytes": 17966,
+    "sha256": "8e50f4071db2d224b7df7f7512013b9945c6f6ff5d23252e83bf39526fa6c1d4",
+    "snapshot": "path-normalized-json",
+    "original_sha256": "72eea0a9404dbc1a560c440115199799a43f654ec2ca82ae42d9871662049968",
+    "normalization": {
+      "${CHAOS_MEDIA_ROOT}": "/home/farrell/scratch/sonic3k-chaos-demo-20261014",
+      "${CHAOS_WORKTREE}": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-chaos-reel-v4",
+      "${S3K_ROM}": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+      "${MAVEN_REPOSITORY}": "/home/farrell/.m2/repository"
+    }
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-aiz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-aiz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 91,
+    "sha256": "87cc10ee57de23a9644576ac4e1e8c0ea655982fa4dd50edfc7cf3b6b4672ac8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-early-brake-aiz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-early-brake-aiz1/input.script",
+    "bytes": 26,
+    "sha256": "d31bf3543fb104b52377d076a796c2bddba005c65d0d416321106251cb9b1b38",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-early-brake-aiz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-early-brake-aiz1/input.txt",
+    "bytes": 24137,
+    "sha256": "3a0cc17ac1f09cec6b4612ca04aa6ec72698dd0e2da41e33b903dc0662b40179",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-early-brake-aiz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-early-brake-aiz1/provenance.json",
+    "bytes": 18113,
+    "sha256": "69c71572cb88af503f17bdc9b3a79c08925db3d740a7124dd95f24dcef85cca5",
+    "snapshot": "path-normalized-json",
+    "original_sha256": "71f5d6398a5ecae9b3650456164199cd0128ccbd429fbc2da580494c7f03790d",
+    "normalization": {
+      "${CHAOS_MEDIA_ROOT}": "/home/farrell/scratch/sonic3k-chaos-demo-20261014",
+      "${CHAOS_WORKTREE}": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-chaos-reel-v4",
+      "${S3K_ROM}": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+      "${MAVEN_REPOSITORY}": "/home/farrell/.m2/repository"
+    }
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-early-brake-aiz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-early-brake-aiz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 91,
+    "sha256": "87cc10ee57de23a9644576ac4e1e8c0ea655982fa4dd50edfc7cf3b6b4672ac8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-grounded-aiz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-grounded-aiz1/input.script",
+    "bytes": 26,
+    "sha256": "b5717c65c070605c8676c2ad0607fc728a6be09bf23dc82b4dd9de7d3f506053",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-grounded-aiz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-grounded-aiz1/input.txt",
+    "bytes": 24137,
+    "sha256": "7dc5249ce7a30230a0204f1b64955d9162eb632081bd36dec1427a40a9604e26",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-grounded-aiz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-grounded-aiz1/provenance.json",
+    "bytes": 18050,
+    "sha256": "0bbd0fe1eefbca4da441de098eb1564baf1c548ee4daa35bd4b88b2648ef2882",
+    "snapshot": "path-normalized-json",
+    "original_sha256": "5f6642ab02dd9cec5826cce3679a2e7e5e8c38458e6758a929c67fddf11ba130",
+    "normalization": {
+      "${CHAOS_MEDIA_ROOT}": "/home/farrell/scratch/sonic3k-chaos-demo-20261014",
+      "${CHAOS_WORKTREE}": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-chaos-reel-v4",
+      "${S3K_ROM}": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+      "${MAVEN_REPOSITORY}": "/home/farrell/.m2/repository"
+    }
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures/repellent-grounded-aiz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures/repellent-grounded-aiz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 91,
+    "sha256": "87cc10ee57de23a9644576ac4e1e8c0ea655982fa4dd50edfc7cf3b6b4672ac8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/captures.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/captures.json",
+    "bytes": 972,
+    "sha256": "f08f173340a5e209df9fd6e9835d5e86f3b52499983d08b018df4612a00d17f0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/cards.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/cards.json",
+    "bytes": 9482,
+    "sha256": "bf91daca955dbee97c73bc58d982d4414cae4a305ea3c42b03c7dc123afe8ef6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/lossless-source-checks.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/lossless-source-checks.json",
+    "bytes": 801,
+    "sha256": "465b555aac5c5452489e227fc981b449a3942f9ecb69da1a2baf2327edfd311d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/measure_audio.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/measure_audio.py",
+    "bytes": 1735,
+    "sha256": "c241339a87c79dc40682c4fcaf313c017dc12b850a21837c4a41ceb1327ecc25",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/out/audio-mix.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/out/audio-mix.json",
+    "bytes": 22255,
+    "sha256": "d5626020b86bd315c7368fbd5b937bfee947d80774c507b08cba7bac5f88777d",
+    "snapshot": "path-normalized-json",
+    "original_sha256": "f251fb2b11c5f7d1b80282678ec4633c95c15960e40c10265a29685edfdcdbdb",
+    "normalization": {
+      "${CHAOS_MEDIA_ROOT}": "/home/farrell/scratch/sonic3k-chaos-demo-20261014",
+      "${CHAOS_WORKTREE}": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-chaos-reel-v4",
+      "${S3K_ROM}": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+      "${MAVEN_REPOSITORY}": "/home/farrell/.m2/repository"
+    }
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/out/audio-source-levels.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/out/audio-source-levels.json",
+    "bytes": 704,
+    "sha256": "d023f274b8fd1ff8b8f01d073b5c66dd93cd7cc4ffb223a6b09660eae1a82610",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/out/chapters.csv",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/out/chapters.csv",
+    "bytes": 2704,
+    "sha256": "5559aefafcebb3a3741f9ccf8eead240469c7dba2a2dcc4cb05d8ad538aa2925",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/out/edit-timeline.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/out/edit-timeline.json",
+    "bytes": 22723,
+    "sha256": "1e463c01da23c1d8b10f03f2692077b6e147c679b9193c90e44e8f0880a2aa6a",
+    "snapshot": "path-normalized-json",
+    "original_sha256": "c87337ef6c38045bd61eba4408a3cf001558ad46eb56cd302c9b5c0b85b61200",
+    "normalization": {
+      "${CHAOS_MEDIA_ROOT}": "/home/farrell/scratch/sonic3k-chaos-demo-20261014"
+    }
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/out/media-review/summary.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/out/media-review/summary.json",
+    "bytes": 6565,
+    "sha256": "72ec27191adf437aa6f5b618a0ba68c5f204ddee56dd537eac83396c5e8a321a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/out/mod-package.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/out/mod-package.json",
+    "bytes": 241,
+    "sha256": "dc9d5aca15925e171dfaade514c804eab43b7dc449dd2b451d50012f249afbd9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/render_audio.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/render_audio.py",
+    "bytes": 17984,
+    "sha256": "a205ecaf25987b4509fc9fbe0924023568f4721281b4de0085cc64063b164b83",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/review/repellent-early-brake-review.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/review/repellent-early-brake-review.md",
+    "bytes": 4247,
+    "sha256": "a954f89f0c25ccd6b597f0ae700174871844778c439e89a17bfea9358c0be48f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/review/repellent-grounded-review.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/review/repellent-grounded-review.md",
+    "bytes": 1841,
+    "sha256": "17f0c529d82a8e03d1a9c43a5a79066b8b73aebd04f33d33d35a4e812de7d885",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/review/source-review-ring-repulsion.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/review/source-review-ring-repulsion.json",
+    "bytes": 393,
+    "sha256": "3b5d3d500168564c1613775a99403348281c778b5637259d8a7d03424bc4dc5d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/review_sources.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/review_sources.py",
+    "bytes": 6382,
+    "sha256": "86c18269cd9814c26ab4353f0bdbe16ef8fa28a27fd95e522e1f449105244206",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/verify.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/verify.py",
+    "bytes": 11053,
+    "sha256": "57845ba438e710bc82a0e73f47f9c6904b64d659f42509fdc8c5deb6f84dccf0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-4/verify_audio.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-4/verify_audio.py",
+    "bytes": 9204,
+    "sha256": "3161a30acd04f1fe08225452fdd77b10d118d6f2cc1dfbe9a64050fcc82f7eb4",
+    "snapshot": "byte-copy"
   }
 ]

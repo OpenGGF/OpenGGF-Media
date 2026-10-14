@@ -1,0 +1,20 @@
+{
+  "source_frames" : 180,
+  "sample_rate" : 48000,
+  "frame_rate" : 60,
+  "samples_per_presentation" : 800,
+  "output_projection" : "dac-only",
+  "dac_enable_2b80_writes" : 22,
+  "dac_disable_2b00_writes" : 0,
+  "native_streamed_2a_writes" : 25532,
+  "native_streamed_2a_distinct_values" : 247,
+  "music_present_service_snapshots" : 0,
+  "events" : [ {
+    "source_frame" : -1,
+    "order" : 0,
+    "kind" : "request",
+    "request_class" : "MUSIC",
+    "requested_id" : 4
+  } ],
+  "driver_admitted_sfx" : [ ]
+}

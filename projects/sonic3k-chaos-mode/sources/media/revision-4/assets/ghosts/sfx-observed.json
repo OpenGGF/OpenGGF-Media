@@ -1,0 +1,2212 @@
+{
+  "source_frames": 1200,
+  "sample_rate": 48000,
+  "frame_rate": 60,
+  "samples_per_presentation": 800,
+  "output_projection": "full",
+  "dac_enable_2b80_writes": 0,
+  "dac_disable_2b00_writes": 0,
+  "native_streamed_2a_writes": 0,
+  "native_streamed_2a_distinct_values": 0,
+  "music_present_service_snapshots": 0,
+  "events": [
+    {
+      "source_frame": 124,
+      "order": 0,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 51
+    },
+    {
+      "source_frame": 124,
+      "order": 1,
+      "kind": "request-admission",
+      "requested_id": 52,
+      "resolved_id": 52,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 124,
+      "order": 2,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 52,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 0,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 139,
+      "order": 3,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 51
+    },
+    {
+      "source_frame": 139,
+      "order": 4,
+      "kind": "request-admission",
+      "requested_id": 51,
+      "resolved_id": 51,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 139,
+      "order": 5,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 51,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 1,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 601,
+      "order": 6,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 146
+    },
+    {
+      "source_frame": 601,
+      "order": 7,
+      "kind": "request-admission",
+      "requested_id": 146,
+      "resolved_id": 146,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 601,
+      "order": 8,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 2,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 650,
+      "order": 9,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 98
+    },
+    {
+      "source_frame": 650,
+      "order": 10,
+      "kind": "request-admission",
+      "requested_id": 98,
+      "resolved_id": 98,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 650,
+      "order": 11,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 98,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 3,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 665,
+      "order": 12,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 146
+    },
+    {
+      "source_frame": 665,
+      "order": 13,
+      "kind": "request-admission",
+      "requested_id": 146,
+      "resolved_id": 146,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 665,
+      "order": 14,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 4,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 729,
+      "order": 15,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 146
+    },
+    {
+      "source_frame": 729,
+      "order": 16,
+      "kind": "request-admission",
+      "requested_id": 146,
+      "resolved_id": 146,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 729,
+      "order": 17,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 5,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 748,
+      "order": 18,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 185
+    },
+    {
+      "source_frame": 748,
+      "order": 19,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 53
+    },
+    {
+      "source_frame": 748,
+      "order": 20,
+      "kind": "request-admission",
+      "requested_id": 185,
+      "resolved_id": 185,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 748,
+      "order": 21,
+      "kind": "request-admission",
+      "requested_id": 53,
+      "resolved_id": 53,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 748,
+      "order": 22,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 185,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 6,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 748,
+      "order": 23,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 53,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 7,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 767,
+      "order": 24,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 138
+    },
+    {
+      "source_frame": 767,
+      "order": 25,
+      "kind": "request-admission",
+      "requested_id": 138,
+      "resolved_id": 138,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 767,
+      "order": 26,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 138,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 8,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 776,
+      "order": 27,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 776,
+      "order": 28,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 776,
+      "order": 29,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 9,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 784,
+      "order": 30,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 784,
+      "order": 31,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 784,
+      "order": 32,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 10,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 792,
+      "order": 33,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 792,
+      "order": 34,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 792,
+      "order": 35,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 11,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 800,
+      "order": 36,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 800,
+      "order": 37,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 800,
+      "order": 38,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 12,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 808,
+      "order": 39,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 808,
+      "order": 40,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 808,
+      "order": 41,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 13,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 816,
+      "order": 42,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 816,
+      "order": 43,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 816,
+      "order": 44,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 14,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 824,
+      "order": 45,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 824,
+      "order": 46,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 824,
+      "order": 47,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 15,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 832,
+      "order": 48,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 832,
+      "order": 49,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 832,
+      "order": 50,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 16,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 840,
+      "order": 51,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 840,
+      "order": 52,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 840,
+      "order": 53,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 17,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 848,
+      "order": 54,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 848,
+      "order": 55,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 848,
+      "order": 56,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 18,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 856,
+      "order": 57,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 856,
+      "order": 58,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 856,
+      "order": 59,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 856,
+      "order": 60,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 856,
+      "order": 61,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 19,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 856,
+      "order": 62,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 20,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 873,
+      "order": 63,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 138
+    },
+    {
+      "source_frame": 873,
+      "order": 64,
+      "kind": "request-admission",
+      "requested_id": 138,
+      "resolved_id": 138,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 873,
+      "order": 65,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 138,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 21,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 896,
+      "order": 66,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 896,
+      "order": 67,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 896,
+      "order": 68,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 896,
+      "order": 69,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 896,
+      "order": 70,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 22,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 896,
+      "order": 71,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 23,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 904,
+      "order": 72,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 904,
+      "order": 73,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 904,
+      "order": 74,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 904,
+      "order": 75,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 904,
+      "order": 76,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 24,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 904,
+      "order": 77,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 25,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 912,
+      "order": 78,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 912,
+      "order": 79,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 912,
+      "order": 80,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 912,
+      "order": 81,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 912,
+      "order": 82,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 26,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 912,
+      "order": 83,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 27,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 919,
+      "order": 84,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 146
+    },
+    {
+      "source_frame": 919,
+      "order": 85,
+      "kind": "request-admission",
+      "requested_id": 146,
+      "resolved_id": 146,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 919,
+      "order": 86,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 28,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 920,
+      "order": 87,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 920,
+      "order": 88,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 920,
+      "order": 89,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 920,
+      "order": 90,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 920,
+      "order": 91,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 29,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 920,
+      "order": 92,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 30,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 928,
+      "order": 93,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 928,
+      "order": 94,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 928,
+      "order": 95,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 928,
+      "order": 96,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 928,
+      "order": 97,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 31,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 928,
+      "order": 98,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 32,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 936,
+      "order": 99,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 936,
+      "order": 100,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 936,
+      "order": 101,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 936,
+      "order": 102,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 936,
+      "order": 103,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 33,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 936,
+      "order": 104,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 34,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 944,
+      "order": 105,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 944,
+      "order": 106,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 944,
+      "order": 107,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 944,
+      "order": 108,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 944,
+      "order": 109,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 35,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 944,
+      "order": 110,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 36,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 952,
+      "order": 111,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 952,
+      "order": 112,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 952,
+      "order": 113,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 952,
+      "order": 114,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 952,
+      "order": 115,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 37,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 952,
+      "order": 116,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 38,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 960,
+      "order": 117,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 960,
+      "order": 118,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 960,
+      "order": 119,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 960,
+      "order": 120,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 960,
+      "order": 121,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 39,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 960,
+      "order": 122,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 40,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 968,
+      "order": 123,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 968,
+      "order": 124,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 968,
+      "order": 125,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 968,
+      "order": 126,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 968,
+      "order": 127,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 41,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 968,
+      "order": 128,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 42,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 976,
+      "order": 129,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 976,
+      "order": 130,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 976,
+      "order": 131,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 976,
+      "order": 132,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 976,
+      "order": 133,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 43,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 976,
+      "order": 134,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 44,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 981,
+      "order": 135,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 51
+    },
+    {
+      "source_frame": 981,
+      "order": 136,
+      "kind": "request-admission",
+      "requested_id": 52,
+      "resolved_id": 52,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 981,
+      "order": 137,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 52,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 45,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 983,
+      "order": 138,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 146
+    },
+    {
+      "source_frame": 983,
+      "order": 139,
+      "kind": "request-admission",
+      "requested_id": 146,
+      "resolved_id": 146,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 983,
+      "order": 140,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 46,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 984,
+      "order": 141,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 984,
+      "order": 142,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 984,
+      "order": 143,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 984,
+      "order": 144,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 984,
+      "order": 145,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 47,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 984,
+      "order": 146,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 48,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 989,
+      "order": 147,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 51
+    },
+    {
+      "source_frame": 989,
+      "order": 148,
+      "kind": "request-admission",
+      "requested_id": 51,
+      "resolved_id": 51,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 989,
+      "order": 149,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 51,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 49,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 996,
+      "order": 150,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 51
+    },
+    {
+      "source_frame": 996,
+      "order": 151,
+      "kind": "request-admission",
+      "requested_id": 52,
+      "resolved_id": 52,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 996,
+      "order": 152,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 52,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 50,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1024,
+      "order": 153,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 1024,
+      "order": 154,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 1024,
+      "order": 155,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1024,
+      "order": 156,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1024,
+      "order": 157,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 51,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1024,
+      "order": 158,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 52,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1032,
+      "order": 159,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 1032,
+      "order": 160,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1032,
+      "order": 161,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 53,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1040,
+      "order": 162,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 1040,
+      "order": 163,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1040,
+      "order": 164,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 54,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1047,
+      "order": 165,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 146
+    },
+    {
+      "source_frame": 1047,
+      "order": 166,
+      "kind": "request-admission",
+      "requested_id": 146,
+      "resolved_id": 146,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1047,
+      "order": 167,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 55,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1048,
+      "order": 168,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 168
+    },
+    {
+      "source_frame": 1048,
+      "order": 169,
+      "kind": "request-admission",
+      "requested_id": 168,
+      "resolved_id": 168,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1048,
+      "order": 170,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 56,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1076,
+      "order": 171,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 162
+    },
+    {
+      "source_frame": 1076,
+      "order": 172,
+      "kind": "request-admission",
+      "requested_id": 162,
+      "resolved_id": 162,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1076,
+      "order": 173,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 162,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 57,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1111,
+      "order": 174,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 146
+    },
+    {
+      "source_frame": 1111,
+      "order": 175,
+      "kind": "request-admission",
+      "requested_id": 146,
+      "resolved_id": 146,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1111,
+      "order": 176,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 58,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1168,
+      "order": 177,
+      "kind": "request",
+      "request_class": "SPECIAL_SFX",
+      "requested_id": 217
+    },
+    {
+      "source_frame": 1168,
+      "order": 178,
+      "kind": "request-admission",
+      "requested_id": 217,
+      "resolved_id": 217,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1168,
+      "order": 179,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 217,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 59,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1175,
+      "order": 180,
+      "kind": "request",
+      "request_class": "SFX",
+      "requested_id": 146
+    },
+    {
+      "source_frame": 1175,
+      "order": 181,
+      "kind": "request-admission",
+      "requested_id": 146,
+      "resolved_id": 146,
+      "accepted": true,
+      "reason": "NONE"
+    },
+    {
+      "source_frame": 1175,
+      "order": 182,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 60,
+      "special_sfx": false,
+      "accepted": true
+    }
+  ],
+  "driver_admitted_sfx": [
+    {
+      "source_frame": 124,
+      "order": 2,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 52,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 0,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 139,
+      "order": 5,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 51,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 1,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 601,
+      "order": 8,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 2,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 650,
+      "order": 11,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 98,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 3,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 665,
+      "order": 14,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 4,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 729,
+      "order": 17,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 5,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 748,
+      "order": 22,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 185,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 6,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 748,
+      "order": 23,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 53,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 7,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 767,
+      "order": 26,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 138,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 8,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 776,
+      "order": 29,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 9,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 784,
+      "order": 32,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 10,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 792,
+      "order": 35,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 11,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 800,
+      "order": 38,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 12,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 808,
+      "order": 41,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 13,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 816,
+      "order": 44,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 14,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 824,
+      "order": 47,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 15,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 832,
+      "order": 50,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 16,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 840,
+      "order": 53,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 17,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 848,
+      "order": 56,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 18,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 856,
+      "order": 61,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 19,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 856,
+      "order": 62,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 20,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 873,
+      "order": 65,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 138,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 21,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 896,
+      "order": 70,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 22,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 896,
+      "order": 71,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 23,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 904,
+      "order": 76,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 24,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 904,
+      "order": 77,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 25,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 912,
+      "order": 82,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 26,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 912,
+      "order": 83,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 27,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 919,
+      "order": 86,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 28,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 920,
+      "order": 91,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 29,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 920,
+      "order": 92,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 30,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 928,
+      "order": 97,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 31,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 928,
+      "order": 98,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 32,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 936,
+      "order": 103,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 33,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 936,
+      "order": 104,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 34,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 944,
+      "order": 109,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 35,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 944,
+      "order": 110,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 36,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 952,
+      "order": 115,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 37,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 952,
+      "order": 116,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 38,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 960,
+      "order": 121,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 39,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 960,
+      "order": 122,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 40,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 968,
+      "order": 127,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 41,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 968,
+      "order": 128,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 42,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 976,
+      "order": 133,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 43,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 976,
+      "order": 134,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 44,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 981,
+      "order": 137,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 52,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 45,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 983,
+      "order": 140,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 46,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 984,
+      "order": 145,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 47,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 984,
+      "order": 146,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 48,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 989,
+      "order": 149,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 51,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 49,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 996,
+      "order": 152,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 52,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 50,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1024,
+      "order": 157,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 51,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1024,
+      "order": 158,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 52,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1032,
+      "order": 161,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 53,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1040,
+      "order": 164,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 54,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1047,
+      "order": 167,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 55,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1048,
+      "order": 170,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 168,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 56,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1076,
+      "order": 173,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 162,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 57,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1111,
+      "order": 176,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 58,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1168,
+      "order": 179,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 217,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 59,
+      "special_sfx": false,
+      "accepted": true
+    },
+    {
+      "source_frame": 1175,
+      "order": 182,
+      "kind": "driver-admitted-sfx",
+      "resolved_id": 146,
+      "descriptor_kind": "BASE_SFX_ID",
+      "admission_ordinal": 60,
+      "special_sfx": false,
+      "accepted": true
+    }
+  ]
+}

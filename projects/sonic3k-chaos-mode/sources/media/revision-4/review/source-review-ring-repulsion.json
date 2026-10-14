@@ -1,0 +1,24 @@
+[
+  {
+    "effect": "ring-repulsion",
+    "zone": "ANGEL ISLAND / ACT 1",
+    "source": "captures/repellent-early-brake-aiz1/source.mkv",
+    "in_frame": 786,
+    "out_frame": 1068,
+    "source_frames": 1200,
+    "death_frames": [],
+    "sample_frames": [
+      798,
+      927,
+      1055
+    ],
+    "x_range": [
+      5762,
+      5798
+    ],
+    "rings_range": [
+      0,
+      0
+    ]
+  }
+]

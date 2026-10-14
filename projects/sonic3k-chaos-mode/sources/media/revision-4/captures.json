@@ -1,0 +1,29 @@
+[
+  {
+    "name": "repellent-aiz1",
+    "effect": "ring-repulsion",
+    "zone": "aiz",
+    "act": 1,
+    "script": "600 -; repeat 6 { 1 R+A; 59 R }; 240 -",
+    "frames": 1200,
+    "setup": "Native AIZ1 direct level; same ordinary ring approach as attraction capture, no position/ring/world writes"
+  },
+  {
+    "name": "repellent-grounded-aiz1",
+    "effect": "ring-repulsion",
+    "zone": "aiz",
+    "act": 1,
+    "script": "600 -; 210 R; 16 L; 374 -",
+    "frames": 1200,
+    "setup": "Native AIZ1 direct level; grounded Right approach followed by Left braking and neutral hold; no position/ring/world writes"
+  },
+  {
+    "name": "repellent-early-brake-aiz1",
+    "effect": "ring-repulsion",
+    "zone": "aiz",
+    "act": 1,
+    "script": "600 -; 188 R; 16 L; 396 -",
+    "frames": 1200,
+    "setup": "Native AIZ1 direct level; earlier grounded Right approach followed by Left braking and neutral hold beside the first ring group; no position/ring/world writes"
+  }
+]

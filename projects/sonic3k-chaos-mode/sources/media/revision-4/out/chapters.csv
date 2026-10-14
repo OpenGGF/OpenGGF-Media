@@ -1,0 +1,21 @@
+index,effect,label,zone,source,in_frame,out_frame,output_start_frame,output_end_frame,clip_output_start_frame,qualified
+0,rainbow-player,Disco Sonic,CARNIVAL NIGHT ZONE - ACT 1,../revision-3/captures/rainbow-cnz1/source.mkv,600,822,240,480,258,True
+1,afterimages,Too Many Sonics,MARBLE GARDEN ZONE - ACT 2,../revision-3/captures/afterimages-mgz2/source.mkv,600,882,480,780,498,True
+2,pulse-head,Throbbing Heads,LAUNCH BASE ZONE - ACT 2,../revision-3/captures/heads-lbz2/source.mkv,600,822,780,1020,798,True
+3,hud-orbit,Orbiting HUD,HYDROCITY ZONE - ACT 2,../revision-3/captures/hudorbit-hcz2/source.mkv,600,822,1020,1260,1038,True
+4,blueprint-zone,Blueprint Zone,LAVA REEF ZONE - ACT 2,../revision-3/captures/blueprint-lrz2/source.mkv,600,822,1260,1500,1278,True
+5,gravity-hiccup,Gravity Hiccup,SANDOPOLIS ZONE - ACT 1,../revision-3/captures/gravity-soz1/source.mkv,600,882,1500,1800,1518,True
+6,ice-shoes,Ice Shoes,ICE CAP ZONE - ACT 2,../revision-3/captures/ice-icz2/source.mkv,600,882,1800,2100,1818,True
+7,giant-badniks,Big Trouble,ANGEL ISLAND ZONE - ACT 1,../revision-2/captures/giant/source.mkv,600,822,2100,2340,2118,True
+8,windy-day,Windy Day,FLYING BATTERY ZONE - ACT 1,../revision-3/captures/wind-fbz1/source.mkv,585,867,2340,2640,2358,True
+9,flash-flood,Flash Flood,MUSHROOM HILL ZONE - ACT 1,../revision-3/captures/flood-mhz1/source.mkv,600,882,2640,2940,2658,True
+10,rescue-buddy,Rescue Buddy,SKY SANCTUARY ZONE - ACT 1,../revision-3/captures/buddy-ssz1/source.mkv,600,882,2940,3240,2958,True
+11,upside-down-view,Australian Sonic,DEATH EGG ZONE - ACT 1,../revision-3/captures/upsidedown-dez1/source.mkv,600,822,3240,3480,3258,True
+12,ring-repulsion,Ring Repellent,ANGEL ISLAND ZONE - ACT 1,captures/repellent-early-brake-aiz1/source.mkv,770,992,3480,3720,3498,True
+13,ring-rain,It's Raining Rings,ICE CAP ZONE - ACT 2,../revision-3/captures/rain-icz2/source.mkv,600,882,3720,4020,3738,True
+14,wrong-zone-scenery,Wrong-Zone Scenery,ANGEL ISLAND ZONE - ACT 1,../captures/scenery/source.mkv,600,882,4020,4320,4038,True
+15,bumper-ahead,Bumper Ahead!,CARNIVAL NIGHT ZONE - ACT 1,../revision-3/captures/bumper-cnz1/source.mkv,585,867,4320,4620,4338,True
+16,projectile-overdrive,Badnik Overdrive,ANGEL ISLAND ZONE - ACT 1,../captures/overdrive/source.mkv,600,882,4620,4920,4638,True
+17,ring-leak,Leaky Pockets,ICE CAP ZONE - ACT 2,../revision-3/captures/leak-icz2/source.mkv,600,942,4920,5280,4938,True
+18,monitor-breakout,Monitor Breakout,ANGEL ISLAND ZONE - ACT 1,../revision-2/captures/breakout/source.mkv,612,954,5280,5640,5298,True
+19,soz-ghost-party,Sandopolis Ghost Party,DEATH EGG ZONE - ACT 1,../revision-3/captures/ghosts-dez1/source.mkv,552,894,5640,6000,5658,True

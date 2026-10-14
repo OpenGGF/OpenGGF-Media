@@ -1,0 +1,13 @@
+# Chaos gallery revision 4
+
+User correction, 2026-10-14: retain a coherent HCZ soundtrack with native DAC percussion; do not fade into the ghost source’s DEZ music. Show distinct representative effects, omit minigames and related challenge/chat spoilers, and replace the attraction demonstration with existing ring repulsion. The mod pool stays unchanged.
+
+The edit uses 20 selected effects across 12 zones, with 19 previously qualified masters and one fresh ordinary AIZ1 Ring Repellent capture. All earlier revisions and sources are preserved. Retained source intervals keep their entry qualifications; this is a curated demonstration, not a continuous completion.
+
+Keep one stationary page, one large moving labelled card and accumulated frozen thumbnails. The right wall uses three columns by seven rows, half-native 200×112 pictures in 204×144 cells, and a final quiet pool-count cell. Preserve native cadence and gentle 18-frame stationary dissolves.
+
+Borrow the production audio route from Slay the Robotnik and Flappy Tails: scene audio through the normal AudioManager, S3K profile and driver session. Their old assets are comparison references, not DAC proof. Typing supplies the established ROM-lettering/plate style; Mutator Lab’s restrained revised mixing informs the consistent bed. Do not invent ghost charge/death sounds or splice unrelated zone music.
+
+The previous renderer used FmSfxRenderTool’s legacy physical policy and direct stream read. Source inspection found that this bypasses the normal queued-DAC enable service for S3K. Revision 3 also deliberately ducked HCZ and retained entire mixed DEZ PCM. The fresh ordinary scene-audio render now proves queued native DAC enablement and nonconstant DAC output, with an all-muted control. The isolated ghost soundboard preserves captured raw requests and matches all 61 ordered resolved admissions; native ring stereo translation is retained. Final AAC mixing and waveform continuity remain to be checked.
+
+The clearer ordinary early-brake AIZ1 capture shows rings rising and moving away while Sonic brakes, with zero inventory changes. Its TTY retry passed the full lossless RGB/PCM comparison after two pre-admission interruptions; those earlier requests proved nothing. The completed 106-second export passed full decoding, every-frame cadence, 22 chapters, source intervals and loudness. Actual encoded HCZ waveform correlation exceeds 0.9998 before, during and after ghosts at the same gain. Root has inspected all actual moving/cut/bookend pages. Independent review of all seven actual decoded pages passed with no blockers. Public production-source publication is recorded separately; prior revisions remain unchanged.
