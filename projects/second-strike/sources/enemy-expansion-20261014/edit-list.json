@@ -1,0 +1,38 @@
+[
+  {
+    "act": 1,
+    "route_order": 1,
+    "title": "FASTER. LONGER. ARMORED.",
+    "source": "captures/guard/frames/%05d.png",
+    "source_start_seconds": 0.25,
+    "source_end_seconds": 4.75,
+    "output_start_seconds": 0,
+    "output_end_seconds": 4.5,
+    "source_start_frame": 15,
+    "source_end_frame_exclusive": 285
+  },
+  {
+    "act": 1,
+    "route_order": 2,
+    "title": "WIDER SPRAY. LESS ROOM.",
+    "source": "captures/plant/frames/%05d.png",
+    "source_start_seconds": 0.25,
+    "source_end_seconds": 3.75,
+    "output_start_seconds": 4.5,
+    "output_end_seconds": 8.0,
+    "source_start_frame": 15,
+    "source_end_frame_exclusive": 225
+  },
+  {
+    "act": 1,
+    "route_order": 3,
+    "title": "DOUBLE-LENGTH CATERKILLERS",
+    "source": "captures/caterkiller/frames/%05d.png",
+    "source_start_seconds": 1.0,
+    "source_end_seconds": 6.0,
+    "output_start_seconds": 8.0,
+    "output_end_seconds": 13.0,
+    "source_start_frame": 60,
+    "source_end_frame_exclusive": 360
+  }
+]

@@ -14225,3 +14225,17 @@ sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/captures/repellent-ground
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/out/media-review/*.png,image-sequence-or-review-set,14637352,7
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/out/previews/*.png,image-sequence-or-review-set,702370,5
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-4/review/*.png,image-sequence-or-review-set,898941,11
+second-strike,second-strike/media,second-strike-changes.mp4,media dependency,32706609,1
+second-strike,second-strike/media,music/music.wav,media dependency,2880044,1
+second-strike,second-strike/media,captures/guard/audio.wav,media dependency,1152044,1
+second-strike,second-strike/media,captures/guard/state.csv,generated state/diagnostic data,29666,1
+second-strike,second-strike/media,captures/guard/objects.csv,generated state/diagnostic data,8905,1
+second-strike,second-strike/media,captures/guard/frames/*.png,frame-sequence,14499952,360
+second-strike,second-strike/media,captures/plant/audio.wav,media dependency,1152044,1
+second-strike,second-strike/media,captures/plant/state.csv,generated state/diagnostic data,29638,1
+second-strike,second-strike/media,captures/plant/objects.csv,generated state/diagnostic data,96562,1
+second-strike,second-strike/media,captures/plant/frames/*.png,frame-sequence,26754563,360
+second-strike,second-strike/media,captures/caterkiller/audio.wav,media dependency,1152044,1
+second-strike,second-strike/media,captures/caterkiller/state.csv,generated state/diagnostic data,29221,1
+second-strike,second-strike/media,captures/caterkiller/objects.csv,generated state/diagnostic data,191795,1
+second-strike,second-strike/media,captures/caterkiller/frames/*.png,frame-sequence,29188156,360

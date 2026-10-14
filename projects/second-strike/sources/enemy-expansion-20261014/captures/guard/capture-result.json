@@ -1,0 +1,21 @@
+{
+  "name": "guard",
+  "exit_code": 0,
+  "command": [
+    "java",
+    "--enable-native-access=ALL-UNNAMED",
+    "-Dopenggf.headless.gl=surfaceless-egl",
+    "-cp",
+    "/home/farrell/code/projects/OpenGGF/target/OpenGGF-0.7.prerelease-jar-with-dependencies.jar",
+    "/home/farrell/scratch/agent-tmp/codex/second-strike-enemy-expansion-20261014/short-reel-20261014/ReelCapture.java",
+    "guard",
+    "/home/farrell/scratch/agent-tmp/codex/second-strike-enemy-expansion-20261014/short-reel-20261014/captures/guard",
+    "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+    "/home/farrell/code/projects/OpenGGF/target/bundled/second-strike-0.1.0.jar"
+  ],
+  "desktop_unset": true,
+  "artifact_sha256": {
+    "/home/farrell/code/projects/OpenGGF/target/OpenGGF-0.7.prerelease-jar-with-dependencies.jar": "fad75320bf72a6de6fb84c7a8443afc08838d4bef54972103414d8e746271267",
+    "/home/farrell/code/projects/OpenGGF/target/bundled/second-strike-0.1.0.jar": "ed7e49565aeba7e860cd514098e1ac9a2e3d868571c209e5e8b0b9efb2c66077"
+  }
+}

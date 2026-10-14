@@ -1,0 +1,4 @@
+act,route_order,title,source,source_start_seconds,source_end_seconds,output_start_seconds,output_end_seconds,source_start_frame,source_end_frame_exclusive
+1,1,FASTER. LONGER. ARMORED.,captures/guard/frames/%05d.png,0.25,4.75,0,4.5,15,285
+1,2,WIDER SPRAY. LESS ROOM.,captures/plant/frames/%05d.png,0.25,3.75,4.5,8.0,15,225
+1,3,DOUBLE-LENGTH CATERKILLERS,captures/caterkiller/frames/%05d.png,1.0,6.0,8.0,13.0,60,360

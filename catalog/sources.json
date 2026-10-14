@@ -54211,5 +54211,221 @@
     "bytes": 9204,
     "sha256": "3161a30acd04f1fe08225452fdd77b10d118d6f2cc1dfbe9a64050fcc82f7eb4",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/README.md",
+    "root": "second-strike/media",
+    "original_path": "README.md",
+    "bytes": 4096,
+    "sha256": "de40a7b0418d3e9192ccf60906943e84f1edaa6ec8bde21e4a7642ea6fc892a2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/ReelCapture.java",
+    "root": "second-strike/media",
+    "original_path": "ReelCapture.java",
+    "bytes": 4175,
+    "sha256": "7e750b069a1fd2ca0f507c69643c41b1c4fcf35472b87567a61b78049394fa95",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/ReelMusic.java",
+    "root": "second-strike/media",
+    "original_path": "ReelMusic.java",
+    "bytes": 1664,
+    "sha256": "1104a99ff42a4878cb26d29e1c20bb324f65e80e0c3ea8fbf2143b9a8bf45657",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/capture_shots.py",
+    "root": "second-strike/media",
+    "original_path": "capture_shots.py",
+    "bytes": 2606,
+    "sha256": "d3ee59969f7f6548aa4a2570924c6cfb81b96781bab3fc2235be744b5c1801ab",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/capture_music.py",
+    "root": "second-strike/media",
+    "original_path": "capture_music.py",
+    "bytes": 1986,
+    "sha256": "661927d74db49c41ff1297187d022b29c5ffeb55f9cea383c97a04b6db333b16",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/assemble.py",
+    "root": "second-strike/media",
+    "original_path": "assemble.py",
+    "bytes": 6378,
+    "sha256": "49704ac057ed464644b3abac361b152edd2334ff2f879eee34f5807063932321",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/provenance.json",
+    "root": "second-strike/media",
+    "original_path": "provenance.json",
+    "bytes": 4486,
+    "sha256": "9631d2075654921f1ae038dd8b115f856d1b89dd158dbd570a2eb64fde2b75f4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/edit-list.json",
+    "root": "second-strike/media",
+    "original_path": "edit-list.json",
+    "bytes": 1003,
+    "sha256": "2d16a583f7d7972971be2b243d0fb89c60dff0f65f2959420531e18d4a145511",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/edit-list.csv",
+    "root": "second-strike/media",
+    "original_path": "edit-list.csv",
+    "bytes": 418,
+    "sha256": "456fb540557d52504b4c7e546293d6d4b76ac34f4037e32d9cc8d89f35202474",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/chapters.json",
+    "root": "second-strike/media",
+    "original_path": "chapters.json",
+    "bytes": 326,
+    "sha256": "374845eae89937d6e4e394db89b606f628af9a38ff3b88796eac233326d4c525",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/chapters.ffmeta",
+    "root": "second-strike/media",
+    "original_path": "chapters.ffmeta",
+    "bytes": 351,
+    "sha256": "fe3713adbc6dfc566ca15a201a6330d331c76000baba51061032d7506927814f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/encode-verification.json",
+    "root": "second-strike/media",
+    "original_path": "encode-verification.json",
+    "bytes": 356,
+    "sha256": "1d6f0b012e0e0a911fb8f7d4070ae9375be25618473fdbda21165a50319878eb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/guard/input.script",
+    "root": "second-strike/media",
+    "original_path": "captures/guard/input.script",
+    "bytes": 18,
+    "sha256": "4d14a3d26823d48a43d65a8a7c9a0704d88b4abd39c990df12b1f775ba3c15bc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/guard/input.bk2",
+    "root": "second-strike/media",
+    "original_path": "captures/guard/input.bk2",
+    "bytes": 535,
+    "sha256": "4f06d5ebb522a0870d18c46c2a77cfc412906def9c4d14bab0ce07f4bb0cfd33",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/guard/setup.txt",
+    "root": "second-strike/media",
+    "original_path": "captures/guard/setup.txt",
+    "bytes": 377,
+    "sha256": "bcbe6ee636bc48c5c4f30d4d134850b15b8bd5597b9a0c89cb1eb1ae947458b0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/guard/capture-result.json",
+    "root": "second-strike/media",
+    "original_path": "captures/guard/capture-result.json",
+    "bytes": 1056,
+    "sha256": "01d3911e9e659e0b9ab7d225d937acd1ac292825a57fb843ed838a25c9ae844e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/plant/input.script",
+    "root": "second-strike/media",
+    "original_path": "captures/plant/input.script",
+    "bytes": 18,
+    "sha256": "4d14a3d26823d48a43d65a8a7c9a0704d88b4abd39c990df12b1f775ba3c15bc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/plant/input.bk2",
+    "root": "second-strike/media",
+    "original_path": "captures/plant/input.bk2",
+    "bytes": 535,
+    "sha256": "481c9c383ba731c81ca34c0df0014823ec36519b5b00be9dde1e992039cf7c34",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/plant/setup.txt",
+    "root": "second-strike/media",
+    "original_path": "captures/plant/setup.txt",
+    "bytes": 377,
+    "sha256": "af49cd10be26a3843a69cb0d824b4a56c8820c691fd8e8659d65da08f7d4b846",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/plant/capture-result.json",
+    "root": "second-strike/media",
+    "original_path": "captures/plant/capture-result.json",
+    "bytes": 1056,
+    "sha256": "43d40e3338fc5171d283bcab6e6a3b0a17b54f21b3cedb44add8371c4520f82b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/caterkiller/input.script",
+    "root": "second-strike/media",
+    "original_path": "captures/caterkiller/input.script",
+    "bytes": 6,
+    "sha256": "c340d916bd09d90af476199066378bab11d52c65548b8003b940812f43516168",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/caterkiller/input.bk2",
+    "root": "second-strike/media",
+    "original_path": "captures/caterkiller/input.bk2",
+    "bytes": 529,
+    "sha256": "2e50b50dbfd54e639881303e0c0f27cf1db30cfbd39a839f71bdf5b86a75f11a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/caterkiller/setup.txt",
+    "root": "second-strike/media",
+    "original_path": "captures/caterkiller/setup.txt",
+    "bytes": 494,
+    "sha256": "0a1cb8b3fb2109ee012f12b41bf347eaaff4e67abf1fd97257aaa8c6c8245433",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/captures/caterkiller/capture-result.json",
+    "root": "second-strike/media",
+    "original_path": "captures/caterkiller/capture-result.json",
+    "bytes": 1074,
+    "sha256": "be73dc553b7a529a92d4237bf1c4097d749a48ae844b28bbcfa9210ff2c957cc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/music/capture-result.json",
+    "root": "second-strike/media",
+    "original_path": "music/capture-result.json",
+    "bytes": 730,
+    "sha256": "ef6cb6f24da2962245f05c94158cb96c74faac88fb54897558e54a17027b14f3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/delivery-review.json",
+    "root": "second-strike/media",
+    "original_path": "delivery-review.json",
+    "bytes": 2848,
+    "sha256": "ead29735035e37168c6006ec3c79730932508a4f1dd01b69a9ebdfdeafa0484c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/enemy-expansion-20261014/review/review.json",
+    "root": "second-strike/media",
+    "original_path": "review/review.json",
+    "bytes": 596,
+    "sha256": "ee6ba2291b134f23fba15ad6b10c0a7f5a459c7855eb7c05eacc815b62b74020",
+    "snapshot": "byte-copy"
   }
 ]
