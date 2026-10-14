@@ -2,7 +2,7 @@
 
 Resolve SQLite snapshots are editing sources, not exported .drp files. Older source locations may no longer exist; media pool references are catalogued separately.
 
-Preserved 11 production source files; 72 external asset/sequence entries.
+Preserved 11 production source files; 75 external asset/sequence entries.
 
 This is a historical source snapshot. Original paths, source commits, input recipes, edit decisions and verification claims are retained as found. Footage, extracted ROM art/audio, generated frames, build dependencies and bulk state dumps stay external. Some scripts need their original dependencies and path changes; see [rebuilding](../../docs/rebuilding.md).
 
@@ -10,6 +10,7 @@ This is a historical source snapshot. Original paths, source commits, input reci
 
 - `media`: `~/Videos/OGGF` → external catalog only; no production source file found
 - `resolve`: `~/.local/share/DaVinciResolve/Resolve Project Library/Resolve Projects/Users/guest/Projects` → [`sources/resolve/`](sources/resolve/)
+- `website`: `~/code/projects/OpenGGF-WebZone/public/media` → external catalog only; published website copies of the three release promos
 
 ## Original plans and indexes
 
