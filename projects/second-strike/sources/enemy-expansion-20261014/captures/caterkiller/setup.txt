@@ -1,0 +1,5 @@
+Delivered engine a8221fb7d5eb48f5bb199602227ec6ab4bbbf945; 7277cef4 evidence-only successor.
+Positioned supplementary capture; native physics, normal GameLoop/input, original ROM. 60fps, stride1, native stereo PCM.
+name=caterkiller width=800 x=2180 y=830 physical_act=1 apparent_act=0
+Declared incoming rings20; no invulnerability, debug damage, object injection or trace hydration.
+Inherited fire continuation apparent_act0 is explicitly seeded before first native step; not cold-entry proof.

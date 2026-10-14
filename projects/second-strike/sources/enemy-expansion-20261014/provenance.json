@@ -1,0 +1,71 @@
+{
+  "production": "Second Strike \u2014 enemy expansion short reel",
+  "production_date": "2026-10-14",
+  "rendered_source_commit": "a8221fb7d5eb48f5bb199602227ec6ab4bbbf945",
+  "published_prose_only_successor": "7277cef4040af3ae95d86a794bce7f75a16cc483",
+  "engine_fatjar_sha256": "fad75320bf72a6de6fb84c7a8443afc08838d4bef54972103414d8e746271267",
+  "creator_jar_sha256": "ed7e49565aeba7e860cd514098e1ac9a2e3d868571c209e5e8b0b9efb2c66077",
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "capture_policy": {
+    "game": "Sonic3&Knuckles",
+    "zone": "Angel Island",
+    "main": "Sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "native_height": 224,
+    "fps": 60,
+    "png_stride": 1,
+    "backend": "surfaceless-egl",
+    "desktop_variables_unset": [
+      "DISPLAY",
+      "WAYLAND_DISPLAY"
+    ],
+    "audio_device": "null",
+    "incoming_rings": 20,
+    "entry": "positioned, supplementary native-gameplay demonstrations"
+  },
+  "shots": [
+    {
+      "name": "guard",
+      "setup": "Delivered engine a8221fb7d5eb48f5bb199602227ec6ab4bbbf945; 7277cef4 evidence-only successor.\nPositioned supplementary capture; native physics, normal GameLoop/input, original ROM. 60fps, stride1, native stereo PCM.\nname=guard width=320 x=7104 y=944 physical_act=0 apparent_act=0\nDeclared incoming rings20; no invulnerability, debug damage, object injection or trace hydration.\n",
+      "state_rows": 360,
+      "first_dead_frame": null,
+      "capture_result": "captures/guard/capture-result.json",
+      "capture_result_sha256": "01d3911e9e659e0b9ab7d225d937acd1ac292825a57fb843ed838a25c9ae844e"
+    },
+    {
+      "name": "plant",
+      "setup": "Delivered engine a8221fb7d5eb48f5bb199602227ec6ab4bbbf945; 7277cef4 evidence-only successor.\nPositioned supplementary capture; native physics, normal GameLoop/input, original ROM. 60fps, stride1, native stereo PCM.\nname=plant width=528 x=7520 y=620 physical_act=0 apparent_act=0\nDeclared incoming rings20; no invulnerability, debug damage, object injection or trace hydration.\n",
+      "state_rows": 360,
+      "first_dead_frame": 231,
+      "capture_result": "captures/plant/capture-result.json",
+      "capture_result_sha256": "43d40e3338fc5171d283bcab6e6a3b0a17b54f21b3cedb44add8371c4520f82b"
+    },
+    {
+      "name": "caterkiller",
+      "setup": "Delivered engine a8221fb7d5eb48f5bb199602227ec6ab4bbbf945; 7277cef4 evidence-only successor.\nPositioned supplementary capture; native physics, normal GameLoop/input, original ROM. 60fps, stride1, native stereo PCM.\nname=caterkiller width=800 x=2180 y=830 physical_act=1 apparent_act=0\nDeclared incoming rings20; no invulnerability, debug damage, object injection or trace hydration.\nInherited fire continuation apparent_act0 is explicitly seeded before first native step; not cold-entry proof.\n",
+      "state_rows": 360,
+      "first_dead_frame": null,
+      "capture_result": "captures/caterkiller/capture-result.json",
+      "capture_result_sha256": "be73dc553b7a529a92d4237bf1c4097d749a48ae844b28bbcfa9210ff2c957cc"
+    }
+  ],
+  "music": {
+    "source": "music/music.wav",
+    "producer": "ROM-backed production audio presentation owner; one initial ordinary gameplay step then900audio presentations, SFX stopped before stem recording",
+    "duration_seconds": 15,
+    "sample_rate": 48000,
+    "channels": 2,
+    "policy": "Single uninterrupted music-only bed; no sceneSFX layered. This is an editorial soundtrack, not evidence of synchronized effects."
+  },
+  "editorial_limits": [
+    "No cold campaign completion or native parity claim.",
+    "Caterkiller physicalAct1/apparentAct0 is declared inherited fire continuation before first native step; camera/player follow ordinary owners thereafter.",
+    "Plant shot later dies at231; reel uses15..225, all alive, as a local attack demonstration, not a completion.",
+    "Earlier31b9503d3 proof captures are not used in this delivered reel.",
+    "No shared desktop input/focus or ambient recording; no physical speaker claim."
+  ],
+  "rejected_take_decision": "Earlier Caterkiller supplementary clip dropped the extended body outside the vertical viewport after Sonic fell. Re-shot from the actual ledge x2180/y830; all12 bodies and living Sonic remain observable.",
+  "assembly": "python3 assemble.py; ffmpeg normalization to lossless segments followed by one H.264 final encode; nearest-neighbour integer3x scale, native-speed60fps, simple cuts,4chapters",
+  "output": "second-strike-changes.mp4"
+}

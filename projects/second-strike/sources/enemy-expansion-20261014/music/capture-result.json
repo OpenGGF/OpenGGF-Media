@@ -1,0 +1,17 @@
+{
+  "command": [
+    "java",
+    "--enable-native-access=ALL-UNNAMED",
+    "-Dopenggf.headless.gl=surfaceless-egl",
+    "-cp",
+    "/home/farrell/code/projects/OpenGGF/target/OpenGGF-0.7.prerelease-jar-with-dependencies.jar",
+    "/home/farrell/scratch/agent-tmp/codex/second-strike-enemy-expansion-20261014/short-reel-20261014/ReelMusic.java",
+    "/home/farrell/scratch/agent-tmp/codex/second-strike-enemy-expansion-20261014/short-reel-20261014/music",
+    "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen"
+  ],
+  "exit_code": 0,
+  "gameplay_steps": 1,
+  "audio_presentations": 900,
+  "sample_rate": 48000,
+  "audio_policy": "ROM-native music-only; stopAllSfx before advancing presentation owner"
+}

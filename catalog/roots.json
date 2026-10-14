@@ -174,5 +174,11 @@
     "id": "release-reels/website",
     "original": "~/code/projects/OpenGGF-WebZone/public/media",
     "archive": ""
+  },
+  {
+    "id": "second-strike/media",
+    "original": "~/scratch/agent-tmp/codex/second-strike-enemy-expansion-20261014/short-reel-20261014",
+    "archive": "projects/second-strike/sources/enemy-expansion-20261014",
+    "notes": "Enemy-expansion short reel and exact delivered-package capture sources, 2026-10-14. Video, native audio, frame sequences and bulk state remain external."
   }
 ]

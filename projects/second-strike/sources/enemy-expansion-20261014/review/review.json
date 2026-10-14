@@ -1,0 +1,34 @@
+{
+  "selected_output_frames": [
+    24,
+    130,
+    269,
+    270,
+    330,
+    479,
+    480,
+    600,
+    779,
+    780,
+    850
+  ],
+  "image_files": [
+    "001.png",
+    "002.png",
+    "003.png",
+    "004.png",
+    "005.png",
+    "006.png",
+    "007.png",
+    "008.png",
+    "009.png",
+    "010.png",
+    "011.png"
+  ],
+  "audio_decoded_stereo_frames": 696000,
+  "audio_peak": 17723,
+  "audio_rms": 2722.4157339190924,
+  "clipped_channel_samples": 0,
+  "caption_cut_review_pending": false,
+  "review_outcome": "Root inspected captions/feature moments and every cut; see delivery-review.json"
+}

@@ -1,0 +1,92 @@
+{
+  "reviewed_utc": "2026-10-14T19:57:28.367134+00:00",
+  "final_video_sha256": "023f29fdf05b7652c415cf93652d0bcb2b1c21545d10e857e686d783913f34a6",
+  "duration_seconds": 14.5,
+  "total_output_frames": 870,
+  "fps": 60,
+  "canvas": [
+    1600,
+    900
+  ],
+  "full_decode_exit": 0,
+  "source_temporal_check": [
+    {
+      "shot": "guard",
+      "selected_frames": 270,
+      "distinct_pngs": 246,
+      "longest_identical_frame_run": 6,
+      "native_input_frames_per_second": 60,
+      "no_speed_change": true,
+      "all_selected_rows_alive": true
+    },
+    {
+      "shot": "plant",
+      "selected_frames": 210,
+      "distinct_pngs": 210,
+      "longest_identical_frame_run": 1,
+      "native_input_frames_per_second": 60,
+      "no_speed_change": true,
+      "all_selected_rows_alive": true
+    },
+    {
+      "shot": "caterkiller",
+      "selected_frames": 300,
+      "distinct_pngs": 300,
+      "longest_identical_frame_run": 1,
+      "native_input_frames_per_second": 60,
+      "no_speed_change": true,
+      "all_selected_rows_alive": true
+    }
+  ],
+  "output_cut_checks": [
+    {
+      "seconds": 4.5,
+      "before_frame": 269,
+      "after_frame": 270,
+      "observed": "Guard to wide barrage, correct new captions; no unintended black frame"
+    },
+    {
+      "seconds": 8,
+      "before_frame": 479,
+      "after_frame": 480,
+      "observed": "Barrage to extended Caterkiller, correct native aspect/crop and setup label"
+    },
+    {
+      "seconds": 13,
+      "before_frame": 779,
+      "after_frame": 780,
+      "observed": "Moving complete Caterkiller chain to intentional1.5s endcard"
+    }
+  ],
+  "final_frame_samples_inspected": [
+    24,
+    130,
+    269,
+    270,
+    330,
+    479,
+    480,
+    600,
+    779,
+    780,
+    850
+  ],
+  "observed_visuals": [
+    "Flame dash visibly appears at opening; native recovery and second dash follow.",
+    "Wide seed fan is visible around actual plant; native ring loss/recollection occurs.",
+    "All12 Caterkiller bodies are observed in CSV, chain expands and bends across ledge; living Sonic remains on screen.",
+    "Labels are legible and remain outside gameplay; endcard text fits.",
+    "Player disappearance during native hurt flicker is not a missing sprite/capture failure."
+  ],
+  "audio": {
+    "policy": "One continuous production ROM-backed AIZ music-only stem; original sceneSFX omitted",
+    "processing": "fixed gain3,120ms fadein,650ms fadeout,0.85-full-scale safety limiter",
+    "decoded_stereo_frames": 696000,
+    "sample_rate": 48000,
+    "peak": 17723,
+    "rms": 2722.4157339190924,
+    "clipped_channel_samples": 0
+  },
+  "scope_limit": "Bounded visual cut samples plus every selected source-frame identity/cadence and complete codec decode; not native parity, cold-route completion or physical-speaker certification.",
+  "outcome": "ready for delivery"
+}

@@ -1,0 +1,12 @@
+{
+  "output": "second-strike-changes.mp4",
+  "duration_seconds": 14.5,
+  "frames": 870,
+  "width": 1600,
+  "height": 900,
+  "fps": 60,
+  "chapters": 4,
+  "full_decode_exit": 0,
+  "audio_policy": "Single continuous native AIZ music stem; scene SFX omitted, no layered audio",
+  "sha256": "023f29fdf05b7652c415cf93652d0bcb2b1c21545d10e857e686d783913f34a6"
+}
