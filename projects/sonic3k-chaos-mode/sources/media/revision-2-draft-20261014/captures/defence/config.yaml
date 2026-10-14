@@ -1,0 +1,8 @@
+configFormat: 2
+input:
+  player1:
+    a: SPACE
+    b: X
+    c: C
+discord:
+  enabled: false

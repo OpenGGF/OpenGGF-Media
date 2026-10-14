@@ -1,0 +1,11 @@
+{
+  "hostCommit": "97880ca2f662f4cd0ef24150755ad472d00f3d7a",
+  "api": "0.7.0 candidate",
+  "file": "sonic3k-chaos-mode.jar",
+  "bytes": 80855,
+  "sha256": "e5460b29643b176683ba0a62eaeeff413a24d717aed112c9e84294ae36be1d02",
+  "sdkValidation": "PASS:0findings, warnings=error",
+  "containsRomBytes": false,
+  "codeQualification": "74 focused composed tests,14classes,0failures/errors/skips; broad smoke completion is recorded separately in the engine Chaos intensity/reel plan",
+  "packagingUtc": "2026-10-14T12:00:46Z"
+}

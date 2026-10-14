@@ -1,0 +1,18 @@
+[
+  {
+    "time": 27.466666666666665,
+    "file": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/audio/ringloss.wav",
+    "gain": 0.35,
+    "reason": "Editorial ROM ring-loss emphasis on actual native leaked-ring creation/debit, not isolated source audio",
+    "source": "leak",
+    "source_frame": 690
+  },
+  {
+    "time": 29.166666666666664,
+    "file": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/audio/ring.wav",
+    "gain": 0.45,
+    "reason": "Editorial ROM ring cue on actual recollection26\u219227",
+    "source": "leak",
+    "source_frame": 792
+  }
+]

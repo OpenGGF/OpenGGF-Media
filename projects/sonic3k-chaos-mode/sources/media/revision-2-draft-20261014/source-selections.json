@@ -1,0 +1,318 @@
+{
+  "instruction": "Root approves qualified flags after actual-frame review. in values apply to arrival/default shots; recap intervals remain disjoint. Changed rain/leak/bumper/ghost MUST point to revision2 masters.",
+  "sources": {
+    "afterimages": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 11.2,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "rainbow": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.333333333333334,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "upsidedown": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "fastforward": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 11,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "slowmo": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 11,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "hudorbit": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.333333333333334,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "hudshuffle": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 9.833333333333334,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "hudscale": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.333333333333334,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "shield": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.033333333333333,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "superstar": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.033333333333333,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "blueprint": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "squashy": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "giant": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "spinning": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.333333333333334,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "tiny": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "jelly": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "breakout": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.2,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "chat": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.5,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "snake": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.05,
+      "notes": "Actual moving board only; zero score and no food/win claim."
+    },
+    "dvd": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "heads": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "bobble": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "moon": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "gravity": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "negative": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "mirror": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "wind": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "magnet": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "flood": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "scenery": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "overdrive": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "pong-play": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "stack": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "menu": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "rain": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Awaiting corrected native footage/review"
+    },
+    "leak": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Awaiting corrected native footage/review"
+    },
+    "bumper": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Awaiting corrected native footage/review",
+      "contact_frame": null
+    },
+    "ghosts": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Awaiting corrected native footage/review"
+    },
+    "ghost-close": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Awaiting corrected native footage/review"
+    },
+    "ringorbit": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 16.5,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "zoom": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 16.0,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "quake": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.1,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "defence": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 14.0,
+      "notes": "Actual lane defence board and score2\u21925 at840\u2013924; no travelling projectile/win/reward claim. Owned A/B/C keyboard binding config recorded."
+    },
+    "sonicsays": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 11.0,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "landmark": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Not selected: source does not show the required action clearly"
+    },
+    "rampage": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.1,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "buddy": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10.35,
+      "notes": "Actual Tails arrival and following; no rescue/lift claim."
+    },
+    "springlegs": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Not selected: source does not show the required action clearly"
+    },
+    "bunny": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 15.5,
+      "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
+    },
+    "blaster": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 11.15,
+      "notes": "Actual visible native beams; reviewed11.15\u201312.5."
+    },
+    "invisible": {
+      "qualified": true,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Original first-reel actual invisibility; intervals limited to10\u201313.2 before native vine control."
+    }
+  },
+  "stinger": {
+    "source": "ghost-close",
+    "in": 11,
+    "caption": "SANDOPOLIS SENDS ITS REGARDS."
+  },
+  "vineReplacement": "bunny"
+}

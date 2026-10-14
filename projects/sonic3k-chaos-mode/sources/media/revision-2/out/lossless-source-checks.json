@@ -1,0 +1,326 @@
+{
+  "afterimages": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "a25c5232f09b8976b51b397dd4adc7fdb9b8f6d7afb6b9fe54e98c8176752465",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "15161c523435c7821da84b5ffcda0d93b96a628d64c6c233e393dfcec4463f32"
+  },
+  "blaster": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "673ae15b8ad380d36ca5a4d59f18e971fb67981a21d795890633e840f6aa3b3e",
+    "pcmSha256": "4c58e647599f34457eb35af7c7ffab4efe467a886db1150def02c1fee132cecf",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "9cd080540aaedbd94b31f1566cfc12ec8b69b759cc5d62c5f327758f0bb10199"
+  },
+  "blueprint": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "aeee1294f2865d9805cbe2628e41fae27be4540fed10a1cfbd40ee44e25c0442",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "a79868277aabcee3b3758fa01d02caf05d50f3e454b9750d1038b763cd829a25"
+  },
+  "breakout": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "e95bf7f895cc5f529ada06bf9464c7b73fa28cc5e218a7b89fb64c29ee85d951",
+    "pcmSha256": "550557faf2a20a4d25ede950aa46ad5c713fb1b6856045ea822406fcfe2d6cc1",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "c1d1eae67b617dde4ef0f5b6f5955d7823f815031973be28606e1ff16884b598"
+  },
+  "buddy": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "50de3f5989e8443c3e0979a7c71731affee43d42dda0cffd9a885b3968332c76",
+    "pcmSha256": "958bbaf122ae17666045a9c6cb8dfaabd98ad4f768719237e3bf8231ed96e899",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "9c2f9c58c4e2816dfa6a2f7674b409ec378dd1de884649a277af7dc47d6a413b"
+  },
+  "bumper": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "704fbae30d5f689a1ad02cd6d09d18f510dd8b4d438a35da4ef1307b5ceae669",
+    "pcmSha256": "b78ac68281ff12ed2afa6c300b82dceb26360a4c9df9063379b6e4da5d83e071",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "5dfdaa174268425778125c8a8e80ab447f6b68d9913a1188f7e798540f5f79db"
+  },
+  "bunny": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "d14f60592d9eb094aa25a9f01480d53dc647c5cbd3bddafcdb55c5844be7fe75",
+    "pcmSha256": "c8370720295e82ff534cd866528c674fa5b03caf035bcb63c26f2420ebcb1078",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "b7957ee778cb10d5940acec512f81392838b5f50c6c2c6914512e0b1fa289caa"
+  },
+  "chat": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "b81be6715af237ca5d08eb026e65ce546011a91f2f924cbb7dbb01e8953f1c77",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "e80a3991fb0ca2424c5721209837c710cf662d5959001c3cf01a03488495f99b"
+  },
+  "defence": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "1ecc2cbbc8641ee4c5fa2bec521a953e41c4d91ff5ca0439eb53bfc66a8139fc",
+    "pcmSha256": "9d133b5ec1dff72e80db1976900570b11cbe2bd0b51f96399a816df4d6ab5c1f",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "0cf65f5823e2acb2548b71714ef6ac1d7d0364d972c13644b80a74846544f0d3"
+  },
+  "fastforward": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "8f57b59daf5bddcded3b3f5144dbd2bf72173c529c850a8fcd1b1072616775b3",
+    "pcmSha256": "c37ff7a084991c301ee529e33d8c754131e71cc35da0cfab74e7f69691a51c0f",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "fe2fdbc90845f6d6c110f05d714775ac721892a48cea2bd8858821f566a06099"
+  },
+  "ghost-close": {
+    "frames": 901,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "539847f9ded33014c3737dbde6bfa15cc0eea8907775fe69fb1034b33702d3e3",
+    "pcmSha256": "2dd65b9230ecb58de104c1fe516910f3b89139c61da058db8678de5e77f26fc7",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "66f084b0c6cdcb8edb97b315ed43084251954e3a438eba3c5945ca537be5084c"
+  },
+  "ghosts": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "b7789479f9a37486b26337ced71fe645c5cc584145b900fdccc1dbe26729f08e",
+    "pcmSha256": "22bab9a7ae47809040f7572cd7203785958366baedb93c45b5db4ce298777500",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "0fca29c47de5c6f5bbb7871cab3a22c3430367ef267de78432df94744440e331"
+  },
+  "giant": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "2ac1fe5dabb29b8bcc5c1e7e81b1f8f5270f19b1e07abf70a58bb1d0752f10a0",
+    "pcmSha256": "4f712318aa7dc6aae42888865f21b9dbdb173007aa62f6ccace2383a982dbca9",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "a6bec67ba028c408c1a5516379a968cba01554353a9721a72605ce525a7ee7f9"
+  },
+  "hudorbit": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "45187de2cd151d223a6fd9541fb602120ebb2ba61c5bb20507095fe2ed3abfbe",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "e8a8b1fe3ab6551676a3be466bf7c9f762e4672b305870240e7e88d7f38181cf"
+  },
+  "hudscale": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "4266089f3d298cb66f1dbb0c167eb0ca6c5608435e7f7c480ae2cadf34719145",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "96909328a384a6900736831c60aee327431bccc675a0a16dd7b15d99c3fdea9c"
+  },
+  "hudshuffle": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "58b4fb682a549b84bd106b1a525f666818458063589c4d3c16c1876877e0123c",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "6fd9ed26fbdf1825914f21f9405cd56d24f5c15a99a53409af4ef91493474888"
+  },
+  "jelly": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "6138d19467de6abb4f8f5d7e40f02664258129d1dd8e6c69cad1bf0d9d8f7d8f",
+    "pcmSha256": "4f712318aa7dc6aae42888865f21b9dbdb173007aa62f6ccace2383a982dbca9",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "aaf11127b6859b0e4f085b83fe93e86593a67beae2220889f10cf714f305f3c5"
+  },
+  "landmark": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "33deb00f28d47cbe279c028a5dcefad6d6f49acace58d9b0e17d6148c9606b3a",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "0b595db73d254ad6b2dfe15e0b0b00d4e744dc48ca2fd18c375447a21dea59e3"
+  },
+  "leak": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "0300bd1fee80981f66e76730e57a0b8b610720433de1fdbb196403c958ce38bd",
+    "pcmSha256": "da7871925fd2b7665e04ba5bea4d7f70c2fa3cc6c24067e7aacf0f3bba5c1d34",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "3a42a153be924c6f777953e6c75d36996fc11ca6b5bbb96662f578b45a7bb067"
+  },
+  "quake": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "d021ee6d97500aad9c6becc93c7556a279018db77c10a365127a3209f7bddeaf",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "4c1d7b7176d7bff1c333444de36b511318cf744e2bb58ef01e49afd068b9288d"
+  },
+  "rain": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "a7552520b97b289a16e2e609ea9aab2f7ea36811b2729cee2cdef560433ba9e4",
+    "pcmSha256": "a0ecdbc990f27aac5028a94438bb934c1cc9dce834d9a847b2cff7c56f3009e3",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "acb32086c6ee92ca23a5027c8f04026521e72a112ec1b6dbc258a8a65e251269"
+  },
+  "rainbow": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "3e1ab8dcc99fe9d2b518708e1c2b2a149f5fcbaf406a71f447f0bf75f945629e",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "f24408ab14ee77d7a600b787bf11a202708891df98b81c0030ea6c66de36558d"
+  },
+  "rampage": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "5541f55f36e3105439530f2842e359f4973f7d8c5e7055895c433fb698568900",
+    "pcmSha256": "78aa73c614e7bef452b19b5b5051297ce2e672257cfa497f180a822df6fa82ed",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "502867efbdbf22a002aeb9fe5440cf108f9609dbda91e83c55071d81ec7b0054"
+  },
+  "ringorbit": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "0c85d129ffc5faa992fb954dd23fb303a9335e5c5e4539614b14d1e47f79195b",
+    "pcmSha256": "846b8cc4b8660943b23f82391cde3d7d258abf33178f916f8376e35b5b6d20b1",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "72440a45c772be4aeab54874b41f3099fa57be9902d3ea5bbc1b005c84f6422c"
+  },
+  "shield": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "7638537f0e32c86d2f3b460cb930b9b03b918a0d83199aeab055d55ea97cf2ea",
+    "pcmSha256": "ae7d936890749c254d2685393d2b5c5a17111ae46239f123db9a88268ea76398",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "db7022dcedd7ac78d21bc1c4474eaab007c3cd1c5f8c6862acd2a79ed747f178"
+  },
+  "slowmo": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "d5e0e05d01836208c9bd9ad143aa36cf9e3971cb459bb327ea3a1d281bd8c8bc",
+    "pcmSha256": "fafffcb5dbde9f631b6ab7efd3e13c4899dedd2cc2eb23e419f817ff4cfba24f",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "c2b1d13a5ee4da8bb0c8833fc758881c4b0d91d1d0d3fa3fbc44587e60bd2ad0"
+  },
+  "snake": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "3adf878e147729ecf545b6e41f9396ebfdb8c252737f36ae437c6664860aba8f",
+    "pcmSha256": "7dda38d04d8d0631ed366a38c1f5167de5512e626fa02bc0f5afe8d87d4f6239",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "f8cc775e61ddeb88f5c035f097607ef47c2895508e3da5d0716a1c650d08de10"
+  },
+  "sonicsays": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "b8636a7fa6e837ca5b7a387ac5d903d135c04b448c318b5def8502475c432d82",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "6afeb1cfd06ac12a21bd994a24920525ad13f861d41bf7f0855ec3662870fb58"
+  },
+  "spinning": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "03465d885617944a6cdbd32e50206c20ad466ebd290b26ecd9e4f159b727fcf3",
+    "pcmSha256": "4f712318aa7dc6aae42888865f21b9dbdb173007aa62f6ccace2383a982dbca9",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "167e96d9bac906f317d4329d03dc20b4050278770497c738602464acff3d501c"
+  },
+  "springlegs": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "763479492245a6ad108d71cf96bdf26bec944bdcb4eb918bc2145732f3c3a4ca",
+    "pcmSha256": "987ea66c0661a644825ff6af4bdd5a562b9ae2a9bb1affd5b431ef8cc11409b2",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "6f05312cf792a5edca22aaf982c06b3f8d18603d39fc7bf6b1b5f29cb86131b8"
+  },
+  "squashy": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "1c44ebe6aa217e11b55305e10baeb57aba6e01649f4d1bdfde47e57a83889ddf",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "3c54243fe511a86fbc89e8104f56f40500acebdd63101819ca3f6d2cad0395e6"
+  },
+  "superstar": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "18da0e9dab720b37bc8b393dffe84931eaf505074c7588e8010b273e05b9ac4e",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "296100dfbd0d38921456cb370d6ee8d31f8ddc4710b1cad566698112cd82d771"
+  },
+  "tiny": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "c54a35ddab9c2a990aec8385f3959a7abd7b5d62a46a132b3972b311298dcada",
+    "pcmSha256": "4f712318aa7dc6aae42888865f21b9dbdb173007aa62f6ccace2383a982dbca9",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "e5a922d281b5d082212df42b0d61dcba16c0aefa4c3dd962d4b3441155fb52fe"
+  },
+  "upsidedown": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "43ddc506c614d9c400404c5663a2323325093ce9b0939909ab3e1d22bc65405b",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "0cf4d272455d67568d74d1d190ad99d0ee094b02db98bca1a2f30799001c0cea"
+  },
+  "vine": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "1670411ac5df4ffa55fb0fa62da862b8b9c237676febcb5c49c1e0279c5c9e1d",
+    "pcmSha256": "9f0d1cdc12175bdde7aa61c90f9c09040b5dc3af1769a1aef6b189907db4c251",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "cecda15b9d562ee1b29aa0dd813c820e099b99027b00691f35df958d864d29a0"
+  },
+  "zoom": {
+    "frames": 1080,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "c7c1fa8d0186150e7847ed54e896c7411861c78df45953d46d4e26311d27a06c",
+    "pcmSha256": "858dd1dffb46eaaf52b98cda0db48c30ffd6fa7be0c91935d8ee6fb5a408d007",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "5bf8ca7db1cd02d7775d6f302d72206219a954813bd1a3ed2bf6af21a2b2e84c"
+  }
+}

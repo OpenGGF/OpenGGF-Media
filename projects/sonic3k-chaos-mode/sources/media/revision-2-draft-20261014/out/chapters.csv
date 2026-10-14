@@ -1,0 +1,73 @@
+act,route_order,title,output_start_seconds,output_end_seconds,source,source_start_seconds,source_end_seconds,qualified
+0 cold open,0,bobble,0.0,4.516666666666667,../captures/bobble/source.mkv,6.883333333333334,11.4,True
+0,1,ONE HEDGEHOG,4.516666666666667,5.233333333333333,editorial,0,0,True
+0,2,NO RULES,5.233333333333333,5.933333333333334,editorial,0,0,True
+0,3,CHAOS MODE,5.933333333333334,7.333333333333333,editorial,0,0,True
+1 player,4,afterimages,7.333333333333333,8.733333333333333,captures/afterimages/source.mkv,11.2,12.6,True
+1,5,rainbow,8.733333333333333,9.433333333333334,captures/rainbow/source.mkv,10.333333333333334,11.033333333333333,True
+1,6,heads,9.433333333333334,10.133333333333333,../captures/heads/source.mkv,15.0,15.7,True
+1,7,invisible,10.133333333333333,10.833333333333334,../captures/invisible/source.mkv,10.0,10.7,False
+1,8,negative / mirror,10.833333333333334,11.533333333333333,../captures/negative/source.mkv,10.0,10.7,True
+1,8,negative / mirror,10.833333333333334,11.533333333333333,../captures/mirror/source.mkv,10.0,10.7,True
+1,9,upsidedown,11.533333333333333,12.933333333333334,captures/upsidedown/source.mkv,10.0,11.4,True
+1,10,moon / gravity,12.933333333333334,15.75,../captures/moon/source.mkv,10.0,12.816666666666666,True
+1,10,moon / gravity,13.633333333333333,15.75,../captures/gravity/source.mkv,9.75,11.866666666666667,True
+1,11,fastforward / slowmo,15.75,17.15,captures/fastforward/source.mkv,11.0,12.4,True
+1,11,fastforward / slowmo,16.1,17.15,captures/slowmo/source.mkv,11.0,12.05,True
+1,12,dvd / hudorbit / hudshuffle / hudscale,17.15,19.95,../captures/dvd/source.mkv,9.75,12.55,True
+1,12,dvd / hudorbit / hudshuffle / hudscale,18.9,19.95,captures/hudorbit/source.mkv,10.333333333333334,11.383333333333333,True
+1,12,dvd / hudorbit / hudshuffle / hudscale,19.25,19.95,captures/hudshuffle/source.mkv,9.833333333333334,10.533333333333333,True
+1,12,dvd / hudorbit / hudshuffle / hudscale,19.599999999999998,19.95,captures/hudscale/source.mkv,10.333333333333334,10.683333333333334,True
+2 economy,13,shield,19.95,20.65,captures/shield/source.mkv,10.033333333333333,10.733333333333333,True
+2,14,superstar,20.65,21.35,captures/superstar/source.mkv,10.033333333333333,10.733333333333333,True
+2,15,bumper / wind / ghosts,21.35,22.75,,9.75,11.15,False
+2,15,bumper / wind / ghosts,21.700000000000003,22.75,../captures/wind/source.mkv,9.75,10.8,True
+2,15,bumper / wind / ghosts,22.05,22.75,,10.0,10.7,False
+2,16,rain,22.75,25.566666666666666,,10.0,12.816666666666666,False
+2,17,magnet / ringorbit,25.566666666666666,26.966666666666665,../captures/magnet/source.mkv,12.0,13.4,True
+2,17,magnet / ringorbit,25.916666666666668,26.966666666666665,captures/ringorbit/source.mkv,16.5,17.55,True
+2,18,leak,26.966666666666665,29.766666666666666,,10.0,12.8,False
+2,19,flood,29.766666666666666,31.166666666666668,../captures/flood/source.mkv,9.85,11.25,True
+3 world,20,blueprint / scenery,31.166666666666668,32.583333333333336,captures/blueprint/source.mkv,10.0,11.416666666666666,True
+3 world,20,blueprint / scenery,31.166666666666668,32.583333333333336,../captures/scenery/source.mkv,12.8,14.216666666666667,True
+3,21,squashy,32.583333333333336,33.983333333333334,captures/squashy/source.mkv,10.0,11.4,True
+3,22,overdrive / giant / spinning / tiny,33.983333333333334,38.18333333333333,../captures/overdrive/source.mkv,10.0,14.2,True
+3,22,overdrive / giant / spinning / tiny,35.733333333333334,38.18333333333333,captures/giant/source.mkv,10.0,12.45,True
+3,22,overdrive / giant / spinning / tiny,36.083333333333336,38.18333333333333,captures/spinning/source.mkv,10.333333333333334,12.433333333333334,True
+3,22,overdrive / giant / spinning / tiny,36.43333333333334,38.18333333333333,captures/tiny/source.mkv,10.0,11.75,True
+3,23,breakout,38.18333333333333,39.583333333333336,captures/breakout/source.mkv,10.2,11.6,True
+3,24,bunny,39.583333333333336,41.0,captures/bunny/source.mkv,15.5,16.916666666666668,True
+3,25,zoom / quake,41.0,42.4,captures/zoom/source.mkv,16.0,17.4,True
+3,25,zoom / quake,41.35,42.4,captures/quake/source.mkv,10.1,11.15,True
+3,26,ghosts,42.4,43.8,,11.0,12.4,False
+3 breather,27,menu,43.8,45.2,../captures/menu/source.mkv,11.1,12.5,True
+3,28,menu,45.2,48.7,../captures/menu/source.mkv,19.8,23.3,True
+4 sidegames,29,pong-play / stack / snake / defence,48.7,51.516666666666666,../captures/pong-play/source.mkv,10.0,12.816666666666666,True
+4 sidegames,29,pong-play / stack / snake / defence,49.050000000000004,51.516666666666666,../captures/stack/source.mkv,10.0,12.466666666666667,True
+4 sidegames,29,pong-play / stack / snake / defence,49.400000000000006,51.516666666666666,captures/snake/source.mkv,10.05,12.166666666666666,True
+4 sidegames,29,pong-play / stack / snake / defence,49.76666666666667,51.516666666666666,captures/defence/source.mkv,14.0,15.75,True
+4,30,chat,51.516666666666666,54.31666666666667,captures/chat/source.mkv,10.5,13.3,True
+4,31,FICTIONAL CRITICS,54.31666666666667,57.11666666666667,editorial,0,0,True
+5 crescendo,32,sonicsays,57.11666666666667,57.81666666666667,captures/sonicsays/source.mkv,11.0,11.7,True
+5 crescendo,33,blaster,57.81666666666667,58.53333333333333,captures/blaster/source.mkv,11.15,11.866666666666667,True
+5 crescendo,34,rampage,58.53333333333333,59.233333333333334,captures/rampage/source.mkv,10.1,10.8,True
+5 crescendo,35,buddy,59.233333333333334,59.93333333333333,captures/buddy/source.mkv,10.35,11.05,True
+5,36,squashy / rain,59.93333333333333,60.63333333333333,captures/squashy/source.mkv,12.0,12.7,True
+5,36,squashy / rain,59.93333333333333,60.63333333333333,,13.0,13.7,False
+5,37,rainbow / dvd,60.63333333333333,61.333333333333336,captures/rainbow/source.mkv,14.0,14.7,True
+5,37,rainbow / dvd,60.63333333333333,61.333333333333336,../captures/dvd/source.mkv,13.0,13.7,True
+5,38,superstar / moon,61.333333333333336,62.03333333333333,captures/superstar/source.mkv,14.0,14.7,True
+5,38,superstar / moon,61.333333333333336,62.03333333333333,../captures/moon/source.mkv,14.0,14.7,True
+5,39,scenery / invisible,62.03333333333333,62.733333333333334,../captures/scenery/source.mkv,14.5,15.2,True
+5,39,scenery / invisible,62.03333333333333,62.733333333333334,../captures/invisible/source.mkv,11.7,12.4,False
+5,40,blueprint / rain / overdrive / ghosts,62.733333333333334,65.53333333333333,captures/blueprint/source.mkv,13.9,16.7,True
+5,40,blueprint / rain / overdrive / ghosts,63.083333333333336,65.53333333333333,,14.5,16.95,False
+5,40,blueprint / rain / overdrive / ghosts,63.43333333333334,65.53333333333333,../captures/overdrive/source.mkv,14.3,16.4,True
+5,40,blueprint / rain / overdrive / ghosts,63.78333333333333,65.53333333333333,,13.5,15.25,False
+5,41,afterimages,65.53333333333333,68.35,captures/afterimages/source.mkv,13.0,15.816666666666666,True
+5,42,rainbow / leak / negative / overdrive,68.35,71.15,captures/rainbow/source.mkv,15.0,17.8,True
+5,42,rainbow / leak / negative / overdrive,69.05,71.15,,14.0,16.1,False
+5,42,rainbow / leak / negative / overdrive,69.75,71.15,../captures/negative/source.mkv,15.5,16.9,True
+5,42,rainbow / leak / negative / overdrive,70.44999999999999,71.15,../captures/overdrive/source.mkv,16.4,17.1,True
+end,43,CHAOS MODE,71.15,76.76666666666667,editorial,0,0,True
+stinger,44,Post-credit consequence,76.76666666666667,81.06666666666666,editorial,0,0,True

@@ -9852,203 +9852,90 @@ sonic3k-chaos-mode,sonic3k-chaos-mode/media,out/reel-contact-sheet.png,media dep
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,out/sonic3k-chaos-mode-demo-sources.zip,media dependency,284986446,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,out/sonic3k-chaos-mode-demo.mp4,media dependency,35007258,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/assets/hcz2-bed.wav,media dependency,19203244,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/afterimages/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/afterimages/output/frames,frame-sequence,45880654,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/afterimages/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/afterimages/source.mkv,media dependency,10861756,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/blaster/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/blaster/output/frames,frame-sequence,40892036,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/blaster/output/state.csv,generated state/diagnostic data,85568,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/blaster/source.mkv,media dependency,9355726,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/blueprint/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/blueprint/output/frames,frame-sequence,35763823,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/blueprint/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/blueprint/source.mkv,media dependency,9185168,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/breakout/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/breakout/output/frames,frame-sequence,41962619,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/breakout/output/state.csv,generated state/diagnostic data,85151,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/breakout/source.mkv,media dependency,8355315,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/buddy/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/buddy/output/frames,frame-sequence,41130575,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/buddy/output/state.csv,generated state/diagnostic data,89258,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/buddy/source.mkv,media dependency,9691638,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/bunny/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/bunny/output/frames,frame-sequence,41378228,1080
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/bumper/output/state.csv,generated state/diagnostic data,84747,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/bumper/source.mkv,media dependency,6775856,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/bunny/output/state.csv,generated state/diagnostic data,85730,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/bunny/source.mkv,media dependency,10909056,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/chat/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/chat/output/frames,frame-sequence,41427143,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/chat/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/chat/source.mkv,media dependency,10307235,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/defence/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/defence/output/frames,frame-sequence,39596125,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/defence/output/state.csv,generated state/diagnostic data,83264,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/defence/source.mkv,media dependency,4758227,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/fastforward/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/fastforward/output/frames,frame-sequence,41321965,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/fastforward/output/state.csv,generated state/diagnostic data,85334,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/fastforward/source.mkv,media dependency,10212164,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/giant/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/giant/output/frames,frame-sequence,58748751,1080
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/ghost-close/output/state.csv,generated state/diagnostic data,69680,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/ghost-close/source.mkv,media dependency,4858586,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/ghosts/output/state.csv,generated state/diagnostic data,85729,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/ghosts/source.mkv,media dependency,10514191,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/giant/output/state.csv,generated state/diagnostic data,82184,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/giant/source.mkv,media dependency,5062578,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudorbit/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudorbit/output/frames,frame-sequence,40766689,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudorbit/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudorbit/source.mkv,media dependency,9602722,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudscale/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudscale/output/frames,frame-sequence,40799603,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudscale/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudscale/source.mkv,media dependency,9807134,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudshuffle/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudshuffle/output/frames,frame-sequence,40850199,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudshuffle/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/hudshuffle/source.mkv,media dependency,9520293,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/jelly/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/jelly/output/frames,frame-sequence,59054480,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/jelly/output/state.csv,generated state/diagnostic data,82184,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/jelly/source.mkv,media dependency,5190365,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/landmark/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/landmark/output/frames,frame-sequence,40875572,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/landmark/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/landmark/source.mkv,media dependency,9264320,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/quake/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/quake/output/frames,frame-sequence,40657854,1080
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/leak/output/state.csv,generated state/diagnostic data,86361,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/leak/source.mkv,media dependency,9475546,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/quake/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/quake/source.mkv,media dependency,10923087,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rain/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rain/output/frames,frame-sequence,39325210,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rain/output/state.csv,generated state/diagnostic data,84102,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rain/source.mkv,media dependency,9974126,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rainbow/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rainbow/output/frames,frame-sequence,40899334,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rainbow/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rainbow/source.mkv,media dependency,9477685,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rampage/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rampage/output/frames,frame-sequence,36110775,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rampage/output/state.csv,generated state/diagnostic data,84716,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/rampage/source.mkv,media dependency,7448821,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/ringorbit/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/ringorbit/output/frames,frame-sequence,40937890,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/ringorbit/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/ringorbit/source.mkv,media dependency,9498383,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/shield/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/shield/output/frames,frame-sequence,40582857,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/shield/output/state.csv,generated state/diagnostic data,85732,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/shield/source.mkv,media dependency,8932655,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/slowmo/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/slowmo/output/frames,frame-sequence,40760549,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/slowmo/output/state.csv,generated state/diagnostic data,86086,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/slowmo/source.mkv,media dependency,7710061,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/snake/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/snake/output/frames,frame-sequence,37951545,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/snake/output/state.csv,generated state/diagnostic data,83930,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/snake/source.mkv,media dependency,5330427,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/sonicsays/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/sonicsays/output/frames,frame-sequence,41178026,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/sonicsays/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/sonicsays/source.mkv,media dependency,9650074,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/spinning/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/spinning/output/frames,frame-sequence,59202179,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/spinning/output/state.csv,generated state/diagnostic data,82184,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/spinning/source.mkv,media dependency,5779149,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/springlegs/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/springlegs/output/frames,frame-sequence,40706910,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/springlegs/output/state.csv,generated state/diagnostic data,85649,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/springlegs/source.mkv,media dependency,8995177,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/squashy/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/squashy/output/frames,frame-sequence,41643306,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/squashy/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/squashy/source.mkv,media dependency,15910441,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/superstar/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/superstar/output/frames,frame-sequence,41856726,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/superstar/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/superstar/source.mkv,media dependency,11671395,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/tiny/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/tiny/output/frames,frame-sequence,59068804,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/tiny/output/state.csv,generated state/diagnostic data,82184,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/tiny/source.mkv,media dependency,5043506,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/upsidedown/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/upsidedown/output/frames,frame-sequence,41530393,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/upsidedown/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/upsidedown/source.mkv,media dependency,9642214,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/vine/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/vine/output/frames,frame-sequence,41872537,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/vine/output/state.csv,generated state/diagnostic data,85544,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/vine/source.mkv,media dependency,9524705,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/zoom/output/audio.wav,media dependency,3456044,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/zoom/output/frames,frame-sequence,41489758,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/zoom/output/state.csv,generated state/diagnostic data,85566,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/captures/zoom/source.mkv,media dependency,14281708,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-contact-sheet.png,media dependency,1708675,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-critics.png,media dependency,40027,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-end.png,media dependency,39189,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-pair.png,media dependency,192991,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/out/media-review/*.png,image-sequence-or-review-set,53451214,50
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/out/sonic3k-chaos-mode-demo-v2-sources.zip,media dependency,553154792,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/out/sonic3k-chaos-mode-demo-v2.mp4,media dependency,72116200,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/out/sonic3k-chaos-mode.jar,media dependency,80855,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/*.png,image-sequence-or-review-set,4600458,21
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-preview.mp4,media dependency,5640779,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-quad.png,media dependency,307648,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-shrink-0.png,media dependency,83650,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-shrink-110.png,media dependency,182584,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-shrink-150.png,media dependency,249861,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-shrink-84.png,media dependency,79785,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-shrink-86.png,media dependency,123096,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-shrink-89.png,media dependency,149693,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-slice-2.png,media dependency,76264,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-slice-4.png,media dependency,92517,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/layout-triple.png,media dependency,90838,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/selection-detail.png,media dependency,265350,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/previews/source-montage.png,media dependency,406760,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/rejected-takes/defence-airborne/output/audio.wav,media dependency,3456044,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/rejected-takes/defence-airborne/output/frames,frame-sequence,36983188,1080
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/rejected-takes/defence-airborne/output/state.csv,generated state/diagnostic data,84174,1
 sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/rejected-takes/defence-airborne/source.mkv,media dependency,5613056,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/afterimages-672.png,media dependency,56083,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/afterimages-747.png,media dependency,63001,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/afterimages-792.png,media dependency,69497,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/afterimages-late.jpg,media dependency,463774,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/afterimages.jpg,media dependency,604106,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/blaster.jpg,media dependency,588753,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/blueprint.jpg,media dependency,702827,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/breakout-arrival.jpg,media dependency,780374,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/breakout.jpg,media dependency,545699,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/buddy.jpg,media dependency,587968,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/bunny-detail.jpg,media dependency,749061,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/bunny.jpg,media dependency,555836,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/chat.jpg,media dependency,588485,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/defence-fire-a.jpg,media dependency,468256,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/defence-fire-b.jpg,media dependency,466086,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/defence-replacement.jpg,media dependency,564944,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/defence.jpg,media dependency,572249,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/fastforward.jpg,media dependency,550941,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/giant.jpg,media dependency,638308,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/hudorbit.jpg,media dependency,590115,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/hudscale.jpg,media dependency,590492,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/hudshuffle.jpg,media dependency,592339,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/jelly.jpg,media dependency,640339,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/landmark.jpg,media dependency,587326,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/quake-detail.jpg,media dependency,821822,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/quake.jpg,media dependency,603991,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/rainbow.jpg,media dependency,584001,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/rampage.jpg,media dependency,583910,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/ringorbit-detail.jpg,media dependency,563732,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/ringorbit.jpg,media dependency,588720,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/shield-602.png,media dependency,36038,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/shield-arrival.jpg,media dependency,382756,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/shield.jpg,media dependency,585196,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/slowmo.jpg,media dependency,586303,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/snake-arrival.jpg,media dependency,474913,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/snake.jpg,media dependency,515072,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/sonicsays.jpg,media dependency,588008,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/spinning.jpg,media dependency,643597,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/springlegs.jpg,media dependency,535674,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/squashy.jpg,media dependency,585154,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/superstar-arrival.jpg,media dependency,393876,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/superstar.jpg,media dependency,599947,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/tiny.jpg,media dependency,640355,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/upsidedown.jpg,media dependency,581316,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/vine-640.png,media dependency,38227,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/vine.jpg,media dependency,586241,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/zoom-detail.jpg,media dependency,607909,1
-sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/zoom.jpg,media dependency,593395,1
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/*.jpg,image-sequence-or-review-set,30356532,52
+sonic3k-chaos-mode,sonic3k-chaos-mode/media,revision-2/review-shot-agent/*.png,image-sequence-or-review-set,262846,5
 soz-highlights,soz-highlights/media,authoring-20260927-knuckles-act2/boss-arrival-31375.bk2,media dependency,3701,1
 soz-highlights,soz-highlights/media,authoring-20260927-knuckles-act2/boss-seven-hits-34165.bk2,media dependency,4248,1
 soz-highlights,soz-highlights/media,authoring-20260927-knuckles-act2/cold-clear-35315.bk2,media dependency,4453,1

@@ -1,0 +1,5 @@
+{
+  "gain_db": 14.7,
+  "reason": "Measured first export−28.98LUFS/−16.20dBTP; raise whole editorial mix toward−14LUFS while retaining limiter−1.5dBFS, then remeasure AAC export",
+  "source_export_sha256": "d3766962641530b1d41f2c0fca0f2ed170ab272cc43a51952aea958946f277df"
+}

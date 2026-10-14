@@ -1,0 +1,1 @@
+Initial Defence take used A at frame600, making Sonic airborne before hold admission. No board activated. It is rejected for the reel; replacement waits through admission, then alternates A/B/C. Remove this owned raw take after replacement review, preserving the input and this decision.

@@ -1,0 +1,49 @@
+{
+  "bed": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/assets/hcz2-bed.wav",
+  "bed_end": 76.76666666666667,
+  "fade_begin": 73.95,
+  "source_audio_used": false,
+  "gain_db": 14.7,
+  "cues": [
+    {
+      "time": 4.516666666666667,
+      "file": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/audio/boom.wav",
+      "gain": 0.45,
+      "reason": "Editorial card slam"
+    },
+    {
+      "time": 5.233333333333333,
+      "file": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/audio/skid.wav",
+      "gain": 0.45,
+      "reason": "Editorial card slam"
+    },
+    {
+      "time": 5.933333333333334,
+      "file": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/audio/dash.wav",
+      "gain": 0.45,
+      "reason": "Editorial card slam"
+    },
+    {
+      "time": 79.76666666666667,
+      "file": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/audio/death.wav",
+      "gain": 0.65,
+      "reason": "Native visible death, ROM cue placed editorially"
+    },
+    {
+      "time": 27.466666666666665,
+      "file": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/audio/ringloss.wav",
+      "gain": 0.35,
+      "reason": "Editorial ROM ring-loss emphasis on actual native leaked-ring creation/debit, not isolated source audio",
+      "source": "leak",
+      "source_frame": 690
+    },
+    {
+      "time": 29.166666666666664,
+      "file": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/audio/ring.wav",
+      "gain": 0.45,
+      "reason": "Editorial ROM ring cue on actual recollection26\u219227",
+      "source": "leak",
+      "source_frame": 792
+    }
+  ]
+}

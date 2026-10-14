@@ -154,3 +154,32 @@ does not negate the real board, actor movement, input response and score changes
 Only existing PNG/CSV/provenance/script reads and bounded Pillow sheets were used
 for this replacement review. Source media, configuration, inputs and assembly files
 remain unchanged.
+
+## Final P0 replacement review at543c076fd
+
+Reviewed the new Rain, Leak, Bumper, Ghosts and Ghost-close masters by reading
+their provenance/CSV and existing full-width400×224 PNGs. All declare source
+`543c076fdf6c3819ade784c648333e2a9669e835` and the same catalogue mod SHA-256
+`e5460b29643b176683ba0a62eaeeff413a24d717aed112c9e84294ae36be1d02`. Dense PNG
+sequences verify diagonal rain motion, physical ring recollection, bumper contact
+and the death boundary. No forbidden processes, source edits or assembly edits.
+
+| Current source | Recommended window / frames | Observed proof |
+|---|---|---|
+| rain | **10.70–13.50 / [642,810)** | Gold rings cover the entire400px viewport, with a slight rightward drift while falling. Dense615–643 shows down/right motion. Repeated pickups raise inventory0→5, and the780 vertical jump collects a ring. Later14.30–15.60 / [858,936) is a distinct recap window with rain still across the field. This replaces the old narrow shower. |
+| leak | **11.00–13.80 / [660,828)** | Native physical rings fall behind the running player as inventory drops30→26; he turns back and recollects one at792 (26→27), then the next leak at810 lowers it again. Consecutive786–800 shows the ring disappear, collection sparkle and counter increase. The full take starts with a declared seeded32rings and ends19; these were not earned by the shot or preceding Rain clip. |
+| bumper | **10.00–11.40 / [600,684)** | Corrected capture visibly renders a red centre star with white body/cyan rim, replacing the old gold-star host-colour rendering. Native contact601 reverses xvel+372→−1785 despite heldRight; second contact665 reverses momentum again. Displayed sprite/score reaction follows the native event by a presentation. Both contacts are in this window; no hurt/death. |
+| ghosts, moving | **11.50–12.90 / [690,774)** | Several white/lilac ghost bodies with dark faces move independently above/around Sonic, replacing the old cyan rendering. Safe presence window. Later source921 records actual hurt and922 loses6rings→0; no death. Use the later15.10–16.30 / [906,978) only if that damage/loss is intentional in the edit. |
+| ghost-close | **11.00–14.30 / [660,858)** | Corrected white ghosts descend, contact unshielded Sonic, then the genuine death launch occurs. CSV dead0→1 at**840=14.000s**, native yvel becomes−1792; the distinct death pose is first clear at842. This remains a strong stinger. |
+
+Palette review here confirms the visible change and lack of obvious host-line
+recolouring of terrain/player; exact CNZ/SOZ palette byte/reference qualification
+belongs to the root-owned native implementation evidence. No recolouring in post
+is needed or authorised. Use these new masters instead of the colour-conditional
+revision1 bumper/ghost sources.
+
+Event alignment: bumper first contact601=10.016667s, second665=11.083333s;
+Ghost-close death840=14.000s. Do not derive these events from panel admission600
+or the delayed displayed reaction. Leak's792 recollection is real physical pickup,
+not a counter correction. Keep the seeded32 inventory disclosure; the generic
+"no ring/world writes" setup prose is qualified by that explicit inventory seed.

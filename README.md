@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**25 production groups · 6,322 preserved source files · approximately 155 GiB of
+**25 production groups · 6,515 preserved source files · approximately 155 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -35,14 +35,14 @@ this repository contains their production sources and location catalog.
 | [Mutator Lab gameplay promo](projects/mutator-lab-gameplay/) | 678 | 335 |
 | [Mutator Lab complete showcase and audio revision](projects/mutator-lab-showcase/) | 480 | 403 |
 | [Sandopolis earlier work highlights](projects/soz-methodology/) | 609 | 2,120 |
-| [Sonic 3&K Chaos Mode demo and second-revision blueprint](projects/sonic3k-chaos-mode/) | 258 | 298 |
+| [Sonic 3&K Chaos Mode demo and rapid-fire revision](projects/sonic3k-chaos-mode/) | 451 | 185 |
 | [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
 
 The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later
 collections cover zone bring-ups, ending sequences, Slay the Robotnik, Putt-Putt
 Paradise, Flappy Tails, Typing of the Hedgehog, Sitar Hero, Starpost Valley,
 Mutator Lab and Chaos Mode. Retained drafts and revisions remain identifiable;
-Chaos Mode revision 2 includes work in progress.
+Chaos Mode revision 2 preserves the completed rapid-fire edit and its earlier blueprint.
 
 ## Use the archive
 

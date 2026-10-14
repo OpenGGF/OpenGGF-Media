@@ -24,7 +24,6 @@ import importlib.util
 import json
 import math
 import os
-import os
 import re
 import subprocess
 import sys
@@ -57,7 +56,7 @@ EFFECTS = {"bobble":"bobble-head", "heads":"pulse-head", "afterimages":"afterima
     "breakout":"monitor-breakout", "vine":"vine-time", "zoom":"zoom-pulse", "quake":"quake-camera",
     "pong-play":"ring-pong", "stack":"monitor-stack", "snake":"ring-snake", "defence":"badnik-defence",
     "chat":"imaginary-chat", "sonicsays":"sonic-says", "landmark":"landmark-hunt",
-    "rampage":"rolling-rampage", "buddy":"rescue-buddy", "bunny":"bunny-hop", "springlegs":"spring-legs"}
+    "rampage":"rolling-rampage", "buddy":"rescue-buddy", "bunny":"bunny-hop", "springlegs":"spring-legs", "blaster":"eggman-blaster"}
 
 # Read old helpers without generating/overwriting first-reel bytecode files.
 sys.dont_write_bytecode=True
@@ -179,7 +178,7 @@ def normalized_plan(lock=None):
         else:out.append((original_index,raw|{"b":[a,b]}))
     resolved=[]
     fallback_crescendo=["rainbow","negative","upsidedown","mirror"]
-    recap_starts={"bumper":12.0,"rain":13.0,"afterimages":13.0,"dvd":13.0,
+    recap_starts={"bumper":12.0,"rain":13.6,"afterimages":13.0,"dvd":13.0,
                   "giant":13.0,"moon":14.0,"scenery":14.5,"invisible":11.7}
     for original_index,raw in out:
         a,b=raw["b"];start,end=beat_frame(a),beat_frame(b);duration=end-start
@@ -233,7 +232,7 @@ def normalized_plan(lock=None):
             if original_index==23:override["breakout"]=10.2
             if original_index==24 and name=="hudscale":override["hudscale"]=12.0
             if original_index==24 and name=="bunny":override["bunny"]=15.5
-            if original_index==26:override["ghosts"]=11.0
+            if original_index==26:override["ghosts"]=11.5
             if original_index==30:override["chat"]=10.5
             if original_index==15 and name=="bumper":
                 contact=lock.get("sources",{}).get("bumper",{}).get("contact_frame")
@@ -428,7 +427,7 @@ class ShotRenderer:
             if s["layout"]=="STINGER":age=min(age,197)
             pictures.append(self.readers[i].frame(age))
         layout=s["layout"]
-        if layout=="STINGER" and (tick<30 or tick>=246):canvas=Image.new("RGB",(W,H),(0,0,0))
+        if layout=="STINGER" and (tick<30 or tick>=228):canvas=Image.new("RGB",(W,H),(0,0,0))
         elif layout in ("FULL","STINGER"):
             if pictures and pictures[0]:panel_box(canvas,pictures[0],(160,92,1600,896),99)
         elif layout=="PAIR":
@@ -526,7 +525,9 @@ def finish_audio(plan,video,destination):
     for i,c in enumerate(cues):
         inputs += ["-i",c["file"]];delay=round(c["time"]*SR)
         graph+=f";[{i+2}:a]asetpts=PTS-STARTPTS,volume={c['gain']},adelay={delay}S:all=1[cue{i}]";labels.append(f"[cue{i}]")
-    graph+=";"+"".join(labels)+f"amix=inputs={len(labels)}:normalize=0,atrim=duration={total},alimiter=limit=0.84:level=false,aresample=48000[a]"
+    mix=json.loads((P/"audio-mix.json").read_text()) if (P/"audio-mix.json").exists() else {}
+    gain_db=float(mix.get("gain_db",0))
+    graph+=";"+"".join(labels)+f"amix=inputs={len(labels)}:normalize=0,atrim=duration={total},volume={10**(gain_db/20)},alimiter=limit=0.84:level=false,aresample=48000[a]"
     metadata=P/"work/chapters.ffmeta"
     text=";FFMETADATA1\ntitle=Sonic3K Chaos Mode — revision2\ncomment=Gameplay source audio muted; ROM soundtrack and SFX added editorially.\n"
     for s in plan:
@@ -536,7 +537,7 @@ def finish_audio(plan,video,destination):
     run(["ffmpeg","-nostdin","-loglevel","error","-y",*inputs,"-filter_complex_threads","1","-filter_complex",graph,
         "-map","0:v:0","-map","[a]","-map_metadata",str(2+len(cues)),"-map_chapters",str(2+len(cues)),
         "-c:v","copy","-c:a","aac","-b:a","256k","-ar","48000","-ac","2","-t",str(total),"-movflags","+faststart",destination])
-    (P/"out/audio-cues.json").write_text(json.dumps(dict(bed=str(P/"assets/hcz2-bed.wav"),bed_end=bed_end,fade_begin=fade_begin,source_audio_used=False,cues=cues),indent=2)+"\n")
+    (P/"out/audio-cues.json").write_text(json.dumps(dict(bed=str(P/"assets/hcz2-bed.wav"),bed_end=bed_end,fade_begin=fade_begin,source_audio_used=False,gain_db=gain_db,cues=cues),indent=2)+"\n")
 
 
 @contextmanager
@@ -554,7 +555,7 @@ def admitted(worktree):
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("command",choices=["plan","preview","snapshot","render"])
+    parser.add_argument("command",choices=["plan","preview","snapshot","render","audio"])
     parser.add_argument("--allow-pending",action="store_true")
     parser.add_argument("--shots",default="8,10,12")
     parser.add_argument("--shot",type=int,default=12)
@@ -593,7 +594,9 @@ def execute(args):
     if not args.admission_worktree:raise SystemExit("Encoding requires --admission-worktree from the lead")
     work=P/"work";work.mkdir(exist_ok=True)
     video=work/"revision-2-video.mp4";destination=P/"out/sonic3k-chaos-mode-demo-v2.mp4"
-    encode_video(plan,video);finish_audio(plan,video,destination)
+    if args.command=="render":encode_video(plan,video)
+    elif not video.is_file():raise ValueError("Audio remux requires the existing unchanged video encode")
+    finish_audio(plan,video,destination)
     run(["ffmpeg","-v","error","-xerror","-i",destination,"-f","null","-"])
     info=probe(str(destination));(P/"out/media-info.json").write_text(json.dumps(info,indent=2)+"\n")
     if abs(float(info["format"]["duration"])-data["total_frames"]/FPS)>.04:raise ValueError("Final duration mismatch")

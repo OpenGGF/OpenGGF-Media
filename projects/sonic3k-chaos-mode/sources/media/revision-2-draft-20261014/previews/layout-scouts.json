@@ -1,0 +1,143 @@
+[
+  {
+    "name": "slice-2",
+    "tick": 25,
+    "file": "previews/layout-slice-2.png",
+    "panels": [
+      "blueprint",
+      "rainbow"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "pair",
+    "tick": 64,
+    "file": "previews/layout-pair.png",
+    "panels": [
+      "fastforward",
+      "slowmo"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "triple",
+    "tick": 70,
+    "file": "previews/layout-triple.png",
+    "panels": [
+      "rainbow",
+      "giant",
+      "hudshuffle"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "shrink-0",
+    "tick": 0,
+    "file": "previews/layout-shrink-0.png",
+    "panels": [
+      "hudorbit",
+      "hudorbit",
+      "hudshuffle",
+      "hudscale"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "shrink-84",
+    "tick": 84,
+    "file": "previews/layout-shrink-84.png",
+    "panels": [
+      "hudorbit",
+      "hudorbit",
+      "hudshuffle",
+      "hudscale"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "shrink-86",
+    "tick": 86,
+    "file": "previews/layout-shrink-86.png",
+    "panels": [
+      "hudorbit",
+      "hudorbit",
+      "hudshuffle",
+      "hudscale"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "shrink-89",
+    "tick": 89,
+    "file": "previews/layout-shrink-89.png",
+    "panels": [
+      "hudorbit",
+      "hudorbit",
+      "hudshuffle",
+      "hudscale"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "shrink-110",
+    "tick": 110,
+    "file": "previews/layout-shrink-110.png",
+    "panels": [
+      "hudorbit",
+      "hudorbit",
+      "hudshuffle",
+      "hudscale"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "shrink-150",
+    "tick": 150,
+    "file": "previews/layout-shrink-150.png",
+    "panels": [
+      "hudorbit",
+      "hudorbit",
+      "hudshuffle",
+      "hudscale"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "quad",
+    "tick": 180,
+    "file": "previews/layout-quad.png",
+    "panels": [
+      "blueprint",
+      "giant",
+      "spinning",
+      "tiny"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "slice-4",
+    "tick": 155,
+    "file": "previews/layout-slice-4.png",
+    "panels": [
+      "rainbow",
+      "blueprint",
+      "tiny",
+      "spinning"
+    ],
+    "final_selection": false
+  },
+  {
+    "name": "critics",
+    "tick": 40,
+    "file": "previews/layout-critics.png",
+    "panels": [],
+    "final_selection": false
+  },
+  {
+    "name": "end",
+    "tick": 90,
+    "file": "previews/layout-end.png",
+    "panels": [],
+    "final_selection": false
+  }
+]

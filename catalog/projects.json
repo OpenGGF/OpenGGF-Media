@@ -162,10 +162,10 @@
   },
   {
     "id": "sonic3k-chaos-mode",
-    "title": "Sonic 3&K Chaos Mode demo and second-revision blueprint",
-    "notes": "Revision 2 includes design and assembly work in progress. Historical plans and verification describe their recorded state, not a newly certified final reel.",
-    "source_files": 258,
-    "catalog_entries": 298
+    "title": "Sonic 3&K Chaos Mode demo and rapid-fire revision",
+    "notes": "First reel and earlier revision-2 blueprint preserved. Completed rapid-fire edit: 45 shots, 46 qualified effect identities, 4864 frames at 60 Hz. Text-only GPL-3.0 mod snapshot included; footage, ROM-derived assets, JAR and source ZIP remain external.",
+    "source_files": 451,
+    "catalog_entries": 185
   },
   {
     "id": "shared-production",

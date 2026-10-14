@@ -206,35 +206,35 @@
       "notes": "Reviewed actual source frames; see SHOT_REVIEW.md or preserved first-reel source verification."
     },
     "rain": {
-      "qualified": false,
+      "qualified": true,
       "arrival": 10,
-      "in": 10,
-      "notes": "Awaiting corrected native footage/review"
+      "in": 10.7,
+      "notes": "Corrected543c076fd capture: full400px viewport rain with bounded rightward native drift, visible across upper/middle/lower screen; no player-centred emitter."
     },
     "leak": {
-      "qualified": false,
+      "qualified": true,
       "arrival": 10,
-      "in": 10,
-      "notes": "Awaiting corrected native footage/review"
+      "in": 11.0,
+      "notes": "Corrected543c076fd capture: declared32 carried rings, actual native trailing rings and counter32→26 by780; turn-back recollection26→27 at792. No earned-ring claim."
     },
     "bumper": {
-      "qualified": false,
+      "qualified": true,
       "arrival": 10,
       "in": 10,
-      "notes": "Awaiting corrected native footage/review",
-      "contact_frame": null
+      "notes": "Corrected543c076fd capture: ROM CNZ red-star/white-cyan body; authoritative native contact601 reverses xvel372→−1785 and enters air, second contact665.",
+      "contact_frame": 601
     },
     "ghosts": {
-      "qualified": false,
+      "qualified": true,
       "arrival": 10,
-      "in": 10,
-      "notes": "Awaiting corrected native footage/review"
+      "in": 10.0,
+      "notes": "Corrected543c076fd capture: ROM SOZ2 white/lilac ghosts; selected windows stop before hurt921/ring spill922. No host-palette recolouring."
     },
     "ghost-close": {
-      "qualified": false,
+      "qualified": true,
       "arrival": 10,
       "in": 10,
-      "notes": "Awaiting corrected native footage/review"
+      "notes": "Corrected543c076fd independent capture: white/lilac ghosts approach the still player; actual unshielded0-ring death840. Death cue editorial and timed from CSV."
     },
     "ringorbit": {
       "qualified": true,
@@ -258,7 +258,7 @@
       "qualified": true,
       "arrival": 10,
       "in": 14.0,
-      "notes": "Actual lane defence board and score2\u21925 at840\u2013924; no travelling projectile/win/reward claim. Owned A/B/C keyboard binding config recorded."
+      "notes": "Actual lane defence board and score2→5 at840–924; no travelling projectile/win/reward claim. Owned A/B/C keyboard binding config recorded."
     },
     "sonicsays": {
       "qualified": true,
@@ -300,18 +300,18 @@
       "qualified": true,
       "arrival": 10,
       "in": 11.15,
-      "notes": "Actual visible native beams; reviewed11.15\u201312.5."
+      "notes": "Actual visible native beams; reviewed11.15–12.5."
     },
     "invisible": {
       "qualified": true,
       "arrival": 10,
       "in": 10,
-      "notes": "Original first-reel actual invisibility; intervals limited to10\u201313.2 before native vine control."
+      "notes": "Original first-reel actual invisibility; intervals limited to10–13.2 before native vine control."
     }
   },
   "stinger": {
     "source": "ghost-close",
-    "in": 11,
+    "in": 11.5,
     "caption": "SANDOPOLIS SENDS ITS REGARDS."
   },
   "vineReplacement": "bunny"
