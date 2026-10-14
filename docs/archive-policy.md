@@ -42,6 +42,15 @@ roots. Those references are listed separately; their availability is unverified.
 5. Every AI-assisted commit ends with the contributing model/version co-author
    trailer, e.g. `Co-authored-by: OpenAI Codex GPT-6.1 <noreply@openai.com>`.
 
+For the Chaos card-gallery follow-up, [the scoped import helper](../tools/import_chaos_gallery.py)
+accepts its frozen `revision-3` directory. The default invocation inventories
+bounded production text and external asset sets without changing the archive;
+`--write` copies that text and refreshes the matching catalogs. It verifies all
+earlier Chaos source hashes, rejects unclassified files and detects source edits
+during its snapshot. Review the resulting project index, source syntax, links
+and public exposure, then run the ordinary catalog verifier before committing.
+An import does not render or certify the movie.
+
 ## Rights
 
 OpenGGF is an independent fan project and is not affiliated with Sega. OpenGGF

@@ -52118,5 +52118,1485 @@
     "bytes": 25579,
     "sha256": "4f7a41d44b51e809292c55a1bc97e8b35234dbab7f3e92bc553411429bd7810d",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/PLAN.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/PLAN.md",
+    "bytes": 10763,
+    "sha256": "5be40cae3a7a6cd33205007e80028ee3f50a9e4a91cc9da5dfb398773431befa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/README.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/README.md",
+    "bytes": 6182,
+    "sha256": "a1a75141115d7a2c33942777525bad6a0453ed4c10ca3a28c53a9080cfb95689",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/SHOT_REVIEW.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/SHOT_REVIEW.md",
+    "bytes": 5621,
+    "sha256": "7cb9a5f7e9bc8cdb04bd5fd430ab23ce54d478382f68242792b8db8878daf5c2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/assemble.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/assemble.py",
+    "bytes": 39337,
+    "sha256": "816af00cc9e3590dcf18a0f225523ebfb6ba0913782fee1b1b60a450369556c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/assets/audio-provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/assets/audio-provenance.json",
+    "bytes": 26896,
+    "sha256": "f6203781a1b89bff792d03670d9156e4f30de885f1480aaba158407efe1d9fee",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/audio.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/audio.json",
+    "bytes": 247,
+    "sha256": "f00ef37108d69ea5cf4f00f8a200c440457907a3849e3ad6f54a7a5126506ba4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/capture.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/capture.py",
+    "bytes": 6101,
+    "sha256": "a1e526f7dfdebaeba55bd97352e7db206785369fd18c89d3a24d7f3c94a747cb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/afterimages-mgz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/afterimages-mgz2/input.script",
+    "bytes": 41,
+    "sha256": "df1f2a8d851dc0fadfed0096ee4d6e2ba159b3983939ef36c1bea9e67fa5ab69",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/afterimages-mgz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/afterimages-mgz2/input.txt",
+    "bytes": 24157,
+    "sha256": "8659c4e4af4b5e62fd279d023b8023f6bbb98571164390ba41706b1690ee5c39",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/afterimages-mgz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/afterimages-mgz2/provenance.json",
+    "bytes": 20088,
+    "sha256": "3b45e9d5961290eef8beb1d038534dd3acc1008357a09e2de420e9df1d8e43cf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/afterimages-mgz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/afterimages-mgz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 88,
+    "sha256": "d3ad8a6b968e9ab855b7a2bc73a970e219e3aa5d70275729503c315c5857d683",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/blueprint-lrz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/blueprint-lrz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/blueprint-lrz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/blueprint-lrz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/blueprint-lrz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/blueprint-lrz2/provenance.json",
+    "bytes": 19929,
+    "sha256": "bb3cfdf78bfeae632e57fedbf7e27d481ade9da3c09d7fd0314d457e989ff871",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/blueprint-lrz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/blueprint-lrz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 91,
+    "sha256": "ff49fd1149cdd0d5234a874ddfd95f3e3f198533f1f5f0d12e2138f5dfbc696f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bobble-hcz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bobble-hcz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bobble-hcz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bobble-hcz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bobble-hcz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bobble-hcz2/provenance.json",
+    "bytes": 19936,
+    "sha256": "cbefad0f3e7d55dfc2895a50062f7826b7309cb3117937d82c47c5b1fc323dea",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bobble-hcz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bobble-hcz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 88,
+    "sha256": "0a57c546898f28e2ffc84d6c454196bee04caf6acdf00806d8d508797cd44672",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/buddy-ssz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/buddy-ssz1/input.script",
+    "bytes": 34,
+    "sha256": "f212cb2e8d5d48fa397ed711f71998e9bbcaeeb11c0d04a1103c0c8b7a855400",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/buddy-ssz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/buddy-ssz1/input.txt",
+    "bytes": 24137,
+    "sha256": "405007e4d6b5e3ecf96236aa4d29a655c2c007e7038ca5bb493521e12cf2cf43",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/buddy-ssz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/buddy-ssz1/provenance.json",
+    "bytes": 20134,
+    "sha256": "833a711ccbe68e43b3dfe371491b95fdc318411dcafa59825fa11c232a9d140d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/buddy-ssz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/buddy-ssz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 89,
+    "sha256": "66051e9c7379d543b1aa298638703d6c9507304dce1001d50f1b622422e2b6d3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bumper-cnz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bumper-cnz1/input.script",
+    "bytes": 29,
+    "sha256": "06cae5db02c967fa5e2373729171ae0cbd6bbd05742d53badb59d03fe0c5a75d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bumper-cnz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bumper-cnz1/input.txt",
+    "bytes": 24137,
+    "sha256": "501599c36ab7049f3601a8034d04c5aab4296381ef6741211884fe70d8650610",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bumper-cnz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bumper-cnz1/provenance.json",
+    "bytes": 19899,
+    "sha256": "d3ee90d36215092ca269f1f1e824e0a7a2d4181bf8367d5e116a5997435662da",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bumper-cnz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bumper-cnz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 89,
+    "sha256": "b089505592fdfdcb2ab8c37466642cb22dafdba67b836dd7895a90135b62e612",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bunny-mhz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bunny-mhz1/input.script",
+    "bytes": 12,
+    "sha256": "00fe08c218c1f35b29e4e726c83e77ffea5b1480525925d7f57cf9a4644a358c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bunny-mhz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bunny-mhz1/input.txt",
+    "bytes": 24137,
+    "sha256": "1e065074efd9982283adcf8d545a606f100b30afa809d82562c3d671e5ca2b3b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bunny-mhz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bunny-mhz1/provenance.json",
+    "bytes": 19869,
+    "sha256": "2eae75653c63f058b4b9e071879fb8e6533f2fd420e110fcff988eadd0258db8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/bunny-mhz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/bunny-mhz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 86,
+    "sha256": "1dac9d99920c89bf597e128ef5dd86223480dd899fd8e37bf23cb5c24145711e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/chat-dez1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/chat-dez1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/chat-dez1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/chat-dez1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/chat-dez1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/chat-dez1/provenance.json",
+    "bytes": 19884,
+    "sha256": "ebca5bdf3a76982cbb420341b4fc1a9e4641186bd5f6fc827601620411258e74",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/chat-dez1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/chat-dez1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 91,
+    "sha256": "54654f46540ceb4109268f7f40063bfc0a9153db4f4addfc26468d3133900694",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/dvd-cnz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/dvd-cnz1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/dvd-cnz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/dvd-cnz1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/dvd-cnz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/dvd-cnz1/provenance.json",
+    "bytes": 19873,
+    "sha256": "df3867c0541f3271a584385601b417dda397a7b02af3609eac38d5191441a8a0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/dvd-cnz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/dvd-cnz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 84,
+    "sha256": "fac9428d14e08ad66d1c65b9fe1528bb791b96ec24cc948ef6b994d2e70e4bb2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/fastforward-soz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/fastforward-soz1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/fastforward-soz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/fastforward-soz1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/fastforward-soz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/fastforward-soz1/provenance.json",
+    "bytes": 19987,
+    "sha256": "e4aa7c805794739785b74e6059cfd2ae61512acb6f5d7d185865224bea0116db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/fastforward-soz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/fastforward-soz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 89,
+    "sha256": "4031dbaec75979249e9cacbf6d1cbe461dacbe6cc5169cc7a0a8386ca17bb875",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/flood-mhz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/flood-mhz1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/flood-mhz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/flood-mhz1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/flood-mhz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/flood-mhz1/provenance.json",
+    "bytes": 19894,
+    "sha256": "12b6ab95292cd070bc26aaae87b308cb37d8ca58a15074ade603aa87474eebe0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/flood-mhz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/flood-mhz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 88,
+    "sha256": "9fde92f6d20763936c1ba57d57b1718b4e9118f3eaa46444b38a2bf1d3bafe08",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/ghosts-dez1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/ghosts-dez1/input.script",
+    "bytes": 22,
+    "sha256": "8ea6a5de6ce5d351e490ce47f49f6fe1cccf0b38c01bacc463f7c037f0bd329f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/ghosts-dez1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/ghosts-dez1/input.txt",
+    "bytes": 24137,
+    "sha256": "17e68cb130f1c0bbc832a4dfdb527d2805d3ce569b331a734515323b593565e2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/ghosts-dez1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/ghosts-dez1/provenance.json",
+    "bytes": 19890,
+    "sha256": "4c74ae85c09a7d2c54d555056fae85b85132b25533f61f628d4ce0816fc21b31",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/ghosts-dez1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/ghosts-dez1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 92,
+    "sha256": "272edc901672cbe56175142f28d80b297cbad052555ddd4f23f10d720495da60",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/gravity-soz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/gravity-soz1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/gravity-soz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/gravity-soz1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/gravity-soz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/gravity-soz1/provenance.json",
+    "bytes": 19953,
+    "sha256": "8049478fde0dfd2dbe21051657ff0336181662f61cb04587ca6a0992fc4b5996",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/gravity-soz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/gravity-soz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 91,
+    "sha256": "2adcaa0dca13d2b3ecbc120ad874bff3a9e99015bcfdeb40182c232744f7ffa3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/heads-lbz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/heads-lbz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/heads-lbz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/heads-lbz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/heads-lbz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/heads-lbz2/provenance.json",
+    "bytes": 19927,
+    "sha256": "26bf23d730721723f510c2e1a13234ff310a75f1251127a3957cf54ddab65af7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/heads-lbz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/heads-lbz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 87,
+    "sha256": "8a7221b887341f71eb5fd0e0148f9ddc4f2932826b2cf8b5b8d5d1dcea25554f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudorbit-hcz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudorbit-hcz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudorbit-hcz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudorbit-hcz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudorbit-hcz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudorbit-hcz2/provenance.json",
+    "bytes": 19952,
+    "sha256": "92ac8625947e8c6a255069bdbf3172eb51cfc0991fe9cc5dab9a522f1d736056",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudorbit-hcz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudorbit-hcz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 86,
+    "sha256": "ed5df734fb9959ffa08b39fa6aebae08e14657400ec89911fa47b933448666bd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudscale-lbz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudscale-lbz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudscale-lbz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudscale-lbz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudscale-lbz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudscale-lbz2/provenance.json",
+    "bytes": 19953,
+    "sha256": "93a65cf1a8f26f387f9dda1cd588309e6d8c6cf1fbd05be2cffacfb7ad2f32c6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudscale-lbz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudscale-lbz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 86,
+    "sha256": "f89e88e5b214a82d99a37859b040b6946e21899560380bb5547fa3012aa15caf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudshuffle-lbz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudshuffle-lbz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudshuffle-lbz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudshuffle-lbz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudshuffle-lbz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudshuffle-lbz2/provenance.json",
+    "bytes": 19973,
+    "sha256": "0a658a334660cb91236322e223ab59b6edaf058bee095e4ab096c4275c97394f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/hudshuffle-lbz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/hudshuffle-lbz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 88,
+    "sha256": "4af00779528c9f8f71b135eeab1c1d5a55b70bb3d2798b6b28856a5d483e84c9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/ice-icz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/ice-icz2/input.script",
+    "bytes": 27,
+    "sha256": "f96ae681f64c491f82c7fd8e5bbef2def2b05e403448a81b511fe780e76b7716",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/ice-icz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/ice-icz2/input.txt",
+    "bytes": 24137,
+    "sha256": "d97b90641b17d3dc89cd3540ce31d4ca52e312e2f7f2a826457c94ff0d1e8aad",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/ice-icz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/ice-icz2/provenance.json",
+    "bytes": 19894,
+    "sha256": "9fd73c537106250b67adc13ec0d3938e758672ff460f205e5026fa22670d12d7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/ice-icz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/ice-icz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 86,
+    "sha256": "b359190171a485545d639301f28ebaf4be263771bc7b120e53e4ea577af98e9b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/invisible-lrz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/invisible-lrz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/invisible-lrz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/invisible-lrz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/invisible-lrz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/invisible-lrz2/provenance.json",
+    "bytes": 19931,
+    "sha256": "904579914a4b3dfbbeb02cd4d6bb9f69da69fb8a8c38d378775d741e28673799",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/invisible-lrz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/invisible-lrz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 93,
+    "sha256": "5bb4c0c5fae5447850a18b964984809151fa5eebf0b37d87c23237ae8e753e49",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/leak-icz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/leak-icz2/input.script",
+    "bytes": 24,
+    "sha256": "f935bc5314697ca401447e763ae66099b6a6128e25be25b829670f3642f672b7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/leak-icz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/leak-icz2/input.txt",
+    "bytes": 24137,
+    "sha256": "d288bab702e2150b1bac7ac757c0573c1149d61289412b4ad7fcb05e5c85bea4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/leak-icz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/leak-icz2/provenance.json",
+    "bytes": 19994,
+    "sha256": "dd5b9bdf88a11227acc32d7b57d04a0f1e7277b44df2127140210958d7443ff1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/leak-icz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/leak-icz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 86,
+    "sha256": "5aec71269a4820313bf997bc2153a4c2dc43b9302d70d57443eeedc535ef4594",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/mirror-mgz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/mirror-mgz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/mirror-mgz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/mirror-mgz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/mirror-mgz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/mirror-mgz2/provenance.json",
+    "bytes": 20037,
+    "sha256": "aea417de662b48ae5a5bbcb7134080a2950ad136939fe096c21f381e5d487141",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/mirror-mgz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/mirror-mgz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 88,
+    "sha256": "9e0ff77ad0c763606eaac9130868ae1b1798add179a72ff993ea48b6599c4d92",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/moon-icz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/moon-icz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/moon-icz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/moon-icz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/moon-icz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/moon-icz2/provenance.json",
+    "bytes": 19914,
+    "sha256": "430a8d0048683c79b5dfaa2d9eb3dd2180d2c2bff478be38cf9f0dc869cdd0bf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/moon-icz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/moon-icz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 89,
+    "sha256": "334906d5752ca325d0461e87485681bf3c5ad00dbecc099e8ed70178dd037454",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/negative-hcz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/negative-hcz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/negative-hcz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/negative-hcz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/negative-hcz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/negative-hcz2/provenance.json",
+    "bytes": 19957,
+    "sha256": "00ff4fdddb2ca9fbfccc35d4d2a357e9b3435a0ac6657ba5b61cd55ee637cb69",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/negative-hcz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/negative-hcz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 91,
+    "sha256": "a080062a61fc2803405e27722d2675e6b6bb7b3ea9e7ccbc8180f2806e72486f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/quake-fbz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/quake-fbz1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/quake-fbz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/quake-fbz1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/quake-fbz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/quake-fbz1/provenance.json",
+    "bytes": 20040,
+    "sha256": "92c5cbc0170c8d571bf77acb92f5e53bea43b3be211340b9998a8fcf585a45b7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/quake-fbz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/quake-fbz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 89,
+    "sha256": "4aea375654e2d450184494fad004083f2e97176e87f433458bae7928a1a39679",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rain-icz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rain-icz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rain-icz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rain-icz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rain-icz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rain-icz2/provenance.json",
+    "bytes": 19911,
+    "sha256": "907ff55b9d2a031c48e201b80f00db76c880c85ad27aea320b339226494af1bb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rain-icz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rain-icz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 86,
+    "sha256": "6d772e5a300c3a0a9d17c97d8d1a7fb7ba2fa6b56e0975fec9ca40c5e91d110f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rainbow-cnz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rainbow-cnz1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rainbow-cnz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rainbow-cnz1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rainbow-cnz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rainbow-cnz1/provenance.json",
+    "bytes": 19916,
+    "sha256": "f843e1ce4e9ee1e8bdf32568a3b0b5698b8c75e49d64cc1894f4031d83a13b3f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rainbow-cnz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rainbow-cnz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 91,
+    "sha256": "584d7f90efb0b5ab379233f60a179bb8c0aad9e2085a359a3c97d6d816651a9e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rampage-fbz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rampage-fbz1/input.script",
+    "bytes": 28,
+    "sha256": "a78da507ff9b50a67a226b289502b78f5f6c9907b28a698f714250a0314920db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rampage-fbz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rampage-fbz1/input.txt",
+    "bytes": 24137,
+    "sha256": "85346695afab4d251df69372f604ff88ce9d930054869f8965ea89741ab5ee90",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rampage-fbz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rampage-fbz1/provenance.json",
+    "bytes": 20054,
+    "sha256": "84eecdbd74bd445e4b99d83320a97281a2aa88e79eb6170bad00e6f8750f6027",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/rampage-fbz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/rampage-fbz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 92,
+    "sha256": "3548278bc8181694c3508e9b692a4f97272e2c1e9966a921a9ae2ef0c97a341c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/shield-ssz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/shield-ssz1/input.script",
+    "bytes": 34,
+    "sha256": "f212cb2e8d5d48fa397ed711f71998e9bbcaeeb11c0d04a1103c0c8b7a855400",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/shield-ssz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/shield-ssz1/input.txt",
+    "bytes": 24137,
+    "sha256": "405007e4d6b5e3ecf96236aa4d29a655c2c007e7038ca5bb493521e12cf2cf43",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/shield-ssz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/shield-ssz1/provenance.json",
+    "bytes": 20146,
+    "sha256": "8a62fd51f917e173715efac8754200974fe6d8061119b55adac8d5dde14d4c8b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/shield-ssz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/shield-ssz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 92,
+    "sha256": "29d89d2daca22834a8bbfde2caf3e4331c827c5e7792c0e33f00ac1db164a746",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/slowmo-soz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/slowmo-soz1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/slowmo-soz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/slowmo-soz1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/slowmo-soz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/slowmo-soz1/provenance.json",
+    "bytes": 19941,
+    "sha256": "0d2658e7b50b4f60f4b3f08abbaa1334cec3ba4b317af7b331aa51c6ffafd687",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/slowmo-soz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/slowmo-soz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 88,
+    "sha256": "aa410cbbb4cf5eead8cbb1309cc4ef6431cf2f1fb0ae9fd7596f224bcc1597e8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/snake-cnz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/snake-cnz1/input.script",
+    "bytes": 37,
+    "sha256": "7f9461ceabbfc8ee8f3d4580139330d0ee8e3df3da4b1f689869b018838e5139",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/snake-cnz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/snake-cnz1/input.txt",
+    "bytes": 24937,
+    "sha256": "c9a9c7ed1fced1613fda543fba70c9ab5ecc2ac34c1765308c953222e04a391d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/snake-cnz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/snake-cnz1/provenance.json",
+    "bytes": 19988,
+    "sha256": "f3cbbaf3a33b14f5e51aa4f29c38e2538597a9d0a63dc3fa1be62889d6d601e1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/snake-cnz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/snake-cnz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 87,
+    "sha256": "d75d2559e9cfa18f70c3603c57ae4dad396e03ad22dac3a260beeafdeab1b29f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/snake-soz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/snake-soz2/input.script",
+    "bytes": 37,
+    "sha256": "7f9461ceabbfc8ee8f3d4580139330d0ee8e3df3da4b1f689869b018838e5139",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/snake-soz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/snake-soz2/input.txt",
+    "bytes": 24937,
+    "sha256": "c9a9c7ed1fced1613fda543fba70c9ab5ecc2ac34c1765308c953222e04a391d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/snake-soz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/snake-soz2/provenance.json",
+    "bytes": 20125,
+    "sha256": "f65e5d30c782dfd213511699c4cb08093f0a472a1bc0fcec03b5129a3c4b2f0c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/snake-soz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/snake-soz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 87,
+    "sha256": "d75d2559e9cfa18f70c3603c57ae4dad396e03ad22dac3a260beeafdeab1b29f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/sonicsays-dez1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/sonicsays-dez1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/sonicsays-dez1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/sonicsays-dez1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/sonicsays-dez1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/sonicsays-dez1/provenance.json",
+    "bytes": 19925,
+    "sha256": "17876d13eedad558a6e3dde8e62871a529c1b43a94c9e3a1ebbaa2e4ce539a4f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/sonicsays-dez1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/sonicsays-dez1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 87,
+    "sha256": "bfc627dea78666950a2b5a7504377878828ce0a3e180596a5fb7d6280742a981",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/springlegs-mhz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/springlegs-mhz1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/springlegs-mhz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/springlegs-mhz1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/springlegs-mhz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/springlegs-mhz1/provenance.json",
+    "bytes": 19939,
+    "sha256": "55a10aeea97ff05e493a91cf7d65555bef709b48bbea77baa9647cde76d09fe1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/springlegs-mhz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/springlegs-mhz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 88,
+    "sha256": "e65080a7368d46fb0c4b300925df62f6d38b816997b2873315a03f0c1f960548",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/squashy-mgz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/squashy-mgz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/squashy-mgz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/squashy-mgz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/squashy-mgz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/squashy-mgz2/provenance.json",
+    "bytes": 20047,
+    "sha256": "72a003546f58311a657107c7afc3a28cb28a8a06c12c7f2330270f7bed1f308f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/squashy-mgz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/squashy-mgz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 89,
+    "sha256": "8a81d57506d1fb403f952c35b1683c77e1be773d15361371a9a62a53d611eb11",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/superstar-ssz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/superstar-ssz1/input.script",
+    "bytes": 34,
+    "sha256": "f212cb2e8d5d48fa397ed711f71998e9bbcaeeb11c0d04a1103c0c8b7a855400",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/superstar-ssz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/superstar-ssz1/input.txt",
+    "bytes": 24137,
+    "sha256": "405007e4d6b5e3ecf96236aa4d29a655c2c007e7038ca5bb493521e12cf2cf43",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/superstar-ssz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/superstar-ssz1/provenance.json",
+    "bytes": 20178,
+    "sha256": "5c8762e22e4c0f43225233f67f115488f018fe7786deec9f4ef2f714549e0c58",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/superstar-ssz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/superstar-ssz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 97,
+    "sha256": "e8770bfeae29a54d1b359c04debcf1499b51a0fcde606f5d354e5f7280fa9cf5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/upsidedown-dez1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/upsidedown-dez1/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/upsidedown-dez1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/upsidedown-dez1/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/upsidedown-dez1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/upsidedown-dez1/provenance.json",
+    "bytes": 19940,
+    "sha256": "8b978995a339953625a91e1b649042de8572b5486b461e8d928889eda360fdbc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/upsidedown-dez1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/upsidedown-dez1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 93,
+    "sha256": "6330c9d761697b94e75ec41d1af8fa4c621d39306a179449f1a6b6b1edeef6cb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/wind-fbz1/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/wind-fbz1/input.script",
+    "bytes": 24,
+    "sha256": "fe1ca50941655e962c97d35f06daad73d2f89362f083334b0c8923e76608b74b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/wind-fbz1/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/wind-fbz1/input.txt",
+    "bytes": 24137,
+    "sha256": "6f8e2d793eaafb6f577ddafffc162afac7baf8b149d3c9b99cc17885ffcba201",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/wind-fbz1/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/wind-fbz1/provenance.json",
+    "bytes": 20017,
+    "sha256": "5254284c38c00652c0e84ff1388693fdc659726b08b71fe7786b3ccee9600745",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/wind-fbz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/wind-fbz1/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 86,
+    "sha256": "20c1bee87e820bebd3281ef24e8dfb8207592337a235748adbddcee167e115e4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/zoom-lrz2/input.script",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/zoom-lrz2/input.script",
+    "bytes": 35,
+    "sha256": "9460fc5fc187d37ad60e0ada34a0bcaf6479a80622edf1c0dba3fee8d79c4aaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/zoom-lrz2/input.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/zoom-lrz2/input.txt",
+    "bytes": 24137,
+    "sha256": "c71fa2a697e8d57a8beb5608cb0f09f7935f7732d4f9bca152153116a5a5f647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/zoom-lrz2/provenance.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/zoom-lrz2/provenance.json",
+    "bytes": 19880,
+    "sha256": "ae0013e6a3d14c13934c84bf002b1929bd02da5c11f9a5094f164302a44767db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures/zoom-lrz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures/zoom-lrz2/saves/mods/sonic3k-chaos-mode/settings.txt",
+    "bytes": 87,
+    "sha256": "505e95da4be89adfbc9dc2362336164d62d4f9eb7ba0e506ac901e03fa8022d7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/captures.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/captures.json",
+    "bytes": 9829,
+    "sha256": "7e0bd87aed1d75c23ba208c8446f4a73051d9030b34e2eebb6e310c9b516f8e2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/cards.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/cards.json",
+    "bytes": 21428,
+    "sha256": "a2909bcf5a0e67824c9d8cbb349e8789713616c1db9f54de0b043c89919ac4fd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/lossless-source-checks.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/lossless-source-checks.json",
+    "bytes": 14452,
+    "sha256": "9c3269b515af9c613dad6273a7a7c5e181fb6128e4c758e5ae9d9c921bb2c33f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/README.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/README.md",
+    "bytes": 244,
+    "sha256": "05d940697851847c93bfd3f0863b4e7b287e731dc38192ebb1d5647f459842cb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosArt.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosArt.java",
+    "bytes": 4275,
+    "sha256": "3fc04bd6a670b8d0296bc13766eae093204462e865af680c20263703a83b4fad",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosCatalog.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosCatalog.java",
+    "bytes": 32398,
+    "sha256": "7e0c822ef645629b2e43136a4f20f0f74ee552490afdfc5d10f7ac4efd4d94b1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosController.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosController.java",
+    "bytes": 15953,
+    "sha256": "6d4d61abc51367d1d30bb011ef101b5dd8068734373252e872a0075ac5cd882d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosDefinitions.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosDefinitions.java",
+    "bytes": 13149,
+    "sha256": "cd734fb3a6f540ccfb043eba6f630d7a0f42a759ef90013c8529c069cb444398",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosMenu.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosMenu.java",
+    "bytes": 11069,
+    "sha256": "a09d7b9c3d9db6c4c11d56a5daa68e17086ab440c2e387cdfb6d01ccdf2f819d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosMod.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosMod.java",
+    "bytes": 4156,
+    "sha256": "35eefff7ea5b6b40d0730190e6c903032b4169b588cfb399d5aec4086773c6cd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosPreferences.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosPreferences.java",
+    "bytes": 4091,
+    "sha256": "83310ea0f3ec48de49272b2fa9652f07bbad820cb45bf6bb4d152c14bcaf5fd5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosSchedule.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosSchedule.java",
+    "bytes": 6423,
+    "sha256": "bd1fb19fff85d0119cd8e6684e8a2ad7c8eb6ad6896e53c4922207cbedadf060",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosSettings.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosSettings.java",
+    "bytes": 1616,
+    "sha256": "6b8c529ccda7e633aa2cf5f31a059580e952b994f2c2ee542743503874597028",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosSidegame.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosSidegame.java",
+    "bytes": 9956,
+    "sha256": "9b01823ca00c8c136c4230d2be9da1a4957047c6588ff9a8bbc9062e885cb88f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/ChaosTitle.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/ChaosTitle.java",
+    "bytes": 1972,
+    "sha256": "a4e97fcbf1e2c549b07adb80591fb25d6222aacd60bb40c152189bd890d18c10",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/java/chaos/DecisionSource.java",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/java/chaos/DecisionSource.java",
+    "bytes": 440,
+    "sha256": "277bde6c2ef9b8d21f0e17980c81c036b87add6ca6e9eda1169264b357d61957",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/mod-source/resources/META-INF/openggf-mod.yaml",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/mod-source/resources/META-INF/openggf-mod.yaml",
+    "bytes": 422,
+    "sha256": "052d89c2fc0f1b13fd90106ca3bc1061c453b7e0b988f7173b8b01aa9b2ff01f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/out/audio-mix.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/out/audio-mix.json",
+    "bytes": 608,
+    "sha256": "a2e44ef5244dccc2091032435342f526c6c533bcb0b276645d7d169e32e889ce",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/out/chapters.csv",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/out/chapters.csv",
+    "bytes": 5866,
+    "sha256": "859c1d64ff18b335d99aa0c24cda9bd6b4afb168e6c5c25716e474b65fedc02c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/out/edit-timeline.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/out/edit-timeline.json",
+    "bytes": 54543,
+    "sha256": "768c111a8145dfae93879a6fe22b652a0c496a90d9a1550268af612dda63a30d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/out/media-review/summary.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/out/media-review/summary.json",
+    "bytes": 8413,
+    "sha256": "dc3b97fc4ad510f1be6eed713f5c3706c4fd9adee03ed87f0b78b04a758f2294",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/out/mod-package.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/out/mod-package.json",
+    "bytes": 330,
+    "sha256": "fbe35923e4dcb4b21f76db576be78336b4f6fc4c8c4903bdb4f43b2869cdc4be",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/out/previews/README.md",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/out/previews/README.md",
+    "bytes": 210,
+    "sha256": "26fb2f4fc33e540042f90264536fd401844426bc98d75f5d011b5c771eb36c01",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/render_audio.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/render_audio.py",
+    "bytes": 2984,
+    "sha256": "e1086b5b369f2efd05347dc6184c3c596e5cec0dfd5892866b58ba52fddf17f8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/review/audio-source-loudness.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/review/audio-source-loudness.json",
+    "bytes": 598,
+    "sha256": "fefd9b6af9472ceecb8cb136b574f5b8b676309d6711634e6d7b576cd4abc337",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/review/native-load-identities.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/review/native-load-identities.json",
+    "bytes": 13597,
+    "sha256": "2b9b5c902dbe237bd5f391d931de8b53c5a27b1206d2f6fa2b552aa324b00f06",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/review/source-review-ring-snake.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/review/source-review-ring-snake.json",
+    "bytes": 371,
+    "sha256": "4d80e78eea29850ab7c6cefb46521abe155dadfc1ce03ccf7519308bfbde2a4d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/review/source-review.json",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/review/source-review.json",
+    "bytes": 17871,
+    "sha256": "4b88b0b0b31a1cf21b155a4abd473183c4a72ecf3b3bd9e0bcb55b6b7c702c86",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/review_sources.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/review_sources.py",
+    "bytes": 6382,
+    "sha256": "86c18269cd9814c26ab4353f0bdbe16ef8fa28a27fd95e522e1f449105244206",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic3k-chaos-mode/sources/media/revision-3/verify.py",
+    "root": "sonic3k-chaos-mode/media",
+    "original_path": "revision-3/verify.py",
+    "bytes": 7128,
+    "sha256": "38cdfc02d5b2c24bdf1d6af001fe457dfdfe14c66194585c81edf424a858acac",
+    "snapshot": "byte-copy"
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "bed": "assets/hcz2/s3k-music-04-mix.wav",
+  "bed_gain_db": 12.8,
+  "master_gain_db": 0,
+  "ghost_gain_db": 7.3,
+  "ghost_duck_frames": 60,
+  "ghost_fade_in_frames": 6,
+  "ghost_fade_out_frames": 30,
+  "cues": [],
+  "true_peak_linear": 0.75
+}

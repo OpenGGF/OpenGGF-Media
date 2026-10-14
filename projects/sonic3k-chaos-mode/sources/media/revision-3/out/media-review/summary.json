@@ -1,0 +1,485 @@
+{
+  "file": "sonic3k-chaos-mode-demo-v3.mp4",
+  "frames": 14460,
+  "durationSeconds": 241.0,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "cadence": "60/1",
+  "chapters": 50,
+  "qualifiedEffects": 48,
+  "zones": [
+    "ANGEL ISLAND",
+    "CARNIVAL NIGHT",
+    "DEATH EGG",
+    "FLYING BATTERY",
+    "HYDROCITY",
+    "ICECAP",
+    "LAUNCH BASE",
+    "LAVA REEF",
+    "MARBLE GARDEN",
+    "MUSHROOM HILL",
+    "SANDOPOLIS",
+    "SKY SANCTUARY"
+  ],
+  "fullVideoDecode": true,
+  "fullAudioDecode": true,
+  "cadenceCheckedEveryFrame": true,
+  "sourceIntervalsAndDeathChecked": true,
+  "fastStart": {
+    "moov_offset": 32,
+    "mdat_offset": 373076,
+    "passed": true
+  },
+  "loudness": {
+    "input_i": "-14.23",
+    "input_tp": "-2.48",
+    "input_lra": "2.50",
+    "input_thresh": "-24.27",
+    "output_i": "-13.95",
+    "output_tp": "-2.29",
+    "output_lra": "2.60",
+    "output_thresh": "-23.97",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.05"
+  },
+  "actualMovingSamples": [
+    {
+      "effect": "rainbow-player",
+      "samples": [
+        288,
+        348,
+        408
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "afterimages",
+      "samples": [
+        528,
+        588,
+        648
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "bobble-head",
+      "samples": [
+        828,
+        888,
+        948
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "pulse-head",
+      "samples": [
+        1068,
+        1128,
+        1188
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "invisible-player",
+      "samples": [
+        1308,
+        1368,
+        1428
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "upside-down-view",
+      "samples": [
+        1548,
+        1608,
+        1668
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "mirror-view",
+      "samples": [
+        1788,
+        1848,
+        1908
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "negative-world",
+      "samples": [
+        2028,
+        2088,
+        2148
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "squashy-view",
+      "samples": [
+        2268,
+        2328,
+        2388
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "zoom-pulse",
+      "samples": [
+        2508,
+        2568,
+        2628
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "quake-camera",
+      "samples": [
+        2808,
+        2868,
+        2928
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "blueprint-zone",
+      "samples": [
+        3048,
+        3108,
+        3168
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "wrong-zone-scenery",
+      "samples": [
+        3288,
+        3348,
+        3408
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "moon-gravity",
+      "samples": [
+        3588,
+        3648,
+        3708
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "gravity-hiccup",
+      "samples": [
+        3888,
+        3948,
+        4008
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "spring-legs",
+      "samples": [
+        4188,
+        4248,
+        4308
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ice-shoes",
+      "samples": [
+        4488,
+        4548,
+        4608
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "bunny-hop",
+      "samples": [
+        4788,
+        4848,
+        4908
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "fast-forward",
+      "samples": [
+        5028,
+        5088,
+        5148
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "slow-motion",
+      "samples": [
+        5328,
+        5388,
+        5448
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "rolling-rampage",
+      "samples": [
+        5628,
+        5688,
+        5748
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "windy-day",
+      "samples": [
+        5928,
+        5988,
+        6048
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "dvd-hud",
+      "samples": [
+        6228,
+        6288,
+        6348
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "hud-orbit",
+      "samples": [
+        6528,
+        6588,
+        6648
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "hud-shuffle",
+      "samples": [
+        6768,
+        6828,
+        6888
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "hud-scale",
+      "samples": [
+        7068,
+        7128,
+        7188
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-rain",
+      "samples": [
+        7308,
+        7368,
+        7428
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-magnet",
+      "samples": [
+        7608,
+        7668,
+        7728
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-orbit",
+      "samples": [
+        7908,
+        7968,
+        8028
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-leak",
+      "samples": [
+        8148,
+        8208,
+        8268
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "flash-flood",
+      "samples": [
+        8508,
+        8568,
+        8628
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "shield-surprise",
+      "samples": [
+        8808,
+        8868,
+        8928
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ten-second-superstar",
+      "samples": [
+        9048,
+        9108,
+        9168
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "giant-badniks",
+      "samples": [
+        9348,
+        9408,
+        9468
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "spinning-badniks",
+      "samples": [
+        9588,
+        9648,
+        9708
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "tiny-badniks",
+      "samples": [
+        9828,
+        9888,
+        9948
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "projectile-overdrive",
+      "samples": [
+        10068,
+        10128,
+        10188
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "eggman-blaster",
+      "samples": [
+        10368,
+        10428,
+        10488
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "monitor-breakout",
+      "samples": [
+        10668,
+        10728,
+        10788
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "bumper-ahead",
+      "samples": [
+        11028,
+        11088,
+        11148
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "rescue-buddy",
+      "samples": [
+        11328,
+        11388,
+        11448
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-pong",
+      "samples": [
+        11628,
+        11688,
+        11748
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "monitor-stack",
+      "samples": [
+        11988,
+        12048,
+        12108
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "ring-snake",
+      "samples": [
+        12348,
+        12408,
+        12468
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "badnik-defence",
+      "samples": [
+        12708,
+        12768,
+        12828
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "sonic-says",
+      "samples": [
+        13068,
+        13128,
+        13188
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "imaginary-chat",
+      "samples": [
+        13428,
+        13488,
+        13548
+      ],
+      "activeRegionChanged": true
+    },
+    {
+      "effect": "soz-ghost-party",
+      "samples": [
+        13788,
+        13848,
+        13908
+      ],
+      "activeRegionChanged": true
+    }
+  ],
+  "ghostSourcePcmUsed": true,
+  "sha256": "5844f2ca440bda71b3a1772915720cfeb5bb144ac7fbe3d31a9986ee7c0be1a8",
+  "bytes": 219027107,
+  "scope": "Media qualification only, not continuous route completion or native parity; root reviews generated strips separately."
+}

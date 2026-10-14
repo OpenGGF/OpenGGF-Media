@@ -1,0 +1,24 @@
+[
+  {
+    "effect": "ring-snake",
+    "zone": "CARNIVAL NIGHT / ACT 1",
+    "source": "captures/snake-cnz1/source.mkv",
+    "in_frame": 600,
+    "out_frame": 942,
+    "source_frames": 1200,
+    "death_frames": [],
+    "sample_frames": [
+      612,
+      771,
+      929
+    ],
+    "x_range": [
+      158,
+      158
+    ],
+    "rings_range": [
+      0,
+      0
+    ]
+  }
+]

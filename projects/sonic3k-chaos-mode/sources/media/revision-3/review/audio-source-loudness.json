@@ -1,0 +1,26 @@
+{
+  "bed": {
+    "input_i": "-26.95",
+    "input_tp": "-15.65",
+    "input_lra": "2.50",
+    "input_thresh": "-36.95",
+    "output_i": "-16.92",
+    "output_tp": "-5.54",
+    "output_lra": "2.50",
+    "output_thresh": "-26.92",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.08"
+  },
+  "ghost": {
+    "input_i": "-21.65",
+    "input_tp": "-9.61",
+    "input_lra": "1.50",
+    "input_thresh": "-31.65",
+    "output_i": "-15.43",
+    "output_tp": "-3.20",
+    "output_lra": "2.50",
+    "output_thresh": "-25.43",
+    "normalization_type": "dynamic",
+    "target_offset": "-1.57"
+  }
+}

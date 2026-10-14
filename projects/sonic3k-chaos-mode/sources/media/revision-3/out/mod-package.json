@@ -1,0 +1,9 @@
+{
+  "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+  "file": "sonic3k-chaos-mode.jar",
+  "sha256": "e5460b29643b176683ba0a62eaeeff413a24d717aed112c9e84294ae36be1d02",
+  "bytes": 80855,
+  "sdkFindings": 0,
+  "warningsPolicy": "error",
+  "nativeAssets": "User-supplied ROM pipeline; no extracted ROM bytes packaged."
+}

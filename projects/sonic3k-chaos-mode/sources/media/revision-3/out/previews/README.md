@@ -1,0 +1,1 @@
+Historical layout scouts before the final compact zone/ACT line formatting. The actual final movie and out/media-review moving/cut strips take precedence; these four scouts are not final output-frame evidence.

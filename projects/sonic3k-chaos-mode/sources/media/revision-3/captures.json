@@ -1,0 +1,359 @@
+[
+  {
+    "name": "bobble-hcz2",
+    "effect": "bobble-head",
+    "zone": "hcz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native Hydrocity2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "hudorbit-hcz2",
+    "effect": "hud-orbit",
+    "zone": "hcz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native Hydrocity2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "negative-hcz2",
+    "effect": "negative-world",
+    "zone": "hcz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native Hydrocity2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "afterimages-mgz2",
+    "effect": "afterimages",
+    "zone": "mgz",
+    "act": 2,
+    "script": "600 -;1 D;repeat 6 {1 D+A;1 D};1 -;587 -",
+    "frames": 1200,
+    "setup": "Positioned centre2347,574 at tested twisting-loop route; bypassed approach/events.",
+    "x": 2347,
+    "y": 574
+  },
+  {
+    "name": "mirror-mgz2",
+    "effect": "mirror-view",
+    "zone": "mgz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Positioned centre2347,574 at tested twisting-loop route; bypassed approach/events.",
+    "x": 2347,
+    "y": 574
+  },
+  {
+    "name": "squashy-mgz2",
+    "effect": "squashy-view",
+    "zone": "mgz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Positioned centre2347,574 at tested twisting-loop route; bypassed approach/events.",
+    "x": 2347,
+    "y": 574
+  },
+  {
+    "name": "rainbow-cnz1",
+    "effect": "rainbow-player",
+    "zone": "cnz",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native CarnivalNight1 direct entry."
+  },
+  {
+    "name": "bumper-cnz1",
+    "effect": "bumper-ahead",
+    "zone": "cnz",
+    "act": 1,
+    "script": "570 -;60 R;1 R+A;209 R;360 -",
+    "frames": 1200,
+    "setup": "Native CarnivalNight1 direct entry."
+  },
+  {
+    "name": "dvd-cnz1",
+    "effect": "dvd-hud",
+    "zone": "cnz",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native CarnivalNight1 direct entry."
+  },
+  {
+    "name": "rain-icz2",
+    "effect": "ring-rain",
+    "zone": "icz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native IceCap2 entry; no snowboard checkpoint/transport seeds."
+  },
+  {
+    "name": "leak-icz2",
+    "effect": "ring-leak",
+    "zone": "icz",
+    "act": 2,
+    "script": "570 -;150 R;180 L;300 R",
+    "frames": 1200,
+    "setup": "Native IceCap2 entry; no snowboard checkpoint/transport seeds.; declared32 carried rings, not earned in take",
+    "rings": 32
+  },
+  {
+    "name": "moon-icz2",
+    "effect": "moon-gravity",
+    "zone": "icz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native IceCap2 entry; no snowboard checkpoint/transport seeds."
+  },
+  {
+    "name": "ice-icz2",
+    "effect": "ice-shoes",
+    "zone": "icz",
+    "act": 2,
+    "script": "600 -;90 R;90 L;90 R;330 -",
+    "frames": 1200,
+    "setup": "Native IceCap2 entry; no snowboard checkpoint/transport seeds."
+  },
+  {
+    "name": "heads-lbz2",
+    "effect": "pulse-head",
+    "zone": "lbz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native LaunchBase2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "hudshuffle-lbz2",
+    "effect": "hud-shuffle",
+    "zone": "lbz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native LaunchBase2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "hudscale-lbz2",
+    "effect": "hud-scale",
+    "zone": "lbz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native LaunchBase2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "springlegs-mhz1",
+    "effect": "spring-legs",
+    "zone": "mhz",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native MushroomHill1 direct entry."
+  },
+  {
+    "name": "bunny-mhz1",
+    "effect": "bunny-hop",
+    "zone": "mhz",
+    "act": 1,
+    "script": "600 -;600 R",
+    "frames": 1200,
+    "setup": "Native MushroomHill1 direct entry."
+  },
+  {
+    "name": "flood-mhz1",
+    "effect": "flash-flood",
+    "zone": "mhz",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native MushroomHill1 direct entry."
+  },
+  {
+    "name": "wind-fbz1",
+    "effect": "windy-day",
+    "zone": "fbz",
+    "act": 1,
+    "script": "600 -;120 -;360 R;120 -",
+    "frames": 1200,
+    "setup": "Positioned centre0x1C90,0x26C beside actual post3; no checkpoint restore or event-state seed.",
+    "x": 7312,
+    "y": 620
+  },
+  {
+    "name": "quake-fbz1",
+    "effect": "quake-camera",
+    "zone": "fbz",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Positioned centre0x1C90,0x26C beside actual post3; no checkpoint restore or event-state seed.",
+    "x": 7312,
+    "y": 620
+  },
+  {
+    "name": "rampage-fbz1",
+    "effect": "rolling-rampage",
+    "zone": "fbz",
+    "act": 1,
+    "script": "550 -;120 R;1 D;359 R;170 -",
+    "frames": 1200,
+    "setup": "Positioned centre0x1C90,0x26C beside actual post3; no checkpoint restore or event-state seed.",
+    "x": 7312,
+    "y": 620
+  },
+  {
+    "name": "slowmo-soz1",
+    "effect": "slow-motion",
+    "zone": "soz",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native Sandopolis1 post-intro entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "fastforward-soz1",
+    "effect": "fast-forward",
+    "zone": "soz",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native Sandopolis1 post-intro entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "gravity-soz1",
+    "effect": "gravity-hiccup",
+    "zone": "soz",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native Sandopolis1 post-intro entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "blueprint-lrz2",
+    "effect": "blueprint-zone",
+    "zone": "lrz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native LavaReef2 direct entry."
+  },
+  {
+    "name": "zoom-lrz2",
+    "effect": "zoom-pulse",
+    "zone": "lrz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native LavaReef2 direct entry."
+  },
+  {
+    "name": "invisible-lrz2",
+    "effect": "invisible-player",
+    "zone": "lrz",
+    "act": 2,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native LavaReef2 direct entry."
+  },
+  {
+    "name": "shield-ssz1",
+    "effect": "shield-surprise",
+    "zone": "ssz",
+    "act": 1,
+    "script": "600 -; repeat 4 {1 A;119 -};120 -",
+    "frames": 1200,
+    "setup": "Native checkpoint reload at declared centre0x600,0xBC0, above tested floating platform; bypasses arrival intro via ordinary checkpoint owner.",
+    "x": 1536,
+    "y": 3008,
+    "checkpoint": true
+  },
+  {
+    "name": "buddy-ssz1",
+    "effect": "rescue-buddy",
+    "zone": "ssz",
+    "act": 1,
+    "script": "600 -; repeat 4 {1 A;119 -};120 -",
+    "frames": 1200,
+    "setup": "Native checkpoint reload at declared centre0x600,0xBC0, above tested floating platform; bypasses arrival intro via ordinary checkpoint owner.",
+    "x": 1536,
+    "y": 3008,
+    "checkpoint": true
+  },
+  {
+    "name": "superstar-ssz1",
+    "effect": "ten-second-superstar",
+    "zone": "ssz",
+    "act": 1,
+    "script": "600 -; repeat 4 {1 A;119 -};120 -",
+    "frames": 1200,
+    "setup": "Native checkpoint reload at declared centre0x600,0xBC0, above tested floating platform; bypasses arrival intro via ordinary checkpoint owner.",
+    "x": 1536,
+    "y": 3008,
+    "checkpoint": true
+  },
+  {
+    "name": "upsidedown-dez1",
+    "effect": "upside-down-view",
+    "zone": "dez",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native DeathEgg1 direct entry."
+  },
+  {
+    "name": "chat-dez1",
+    "effect": "imaginary-chat",
+    "zone": "dez",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native DeathEgg1 direct entry."
+  },
+  {
+    "name": "sonicsays-dez1",
+    "effect": "sonic-says",
+    "zone": "dez",
+    "act": 1,
+    "script": "600 -; repeat 8 {1 R+A;59 R};120 -",
+    "frames": 1200,
+    "setup": "Native DeathEgg1 direct entry."
+  },
+  {
+    "name": "ghosts-dez1",
+    "effect": "soz-ghost-party",
+    "zone": "dez",
+    "act": 1,
+    "script": "650 -;1 A;149 -;400 R",
+    "frames": 1200,
+    "setup": "Native DeathEgg1 direct entry."
+  },
+  {
+    "name": "snake-soz2",
+    "effect": "ring-snake",
+    "zone": "soz",
+    "act": 2,
+    "script": "600 -;repeat 5 {32 R;32 D;32 L;32 U}",
+    "frames": 1200,
+    "x": 688,
+    "y": 816,
+    "setup": "Positioned centre0x2B0,0x330 at production-tested SOZ2 light-switch region; bypassed approach/light history. Actual sidegame modalhold controls board; no lighting/world/score seed."
+  },
+  {
+    "name": "snake-cnz1",
+    "effect": "ring-snake",
+    "zone": "cnz",
+    "act": 1,
+    "script": "600 -;repeat 5 {32 R;32 D;32 L;32 U}",
+    "frames": 1200,
+    "setup": "Native CarnivalNight1 direct entry; ordinary sidegame modalhold. Authored32-frame rectangle; no score/world/control-state seed."
+  }
+]

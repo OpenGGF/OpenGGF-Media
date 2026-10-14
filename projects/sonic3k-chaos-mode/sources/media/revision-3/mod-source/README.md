@@ -1,0 +1,1 @@
+Matching unchanged example mod source from OpenGGF1a038f53cbdfc59184a32042a4f44f62d3664ee3. Candidate Mod API0.7.0; no ROM bytes in packaged JAR. Build with the matching host and the maintained SDK packager. GPL-3.0 engine/example terms apply.

@@ -1,0 +1,335 @@
+{
+  "afterimages-mgz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "a7926530351111d1c922491bb1b4e3d12f2f339a06d6c9e088ffc42b2bd6fb65",
+    "pcmSha256": "85a13e8d5c5105d86794004937a3fe813eb69164457b7d4f76917969782c33d4",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "659b6f24cd191399d6972499ab2191f91643f4e13248c7eb13c08dcfb2af74a7"
+  },
+  "blueprint-lrz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "8952492e8287a267f6fac74ff3629304ffa5f85aad60a624e06f45aad440e118",
+    "pcmSha256": "a40793535c0b372b45d1280fb6533278c15e12ff311f05cabd6006adae92ad50",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "6775909585bcf93ae51e8aef60c2f84fbb3355e66f43a939d9c17d24cde96004"
+  },
+  "bobble-hcz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "5b6bab018c3e0e0aa154a59b9ebce841c14bf3f7b8a171b94b6ced379524745e",
+    "pcmSha256": "9f336f5b06362ace70a5ad1a84f9a5fc8286de9f2e462025ad596d01c9eb5eca",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "05d7d30f619c5a04b5b0635e5c5277822c7de81deb5bcdef8de5fbce84070310"
+  },
+  "buddy-ssz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "44d9728a0a47958f539f5e5343505adeb632508e8349bcd915d5a155d7a5ec47",
+    "pcmSha256": "4d6b9f21a34d803faddafd9b971ff3e60c6401f8be2416ab04038013c2ecdd00",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "f01769d32d034b8d8c628c435588de468ce5bf656cee854c179f89bee79b731a"
+  },
+  "bumper-cnz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "bacb9f26e6d42b0a9cd42ecc712e4f6d376525d4a2ad7fcf95ea0543666cfa52",
+    "pcmSha256": "27ad4bd23a5075b95f000423fbf8f077fb8628ddaebdd44e090e4a9173ed79fb",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "2f9d28771d4c7260f3f028967ba0d30a106c47f8f7c927462ceeb1c67beabccd"
+  },
+  "bunny-mhz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "01ad32e544ad3c9d98c0ef64e3de7430e862954d77cc57fa867fb37c1b5b7cc5",
+    "pcmSha256": "a7ca2116b9619ee4753b05c26de30f4226f6328f20025f707dc597faf0f24b1e",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "dbc7af701b1609c43410fcf300935048adc072c67ed6995897c6e113a8e979fc"
+  },
+  "chat-dez1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "cb31a13742c3f9d850c4f0f4283af595e4b881ad0ab38c1da40d0f42199be2b6",
+    "pcmSha256": "895ded103304dfeeeb445b3f8baa8efbb17d1a5657ad8ee19a9b39b159b0575d",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "a1548268c28b7b95be6c40f977f44b45afb601bea5683c229a40663a0c23c6d2"
+  },
+  "dvd-cnz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "88aa9983cd56bbc84d1097cf0c25e01718fa57b68f691d802f923b1c00fa485f",
+    "pcmSha256": "a241ad39572c0461981060f52aa923cdd83f6ee79f34fd8cc9a03ad0bf39613a",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "b1e24b132c56c39b71a2472bd5d0a07fc685eb66c296680471ccd9e276fe42e8"
+  },
+  "fastforward-soz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "8b02b813d549c23bf7932c9caf29947e3d7d1af2ec860c6656da9243c580dca4",
+    "pcmSha256": "dffa197c63c6d79b9ce739634222bc031ae33194943cf1ffd6a04815e653cac6",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "ff93e33871d6c721e37d0c1cc85c56d8b47a90f8b19cd674eefb24c89d80cdcd"
+  },
+  "flood-mhz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "17f2d8b9f4d68ab7456ab5d0056afce93bced1faba3c250e408c9473bd2e12b6",
+    "pcmSha256": "0fa34eff6d746a98c6fcc19080a9bfd5a3b4b238b748dbab4cccf6c04025d1f1",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "ee356cbddc0be7ee6587d560ce9e9d7112380bcd340f2bd4c4c08e8626e98c26"
+  },
+  "ghosts-dez1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "8d1032bec0fe4e8f4767dd15587064eae348cf183003321aca5869f4b639aaee",
+    "pcmSha256": "2576edc059cd56547285c4e1d4e62357dc7359db725c87992bd0f0c83683e728",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "bbc472f8f1972bdecaa2de457bcb557905cb7889ebe9366e9c9aafe7d41012b4"
+  },
+  "gravity-soz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "30a128c0adc615e11310fc5ac18095597ed20b22eb61b78d7ad67905c493e197",
+    "pcmSha256": "268ec5915771177c92bc5114d5d7caa9f08ac2a874f012874f825061e5c486bc",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "145fbfabbfd90920836059025ccb7069c3de2bff49855add16bc41aedd254b62"
+  },
+  "heads-lbz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "edb40661ccfbec686f6e3a05beffd45b4dd575fa2ebdf87355a6273f3ceb440c",
+    "pcmSha256": "0ae85554c0f6fe2fe815466ee58447cf7d321c7af12e1edc89c45d2d7359bf03",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "ec58afd60ae69a980b55f19c336103c4cfdc2bff0bb5c88740c64f4429ed6b91"
+  },
+  "hudorbit-hcz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "522acd94d421115d10bbd8d112c2ebfacef65e39197404d8d844c06fdc89a606",
+    "pcmSha256": "9f336f5b06362ace70a5ad1a84f9a5fc8286de9f2e462025ad596d01c9eb5eca",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "359ea0e64af8fccd05ff2552e100c2da564cf34c4b7f7ffc76f67ce29b9c19f0"
+  },
+  "hudscale-lbz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "7bb808bf0d3b54d892abd7e48a1c77f11aff64c89cfc3bdfe494ba22a587c13e",
+    "pcmSha256": "0ae85554c0f6fe2fe815466ee58447cf7d321c7af12e1edc89c45d2d7359bf03",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "8f9367551c1b82048c8f2a792208679cbe5b15843da883950916e1c13afec30d"
+  },
+  "hudshuffle-lbz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "ebeefd0427efebafc6dc3672b3959f864feb1d525fd732deb2b53132ec039bde",
+    "pcmSha256": "0ae85554c0f6fe2fe815466ee58447cf7d321c7af12e1edc89c45d2d7359bf03",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "989da5cfd86e47afe2a9a34b2d1cee2479ee0e7d71580e88bf0caf8ee4dc157c"
+  },
+  "ice-icz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "c6b5100ab44f16cd2bf2408f67dda0f1a087277a633cfbf5d438c4a14dfd96c3",
+    "pcmSha256": "8d72749b3653b26452a324aeb4d0037914e10df902ae0aee3442fed3112ee228",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "1d456603876e5ecac615a17645799463ca2bc3bfff86b12be8ef3af480808d41"
+  },
+  "invisible-lrz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "0af84047f7c2727cb4bc4ef10dce7472896191115f5d242ea09ccbeef03c28a1",
+    "pcmSha256": "a40793535c0b372b45d1280fb6533278c15e12ff311f05cabd6006adae92ad50",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "5426ba5449bef7d05df772384cf489fadd6cc2a7403dc292ed41a92b53235cc2"
+  },
+  "leak-icz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "962db4d8f651a49e9196af2f0b3f3e66bbae40ba7641f43a23166bcba66cf1c6",
+    "pcmSha256": "2349536bcba77e0a364c80d90e599d07c29af8c37ed32bec5e4e082229ae630d",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "135e04b1f7c82e36c3946a2e9a66adaf8bcfe02501c15052f93ce11eb2a93e52"
+  },
+  "mirror-mgz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "aa2d1e80c1eb8de5a0b86d67ee92d528108fa45904679aeee84e2b1aa1619d39",
+    "pcmSha256": "c140e34f1df37cdcd1a063403218dd8c5f201f2e34ccbe0519a5fb1847dd21c8",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "3559906c76a04577a8384665bcb2a1cbabe024d5ec13d7b7947bd467e2acc459"
+  },
+  "moon-icz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "1f16c28ec5baba64e1fa2488f2b12213092235146a6333ab723bc92546178c9e",
+    "pcmSha256": "41ec1bb77cec2320ae0cbc713038eaf58e23554eb2726611a459b320487fcd04",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "7fe420fd120fd489f48df9ca60320f544207633b0f06fa18966d74b18555a062"
+  },
+  "negative-hcz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "7d4eb8a2f333269a96d88146ee86f4dd2414405ef87edbf585f219247bc3a5ce",
+    "pcmSha256": "9f336f5b06362ace70a5ad1a84f9a5fc8286de9f2e462025ad596d01c9eb5eca",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "f6b60a45c542a024724334d4ecdaa30680250f921dc9149ea33f1d01577ed558"
+  },
+  "quake-fbz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "bd5f191cae2167aabe2c3bfee741d2e3c7133af50adb6cb2ed44cecb532893a6",
+    "pcmSha256": "50fa82f4ab2804f474118ec76cafa3dc73b52c93736915083aeac23b1b65fd62",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "8a1a0ddd4bd30350a03d5d7274f2dca853c02b74c1aaec6af45fa2ce8af333ec"
+  },
+  "rain-icz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "964c9cde31739ee74a4d24a4c5b6dc0a0ba4aa710a9f6a2aa6b580b7b9ac62de",
+    "pcmSha256": "a80dc144cf3e52c0cdbd9693df26a631c5e7a78829ea837305191977b9369018",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "55eb498c00e48cca31f1af0c3e06cb1af3cd5f3a3bff095b252a181774572d30"
+  },
+  "rainbow-cnz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "1dc17b257f73dd6a123e17fcfae9d7bb3e5782e7f7c7a514b6e12472ff5c9d27",
+    "pcmSha256": "a241ad39572c0461981060f52aa923cdd83f6ee79f34fd8cc9a03ad0bf39613a",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "1711a025d985f98359529b56a59a5cfc6a13a288833d87774a8b2d1195b635d3"
+  },
+  "rampage-fbz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "37ba17c08217ea42e2e82f4c24e944293cd2cc69fb283871b0247bfd668c8eb8",
+    "pcmSha256": "3b71ed7eb361a7bf7b6d306ed6ca81a9e1c89aa7ae686ceab1138aa1f8578af9",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "c4f0d70292ce89def308684122611252191baecfda79bc76abd6b02b816e40b4"
+  },
+  "shield-ssz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "0bd5a71881e665ec8bf5bc829bc711514cd0d770662a5083044de19e31636de1",
+    "pcmSha256": "9372ded9ddd28fb55f672be116d8ad092e7484c9a001cc3f751ec70aaba15c4c",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "c888a66751fee2bf8db1184eb026284983c94138f5da1e5fc10d4739364cb315"
+  },
+  "slowmo-soz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "1b15cca59b3efaefb82e6e853c1ffd7da0f64462607d5ed60cc02e78a5d19cb5",
+    "pcmSha256": "4ae9e2fbba846e72c4bad5274da341b2e4250a1022da443e8ccc14c46cb9c078",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "75e41916192afe6c1dcbd438110c9d7b4881bedce4f0e5aded5e9884e88eab40"
+  },
+  "sonicsays-dez1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "6ff36eb6c86620b3673e4de30628df8962cb9dd9882385ff409a9d1f69ff3961",
+    "pcmSha256": "895ded103304dfeeeb445b3f8baa8efbb17d1a5657ad8ee19a9b39b159b0575d",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "dc5742be4acd2545f0309308c667a4c3ca4b086447327c91da3fb3763cf86c0e"
+  },
+  "springlegs-mhz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "f69e115271ea407986fe76b62824ba5f0d5394a1e18d1e59e78a34207b87de70",
+    "pcmSha256": "4f8433df9c8ee581db7e9c6d84f4acd00f2b66f5ac364841f8534d3e7e1306bf",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "4b0a27aa58f722b8005b8f385fb329646bfeaf7756665efcca17747e0a6f567c"
+  },
+  "squashy-mgz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "4ca49aa75f957bf98342cd9dc6b1bd6b8c89a771b9828215d2252e82882d9f77",
+    "pcmSha256": "c140e34f1df37cdcd1a063403218dd8c5f201f2e34ccbe0519a5fb1847dd21c8",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "780c03ac9e987e49233d328ddf3f121f36d9ba0231eef555c973841aad6c28fc"
+  },
+  "superstar-ssz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "4b6b61a296c587baf065ab0574755dc743cd4b98ccf5d79ef7d21c85ed7cb532",
+    "pcmSha256": "9372ded9ddd28fb55f672be116d8ad092e7484c9a001cc3f751ec70aaba15c4c",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "7c6efdd876ebcfd9e42f0ee43c16050b8139e6d518da817ef77341e0da4f1b6e"
+  },
+  "upsidedown-dez1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "5377f93b4b33bdf488d3ee7c026da4b9d5e6056af346447bd9466d778a7a32ef",
+    "pcmSha256": "895ded103304dfeeeb445b3f8baa8efbb17d1a5657ad8ee19a9b39b159b0575d",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "1c3d415f03bc93478cacca9205d5da6ba9127da771518a7a8cd21b40bda7538e"
+  },
+  "wind-fbz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "890df0ff97a2a87a7fbee871d3870c2402a0f0d1cda9d5fb794a8c9155dd7258",
+    "pcmSha256": "2c86de4fd61501019e5a1390324dfabb17fa961a74316ab5e9aed4a86572fa61",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "8dfba6fd6af8f8f9f77bfb1876ccf3fcc6135fefbb71217b3a54d99e19c1ae25"
+  },
+  "zoom-lrz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "ac56f3a174fcabfe2030391cc5463de89643711c91e41eb61c36feacc872679b",
+    "pcmSha256": "a40793535c0b372b45d1280fb6533278c15e12ff311f05cabd6006adae92ad50",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "e9eb7982c04bd63ea52690726a02769dc46cf5141b278e6110064d1c6fcccd52"
+  },
+  "snake-soz2": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "be6543034105a3b6e5a986e70c22466f68b7e2596b4d3639ea86b925c5eb028b",
+    "pcmSha256": "853da17a9315bdd574bbbdac527d7ffe5d0ee3b95a9820579c4366e4e2615c90",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "7c7aff4c2cd70ab5a7261479e463451a7438bdd697c83f9c8efba1ccfec72e34"
+  },
+  "snake-cnz1": {
+    "frames": 1200,
+    "frameRate": "60/1",
+    "rgbSequenceSha256": "c129540a63d2f4e30dd97af82693a9f5c7e5c775fafe2de4cc4d8006d0533b18",
+    "pcmSha256": "2a1bde59855c9448407d8ec9855a87540af8faeef79f003af85b43034a472cc2",
+    "pngPixelsEqual": true,
+    "nativePcmEqual": true,
+    "masterSha256": "633e61b770023a8b95a7057ad995c2ee1ed8f85ba127039c87c4c62dba02a9e7"
+  }
+}

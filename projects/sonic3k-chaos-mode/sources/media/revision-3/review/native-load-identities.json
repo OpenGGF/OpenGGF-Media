@@ -1,0 +1,631 @@
+[
+  {
+    "name": "afterimages-mgz2",
+    "observedNativeLoads": [
+      [
+        2,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2347,
+      574
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "afterimages",
+    "entrySetup": "Positioned centre2347,574 at tested twisting-loop route; bypassed approach/events."
+  },
+  {
+    "name": "blueprint-lrz2",
+    "observedNativeLoads": [
+      [
+        9,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2528,
+      1900
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "blueprint-zone",
+    "entrySetup": "Native LavaReef2 direct entry."
+  },
+  {
+    "name": "bobble-hcz2",
+    "observedNativeLoads": [
+      [
+        1,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      368,
+      2092
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "bobble-head",
+    "entrySetup": "Native Hydrocity2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "buddy-ssz1",
+    "observedNativeLoads": [
+      [
+        10,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      1536,
+      3008
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "rescue-buddy",
+    "entrySetup": "Native checkpoint reload at declared centre0x600,0xBC0, above tested floating platform; bypasses arrival intro via ordinary checkpoint owner."
+  },
+  {
+    "name": "bumper-cnz1",
+    "observedNativeLoads": [
+      [
+        3,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      24,
+      1536
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "bumper-ahead",
+    "entrySetup": "Native CarnivalNight1 direct entry."
+  },
+  {
+    "name": "bunny-mhz1",
+    "observedNativeLoads": [
+      [
+        7,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      216,
+      1280
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "bunny-hop",
+    "entrySetup": "Native MushroomHill1 direct entry."
+  },
+  {
+    "name": "chat-dez1",
+    "observedNativeLoads": [
+      [
+        11,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      48,
+      2476
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "imaginary-chat",
+    "entrySetup": "Native DeathEgg1 direct entry."
+  },
+  {
+    "name": "dvd-cnz1",
+    "observedNativeLoads": [
+      [
+        3,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      24,
+      1536
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "dvd-hud",
+    "entrySetup": "Native CarnivalNight1 direct entry."
+  },
+  {
+    "name": "fastforward-soz1",
+    "observedNativeLoads": [
+      [
+        8,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      192,
+      1024
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "fast-forward",
+    "entrySetup": "Native Sandopolis1 post-intro entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "flood-mhz1",
+    "observedNativeLoads": [
+      [
+        7,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      216,
+      1280
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "flash-flood",
+    "entrySetup": "Native MushroomHill1 direct entry."
+  },
+  {
+    "name": "ghosts-dez1",
+    "observedNativeLoads": [
+      [
+        11,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      48,
+      2476
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "soz-ghost-party",
+    "entrySetup": "Native DeathEgg1 direct entry."
+  },
+  {
+    "name": "gravity-soz1",
+    "observedNativeLoads": [
+      [
+        8,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      192,
+      1024
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "gravity-hiccup",
+    "entrySetup": "Native Sandopolis1 post-intro entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "heads-lbz2",
+    "observedNativeLoads": [
+      [
+        6,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      1584,
+      1004
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "pulse-head",
+    "entrySetup": "Native LaunchBase2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "hudorbit-hcz2",
+    "observedNativeLoads": [
+      [
+        1,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      368,
+      2092
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "hud-orbit",
+    "entrySetup": "Native Hydrocity2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "hudscale-lbz2",
+    "observedNativeLoads": [
+      [
+        6,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      1584,
+      1004
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "hud-scale",
+    "entrySetup": "Native LaunchBase2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "hudshuffle-lbz2",
+    "observedNativeLoads": [
+      [
+        6,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      1584,
+      1004
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "hud-shuffle",
+    "entrySetup": "Native LaunchBase2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "ice-icz2",
+    "observedNativeLoads": [
+      [
+        5,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2016,
+      880
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "ice-shoes",
+    "entrySetup": "Native IceCap2 entry; no snowboard checkpoint/transport seeds."
+  },
+  {
+    "name": "invisible-lrz2",
+    "observedNativeLoads": [
+      [
+        9,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2528,
+      1900
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "invisible-player",
+    "entrySetup": "Native LavaReef2 direct entry."
+  },
+  {
+    "name": "leak-icz2",
+    "observedNativeLoads": [
+      [
+        5,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2016,
+      880
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "ring-leak",
+    "entrySetup": "Native IceCap2 entry; no snowboard checkpoint/transport seeds.; declared32 carried rings, not earned in take"
+  },
+  {
+    "name": "mirror-mgz2",
+    "observedNativeLoads": [
+      [
+        2,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2347,
+      574
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "mirror-view",
+    "entrySetup": "Positioned centre2347,574 at tested twisting-loop route; bypassed approach/events."
+  },
+  {
+    "name": "moon-icz2",
+    "observedNativeLoads": [
+      [
+        5,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2016,
+      880
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "moon-gravity",
+    "entrySetup": "Native IceCap2 entry; no snowboard checkpoint/transport seeds."
+  },
+  {
+    "name": "negative-hcz2",
+    "observedNativeLoads": [
+      [
+        1,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      368,
+      2092
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "negative-world",
+    "entrySetup": "Native Hydrocity2 direct entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "quake-fbz1",
+    "observedNativeLoads": [
+      [
+        4,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      7312,
+      620
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "quake-camera",
+    "entrySetup": "Positioned centre0x1C90,0x26C beside actual post3; no checkpoint restore or event-state seed."
+  },
+  {
+    "name": "rain-icz2",
+    "observedNativeLoads": [
+      [
+        5,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2016,
+      880
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "ring-rain",
+    "entrySetup": "Native IceCap2 entry; no snowboard checkpoint/transport seeds."
+  },
+  {
+    "name": "rainbow-cnz1",
+    "observedNativeLoads": [
+      [
+        3,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      24,
+      1536
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "rainbow-player",
+    "entrySetup": "Native CarnivalNight1 direct entry."
+  },
+  {
+    "name": "rampage-fbz1",
+    "observedNativeLoads": [
+      [
+        4,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      7312,
+      620
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "rolling-rampage",
+    "entrySetup": "Positioned centre0x1C90,0x26C beside actual post3; no checkpoint restore or event-state seed."
+  },
+  {
+    "name": "shield-ssz1",
+    "observedNativeLoads": [
+      [
+        10,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      1536,
+      3008
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "shield-surprise",
+    "entrySetup": "Native checkpoint reload at declared centre0x600,0xBC0, above tested floating platform; bypasses arrival intro via ordinary checkpoint owner."
+  },
+  {
+    "name": "slowmo-soz1",
+    "observedNativeLoads": [
+      [
+        8,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      192,
+      1024
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "slow-motion",
+    "entrySetup": "Native Sandopolis1 post-intro entry; capture skip-intros owner retained."
+  },
+  {
+    "name": "sonicsays-dez1",
+    "observedNativeLoads": [
+      [
+        11,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      48,
+      2476
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "sonic-says",
+    "entrySetup": "Native DeathEgg1 direct entry."
+  },
+  {
+    "name": "springlegs-mhz1",
+    "observedNativeLoads": [
+      [
+        7,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      216,
+      1280
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "spring-legs",
+    "entrySetup": "Native MushroomHill1 direct entry."
+  },
+  {
+    "name": "squashy-mgz2",
+    "observedNativeLoads": [
+      [
+        2,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2347,
+      574
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "squashy-view",
+    "entrySetup": "Positioned centre2347,574 at tested twisting-loop route; bypassed approach/events."
+  },
+  {
+    "name": "superstar-ssz1",
+    "observedNativeLoads": [
+      [
+        10,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      1536,
+      3008
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "ten-second-superstar",
+    "entrySetup": "Native checkpoint reload at declared centre0x600,0xBC0, above tested floating platform; bypasses arrival intro via ordinary checkpoint owner."
+  },
+  {
+    "name": "upsidedown-dez1",
+    "observedNativeLoads": [
+      [
+        11,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      48,
+      2476
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "upside-down-view",
+    "entrySetup": "Native DeathEgg1 direct entry."
+  },
+  {
+    "name": "wind-fbz1",
+    "observedNativeLoads": [
+      [
+        4,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      7312,
+      620
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "windy-day",
+    "entrySetup": "Positioned centre0x1C90,0x26C beside actual post3; no checkpoint restore or event-state seed."
+  },
+  {
+    "name": "zoom-lrz2",
+    "observedNativeLoads": [
+      [
+        9,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      2528,
+      1900
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "zoom-pulse",
+    "entrySetup": "Native LavaReef2 direct entry."
+  },
+  {
+    "name": "snake-soz2",
+    "observedNativeLoads": [
+      [
+        8,
+        1
+      ]
+    ],
+    "firstCsvCentre": [
+      688,
+      818
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "ring-snake",
+    "entrySetup": "Positioned centre0x2B0,0x330 at production-tested SOZ2 light-switch region; bypassed approach/light history. Actual sidegame modalhold controls board; no lighting/world/score seed."
+  },
+  {
+    "name": "snake-cnz1",
+    "observedNativeLoads": [
+      [
+        3,
+        0
+      ]
+    ],
+    "firstCsvCentre": [
+      24,
+      1536
+    ],
+    "frames": 1200,
+    "sourceCommit": "1a038f53cbdfc59184a32042a4f44f62d3664ee3",
+    "effect": "ring-snake",
+    "entrySetup": "Native CarnivalNight1 direct entry; ordinary sidegame modalhold. Authored32-frame rectangle; no score/world/control-state seed."
+  }
+]

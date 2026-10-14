@@ -15,7 +15,10 @@ Wildcards identify image sets; a `frame-sequence` row represents a whole directo
 
 For example, `sonic3k-chaos-mode/media` was `~/scratch/sonic3k-chaos-demo-20261014`.
 The archived `revision-2/edl.json`, its selections and its assembly script preserve
-their relative layout under that root. Source MKVs, PCM, artwork and generated
+their relative layout under that root. The calmer `revision-3/cards.json` and
+compositor retain the same root, with selected earlier demonstrations alongside
+new varied-zone captures. Each revision's README identifies its actual engine
+source, audio policy and completed checks. Source MKVs, PCM, artwork and generated
 frames remain in the original external root. Place archived sources in a **new
 working copy** of that media root, supply its external dependencies, and adjust
 machine-specific paths or the script's existing environment overrides. Keep the
