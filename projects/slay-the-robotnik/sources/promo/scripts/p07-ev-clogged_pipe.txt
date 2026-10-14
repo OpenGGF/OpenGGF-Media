@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:clogged_pipe@2:8:1
+# ticks: 560
+90:enter
++330:enter

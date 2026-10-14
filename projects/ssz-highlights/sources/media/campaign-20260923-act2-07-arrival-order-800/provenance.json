@@ -1,0 +1,15 @@
+{
+  "head": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty": true,
+  "input_start": 412501,
+  "vint_seed": 410766,
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "hashes": {
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kGameModule.java": "9665f661730c9ba2553712e2c3ddd7bc423b16134aaa203618250c492d682c94",
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kLevelEventManager.java": "775028024ff60ba5ed8e1932ce0119736f784952fb40162e6356faa692127227",
+    "src/main/java/com/openggf/game/sonic3k/events/Sonic3kSSZEvents.java": "0d872fa75db61fe1c29a41b29188621d5f5d0dfaaddc818d1bdbb4ff306cc348",
+    "target/classes/com/openggf/game/sonic3k/Sonic3kGameModule.class": "c5a06e932e8979d8045209c534fc97e727a46448e05d0152b105d4d51ebcf848",
+    "target/classes/com/openggf/game/sonic3k/Sonic3kLevelEventManager.class": "39b97be74f93c43195c8533de7b027bdde10f031504fc5c3ef0d63b862ba71ab"
+  },
+  "scope": "first fight only, 2000 steps; route probe dies at2097; no full-fight claim"
+}

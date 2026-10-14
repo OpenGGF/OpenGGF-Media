@@ -1,0 +1,13 @@
+output_start,output_end,title,source,source_start,source_end
+0.000,5.983,"Sitar Hero",../raw-v2/career/career.mp4,0.0,6.0
+5.983,11.583,"Tour every world",../raw-v2/career/career.mp4,5.983333333333333,11.6
+11.583,19.267,"A satirical career",../raw-v2/career/career.mp4,11.583333333333332,19.6667
+19.267,21.367,"Full songs from your ROMs",../raw-v2/career/career.mp4,21.6,24.0
+21.367,27.967,"Count-in",../raw-v2/career/career.mp4,194.0,201.0
+27.967,32.567,"Bongos: Sonic 1",../raw-v2/gh-bongos/gh-bongos.mp4,138.3333,143.3333
+32.567,37.167,"Synth: Sonic 2",../raw-v2/cpz-synth/cpz-synth.mp4,158.3333,163.3333
+37.167,41.767,"Harp: Sonic 3 & Knuckles",../raw-v2/lbz-harp/lbz-harp.mp4,169.1667,174.1667
+41.767,48.867,"Local score duel",../raw-v2/duel/duel.mp4,132.5,140.0
+48.867,57.633,"Streaks and Star Power",../raw-v2/finale/finale.mp4,152.5,161.6667
+57.633,63.633,"Results",../raw-v2/finale/finale.mp4,251.8333,258.3333
+63.633,71.133,"Play it",../raw-v2/outro/outro.mp4,2.0,9.5

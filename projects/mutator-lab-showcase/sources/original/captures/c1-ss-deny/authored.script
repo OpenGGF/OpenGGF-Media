@@ -1,0 +1,17 @@
+# Same setup: Lab first, switch No Special Stages on, Resume, then the same run and jump through the giant ring.
+20 -
+1 S
+24 -
+repeat 8 { 1 D; 6 - }
+20 -
+1 R
+40 -
+repeat 3 { 1 D; 6 - }
+20 -
+1 A
+235 R
+1 R+A
+25 R+A
+200 R
+900 -
+300 R

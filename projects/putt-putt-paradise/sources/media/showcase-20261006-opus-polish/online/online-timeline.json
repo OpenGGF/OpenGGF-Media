@@ -1,0 +1,1013 @@
+{
+ "rows": 4931,
+ "events": [
+  {
+   "row": 3,
+   "event": "room-ready",
+   "host": {
+    "frame": "3",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "1",
+    "hud": "HANDOFF"
+   },
+   "guest": {
+    "frame": "3",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "1",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 3,
+   "event": "handoff-0",
+   "host": {
+    "frame": "3",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "1",
+    "hud": "HANDOFF"
+   },
+   "guest": {
+    "frame": "3",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "1",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 84,
+   "event": "ready-0",
+   "host": {
+    "frame": "84",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "1",
+    "hud": "AIM"
+   },
+   "guest": {
+    "frame": "84",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "1",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 124,
+   "event": "aim-0-1-0-30",
+   "host": {
+    "frame": "124",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "1",
+    "hud": "AIM"
+   },
+   "guest": {
+    "frame": "124",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "1",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 159,
+   "event": "shot-0",
+   "host": {
+    "frame": "159",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "CHARGING",
+    "stage": "FEEDBACK",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "1",
+    "hud": "FEEDBACK"
+   },
+   "guest": {
+    "frame": "159",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "CHARGING",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "1",
+    "hud": "CHARGING"
+   }
+  },
+  {
+   "row": 484,
+   "event": "turn-to-1",
+   "host": {
+    "frame": "484",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "2",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "484",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "2",
+    "hud": "HANDOFF"
+   }
+  },
+  {
+   "row": 484,
+   "event": "handoff-1",
+   "host": {
+    "frame": "484",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "2",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "484",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "2",
+    "hud": "HANDOFF"
+   }
+  },
+  {
+   "row": 566,
+   "event": "ready-1",
+   "host": {
+    "frame": "566",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "2",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "566",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "2",
+    "hud": "AIM"
+   }
+  },
+  {
+   "row": 606,
+   "event": "aim-1-1-0-30",
+   "host": {
+    "frame": "606",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "2",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "606",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "2",
+    "hud": "AIM"
+   }
+  },
+  {
+   "row": 641,
+   "event": "shot-1",
+   "host": {
+    "frame": "641",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "2",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "641",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "FEEDBACK",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "2",
+    "hud": "FEEDBACK"
+   }
+  },
+  {
+   "row": 966,
+   "event": "turn-to-0",
+   "host": {
+    "frame": "966",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "3",
+    "hud": "HANDOFF"
+   },
+   "guest": {
+    "frame": "966",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "3",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 966,
+   "event": "handoff-0",
+   "host": {
+    "frame": "966",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "3",
+    "hud": "HANDOFF"
+   },
+   "guest": {
+    "frame": "966",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "3",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 1047,
+   "event": "ready-0",
+   "host": {
+    "frame": "1047",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "3",
+    "hud": "AIM"
+   },
+   "guest": {
+    "frame": "1047",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "3",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 1087,
+   "event": "aim-0-1-40-60",
+   "host": {
+    "frame": "1087",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "3",
+    "hud": "AIM"
+   },
+   "guest": {
+    "frame": "1087",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "3",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 1253,
+   "event": "shot-0",
+   "host": {
+    "frame": "1253",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "CHARGING",
+    "stage": "FEEDBACK",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "3",
+    "hud": "FEEDBACK"
+   },
+   "guest": {
+    "frame": "1253",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "CHARGING",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "3",
+    "hud": "CHARGING"
+   }
+  },
+  {
+   "row": 1571,
+   "event": "turn-to-1",
+   "host": {
+    "frame": "1571",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "1571",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "HANDOFF"
+   }
+  },
+  {
+   "row": 1571,
+   "event": "handoff-1",
+   "host": {
+    "frame": "1571",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "1571",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "HANDOFF"
+   }
+  },
+  {
+   "row": 1653,
+   "event": "ready-1",
+   "host": {
+    "frame": "1653",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "1653",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "AIM"
+   }
+  },
+  {
+   "row": 1693,
+   "event": "aim-1-1-40-60",
+   "host": {
+    "frame": "1693",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "1693",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "AIM"
+   }
+  },
+  {
+   "row": 1859,
+   "event": "shot-1",
+   "host": {
+    "frame": "1859",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "1859",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "FEEDBACK",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "FEEDBACK"
+   }
+  },
+  {
+   "row": 1929,
+   "event": "guest-rewind-request",
+   "host": {
+    "frame": "1929",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "WATCH",
+    "stage": "WATCH",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WATCH"
+   },
+   "guest": {
+    "frame": "1929",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "WATCH",
+    "stage": "WATCH",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "WATCH"
+   }
+  },
+  {
+   "row": 1978,
+   "event": "guest-rewind-restored",
+   "host": {
+    "frame": "1978",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "1978",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "AIM"
+   }
+  },
+  {
+   "row": 2008,
+   "event": "aim-1-1-40-60",
+   "host": {
+    "frame": "2008",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "2008",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "AIM"
+   }
+  },
+  {
+   "row": 2174,
+   "event": "shot-1",
+   "host": {
+    "frame": "2174",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "4",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "2174",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "FEEDBACK",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "4",
+    "hud": "FEEDBACK"
+   }
+  },
+  {
+   "row": 2492,
+   "event": "turn-to-0",
+   "host": {
+    "frame": "2492",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "5",
+    "hud": "HANDOFF"
+   },
+   "guest": {
+    "frame": "2492",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "5",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 2492,
+   "event": "handoff-0",
+   "host": {
+    "frame": "2492",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "5",
+    "hud": "HANDOFF"
+   },
+   "guest": {
+    "frame": "2492",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "5",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 2573,
+   "event": "ready-0",
+   "host": {
+    "frame": "2573",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "5",
+    "hud": "AIM"
+   },
+   "guest": {
+    "frame": "2573",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "5",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 2613,
+   "event": "aim-0-1-0-45",
+   "host": {
+    "frame": "2613",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "5",
+    "hud": "AIM"
+   },
+   "guest": {
+    "frame": "2613",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "5",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 2663,
+   "event": "shot-0",
+   "host": {
+    "frame": "2663",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "CHARGING",
+    "stage": "FEEDBACK",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "5",
+    "hud": "FEEDBACK"
+   },
+   "guest": {
+    "frame": "2663",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "CHARGING",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "5",
+    "hud": "CHARGING"
+   }
+  },
+  {
+   "row": 3651,
+   "event": "turn-to-1",
+   "host": {
+    "frame": "3651",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "6",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "3651",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "6",
+    "hud": "HANDOFF"
+   }
+  },
+  {
+   "row": 3651,
+   "event": "handoff-1",
+   "host": {
+    "frame": "3651",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "6",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "3651",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "6",
+    "hud": "HANDOFF"
+   }
+  },
+  {
+   "row": 3733,
+   "event": "ready-1",
+   "host": {
+    "frame": "3733",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "6",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "3733",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "6",
+    "hud": "AIM"
+   }
+  },
+  {
+   "row": 3773,
+   "event": "aim-1-1-0-45",
+   "host": {
+    "frame": "3773",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "6",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "3773",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "6",
+    "hud": "AIM"
+   }
+  },
+  {
+   "row": 3823,
+   "event": "shot-1",
+   "host": {
+    "frame": "3823",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "AIM",
+    "readiness": "NONE",
+    "status": "PLAYING",
+    "turn": "6",
+    "hud": "WAITING"
+   },
+   "guest": {
+    "frame": "3823",
+    "ready": "true",
+    "held": "false",
+    "owner": "1",
+    "phase": "AIM",
+    "stage": "FEEDBACK",
+    "readiness": "NONE",
+    "status": "REMOTE",
+    "turn": "6",
+    "hud": "FEEDBACK"
+   }
+  },
+  {
+   "row": 4811,
+   "event": "turn-to-0",
+   "host": {
+    "frame": "4811",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "7",
+    "hud": "HANDOFF"
+   },
+   "guest": {
+    "frame": "4811",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "7",
+    "hud": "WAITING"
+   }
+  },
+  {
+   "row": 4931,
+   "event": "capture-end",
+   "host": {
+    "frame": "4931",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "PLAYING",
+    "turn": "7",
+    "hud": "HANDOFF"
+   },
+   "guest": {
+    "frame": "4931",
+    "ready": "true",
+    "held": "false",
+    "owner": "0",
+    "phase": "HANDOFF",
+    "stage": "AIM",
+    "readiness": "WAITING",
+    "status": "REMOTE",
+    "turn": "7",
+    "hud": "WAITING"
+   }
+  }
+ ]
+}

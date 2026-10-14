@@ -1,0 +1,9 @@
+docs: record integrated Sandopolis controller verification
+
+Changelog: n/a
+Guide: n/a
+Known-Discrepancies: n/a
+S3K-Known-Discrepancies: n/a
+Agent-Docs: n/a
+Configuration-Docs: n/a
+Skills: n/a

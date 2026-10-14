@@ -1,0 +1,1744 @@
+{
+  "task": "S3K playable completion: native endings",
+  "created": "2026-10-13",
+  "status": "Delivered on verified and pushed develop; retained films are historical sources, not latest-integrated pixel parity.",
+  "baseline_commit": "5e2f51f07917d5eff8ac120007dac55327f93f32",
+  "worktree_head": "37b5591b6",
+  "feature_commit": "c2103d5f73abd58788af3efb6bf6773da296fc33",
+  "workspace": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings",
+  "source_identity": {
+    "immutable_jar": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-ae1fcb9dad68.jar",
+    "jar_sha256": "75e43c59fd1ea39898ff8cf6d0f6940eac3e28a0960524ed95f661ed2aa56230",
+    "note": "Compiled ending candidate including fixed native8/48 slots, ROM plane DMA range refresh, routine0 restore guard and native body donor binding. Before subsequent donor-tail binding and test-only breadth changes; these four films use native characters without donor."
+  },
+  "runtime": {
+    "java": "Java25",
+    "heap": "1GiB",
+    "active_processors": 2,
+    "graphics": "surfaceless EGL",
+    "unset_environment": [
+      "DISPLAY",
+      "WAYLAND_DISPLAY"
+    ],
+    "audio": false,
+    "cwd": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings"
+  },
+  "rom": {
+    "path": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+    "crc32": "63522553",
+    "sha1": "cfbf98c36c776677290a872547ac47c53d2761d6"
+  },
+  "java_command_prefix": [
+    "java",
+    "-Xmx1g",
+    "-XX:ActiveProcessorCount=2",
+    "--enable-native-access=ALL-UNNAMED",
+    "-Dopenggf.headless.gl=surfaceless-egl",
+    "-Djava.io.tmpdir=/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+    "-cp",
+    "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-ae1fcb9dad68.jar:/home/farrell/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/farrell/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/farrell/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.10.3/junit-platform-console-standalone-1.10.3.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5/1.4.2/archunit-junit5-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-api/1.4.2/archunit-junit5-api-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit/1.4.2/archunit-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine/1.4.2/archunit-junit5-engine-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine-api/1.4.2/archunit-junit5-engine-api-1.4.2.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/farrell/.m2/repository/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy/1.17.7/byte-buddy-1.17.7.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar:/home/farrell/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.22.1/jackson-databind-2.22.1.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.22.1/jackson-core-2.22.1.jar:/home/farrell/.m2/repository/io/netty/netty-all/4.1.115.Final/netty-all-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-dns/4.1.115.Final/netty-codec-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-haproxy/4.1.115.Final/netty-codec-haproxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http/4.1.115.Final/netty-codec-http-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http2/4.1.115.Final/netty-codec-http2-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-memcache/4.1.115.Final/netty-codec-memcache-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-mqtt/4.1.115.Final/netty-codec-mqtt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-redis/4.1.115.Final/netty-codec-redis-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-smtp/4.1.115.Final/netty-codec-smtp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-socks/4.1.115.Final/netty-codec-socks-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-stomp/4.1.115.Final/netty-codec-stomp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-xml/4.1.115.Final/netty-codec-xml-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-proxy/4.1.115.Final/netty-handler-proxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-ssl-ocsp/4.1.115.Final/netty-handler-ssl-ocsp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns/4.1.115.Final/netty-resolver-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-rxtx/4.1.115.Final/netty-transport-rxtx-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-sctp/4.1.115.Final/netty-transport-sctp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-udt/4.1.115.Final/netty-transport-udt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.115.Final/netty-transport-classes-kqueue-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-classes-macos/4.1.115.Final/netty-resolver-dns-classes-macos-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-riscv64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.86/bcpkix-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.86/bcutil-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.86/bcprov-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.22.1/jackson-dataformat-yaml-2.22.1.jar:/home/farrell/.m2/repository/org/yaml/snakeyaml/2.5/snakeyaml-2.5.jar:/home/farrell/.m2/repository/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+    "com.openggf.tools.GameplayCaptureTool"
+  ],
+  "command_note": "Commands are normalized explicit reproductions of the observed CLI recipes, rather than archived shell transcripts. Assemble java_command_prefix+capture.cli_args. No recorded gameplay rows supply engine state. The immutable jar was created under the worktree build lock. After task cleanup, regenerate classes from the final feature commit instead of expecting target files to persist. Current reconstruction uses reproduction_after_worktree_cleanup; historical command arrays remain unchanged.",
+  "frame_index": "Zero-based submitted GameLoop input index; input0 may execute native load setup without advancing VInt. CSV frame index is not V_int_run_count.",
+  "captures": [
+    {
+      "directory": "sonic-bad-320",
+      "character": "sonic",
+      "viewport_width": 320,
+      "native_progress": -2,
+      "inventory": "0000000",
+      "scene_entry": {
+        "internal_zone": 13,
+        "zero_based_act": 1,
+        "presentation": "native no-title lifecycle"
+      },
+      "input": {
+        "kind": "neutral",
+        "movie": null,
+        "movie_sha256": null,
+        "initial_vint": null,
+        "protocol": "Production input0; no external priming, no input-start1. Inventory declared before actual native ending init."
+      },
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "13",
+        "--act",
+        "2",
+        "--width",
+        "320",
+        "--main",
+        "sonic",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--frames",
+        "8500",
+        "--capture-from",
+        "0",
+        "--every",
+        "4",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "600,1800,3000,4500,6500",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/sonic-bad-320"
+      ],
+      "submitted_inputs": 8500,
+      "capture_from": 0,
+      "capture_every": 4,
+      "base_fps": 60,
+      "scheduled_video_frames": 2125,
+      "extra_still_frames": 0,
+      "stills": [
+        600,
+        1800,
+        3000,
+        4500,
+        6500
+      ],
+      "title_input": null,
+      "terminal_note": "Frame budget ends during credits; this film does not establish terminal completion.",
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 960,
+            "height": 672,
+            "r_frame_rate": "15/1",
+            "nb_frames": "2125"
+          }
+        ],
+        "format": {
+          "duration": "141.666667"
+        }
+      },
+      "media_sha256": "cabc334f329e63236d44fd1061d19113062b055da274c6dfe31e5de54ffde311",
+      "csv_sha256": "8ec587375822acfba1e1bea073e6777521fd82f7811545c115f6457540c0cbff",
+      "video_encoding": {
+        "source": "scheduled PNG frames only; extra named stills excluded",
+        "fps": "15",
+        "scale": "native width*3 by672, nearest neighbor",
+        "codec": "libx264, preset fast, CRF18, yuv420p, 2threads",
+        "note": "GameplayCaptureTool integer60/4=15fps is exact."
+      },
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "tails-super-800",
+      "character": "tails",
+      "viewport_width": 800,
+      "native_progress": 2,
+      "inventory": "3333333",
+      "scene_entry": {
+        "internal_zone": 13,
+        "zero_based_act": 1,
+        "presentation": "native no-title lifecycle"
+      },
+      "input": {
+        "kind": "neutral",
+        "movie": null,
+        "movie_sha256": null,
+        "initial_vint": null,
+        "protocol": "Production input0; no external priming, no input-start1. Inventory declared before actual native ending init."
+      },
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "13",
+        "--act",
+        "2",
+        "--width",
+        "800",
+        "--main",
+        "tails",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--frames",
+        "30000",
+        "--capture-from",
+        "0",
+        "--every",
+        "8",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "600,5000,11000,18000,22000",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800",
+        "--emeralds",
+        "3333333"
+      ],
+      "submitted_inputs": 30000,
+      "capture_from": 0,
+      "capture_every": 8,
+      "base_fps": 60,
+      "scheduled_video_frames": 3750,
+      "extra_still_frames": 0,
+      "stills": [
+        600,
+        5000,
+        11000,
+        18000,
+        22000
+      ],
+      "title_input": 15546,
+      "terminal_note": "Observed title under neutral input/native timeout, not a Start input test.",
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 2400,
+            "height": 672,
+            "r_frame_rate": "15/2",
+            "nb_frames": "3750"
+          }
+        ],
+        "format": {
+          "duration": "500.000000"
+        }
+      },
+      "media_sha256": "cdbff76d2fc25d7ff8a70fdfc1d66b7149c6b769d4a3c167cf3207fb0345dc22",
+      "csv_sha256": "6ce124da9b27b0e26bffeea3419ba783bb4c2e6f4cfdb8ef65249ae26c0382a2",
+      "video_encoding": {
+        "source": "scheduled PNG frames only; extra named stills excluded",
+        "fps": "15/2",
+        "scale": "native width*3 by672, nearest neighbor",
+        "codec": "libx264, preset fast, CRF18, yuv420p, 2threads",
+        "note": "Wide outputs reencoded from existing scheduled PNGs because GameplayCaptureTool integer60/8 initially gave7fps. Rational15/2 restores native speed without simulation changes."
+      },
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "knuckles-bad-800-final-route",
+      "character": "knuckles",
+      "viewport_width": 800,
+      "native_progress": -2,
+      "inventory": "0000000",
+      "scene_entry": {
+        "internal_zone": 10,
+        "zero_based_act": 1,
+        "presentation": "native no-title lifecycle"
+      },
+      "input": {
+        "kind": "BK2 rows0..8703 then neutral",
+        "movie": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "movie_sha256": "ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+        "initial_vint": 410766,
+        "protocol": "Production input0; no external priming, no input-start1. Inventory declared before actual native ending init.",
+        "repository_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2"
+      },
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "10",
+        "--act",
+        "2",
+        "--width",
+        "800",
+        "--main",
+        "knuckles",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--frames",
+        "30000",
+        "--capture-from",
+        "8100",
+        "--every",
+        "8",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "8703,9000,9400,9600,9800,11000,16000,23000",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-bad-800-final-route",
+        "--input",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "--input-start",
+        "0",
+        "--vint-run-count",
+        "410766",
+        "--emeralds",
+        "0000000"
+      ],
+      "submitted_inputs": 30000,
+      "capture_from": 8100,
+      "capture_every": 8,
+      "base_fps": 60,
+      "scheduled_video_frames": 2738,
+      "extra_still_frames": 8,
+      "stills": [
+        8703,
+        9000,
+        9400,
+        9600,
+        9800,
+        11000,
+        16000,
+        23000
+      ],
+      "title_input": 24081,
+      "terminal_note": "Observed title under neutral input/native timeout, not a Start input test.",
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 2400,
+            "height": 672,
+            "r_frame_rate": "15/2",
+            "nb_frames": "2738"
+          }
+        ],
+        "format": {
+          "duration": "365.066667"
+        }
+      },
+      "media_sha256": "02e0354bdd8cd6e24d317085f0279db222ded5e43c27456e402d41ce3a519df0",
+      "csv_sha256": "b6ec9fab0b3690b976d994154c0b5a25dd87e042ce9940934ba0baec26a69ca7",
+      "video_encoding": {
+        "source": "scheduled PNG frames only; extra named stills excluded",
+        "fps": "15/2",
+        "scale": "native width*3 by672, nearest neighbor",
+        "codec": "libx264, preset fast, CRF18, yuv420p, 2threads",
+        "note": "Wide outputs reencoded from existing scheduled PNGs because GameplayCaptureTool integer60/8 initially gave7fps. Rational15/2 restores native speed without simulation changes."
+      },
+      "known_presentation_defects": [
+        "After native credits cameraX reset0, old world min/max459 produces mask459..779, hiding part of the centered240..560 native terminal. Corrected semantic mask-origin bridge is not represented by this older film.",
+        "Initial flight centered gray wings are intentional wide-bounds masking.",
+        "Original completed-negative-credits branch omitted loc5B2CE cloud emission-mask clear; continued cloud pieces can appear in terminal. Corrected writer not represented by this older film."
+      ],
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "knuckles-super-800-native-prefix",
+      "character": "knuckles",
+      "viewport_width": 800,
+      "native_progress": 2,
+      "inventory": "3333333",
+      "scene_entry": {
+        "internal_zone": 10,
+        "zero_based_act": 1,
+        "presentation": "native no-title lifecycle"
+      },
+      "input": {
+        "kind": "BK2 rows0..8703 then neutral",
+        "movie": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "movie_sha256": "ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+        "initial_vint": 410766,
+        "protocol": "Production input0; no external priming, no input-start1. Inventory declared before actual native ending init.",
+        "repository_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2"
+      },
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "10",
+        "--act",
+        "2",
+        "--width",
+        "800",
+        "--main",
+        "knuckles",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--frames",
+        "30000",
+        "--capture-from",
+        "8100",
+        "--every",
+        "8",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "8703,9000,9400,9800,11000,16000,23000",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-super-800-native-prefix",
+        "--input",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "--input-start",
+        "0",
+        "--vint-run-count",
+        "410766",
+        "--emeralds",
+        "3333333"
+      ],
+      "submitted_inputs": 30000,
+      "capture_from": 8100,
+      "capture_every": 8,
+      "base_fps": 60,
+      "scheduled_video_frames": 2738,
+      "extra_still_frames": 7,
+      "stills": [
+        8703,
+        9000,
+        9400,
+        9800,
+        11000,
+        16000,
+        23000
+      ],
+      "title_input": 23357,
+      "terminal_note": "Observed title under neutral input/native timeout, not a Start input test.",
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 2400,
+            "height": 672,
+            "r_frame_rate": "15/2",
+            "nb_frames": "2738"
+          }
+        ],
+        "format": {
+          "duration": "365.066667"
+        }
+      },
+      "media_sha256": "1a4ac18547a57d67c736c2d5dc4870e0c1c13644990d2a79d5db8309de548c33",
+      "csv_sha256": "c61a00ea481cc5ffdcade45312ecd7ad1215a3a919e580cbbd0bc9a155306a1f",
+      "video_encoding": {
+        "source": "scheduled PNG frames only; extra named stills excluded",
+        "fps": "15/2",
+        "scale": "native width*3 by672, nearest neighbor",
+        "codec": "libx264, preset fast, CRF18, yuv420p, 2threads",
+        "note": "Wide outputs reencoded from existing scheduled PNGs because GameplayCaptureTool integer60/8 initially gave7fps. Rational15/2 restores native speed without simulation changes."
+      },
+      "known_presentation_defects": [
+        "After native credits cameraX reset0, old world min/max459 produces mask459..779, hiding part of the centered240..560 native terminal. Corrected semantic mask-origin bridge is not represented by this older film.",
+        "Initial flight centered gray wings are intentional wide-bounds masking."
+      ],
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "tails-super-800-coherent-b2af901c",
+      "status": "Earlier coherent candidate; known full-center mask/screen-actor grain at2500\u20133700, superseded by corrected render-copy movie.",
+      "source_jar": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+      "source_jar_sha256": "a302e0151a020d3e368bd7ccf8bd11f51bf4c7b655f1fa40482841719d5fcd92",
+      "all_java_sha256": "b2af901cc61b5cc8035bec8a79f1271fce9ead7bfa48746c1dda17c1a5b78d72",
+      "character": "tails",
+      "viewport_width": 800,
+      "native_progress": 2,
+      "inventory": "3333333",
+      "java_command_prefix": [
+        "java",
+        "-Xmx1g",
+        "-XX:ActiveProcessorCount=2",
+        "--enable-native-access=ALL-UNNAMED",
+        "-Dopenggf.headless.gl=surfaceless-egl",
+        "-Djava.io.tmpdir=/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "-cp",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar:/home/farrell/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/farrell/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/farrell/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.10.3/junit-platform-console-standalone-1.10.3.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5/1.4.2/archunit-junit5-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-api/1.4.2/archunit-junit5-api-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit/1.4.2/archunit-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine/1.4.2/archunit-junit5-engine-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine-api/1.4.2/archunit-junit5-engine-api-1.4.2.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/farrell/.m2/repository/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy/1.17.7/byte-buddy-1.17.7.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar:/home/farrell/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.22.1/jackson-databind-2.22.1.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.22.1/jackson-core-2.22.1.jar:/home/farrell/.m2/repository/io/netty/netty-all/4.1.115.Final/netty-all-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-dns/4.1.115.Final/netty-codec-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-haproxy/4.1.115.Final/netty-codec-haproxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http/4.1.115.Final/netty-codec-http-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http2/4.1.115.Final/netty-codec-http2-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-memcache/4.1.115.Final/netty-codec-memcache-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-mqtt/4.1.115.Final/netty-codec-mqtt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-redis/4.1.115.Final/netty-codec-redis-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-smtp/4.1.115.Final/netty-codec-smtp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-socks/4.1.115.Final/netty-codec-socks-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-stomp/4.1.115.Final/netty-codec-stomp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-xml/4.1.115.Final/netty-codec-xml-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-proxy/4.1.115.Final/netty-handler-proxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-ssl-ocsp/4.1.115.Final/netty-handler-ssl-ocsp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns/4.1.115.Final/netty-resolver-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-rxtx/4.1.115.Final/netty-transport-rxtx-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-sctp/4.1.115.Final/netty-transport-sctp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-udt/4.1.115.Final/netty-transport-udt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.115.Final/netty-transport-classes-kqueue-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-classes-macos/4.1.115.Final/netty-resolver-dns-classes-macos-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-riscv64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.86/bcpkix-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.86/bcutil-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.86/bcprov-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.22.1/jackson-dataformat-yaml-2.22.1.jar:/home/farrell/.m2/repository/org/yaml/snakeyaml/2.5/snakeyaml-2.5.jar:/home/farrell/.m2/repository/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+        "com.openggf.tools.GameplayCaptureTool"
+      ],
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "13",
+        "--act",
+        "2",
+        "--width",
+        "800",
+        "--main",
+        "tails",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--emeralds",
+        "3333333",
+        "--frames",
+        "30000",
+        "--capture-from",
+        "0",
+        "--every",
+        "8",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "600,5000,11000,18000,22000",
+        "--no-video",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800-coherent-b2af901c"
+      ],
+      "scene_entry": {
+        "internal_zone": 13,
+        "zero_based_act": 1
+      },
+      "input": {
+        "kind": "neutral",
+        "movie": null,
+        "movie_sha256": null,
+        "initial_vint": null,
+        "protocol": "Production input0; no external prime/start1; inventory before native ending init."
+      },
+      "submitted_inputs": 30000,
+      "capture_from": 0,
+      "capture_every": 8,
+      "base_fps": 60,
+      "scheduled_video_frames": 3750,
+      "stills": [
+        600,
+        5000,
+        11000,
+        18000,
+        22000
+      ],
+      "title_input": 15546,
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 2400,
+            "height": 672,
+            "r_frame_rate": "15/2",
+            "nb_frames": "3750"
+          }
+        ],
+        "format": {
+          "duration": "500.000000"
+        }
+      },
+      "media_sha256": "2acbaa14d591a30de96f5676ebc8f1e7662f09b2486bfe9a5e6075505b61d6bb",
+      "csv_sha256": "6ce124da9b27b0e26bffeea3419ba783bb4c2e6f4cfdb8ef65249ae26c0382a2",
+      "video_encoding": {
+        "source": "Scheduled PNGframes only; extra stills excluded",
+        "fps": "15/2",
+        "scale": "2400x672 nearestneighbor",
+        "codec": "libx264fast/CRF18/yuv420p/2threads",
+        "audio": false
+      },
+      "limits": "Engine movie, not native whole-scene pixel parity. Initial wide flight wings intentionally masked.",
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "knuckles-bad-800-coherent-b2af901c",
+      "status": "Focused applicable ending lifecycles/owners qualified; earlier coherent immutable snapshot, combined integration smoke/guards pending.",
+      "source_jar": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+      "source_jar_sha256": "a302e0151a020d3e368bd7ccf8bd11f51bf4c7b655f1fa40482841719d5fcd92",
+      "all_java_sha256": "b2af901cc61b5cc8035bec8a79f1271fce9ead7bfa48746c1dda17c1a5b78d72",
+      "character": "knuckles",
+      "viewport_width": 800,
+      "native_progress": -2,
+      "inventory": "0000000",
+      "java_command_prefix": [
+        "java",
+        "-Xmx1g",
+        "-XX:ActiveProcessorCount=2",
+        "--enable-native-access=ALL-UNNAMED",
+        "-Dopenggf.headless.gl=surfaceless-egl",
+        "-Djava.io.tmpdir=/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "-cp",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar:/home/farrell/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/farrell/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/farrell/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.10.3/junit-platform-console-standalone-1.10.3.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5/1.4.2/archunit-junit5-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-api/1.4.2/archunit-junit5-api-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit/1.4.2/archunit-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine/1.4.2/archunit-junit5-engine-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine-api/1.4.2/archunit-junit5-engine-api-1.4.2.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/farrell/.m2/repository/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy/1.17.7/byte-buddy-1.17.7.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar:/home/farrell/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.22.1/jackson-databind-2.22.1.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.22.1/jackson-core-2.22.1.jar:/home/farrell/.m2/repository/io/netty/netty-all/4.1.115.Final/netty-all-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-dns/4.1.115.Final/netty-codec-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-haproxy/4.1.115.Final/netty-codec-haproxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http/4.1.115.Final/netty-codec-http-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http2/4.1.115.Final/netty-codec-http2-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-memcache/4.1.115.Final/netty-codec-memcache-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-mqtt/4.1.115.Final/netty-codec-mqtt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-redis/4.1.115.Final/netty-codec-redis-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-smtp/4.1.115.Final/netty-codec-smtp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-socks/4.1.115.Final/netty-codec-socks-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-stomp/4.1.115.Final/netty-codec-stomp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-xml/4.1.115.Final/netty-codec-xml-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-proxy/4.1.115.Final/netty-handler-proxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-ssl-ocsp/4.1.115.Final/netty-handler-ssl-ocsp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns/4.1.115.Final/netty-resolver-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-rxtx/4.1.115.Final/netty-transport-rxtx-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-sctp/4.1.115.Final/netty-transport-sctp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-udt/4.1.115.Final/netty-transport-udt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.115.Final/netty-transport-classes-kqueue-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-classes-macos/4.1.115.Final/netty-resolver-dns-classes-macos-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-riscv64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.86/bcpkix-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.86/bcutil-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.86/bcprov-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.22.1/jackson-dataformat-yaml-2.22.1.jar:/home/farrell/.m2/repository/org/yaml/snakeyaml/2.5/snakeyaml-2.5.jar:/home/farrell/.m2/repository/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+        "com.openggf.tools.GameplayCaptureTool"
+      ],
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "10",
+        "--act",
+        "2",
+        "--width",
+        "800",
+        "--main",
+        "knuckles",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--emeralds",
+        "0000000",
+        "--frames",
+        "30000",
+        "--capture-from",
+        "8100",
+        "--every",
+        "8",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "8703,9000,9400,9600,9800,11000,16000,23100",
+        "--no-video",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-bad-800-coherent-b2af901c",
+        "--input",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "--input-start",
+        "0",
+        "--vint-run-count",
+        "410766"
+      ],
+      "scene_entry": {
+        "internal_zone": 10,
+        "zero_based_act": 1
+      },
+      "input": {
+        "kind": "BK2rows0..8703 thenneutral",
+        "movie": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "movie_sha256": "ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+        "initial_vint": 410766,
+        "protocol": "Production input0; no external prime/start1; inventory before native ending init.",
+        "repository_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2"
+      },
+      "submitted_inputs": 30000,
+      "capture_from": 8100,
+      "capture_every": 8,
+      "base_fps": 60,
+      "scheduled_video_frames": 2738,
+      "stills": [
+        8703,
+        9000,
+        9400,
+        9600,
+        9800,
+        11000,
+        16000,
+        23100
+      ],
+      "title_input": 24082,
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 2400,
+            "height": 672,
+            "r_frame_rate": "15/2",
+            "nb_frames": "2738"
+          }
+        ],
+        "format": {
+          "duration": "365.066667"
+        }
+      },
+      "media_sha256": "87f248147fabaf68bb00275a5decc10742ff51b968eaf0eb00ca03bfbeedeec8",
+      "csv_sha256": "39dc34628490ce9be81ca821805efba7a9ceb7fd6f8716afa1d94aceba921534",
+      "video_encoding": {
+        "source": "Scheduled PNGframes only; extra stills excluded",
+        "fps": "15/2",
+        "scale": "2400x672 nearestneighbor",
+        "codec": "libx264fast/CRF18/yuv420p/2threads",
+        "audio": false
+      },
+      "limits": "Engine movie, not native whole-scene pixel parity. Initial wide flight wings intentionally masked.",
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "knuckles-super-800-coherent-b2af901c",
+      "status": "Focused applicable ending lifecycles/owners qualified; earlier coherent immutable snapshot, combined integration smoke/guards pending.",
+      "source_jar": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+      "source_jar_sha256": "a302e0151a020d3e368bd7ccf8bd11f51bf4c7b655f1fa40482841719d5fcd92",
+      "all_java_sha256": "b2af901cc61b5cc8035bec8a79f1271fce9ead7bfa48746c1dda17c1a5b78d72",
+      "character": "knuckles",
+      "viewport_width": 800,
+      "native_progress": 2,
+      "inventory": "3333333",
+      "java_command_prefix": [
+        "java",
+        "-Xmx1g",
+        "-XX:ActiveProcessorCount=2",
+        "--enable-native-access=ALL-UNNAMED",
+        "-Dopenggf.headless.gl=surfaceless-egl",
+        "-Djava.io.tmpdir=/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "-cp",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar:/home/farrell/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/farrell/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/farrell/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.10.3/junit-platform-console-standalone-1.10.3.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5/1.4.2/archunit-junit5-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-api/1.4.2/archunit-junit5-api-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit/1.4.2/archunit-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine/1.4.2/archunit-junit5-engine-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine-api/1.4.2/archunit-junit5-engine-api-1.4.2.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/farrell/.m2/repository/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy/1.17.7/byte-buddy-1.17.7.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar:/home/farrell/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.22.1/jackson-databind-2.22.1.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.22.1/jackson-core-2.22.1.jar:/home/farrell/.m2/repository/io/netty/netty-all/4.1.115.Final/netty-all-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-dns/4.1.115.Final/netty-codec-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-haproxy/4.1.115.Final/netty-codec-haproxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http/4.1.115.Final/netty-codec-http-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http2/4.1.115.Final/netty-codec-http2-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-memcache/4.1.115.Final/netty-codec-memcache-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-mqtt/4.1.115.Final/netty-codec-mqtt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-redis/4.1.115.Final/netty-codec-redis-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-smtp/4.1.115.Final/netty-codec-smtp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-socks/4.1.115.Final/netty-codec-socks-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-stomp/4.1.115.Final/netty-codec-stomp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-xml/4.1.115.Final/netty-codec-xml-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-proxy/4.1.115.Final/netty-handler-proxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-ssl-ocsp/4.1.115.Final/netty-handler-ssl-ocsp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns/4.1.115.Final/netty-resolver-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-rxtx/4.1.115.Final/netty-transport-rxtx-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-sctp/4.1.115.Final/netty-transport-sctp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-udt/4.1.115.Final/netty-transport-udt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.115.Final/netty-transport-classes-kqueue-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-classes-macos/4.1.115.Final/netty-resolver-dns-classes-macos-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-riscv64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.86/bcpkix-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.86/bcutil-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.86/bcprov-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.22.1/jackson-dataformat-yaml-2.22.1.jar:/home/farrell/.m2/repository/org/yaml/snakeyaml/2.5/snakeyaml-2.5.jar:/home/farrell/.m2/repository/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+        "com.openggf.tools.GameplayCaptureTool"
+      ],
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "10",
+        "--act",
+        "2",
+        "--width",
+        "800",
+        "--main",
+        "knuckles",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--emeralds",
+        "3333333",
+        "--frames",
+        "30000",
+        "--capture-from",
+        "8100",
+        "--every",
+        "8",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "8703,9000,9400,9800,11000,16000,23000",
+        "--no-video",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-super-800-coherent-b2af901c",
+        "--input",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "--input-start",
+        "0",
+        "--vint-run-count",
+        "410766"
+      ],
+      "scene_entry": {
+        "internal_zone": 10,
+        "zero_based_act": 1
+      },
+      "input": {
+        "kind": "BK2rows0..8703 thenneutral",
+        "movie": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "movie_sha256": "ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+        "initial_vint": 410766,
+        "protocol": "Production input0; no external prime/start1; inventory before native ending init.",
+        "repository_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2"
+      },
+      "submitted_inputs": 30000,
+      "capture_from": 8100,
+      "capture_every": 8,
+      "base_fps": 60,
+      "scheduled_video_frames": 2738,
+      "stills": [
+        8703,
+        9000,
+        9400,
+        9800,
+        11000,
+        16000,
+        23000
+      ],
+      "title_input": 23357,
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 2400,
+            "height": 672,
+            "r_frame_rate": "15/2",
+            "nb_frames": "2738"
+          }
+        ],
+        "format": {
+          "duration": "365.066667"
+        }
+      },
+      "media_sha256": "cfad59de8864c8218b9d9dfec637123ea96b84e1728b2bc3bc1ad0128fed6a01",
+      "csv_sha256": "c61a00ea481cc5ffdcade45312ecd7ad1215a3a919e580cbbd0bc9a155306a1f",
+      "video_encoding": {
+        "source": "Scheduled PNGframes only; extra stills excluded",
+        "fps": "15/2",
+        "scale": "2400x672 nearestneighbor",
+        "codec": "libx264fast/CRF18/yuv420p/2threads",
+        "audio": false
+      },
+      "limits": "Engine movie, not native whole-scene pixel parity. Initial wide flight wings intentionally masked.",
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "sonic-bad-320-coherent-b2af901c",
+      "status": "Focused applicable ending lifecycles/owners qualified; earlier coherent immutable snapshot, combined integration smoke/guards pending.",
+      "source_jar": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+      "source_jar_sha256": "a302e0151a020d3e368bd7ccf8bd11f51bf4c7b655f1fa40482841719d5fcd92",
+      "all_java_sha256": "b2af901cc61b5cc8035bec8a79f1271fce9ead7bfa48746c1dda17c1a5b78d72",
+      "character": "sonic",
+      "viewport_width": 320,
+      "native_progress": -2,
+      "inventory": "0000000 (default fresh inventory)",
+      "java_command_prefix": [
+        "java",
+        "-Xmx1g",
+        "-XX:ActiveProcessorCount=2",
+        "--enable-native-access=ALL-UNNAMED",
+        "-Dopenggf.headless.gl=surfaceless-egl",
+        "-Djava.io.tmpdir=/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "-cp",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar:/home/farrell/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/farrell/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/farrell/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.10.3/junit-platform-console-standalone-1.10.3.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5/1.4.2/archunit-junit5-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-api/1.4.2/archunit-junit5-api-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit/1.4.2/archunit-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine/1.4.2/archunit-junit5-engine-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine-api/1.4.2/archunit-junit5-engine-api-1.4.2.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/farrell/.m2/repository/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy/1.17.7/byte-buddy-1.17.7.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar:/home/farrell/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.22.1/jackson-databind-2.22.1.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.22.1/jackson-core-2.22.1.jar:/home/farrell/.m2/repository/io/netty/netty-all/4.1.115.Final/netty-all-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-dns/4.1.115.Final/netty-codec-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-haproxy/4.1.115.Final/netty-codec-haproxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http/4.1.115.Final/netty-codec-http-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http2/4.1.115.Final/netty-codec-http2-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-memcache/4.1.115.Final/netty-codec-memcache-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-mqtt/4.1.115.Final/netty-codec-mqtt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-redis/4.1.115.Final/netty-codec-redis-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-smtp/4.1.115.Final/netty-codec-smtp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-socks/4.1.115.Final/netty-codec-socks-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-stomp/4.1.115.Final/netty-codec-stomp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-xml/4.1.115.Final/netty-codec-xml-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-proxy/4.1.115.Final/netty-handler-proxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-ssl-ocsp/4.1.115.Final/netty-handler-ssl-ocsp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns/4.1.115.Final/netty-resolver-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-rxtx/4.1.115.Final/netty-transport-rxtx-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-sctp/4.1.115.Final/netty-transport-sctp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-udt/4.1.115.Final/netty-transport-udt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.115.Final/netty-transport-classes-kqueue-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-classes-macos/4.1.115.Final/netty-resolver-dns-classes-macos-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-riscv64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.86/bcpkix-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.86/bcutil-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.86/bcprov-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.22.1/jackson-dataformat-yaml-2.22.1.jar:/home/farrell/.m2/repository/org/yaml/snakeyaml/2.5/snakeyaml-2.5.jar:/home/farrell/.m2/repository/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+        "com.openggf.tools.GameplayCaptureTool"
+      ],
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "13",
+        "--act",
+        "2",
+        "--width",
+        "320",
+        "--main",
+        "sonic",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--frames",
+        "20000",
+        "--capture-from",
+        "0",
+        "--every",
+        "4",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "600,1800,3000,4500,6500,11000,14000,18000",
+        "--no-video",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/sonic-bad-320-coherent-b2af901c"
+      ],
+      "scene_entry": {
+        "internal_zone": 13,
+        "zero_based_act": 1
+      },
+      "input": {
+        "kind": "neutral",
+        "movie": null,
+        "initial_vint": null,
+        "protocol": "Declared D01 scene entry; default incomplete inventory; production initial pass, no external prime."
+      },
+      "submitted_inputs": 20000,
+      "capture_from": 0,
+      "capture_every": 4,
+      "base_fps": 60,
+      "scheduled_video_frames": 5000,
+      "stills": [
+        600,
+        1800,
+        3000,
+        4500,
+        6500,
+        11000,
+        14000,
+        18000
+      ],
+      "title_input": 15101,
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 960,
+            "height": 672,
+            "r_frame_rate": "15/1",
+            "nb_frames": "5000"
+          }
+        ],
+        "format": {
+          "duration": "333.333333"
+        }
+      },
+      "media_sha256": "2c70d8878784fa0f5fa2cac77e39e545de381d871445477b856ec3531f700fc7",
+      "csv_sha256": "4fd256e4aec95e2e92d3b8c11efbe832e6bf6e874811530f9552d70a97dfd99d",
+      "video_encoding": {
+        "source": "Scheduled PNGframes",
+        "fps": "15",
+        "scale": "960x672 nearestneighbor",
+        "codec": "libx264fast/CRF18/yuv420p/2threads",
+        "audio": false
+      },
+      "limits": "Engine scene-entry movie; not a cold campaign or native whole-scene pixel parity.",
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "tails-super-800-render-copy-d1a298ec789d",
+      "status": "Focused native ending qualification passed; combined integration smoke/guards pending.",
+      "source_jar": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-final-owner-d1a298ec789d.jar",
+      "source_jar_sha256": "ed152e7183f895236d47ae2d3bd37cdd5e360da33eba0606ae2600877a9ba55d",
+      "all_java_sha256": "d1a298ec789dd236ee3fb6ca372aeda8b147d524ed8778c8df61cd970ad09d1e",
+      "character": "tails",
+      "viewport_width": 800,
+      "native_progress": 2,
+      "inventory": "3333333",
+      "java_command_prefix": [
+        "java",
+        "-Xmx1g",
+        "-XX:ActiveProcessorCount=2",
+        "--enable-native-access=ALL-UNNAMED",
+        "-Dopenggf.headless.gl=surfaceless-egl",
+        "-Djava.io.tmpdir=/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "-cp",
+        "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-final-owner-d1a298ec789d.jar:/home/farrell/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/farrell/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/farrell/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.10.3/junit-platform-console-standalone-1.10.3.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5/1.4.2/archunit-junit5-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-api/1.4.2/archunit-junit5-api-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit/1.4.2/archunit-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine/1.4.2/archunit-junit5-engine-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine-api/1.4.2/archunit-junit5-engine-api-1.4.2.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/farrell/.m2/repository/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy/1.17.7/byte-buddy-1.17.7.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar:/home/farrell/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.22.1/jackson-databind-2.22.1.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.22.1/jackson-core-2.22.1.jar:/home/farrell/.m2/repository/io/netty/netty-all/4.1.115.Final/netty-all-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-dns/4.1.115.Final/netty-codec-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-haproxy/4.1.115.Final/netty-codec-haproxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http/4.1.115.Final/netty-codec-http-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http2/4.1.115.Final/netty-codec-http2-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-memcache/4.1.115.Final/netty-codec-memcache-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-mqtt/4.1.115.Final/netty-codec-mqtt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-redis/4.1.115.Final/netty-codec-redis-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-smtp/4.1.115.Final/netty-codec-smtp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-socks/4.1.115.Final/netty-codec-socks-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-stomp/4.1.115.Final/netty-codec-stomp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-xml/4.1.115.Final/netty-codec-xml-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-proxy/4.1.115.Final/netty-handler-proxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-ssl-ocsp/4.1.115.Final/netty-handler-ssl-ocsp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns/4.1.115.Final/netty-resolver-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-rxtx/4.1.115.Final/netty-transport-rxtx-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-sctp/4.1.115.Final/netty-transport-sctp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-udt/4.1.115.Final/netty-transport-udt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.115.Final/netty-transport-classes-kqueue-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-classes-macos/4.1.115.Final/netty-resolver-dns-classes-macos-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-riscv64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.86/bcpkix-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.86/bcutil-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.86/bcprov-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.22.1/jackson-dataformat-yaml-2.22.1.jar:/home/farrell/.m2/repository/org/yaml/snakeyaml/2.5/snakeyaml-2.5.jar:/home/farrell/.m2/repository/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+        "com.openggf.tools.GameplayCaptureTool"
+      ],
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "13",
+        "--act",
+        "2",
+        "--width",
+        "800",
+        "--main",
+        "tails",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--emeralds",
+        "3333333",
+        "--frames",
+        "30000",
+        "--capture-from",
+        "0",
+        "--every",
+        "8",
+        "--fps",
+        "60",
+        "--scale",
+        "3",
+        "--stills",
+        "600,2000,3000,3700,5000,11000,18000,22000",
+        "--no-video",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800-render-copy-d1a298ec789d"
+      ],
+      "scene_entry": {
+        "internal_zone": 13,
+        "zero_based_act": 1
+      },
+      "input": {
+        "kind": "neutral",
+        "movie": null,
+        "movie_sha256": null,
+        "initial_vint": null,
+        "protocol": "Production input0; no external prime/start1; inventory before native ending init."
+      },
+      "submitted_inputs": 30000,
+      "capture_from": 0,
+      "capture_every": 8,
+      "base_fps": 60,
+      "scheduled_video_frames": 3750,
+      "stills": [
+        600,
+        2000,
+        3000,
+        3700,
+        5000,
+        11000,
+        18000,
+        22000
+      ],
+      "title_input": 15546,
+      "video_probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 2400,
+            "height": 672,
+            "r_frame_rate": "15/2",
+            "nb_frames": "3750"
+          }
+        ],
+        "format": {
+          "duration": "500.000000"
+        }
+      },
+      "media_sha256": "b338586a7c6cacb671fb6f3c502f2fc5d6e67da1063bbe87b845abbce1875535",
+      "csv_sha256": "6ce124da9b27b0e26bffeea3419ba783bb4c2e6f4cfdb8ef65249ae26c0382a2",
+      "video_encoding": {
+        "source": "Scheduled PNGframes only; extra stills excluded",
+        "fps": "15/2",
+        "scale": "2400x672 nearestneighbor",
+        "codec": "libx264fast/CRF18/yuv420p/2threads",
+        "audio": false
+      },
+      "limits": "Declared D01 scene-entry movie, not a cold campaign/native whole-scene parity. Corrected copy+shake projection/native clear candidate.",
+      "source_hash_encoding": "sorted relative path UTF8 + NUL + file bytes + NUL",
+      "focused_qualification": "58 priorfocusedcases +48currentcomposedcases +2nativeclear +33auxiliary +10sharedmanager; combinedfinal-source smoke/guards pending.",
+      "final_feature_reference": "c2103d5f73abd58788af3efb6bf6773da296fc33"
+    },
+    {
+      "directory": "presentation-repair-70c099038943/sonic-chaos-320",
+      "status": "focused presentation owners qualified; root integration pending",
+      "character": "sonic",
+      "viewport_width": 320,
+      "native_progress": 0,
+      "scene_entry": "Declared internal $0D01; inventory supplied before first native object pass; all 6000 inputs neutral. This is a presentation excerpt, not a cold campaign or terminal film.",
+      "input": "6000 neutral outer inputs; no external prime, no movie or teleport",
+      "native_input_rate": 60,
+      "capture_from": 900,
+      "every": 4,
+      "video_fps": "15/1",
+      "video_dimensions": [
+        640,
+        448
+      ],
+      "duration_seconds": 85,
+      "input_to_video_time": "(input-900)/60 seconds",
+      "source_jar": "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar",
+      "source_jar_sha256": "ed7dc6503834671f0dee3b372c92fe4b8edd10076c8a17746c7276d4c2c3f9e9",
+      "source_main_java_sha256": "70c0990389436562191a211c342493331496bfac6c5a9a4957216fabe1a4f35a",
+      "compiled_all_java_sha256": "4b39049171460e72b5a7a42b7fb4dbf8e4b738a70cca7bd94363dd3c00310848",
+      "final_test_java_sha256": "46805c543ea2d319932b854f58dc3e7c3e38025e900a80a760ac9fdc5f5a95d4",
+      "java_command_prefix": [
+        "java",
+        "-Xmx1g",
+        "-XX:ActiveProcessorCount=2",
+        "-Dopenggf.headless.gl=surfaceless-egl",
+        "-cp",
+        "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar:/home/farrell/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/farrell/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/farrell/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.10.3/junit-platform-console-standalone-1.10.3.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5/1.4.2/archunit-junit5-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-api/1.4.2/archunit-junit5-api-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit/1.4.2/archunit-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine/1.4.2/archunit-junit5-engine-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine-api/1.4.2/archunit-junit5-engine-api-1.4.2.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/farrell/.m2/repository/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy/1.17.7/byte-buddy-1.17.7.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar:/home/farrell/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.22.1/jackson-databind-2.22.1.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.22.1/jackson-core-2.22.1.jar:/home/farrell/.m2/repository/io/netty/netty-all/4.1.115.Final/netty-all-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-dns/4.1.115.Final/netty-codec-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-haproxy/4.1.115.Final/netty-codec-haproxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http/4.1.115.Final/netty-codec-http-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http2/4.1.115.Final/netty-codec-http2-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-memcache/4.1.115.Final/netty-codec-memcache-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-mqtt/4.1.115.Final/netty-codec-mqtt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-redis/4.1.115.Final/netty-codec-redis-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-smtp/4.1.115.Final/netty-codec-smtp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-socks/4.1.115.Final/netty-codec-socks-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-stomp/4.1.115.Final/netty-codec-stomp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-xml/4.1.115.Final/netty-codec-xml-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-proxy/4.1.115.Final/netty-handler-proxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-ssl-ocsp/4.1.115.Final/netty-handler-ssl-ocsp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns/4.1.115.Final/netty-resolver-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-rxtx/4.1.115.Final/netty-transport-rxtx-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-sctp/4.1.115.Final/netty-transport-sctp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-udt/4.1.115.Final/netty-transport-udt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.115.Final/netty-transport-classes-kqueue-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-classes-macos/4.1.115.Final/netty-resolver-dns-classes-macos-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-riscv64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.86/bcpkix-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.86/bcutil-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.86/bcprov-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.22.1/jackson-dataformat-yaml-2.22.1.jar:/home/farrell/.m2/repository/org/yaml/snakeyaml/2.5/snakeyaml-2.5.jar:/home/farrell/.m2/repository/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+        "com.openggf.tools.GameplayCaptureTool"
+      ],
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "13",
+        "--act",
+        "2",
+        "--width",
+        "320",
+        "--main",
+        "sonic",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--emeralds",
+        "1111111",
+        "--frames",
+        "6000",
+        "--capture-from",
+        "900",
+        "--every",
+        "4",
+        "--fps",
+        "60",
+        "--scale",
+        "2",
+        "--stills",
+        "1400,1800,3000,3900,4100,4300,5000",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/presentation-repair-70c099038943/sonic-chaos-320"
+      ],
+      "state_csv_sha256": "f2ed9c6c30c19cdaa54a1d4db21d66658da3ee0c226f62b6bb3a43a5ab633fdc",
+      "video_sha256": "a81c612c319ef23e5653cb9bd72752c9a86b810b4167b3545293a20b43000fb7",
+      "verification": {
+        "ffprobe": "15/1 fps, 1275 frames, 85 seconds, silent",
+        "full_xerror_decode": "pass",
+        "temporal_stills": "Declared 1400/1800/3000/3900/4100/4300/5000 PNG and CSV sampling; moving rescue/departure and reunion/credits inspected.",
+        "bounds": "current wide moving-edge blend is retained; RGB producer tests select an unmasked prepared generation"
+      },
+      "historical_relation": "Supplements earlier full-ending films; does not overwrite their sources, negative observations, or hashes.",
+      "qualification_commit": "f664a1e1a764670e02ebe20c88efbbb355eaa5db"
+    },
+    {
+      "directory": "presentation-repair-70c099038943/tails-super-800",
+      "status": "focused presentation owners qualified; root integration pending",
+      "character": "tails",
+      "viewport_width": 800,
+      "native_progress": 2,
+      "scene_entry": "Declared internal $0D01; inventory supplied before first native object pass; all 6000 inputs neutral. This is a presentation excerpt, not a cold campaign or terminal film.",
+      "input": "6000 neutral outer inputs; no external prime, no movie or teleport",
+      "native_input_rate": 60,
+      "capture_from": 900,
+      "every": 4,
+      "video_fps": "15/1",
+      "video_dimensions": [
+        1600,
+        448
+      ],
+      "duration_seconds": 85,
+      "input_to_video_time": "(input-900)/60 seconds",
+      "source_jar": "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar",
+      "source_jar_sha256": "ed7dc6503834671f0dee3b372c92fe4b8edd10076c8a17746c7276d4c2c3f9e9",
+      "source_main_java_sha256": "70c0990389436562191a211c342493331496bfac6c5a9a4957216fabe1a4f35a",
+      "compiled_all_java_sha256": "4b39049171460e72b5a7a42b7fb4dbf8e4b738a70cca7bd94363dd3c00310848",
+      "final_test_java_sha256": "46805c543ea2d319932b854f58dc3e7c3e38025e900a80a760ac9fdc5f5a95d4",
+      "java_command_prefix": [
+        "java",
+        "-Xmx1g",
+        "-XX:ActiveProcessorCount=2",
+        "-Dopenggf.headless.gl=surfaceless-egl",
+        "-cp",
+        "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar:/home/farrell/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/farrell/.m2/repository/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar:/home/farrell/.m2/repository/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.3/junit-jupiter-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.3/junit-jupiter-api-5.10.3.jar:/home/farrell/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-commons/1.10.3/junit-platform-commons-1.10.3.jar:/home/farrell/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.3/junit-jupiter-params-5.10.3.jar:/home/farrell/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.3/junit-jupiter-engine-5.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-engine/1.10.3/junit-platform-engine-1.10.3.jar:/home/farrell/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.10.3/junit-platform-console-standalone-1.10.3.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5/1.4.2/archunit-junit5-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-api/1.4.2/archunit-junit5-api-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit/1.4.2/archunit-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine/1.4.2/archunit-junit5-engine-1.4.2.jar:/home/farrell/.m2/repository/com/tngtech/archunit/archunit-junit5-engine-api/1.4.2/archunit-junit5-engine-api-1.4.2.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/farrell/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/farrell/.m2/repository/org/mockito/mockito-core/5.20.0/mockito-core-5.20.0.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy/1.17.7/byte-buddy-1.17.7.jar:/home/farrell/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar:/home/farrell/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.22.1/jackson-databind-2.22.1.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.22.1/jackson-core-2.22.1.jar:/home/farrell/.m2/repository/io/netty/netty-all/4.1.115.Final/netty-all-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-dns/4.1.115.Final/netty-codec-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-haproxy/4.1.115.Final/netty-codec-haproxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http/4.1.115.Final/netty-codec-http-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-http2/4.1.115.Final/netty-codec-http2-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-memcache/4.1.115.Final/netty-codec-memcache-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-mqtt/4.1.115.Final/netty-codec-mqtt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-redis/4.1.115.Final/netty-codec-redis-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-smtp/4.1.115.Final/netty-codec-smtp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-socks/4.1.115.Final/netty-codec-socks-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-stomp/4.1.115.Final/netty-codec-stomp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-codec-xml/4.1.115.Final/netty-codec-xml-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-proxy/4.1.115.Final/netty-handler-proxy-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-handler-ssl-ocsp/4.1.115.Final/netty-handler-ssl-ocsp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns/4.1.115.Final/netty-resolver-dns-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-rxtx/4.1.115.Final/netty-transport-rxtx-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-sctp/4.1.115.Final/netty-transport-sctp-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-udt/4.1.115.Final/netty-transport-udt-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.115.Final/netty-transport-classes-kqueue-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-classes-macos/4.1.115.Final/netty-resolver-dns-classes-macos-4.1.115.Final.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-riscv64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.115.Final/netty-transport-native-kqueue-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-x86_64.jar:/home/farrell/.m2/repository/io/netty/netty-resolver-dns-native-macos/4.1.115.Final/netty-resolver-dns-native-macos-4.1.115.Final-osx-aarch_64.jar:/home/farrell/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.86/bcpkix-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.86/bcutil-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.86/bcprov-jdk18on-1.86.jar:/home/farrell/.m2/repository/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar:/home/farrell/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.22.1/jackson-dataformat-yaml-2.22.1.jar:/home/farrell/.m2/repository/org/yaml/snakeyaml/2.5/snakeyaml-2.5.jar:/home/farrell/.m2/repository/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+        "com.openggf.tools.GameplayCaptureTool"
+      ],
+      "cli_args": [
+        "--game",
+        "s3k",
+        "--rom",
+        "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+        "--zone",
+        "13",
+        "--act",
+        "2",
+        "--width",
+        "800",
+        "--main",
+        "tails",
+        "--sidekick",
+        "none",
+        "--donor",
+        "off",
+        "--emeralds",
+        "3333333",
+        "--frames",
+        "6000",
+        "--capture-from",
+        "900",
+        "--every",
+        "4",
+        "--fps",
+        "60",
+        "--scale",
+        "2",
+        "--stills",
+        "1400,1800,3000,3900,4100,4300,5000",
+        "--out-dir",
+        "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/presentation-repair-70c099038943/tails-super-800"
+      ],
+      "state_csv_sha256": "fe955a185906aa45f96c2f136b381f9a8b51f97d8afb31f6692954c2fa13fe81",
+      "video_sha256": "7567a3a393f9f67fffaeb23cc90b8dec267e77842aa272670705511035fbc2d4",
+      "verification": {
+        "ffprobe": "15/1 fps, 1275 frames, 85 seconds, silent",
+        "full_xerror_decode": "pass",
+        "temporal_stills": "1400 Tornado rescue; 3000 IslandLift departure; 3900/4100/4300 AIZ restoration/hold; 5000 reunion/credits.",
+        "bounds": "current wide moving-edge blend is retained; RGB producer tests select an unmasked prepared generation"
+      },
+      "historical_relation": "Supplements earlier full-ending films; does not overwrite their sources, negative observations, or hashes.",
+      "qualification_commit": "f664a1e1a764670e02ebe20c88efbbb355eaa5db"
+    }
+  ],
+  "other_observations": [
+    {
+      "directory": "sonic-super-native-probe",
+      "status": "Older665bea native control: title50rings, authoring only."
+    },
+    {
+      "directory": "sonic-super-s1-donor-probe",
+      "status": "Rejected665bea donor gate blocker: LEVEL at30000 with0rings."
+    },
+    {
+      "directory": "sonic-super-s1-donor-fixed",
+      "status": "Corrected75e43c59 donor body/control observation: title50rings."
+    },
+    {
+      "directory": "tails-super-s2-donor-fixed",
+      "status": "Latest9ef38865 native tail donor observation: title15546/50rings; bank6B0/mapping38 witness."
+    },
+    {
+      "directory": "knuckles-chaos-800-native-prefix",
+      "status": "Corrected75e43c59 neutral Chaos continuation: title22125; no film."
+    },
+    {
+      "directory": "knuckles-prefix-native-input0-320",
+      "status": "Bounded prefix admission observation; not final lifecycle qualification."
+    }
+  ],
+  "deleted_negative_media": [
+    {
+      "directory": "sonic-bad-320-pre-range-fix",
+      "reason": "Known regenerable negative frames deleted after CPU/GPU plane absence comparison and documented DMA range fix."
+    },
+    {
+      "directory": "knuckles-bad-800-pre-input-admission",
+      "reason": "Rejected external-prime/input-start1 protocol; died2096 before fight."
+    },
+    {
+      "directory": "knuckles-super-800-final-route",
+      "reason": "Rejected external-prime/input-start1 protocol; died2096 before fight."
+    }
+  ],
+  "reproduction_after_worktree_cleanup": {
+    "feature_commit": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+    "rom": "Use original verified user ROM; replace only its absolute path. Never copy into the task archive.",
+    "build": "Use Java 25 from a checkout at the final verified/pushed develop SHA. Invoke the queue wrapper with -Dmse=off -DskipTests package; no tests. Use its POM-named runtime fat jar, not retired worktree classes/dependency classpaths.",
+    "input_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2; SHA256ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+    "invocation": "Copy each stored cli_args array, replacing only --rom, --input and --out-dir paths. Preserve scale, frame/FPS/stride, input0/no external prime, inventory and inherited VInt. Choose NEW output directories. Entries with --no-video use their existing separate indexed encoding recipe.",
+    "encoding": "Preserve per-capture integer scale: historical films3x, repaired excerpts2x; reel logical2x. Preserve native60/every rational FPS and scheduled input indices, excluding extra stills. No interpolation or speed fitting.",
+    "limits": "Exact historical jar/source identities establish provenance, not a claim that a newer integrated build has byte-identical metadata or unobserved pixel parity.",
+    "portable_recipe": {
+      "source_sha": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+      "source_requirement": "Use that checkout without switching the main workspace branch; Java25 on PATH/JAVA_HOME.",
+      "build_argv": [
+        "python3",
+        "tools/testing/maven_queue.py",
+        "-Dmse=off",
+        "-DskipTests",
+        "package"
+      ],
+      "fat_jar": "target/OpenGGF-0.7.prerelease-jar-with-dependencies.jar",
+      "assembly_owner": "src/assembly/openggf-jar-with-dependencies.xml; runtime dependencies and GameplayCaptureTool included.",
+      "unset_environment": [
+        "DISPLAY",
+        "WAYLAND_DISPLAY",
+        "JDK_JAVA_OPTIONS",
+        "JAVA_TOOL_OPTIONS"
+      ],
+      "environment": {
+        "EGL_PLATFORM": "surfaceless",
+        "ALSOFT_DRIVERS": "null"
+      },
+      "java_prefix": [
+        "${JAVA_HOME}/bin/java",
+        "-Xmx1g",
+        "-XX:ActiveProcessorCount=2",
+        "--enable-native-access=ALL-UNNAMED",
+        "-Dopenggf.headless.gl=surfaceless-egl",
+        "-Djava.io.tmpdir=${NEW_CAPTURE_TMP}",
+        "-cp",
+        "${CHECKOUT}/target/OpenGGF-0.7.prerelease-jar-with-dependencies.jar",
+        "com.openggf.tools.GameplayCaptureTool"
+      ],
+      "path_substitutions": {
+        "--rom": "${VERIFIED_USER_ROM}",
+        "--input": "${CHECKOUT}/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "--out-dir": "${NEW_EXTERNAL_OUTPUT}/${capture.directory}"
+      },
+      "capture_reconstruction_targets": {
+        "sonic-bad-320": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "tails-super-800": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "knuckles-bad-800-final-route": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "knuckles-super-800-native-prefix": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "tails-super-800-coherent-b2af901c": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "knuckles-bad-800-coherent-b2af901c": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "knuckles-super-800-coherent-b2af901c": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "sonic-bad-320-coherent-b2af901c": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "tails-super-800-render-copy-d1a298ec789d": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "presentation-repair-70c099038943/sonic-chaos-320": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+        "presentation-repair-70c099038943/tails-super-800": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef"
+      },
+      "limits": "Build recipe inspected, not executed by normalization. A rebuilt jar/movie may differ; keep original bytes and hashes."
+    },
+    "historical_location_notes": [
+      {
+        "pointer": "/workspace",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings",
+        "role": "historical checkout",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/runtime/cwd",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings",
+        "role": "historical runtime checkout",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/source_identity/immutable_jar",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-ae1fcb9dad68.jar",
+        "role": "historical generated jar",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/0/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/sonic-bad-320",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/0/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-ae1fcb9dad68.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/0/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/0/cli_args/29",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/sonic-bad-320",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/1/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/1/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-ae1fcb9dad68.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/1/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/1/cli_args/29",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/2/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-bad-800-final-route",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/2/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-ae1fcb9dad68.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/2/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/2/cli_args/31",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "role": "historical input",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/2/cli_args/29",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-bad-800-final-route",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/3/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-super-800-native-prefix",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/3/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-ae1fcb9dad68.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/3/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/3/cli_args/31",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "role": "historical input",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/3/cli_args/29",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-super-800-native-prefix",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/4/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800-coherent-b2af901c",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/4/source_jar",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+        "role": "historical generated or retained scratch jar",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/4/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/4/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/4/cli_args/32",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800-coherent-b2af901c",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/5/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-bad-800-coherent-b2af901c",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/5/source_jar",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+        "role": "historical generated or retained scratch jar",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/5/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/5/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/5/cli_args/34",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "role": "historical input",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/5/cli_args/32",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-bad-800-coherent-b2af901c",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/6/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-super-800-coherent-b2af901c",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/6/source_jar",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+        "role": "historical generated or retained scratch jar",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/6/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/6/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/6/cli_args/34",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "role": "historical input",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/6/cli_args/32",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/knuckles-super-800-coherent-b2af901c",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/7/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/sonic-bad-320-coherent-b2af901c",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/7/source_jar",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+        "role": "historical generated or retained scratch jar",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/7/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-b2af901cc61b.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/7/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/7/cli_args/30",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/sonic-bad-320-coherent-b2af901c",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/8/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800-render-copy-d1a298ec789d",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/8/source_jar",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-final-owner-d1a298ec789d.jar",
+        "role": "historical generated or retained scratch jar",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/8/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/s3k-ending-visual-final-owner-d1a298ec789d.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/8/historical_java_tmpdir",
+        "historical_path": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-s3k-finish-endings/target/ending-visual-tmp",
+        "role": "generated historical extraction cache",
+        "exists_at_candidate_preparation": false,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/8/cli_args/32",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/tails-super-800-render-copy-d1a298ec789d",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/9/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/presentation-repair-70c099038943/sonic-chaos-320",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/9/source_jar",
+        "historical_path": "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar",
+        "role": "historical generated or retained scratch jar",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/9/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/9/cli_args/31",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/presentation-repair-70c099038943/sonic-chaos-320",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/10/directory",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/presentation-repair-70c099038943/tails-super-800",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/10/source_jar",
+        "historical_path": "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar",
+        "role": "historical generated or retained scratch jar",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/10/historical_classpath_first_entry",
+        "historical_path": "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar",
+        "role": "historical runtime jar reference; remaining dependency paths stay descriptive",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      },
+      {
+        "pointer": "/captures/10/cli_args/31",
+        "historical_path": "/home/farrell/Videos/OGGF/s3k-finish-endings-2026-10-13/presentation-repair-70c099038943/tails-super-800",
+        "role": "durable historical output",
+        "exists_at_candidate_preparation": true,
+        "note": "One-time path observation only. Historical worktree/scratch locations may retire; use portable reconstruction paths. This does not claim future availability."
+      }
+    ],
+    "input_resource_checks": [
+      {
+        "capture": "knuckles-bad-800-final-route",
+        "repository_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "recorded_sha256": "ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+        "verified_against_chosen_checkout": true
+      },
+      {
+        "capture": "knuckles-super-800-native-prefix",
+        "repository_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "recorded_sha256": "ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+        "verified_against_chosen_checkout": true
+      },
+      {
+        "capture": "knuckles-bad-800-coherent-b2af901c",
+        "repository_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "recorded_sha256": "ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+        "verified_against_chosen_checkout": true
+      },
+      {
+        "capture": "knuckles-super-800-coherent-b2af901c",
+        "repository_resource": "src/test/resources/routes/s3k/ssz2-final-defeat.bk2",
+        "recorded_sha256": "ac5dcff0d7c8fb338eb2590cdce054475c773ca73b71fba4b37a8910aa8500c2",
+        "verified_against_chosen_checkout": true
+      }
+    ],
+    "retained_scratch_runtime": {
+      "historical_jar": "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/native-presentation-4b390491.jar",
+      "recorded_sha256": "ed7dc6503834671f0dee3b372c92fe4b8edd10076c8a17746c7276d4c2c3f9e9",
+      "dependency_classpath": "/home/farrell/scratch/agent-tmp/codex/s3k-finish-20261013/island-pixel-probe/classpath.txt",
+      "cleanup_rule": "Retain before and after normalization, or explicitly account for later archival/discard with the lead. Normalization never deletes/replaces historical runtime bytes.",
+      "future_reconstruction_dependency": false
+    }
+  },
+  "final_feature_java_source": {
+    "sha256": "a8a2a24d16c7539904d5050ddfd1101af2106f9b58e87ad050484418d11dc457",
+    "encoding": "sorted relative UTF8 path+NUL+file bytes+NUL",
+    "files": 7594,
+    "distinction": "d1a film snapshot predates only the organization move from private nested to unannotated package-private derived record; source identity is kept rather than rewritten."
+  },
+  "presentation_repair": {
+    "baseline": "772092298",
+    "baseline_merge": "79cb117ff",
+    "feature_commit": "f664a1e1a764670e02ebe20c88efbbb355eaa5db",
+    "main_java_sha256": "70c0990389436562191a211c342493331496bfac6c5a9a4957216fabe1a4f35a",
+    "all_java_sha256": "46805c543ea2d319932b854f58dc3e7c3e38025e900a80a760ac9fdc5f5a95d4",
+    "focus": "50 distinct affected checks covered with no unresolved failures/errors/skips; native graph/art/palette/rewind and 9 D01 lifecycles. Current delivery record: final_delivery; original focused source identity and scope unchanged.",
+    "limits": "Declared scene presentation excerpts, not cold campaigns/terminal movies or whole-scene native parity. Full-capacity native unchecked SST overwrite remains unsupported inherited missing emulation.",
+    "reproduction_target": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+    "latest_highlights": "highlights/ending-reel-presentation-f664a1e1a/s3k-ending-highlights-presentation-repair-provisional.mp4"
+  },
+  "highlights_reels": [
+    {
+      "directory": "highlights/ending-reel-presentation-f664a1e1a",
+      "output": "s3k-ending-highlights-presentation-repair-provisional.mp4",
+      "status": "Delivered on verified and pushed develop; archival mixed-source highlights; original QA and historical identities retained.",
+      "duration_seconds": 61,
+      "dimensions": [
+        1600,
+        520
+      ],
+      "fps": "15/1",
+      "audio": false,
+      "chapters": 12,
+      "output_sha256": "5f5cef9fabe730b58091c0f3b2b94a233b640edc902a27a6f783d3749ec2ecde",
+      "edl_sha256": "07a111f193107fd3262f4cd9c5cdd89bd587e02a7923c08c9c9381b4ee7b422d",
+      "assembler_sha256": "c11656deae19667b2b81c3fb70f300e9dca84f4d9623bb3508ba45fe3dfce2eb",
+      "verification_sha256": "401fc72890615fda7a00c971b645c567b00d6b853fbdb7d502fca0362f964869",
+      "source_index_snapshot": "source-index.snapshot.json",
+      "source_index_snapshot_sha256": "e1305e2a3e5b4be1a0c865c10b16c1485c58fd0c567281ddd7f6cab75c95a2ad",
+      "presentation_repair_commit": "f664a1e1a764670e02ebe20c88efbbb355eaa5db",
+      "integration_merge_at_authoring": "7df0c44cb",
+      "source_paths": [
+        "presentation-repair-70c099038943/sonic-chaos-320/capture.mp4",
+        "presentation-repair-70c099038943/tails-super-800/capture.mp4",
+        "sonic-bad-320-coherent-b2af901c/capture.mp4",
+        "knuckles-super-800-coherent-b2af901c/capture.mp4",
+        "knuckles-bad-800-coherent-b2af901c/capture.mp4"
+      ],
+      "verification": "FFprobe 915 frames/61s/12 exact chapters; full xerror decode exit0; 36 temporal samples/all11 cut boundaries inspected; native-window frame variation checked.",
+      "limits": "Declared Sonic/Tails scene excerpts and historical actual-final-fight Knuckles sources. No uninterrupted cold campaign, whole-scene native parity or latest-integrated pixel parity claim. Final reproduction target remains lead-owned after verified develop delivery."
+    }
+  ],
+  "final_delivery": {
+    "develop_sha": "5b2ff8e7851b99dd40998dfc41fbfd21c80031ef",
+    "branch": "develop",
+    "placeholder_only": false,
+    "qualification_summary": "Completed smoke on aaff73747: 66/66 ordinary batches, 27200 tests, one attributed inherited TestCompleteRunAudioCli stderr-prefix assertion, zero errors, 64 inspected skips (none missing ROM). Fresh guards: 680 tests, zero failures/errors/skips. All seven actual incoming DEZ/DDZ ending scenarios ran with no failures/errors/skips. Focused route, world-replay and presentation checks are recorded in the committed task plan; strict trace and unqualified donor/viewport/lifecycle/native-pixel breadth remain open. Develop source trees equal tested aaff73747; skip-tests package and branch policies pass. All eight owned worktrees/local branches removed. No release-only full suite or whole-game parity claim.",
+    "proof_scope": "Lead-supplied qualification summary; local HEAD/develop/origin-develop matched after push.",
+    "historical_live_index_sha256": "322388975f601129da3a6428495ba57efade2ce860eee3ceafa4033f1da126a1",
+    "media_scope": "Mixed historical sources; no recapture, uninterrupted cold campaign or latest-integrated/native pixel parity claim."
+  }
+}

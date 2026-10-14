@@ -1,0 +1,8 @@
+Sonic3kMonitorObjectInstance 10421,2226 spawn=ObjectSpawn[x=10421, y=2226, objectId=1, subtype=8, renderFlags=0, respawnTracked=false, rawYWord=2226, layoutIndex=575, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 9792,2108 spawn=ObjectSpawn[x=9792, y=2108, objectId=7, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=2108, layoutIndex=534, ownerModId=null, objectKey=null]
+LrzFireballLauncherObjectInstance 10331,2257 spawn=ObjectSpawn[x=10331, y=2257, objectId=27, subtype=24, renderFlags=1, respawnTracked=false, rawYWord=10449, layoutIndex=570, ownerModId=null, objectKey=null]
+LrzFireballLauncherObjectInstance 9892,2129 spawn=ObjectSpawn[x=9892, y=2129, objectId=27, subtype=24, renderFlags=0, respawnTracked=false, rawYWord=2129, layoutIndex=540, ownerModId=null, objectKey=null]
+FirewormBadnikInstance 10336,2536 spawn=ObjectSpawn[x=10336, y=2536, objectId=153, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=2536, layoutIndex=571, ownerModId=null, objectKey=null]
+LrzFireballLauncherObjectInstance 10020,2193 spawn=ObjectSpawn[x=10020, y=2193, objectId=27, subtype=24, renderFlags=0, respawnTracked=false, rawYWord=2193, layoutIndex=550, ownerModId=null, objectKey=null]
+LrzFireballObjectInstance 10134,2193 spawn=ObjectSpawn[x=10134, y=2193, objectId=27, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+LrzFallingSpikeObjectInstance 10208,2327 spawn=ObjectSpawn[x=10208, y=2327, objectId=24, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=2188, layoutIndex=566, ownerModId=null, objectKey=null]

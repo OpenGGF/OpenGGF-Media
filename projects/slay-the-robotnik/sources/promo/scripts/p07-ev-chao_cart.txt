@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:chao_cart@3:4:0
+# ticks: 560
+90:enter
++330:enter

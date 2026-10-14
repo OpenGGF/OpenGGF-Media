@@ -1,0 +1,132 @@
+{
+  "duration": 99.9,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "avg_frame_rate": "60/1",
+    "nb_frames": "5994",
+    "duration": "99.900000"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "channel_layout": "stereo",
+    "duration": "99.900000"
+  },
+  "loudness": {
+    "input_i": "-14.16",
+    "input_tp": "-1.00",
+    "input_lra": "6.40",
+    "input_thresh": "-24.28",
+    "output_i": "-14.51",
+    "output_tp": "-1.57",
+    "output_lra": "6.40",
+    "output_thresh": "-24.63",
+    "normalization_type": "dynamic",
+    "target_offset": "0.51"
+  },
+  "sources": [
+    {
+      "source": "ghz",
+      "video_frames": 10659,
+      "pcm_stereo_frames": 8527200,
+      "sample_rate": 48000,
+      "channels": 2,
+      "pcm_bytes_per_tick": 3200
+    },
+    {
+      "source": "ehz",
+      "video_frames": 12672,
+      "pcm_stereo_frames": 10137600,
+      "sample_rate": 48000,
+      "channels": 2,
+      "pcm_bytes_per_tick": 3200
+    },
+    {
+      "source": "fz",
+      "video_frames": 4354,
+      "pcm_stereo_frames": 3483200,
+      "sample_rate": 48000,
+      "channels": 2,
+      "pcm_bytes_per_tick": 3200
+    },
+    {
+      "source": "dez",
+      "video_frames": 6768,
+      "pcm_stereo_frames": 5414400,
+      "sample_rate": 48000,
+      "channels": 2,
+      "pcm_bytes_per_tick": 3200
+    },
+    {
+      "source": "hub",
+      "video_frames": 2701,
+      "pcm_stereo_frames": 2160800,
+      "sample_rate": 48000,
+      "channels": 2,
+      "pcm_bytes_per_tick": 3200
+    }
+  ],
+  "av_waveform_checks": [
+    {
+      "shot": 4,
+      "label": "Sonic 2 spindash: 3-2-1 START",
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.99
+    },
+    {
+      "shot": 8,
+      "label": "Keyboard lights and chained bounces",
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.99835
+    },
+    {
+      "shot": 11,
+      "label": "Letter rings to recover",
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.99974
+    },
+    {
+      "shot": 24,
+      "label": "Robotnik voiced taunt typed back",
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.99564
+    },
+    {
+      "shot": 27,
+      "label": "Green Hill wrecking-ball dodge",
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.99634
+    },
+    {
+      "shot": 29,
+      "label": "HIT ROBOTNIK S PILLAR: four words",
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.99191
+    },
+    {
+      "shot": 33,
+      "label": "Death Egg targeting-sensor slam",
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.99964
+    },
+    {
+      "shot": 36,
+      "label": "Rank tally",
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.99983
+    }
+  ],
+  "full_decode": "passed"
+}

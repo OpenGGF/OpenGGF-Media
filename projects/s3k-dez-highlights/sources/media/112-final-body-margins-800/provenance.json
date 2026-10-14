@@ -1,0 +1,33 @@
+{
+  "base_commit": "ddf517a5468dc2e9b72752ca4394534df3607466",
+  "candidate": "uncommitted final DEZ retained rendering, native camera projection, sky-only planet extension and body margins",
+  "width": 800,
+  "frames": 1200,
+  "hurt_rows": 0,
+  "death_rows": 0,
+  "input": "../inputs/dez-final-entry-right.txt",
+  "input_sha256": "24a9d20af852c2d3549ccef3ef058c775e96f1a447d37531e6d41573ef01782d",
+  "production_sha256": {
+    "src/main/java/com/openggf/game/internal/BackgroundColumnRemap.java": "61daf6450b6b198e08d76b945379c5dab899520f844d8ee88338878af95a1d14",
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kLevelEventManager.java": "1d6873324fa952bbe2b67420b3b26244a73a1028fe3f099f3fc4b612db4dcb61",
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kZoneFeatureProvider.java": "8c56bab4b893dc2514095d4181be46df23c4b1d766fe9ed6e393cee183823af7",
+    "src/main/java/com/openggf/game/sonic3k/events/DezFinalScreenEvents.java": "c2255597e3b4e34cb6f50e91f7b01b8998655fd1b811032a3831ccf1437739a5",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalArenaBreakup.java": "f1395a297da48bc5ab8969d1c6f3616bb611e1c07671235033614538557c3c62",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalArenaFloor.java": "ece4a5879a60ce4650d65d58cb77cb03c779a21835618ba1a6d3bc89d73ce70c",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalArenaSignal.java": "fe700d03892753907ea462129912426f19b1435f0c9f25d67e2ac033539f6e8a",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalBossController.java": "6afea2d692f7e94d55fbf01cedc3ac133105c41a6835b024a551f5e2276ab6ee",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalEscapeScenery.java": "fd5a8fade833a920582e2c003a0f5015c28634d1ded626904a6e3e9c62c5864c",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalEscapeShip.java": "54c76fe7dac5ecae9e1513efb3b12620a007a68d5e9e2fcda9d0026fac672a30",
+    "src/main/java/com/openggf/game/sonic3k/render/DezPlanetBackground.java": "2fa897817a33b7a8444cfd0f39d43db9202877430ec406f167f80d867c880017",
+    "src/main/java/com/openggf/game/sonic3k/runtime/DezFinalBossZoneRuntimeState.java": "852b6c78cb3d998ba68f8e674fc3e926ca56fe6d244b60eedcfd3131e6cd0919",
+    "src/main/java/com/openggf/game/sonic3k/runtime/DezFinalPlaneState.java": "ca8344bc3a6a3ca61ae12676e914f63a357180ae1246658d768be46920733167",
+    "src/main/java/com/openggf/game/sonic3k/scroll/Sonic3kScrollHandlerProvider.java": "04db250b5c84075695b63f4018b1326d50e5b2838f4a179d05052d06d9cc7424",
+    "src/main/java/com/openggf/game/sonic3k/scroll/SwScrlS3kDezFinalBoss.java": "5789d49791e70dbebc5dd12f88ec2d808c2bdee3072640194246f242faf323da",
+    "src/main/java/com/openggf/level/LevelTilemapManager.java": "77e243b8d0feb47cb02c39b3c46caab4b251cfc8cfcfe4bb868395d777874d2f",
+    "src/main/java/com/openggf/level/render/BackgroundRenderer.java": "e697d73f111de44266b6d5f5e5929b5cab1bf2cf6567ebd8df52c6a2cb2091b2",
+    "src/main/resources/shaders/shader_parallax_bg.glsl": "124f4ee564e4f2b097064e03043ddc74622b0263b0ed4fde946399ea3826c893",
+    "src/main/java/com/openggf/game/internal/ForegroundDescriptorOverride.java": "7cca40538ad2ac631b7a96e2aed89ff953bb7d65781f6b1c69868d050eb1644f",
+    "src/main/java/com/openggf/game/sonic3k/runtime/DezFinalCamera.java": "4fcab3a94bb300c6c0c019b897903d75cf231594dd0776fccf5b85a7b6c0645a"
+  },
+  "scope": "direct final-arena load, solo Sonic, declared 200 rings; entry/hands only; not native trajectory or full fight parity"
+}

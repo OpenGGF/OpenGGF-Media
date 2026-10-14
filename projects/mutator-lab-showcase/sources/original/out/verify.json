@@ -1,0 +1,3815 @@
+{
+  "film": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/out/mutator-lab-complete-showcase.mp4",
+  "sha256": "df18fbbbb3685885c9bea0e44c55e9b15345589c7b1c4770ec426f7ea46c87e1",
+  "decode_exit": 0,
+  "frames": 5453,
+  "pts_deltas": [
+    256
+  ],
+  "video_checks": 243,
+  "video_mismatches": [],
+  "pcm_segment_errors": [],
+  "pcm_frames": 4362400,
+  "pcm_frames_compared": 4289288,
+  "av": [
+    {
+      "time_s": 2.0,
+      "lag_ms": 0.0,
+      "correlation": 0.99866
+    },
+    {
+      "time_s": 9.717,
+      "lag_ms": 0.0,
+      "correlation": 0.99977
+    },
+    {
+      "time_s": 17.433,
+      "lag_ms": 0.0,
+      "correlation": 0.9988
+    },
+    {
+      "time_s": 25.15,
+      "lag_ms": 0.0,
+      "correlation": 0.9995
+    },
+    {
+      "time_s": 32.867,
+      "lag_ms": 0.0,
+      "correlation": 0.99961
+    },
+    {
+      "time_s": 40.583,
+      "lag_ms": 0.0,
+      "correlation": 0.99967
+    },
+    {
+      "time_s": 48.3,
+      "lag_ms": 0.0,
+      "correlation": 0.99936
+    },
+    {
+      "time_s": 56.016,
+      "lag_ms": 0.0,
+      "correlation": 0.99904
+    },
+    {
+      "time_s": 63.733,
+      "lag_ms": 0.0,
+      "correlation": 0.99953
+    },
+    {
+      "time_s": 71.45,
+      "lag_ms": 0.0,
+      "correlation": 0.99949
+    },
+    {
+      "time_s": 79.166,
+      "lag_ms": 0.0,
+      "correlation": 0.99992
+    },
+    {
+      "time_s": 86.883,
+      "lag_ms": 0.0,
+      "correlation": 0.99818
+    }
+  ],
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640032",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1395968,
+        "duration": "90.883333",
+        "bit_rate": "7082551",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "5453",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc63.1.102 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4363200,
+        "duration": "90.900000",
+        "bit_rate": "197432",
+        "nb_frames": "4262",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      },
+      {
+        "index": 2,
+        "codec_name": "bin_data",
+        "codec_long_name": "binary data",
+        "codec_type": "data",
+        "codec_tag_string": "text",
+        "codec_tag": "0x74786574",
+        "id": "0x3",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4362384,
+        "duration": "90.883000",
+        "bit_rate": "31",
+        "nb_frames": "14",
+        "extradata_size": 63,
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "SubtitleHandler"
+        }
+      }
+    ],
+    "chapters": [
+      {
+        "id": 0,
+        "time_base": "1/48000",
+        "start": 0,
+        "start_time": "0.000000",
+        "end": 292800,
+        "end_time": "6.100000",
+        "tags": {
+          "title": "Cold open"
+        }
+      },
+      {
+        "id": 1,
+        "time_base": "1/48000",
+        "start": 292800,
+        "start_time": "6.100000",
+        "end": 412800,
+        "end_time": "8.600000",
+        "tags": {
+          "title": "Title"
+        }
+      },
+      {
+        "id": 2,
+        "time_base": "1/48000",
+        "start": 412800,
+        "start_time": "8.600000",
+        "end": 964800,
+        "end_time": "20.100000",
+        "tags": {
+          "title": "Ringfall + Big Head"
+        }
+      },
+      {
+        "id": 3,
+        "time_base": "1/48000",
+        "start": 964800,
+        "start_time": "20.100000",
+        "end": 1506384,
+        "end_time": "31.383000",
+        "tags": {
+          "title": "Violent Explosions"
+        }
+      },
+      {
+        "id": 4,
+        "time_base": "1/48000",
+        "start": 1506384,
+        "start_time": "31.383000",
+        "end": 1904784,
+        "end_time": "39.683000",
+        "tags": {
+          "title": "Gravity"
+        }
+      },
+      {
+        "id": 5,
+        "time_base": "1/48000",
+        "start": 1904784,
+        "start_time": "39.683000",
+        "end": 2331216,
+        "end_time": "48.567000",
+        "tags": {
+          "title": "Game Speed"
+        }
+      },
+      {
+        "id": 6,
+        "time_base": "1/48000",
+        "start": 2331216,
+        "start_time": "48.567000",
+        "end": 2647200,
+        "end_time": "55.150000",
+        "tags": {
+          "title": "Stealth"
+        }
+      },
+      {
+        "id": 7,
+        "time_base": "1/48000",
+        "start": 2647200,
+        "start_time": "55.150000",
+        "end": 2931984,
+        "end_time": "61.083000",
+        "tags": {
+          "title": "No Powerups"
+        }
+      },
+      {
+        "id": 8,
+        "time_base": "1/48000",
+        "start": 2931984,
+        "start_time": "61.083000",
+        "end": 3202416,
+        "end_time": "66.717000",
+        "tags": {
+          "title": "No Rings"
+        }
+      },
+      {
+        "id": 9,
+        "time_base": "1/48000",
+        "start": 3202416,
+        "start_time": "66.717000",
+        "end": 3416784,
+        "end_time": "71.183000",
+        "tags": {
+          "title": "No Checkpoints"
+        }
+      },
+      {
+        "id": 10,
+        "time_base": "1/48000",
+        "start": 3416784,
+        "start_time": "71.183000",
+        "end": 3668016,
+        "end_time": "76.417000",
+        "tags": {
+          "title": "No Special Stages"
+        }
+      },
+      {
+        "id": 11,
+        "time_base": "1/48000",
+        "start": 3668016,
+        "start_time": "76.417000",
+        "end": 3908016,
+        "end_time": "81.417000",
+        "tags": {
+          "title": "No Bonus Stages"
+        }
+      },
+      {
+        "id": 12,
+        "time_base": "1/48000",
+        "start": 3908016,
+        "start_time": "81.417000",
+        "end": 4218384,
+        "end_time": "87.883000",
+        "tags": {
+          "title": "Stack everything"
+        }
+      },
+      {
+        "id": 13,
+        "time_base": "1/48000",
+        "start": 4218384,
+        "start_time": "87.883000",
+        "end": 4362384,
+        "end_time": "90.883000",
+        "tags": {
+          "title": "Outro"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/out/mutator-lab-complete-showcase.mp4",
+      "nb_streams": 3,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "90.900000",
+      "size": "82844752",
+      "bit_rate": "7291067",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "Mutator Lab \u2014 complete gameplay showcase",
+        "encoder": "Lavf63.1.102"
+      }
+    }
+  },
+  "video_details": [
+    {
+      "segment": "open-ghz-storm",
+      "output_frame": 16,
+      "source_frame": 724,
+      "best_offset": 0,
+      "distances": {
+        "-2": 40.402,
+        "-1": 27.767,
+        "0": 1.225,
+        "1": 28.64,
+        "2": 41.807
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-ghz-storm",
+      "output_frame": 33,
+      "source_frame": 741,
+      "best_offset": 0,
+      "distances": {
+        "-2": 44.129,
+        "-1": 31.99,
+        "0": 1.387,
+        "1": 31.391,
+        "2": 43.623
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-ghz-storm",
+      "output_frame": 49,
+      "source_frame": 757,
+      "best_offset": 0,
+      "distances": {
+        "-2": 44.161,
+        "-1": 32.083,
+        "0": 1.414,
+        "1": 31.354,
+        "2": 44.724
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-stealth",
+      "output_frame": 89,
+      "source_frame": 489,
+      "best_offset": 0,
+      "distances": {
+        "-2": 20.587,
+        "-1": 10.524,
+        "0": 1.019,
+        "1": 11.923,
+        "2": 19.78
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-stealth",
+      "output_frame": 113,
+      "source_frame": 513,
+      "best_offset": 0,
+      "distances": {
+        "-2": 17.328,
+        "-1": 15.748,
+        "0": 1.157,
+        "1": 19.506,
+        "2": 18.036
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-stealth",
+      "output_frame": 136,
+      "source_frame": 536,
+      "best_offset": 0,
+      "distances": {
+        "-2": 24.063,
+        "-1": 22.485,
+        "0": 1.129,
+        "1": 20.111,
+        "2": 22.499
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-speed",
+      "output_frame": 175,
+      "source_frame": 631,
+      "best_offset": 0,
+      "distances": {
+        "-2": 34.958,
+        "-1": 32.824,
+        "0": 1.591,
+        "1": 32.614,
+        "2": 35.467
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-speed",
+      "output_frame": 190,
+      "source_frame": 646,
+      "best_offset": 0,
+      "distances": {
+        "-2": 38.172,
+        "-1": 31.208,
+        "0": 1.65,
+        "1": 31.583,
+        "2": 38.772
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-speed",
+      "output_frame": 205,
+      "source_frame": 661,
+      "best_offset": 0,
+      "distances": {
+        "-2": 37.559,
+        "-1": 32.723,
+        "0": 1.626,
+        "1": 30.392,
+        "2": 36.79
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-syz-launch",
+      "output_frame": 237,
+      "source_frame": 389,
+      "best_offset": 0,
+      "distances": {
+        "-2": 36.921,
+        "-1": 31.74,
+        "0": 0.756,
+        "1": 29.358,
+        "2": 32.298
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-syz-launch",
+      "output_frame": 254,
+      "source_frame": 406,
+      "best_offset": 0,
+      "distances": {
+        "-2": 14.093,
+        "-1": 10.626,
+        "0": 0.538,
+        "1": 10.945,
+        "2": 14.528
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-syz-launch",
+      "output_frame": 271,
+      "source_frame": 423,
+      "best_offset": 0,
+      "distances": {
+        "-2": 11.407,
+        "-1": 10.233,
+        "0": 0.589,
+        "1": 7.201,
+        "2": 9.346
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-aiz-storm",
+      "output_frame": 307,
+      "source_frame": 769,
+      "best_offset": 0,
+      "distances": {
+        "-2": 34.365,
+        "-1": 29.41,
+        "0": 1.451,
+        "1": 29.212,
+        "2": 34.455
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-aiz-storm",
+      "output_frame": 327,
+      "source_frame": 789,
+      "best_offset": 0,
+      "distances": {
+        "-2": 37.576,
+        "-1": 33.798,
+        "0": 1.658,
+        "1": 31.12,
+        "2": 37.327
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "open-aiz-storm",
+      "output_frame": 346,
+      "source_frame": 808,
+      "best_offset": 0,
+      "distances": {
+        "-2": 17.056,
+        "-1": 13.794,
+        "0": 1.669,
+        "1": 16.973,
+        "2": 17.724
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-menu-option",
+      "output_frame": 530,
+      "source_frame": 98,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.23,
+        "-1": 1.23,
+        "0": 1.23,
+        "1": 1.23,
+        "2": 1.23
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-menu-option",
+      "output_frame": 544,
+      "source_frame": 112,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.208,
+        "-1": 1.208,
+        "0": 1.208,
+        "1": 1.208,
+        "2": 1.208
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-menu-option",
+      "output_frame": 558,
+      "source_frame": 126,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.209,
+        "-1": 1.209,
+        "0": 1.209,
+        "1": 1.209,
+        "2": 1.209
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-menu-resume",
+      "output_frame": 577,
+      "source_frame": 191,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.246,
+        "-1": 1.246,
+        "0": 1.246,
+        "1": 1.246,
+        "2": 1.246
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-menu-resume",
+      "output_frame": 583,
+      "source_frame": 197,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.246,
+        "-1": 1.246,
+        "0": 1.246,
+        "1": 1.246,
+        "2": 1.246
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-menu-resume",
+      "output_frame": 588,
+      "source_frame": 202,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.246,
+        "-1": 1.246,
+        "0": 1.246,
+        "1": 81.177,
+        "2": 81.288
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-bank",
+      "output_frame": 634,
+      "source_frame": 510,
+      "best_offset": 0,
+      "distances": {
+        "-2": 22.168,
+        "-1": 13.495,
+        "0": 0.95,
+        "1": 14.836,
+        "2": 22.905
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-bank",
+      "output_frame": 675,
+      "source_frame": 551,
+      "best_offset": 0,
+      "distances": {
+        "-2": 14.25,
+        "-1": 14.023,
+        "0": 0.925,
+        "1": 1.224,
+        "2": 13.566
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-bank",
+      "output_frame": 715,
+      "source_frame": 591,
+      "best_offset": 0,
+      "distances": {
+        "-2": 1.457,
+        "-1": 1.157,
+        "0": 0.895,
+        "1": 1.099,
+        "2": 2.192
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-hit",
+      "output_frame": 795,
+      "source_frame": 671,
+      "best_offset": 0,
+      "distances": {
+        "-2": 50.806,
+        "-1": 29.413,
+        "0": 0.909,
+        "1": 36.467,
+        "2": 50.479
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-hit",
+      "output_frame": 835,
+      "source_frame": 711,
+      "best_offset": 0,
+      "distances": {
+        "-2": 36.701,
+        "-1": 30.007,
+        "0": 0.885,
+        "1": 2.68,
+        "2": 3.743
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-hit",
+      "output_frame": 874,
+      "source_frame": 750,
+      "best_offset": 0,
+      "distances": {
+        "-2": 45.205,
+        "-1": 32.114,
+        "0": 1.398,
+        "1": 30.672,
+        "2": 44.559
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-regrow",
+      "output_frame": 956,
+      "source_frame": 832,
+      "best_offset": 0,
+      "distances": {
+        "-2": 27.432,
+        "-1": 18.376,
+        "0": 1.172,
+        "1": 26.305,
+        "2": 39.312
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-regrow",
+      "output_frame": 999,
+      "source_frame": 875,
+      "best_offset": 0,
+      "distances": {
+        "-2": 50.19,
+        "-1": 43.636,
+        "0": 1.074,
+        "1": 41.872,
+        "2": 47.396
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-regrow",
+      "output_frame": 1041,
+      "source_frame": 917,
+      "best_offset": 0,
+      "distances": {
+        "-2": 49.252,
+        "-1": 39.33,
+        "0": 1.05,
+        "1": 38.733,
+        "2": 50.972
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-contrast",
+      "output_frame": 1114,
+      "source_frame": 548,
+      "best_offset": 0,
+      "distances": {
+        "-2": 37.791,
+        "-1": 24.932,
+        "0": 1.453,
+        "1": 26.007,
+        "2": 39.339
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-contrast",
+      "output_frame": 1114,
+      "source_frame": 732,
+      "best_offset": 0,
+      "distances": {
+        "-2": 42.54,
+        "-1": 30.825,
+        "0": 2.651,
+        "1": 31.04,
+        "2": 43.594
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-contrast",
+      "output_frame": 1145,
+      "source_frame": 579,
+      "best_offset": 0,
+      "distances": {
+        "-2": 44.201,
+        "-1": 44.205,
+        "0": 1.546,
+        "1": 43.757,
+        "2": 46.155
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-contrast",
+      "output_frame": 1145,
+      "source_frame": 763,
+      "best_offset": 0,
+      "distances": {
+        "-2": 50.213,
+        "-1": 49.747,
+        "0": 2.941,
+        "1": 48.984,
+        "2": 52.293
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-contrast",
+      "output_frame": 1175,
+      "source_frame": 609,
+      "best_offset": 0,
+      "distances": {
+        "-2": 30.79,
+        "-1": 14.771,
+        "0": 1.491,
+        "1": 14.764,
+        "2": 23.714
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "hero-contrast",
+      "output_frame": 1175,
+      "source_frame": 793,
+      "best_offset": 0,
+      "distances": {
+        "-2": 35.953,
+        "-1": 21.103,
+        "0": 2.705,
+        "1": 22.922,
+        "2": 30.552
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-pct",
+      "output_frame": 1217,
+      "source_frame": 95,
+      "best_offset": 0,
+      "distances": {
+        "-2": 3.445,
+        "-1": 3.445,
+        "0": 1.161,
+        "1": 1.161,
+        "2": 1.161
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-pct",
+      "output_frame": 1228,
+      "source_frame": 106,
+      "best_offset": 0,
+      "distances": {
+        "-2": 1.363,
+        "-1": 1.363,
+        "0": 1.14,
+        "1": 1.14,
+        "2": 1.14
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-pct",
+      "output_frame": 1239,
+      "source_frame": 117,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.138,
+        "-1": 1.138,
+        "0": 1.138,
+        "1": 1.138,
+        "2": 1.138
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-cap",
+      "output_frame": 1264,
+      "source_frame": 164,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.171,
+        "-1": 1.171,
+        "0": 1.171,
+        "1": 1.171,
+        "2": 3.322
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-cap",
+      "output_frame": 1278,
+      "source_frame": 178,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.159,
+        "-1": 1.159,
+        "0": 1.159,
+        "1": 1.159,
+        "2": 1.281
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-cap",
+      "output_frame": 1292,
+      "source_frame": 192,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.16,
+        "-1": 1.16,
+        "0": 1.16,
+        "1": 1.16,
+        "2": 1.16
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-resume",
+      "output_frame": 1309,
+      "source_frame": 239,
+      "best_offset": -1,
+      "distances": {
+        "-2": 3.562,
+        "-1": 1.24,
+        "0": 1.24,
+        "1": 1.24,
+        "2": 1.24
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-resume",
+      "output_frame": 1313,
+      "source_frame": 243,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.24,
+        "-1": 1.24,
+        "0": 1.24,
+        "1": 1.24,
+        "2": 1.24
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-menu-resume",
+      "output_frame": 1316,
+      "source_frame": 246,
+      "best_offset": 0,
+      "distances": {
+        "-2": 69.819,
+        "-1": 69.819,
+        "0": 1.107,
+        "1": 67.633,
+        "2": 67.668
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-1",
+      "output_frame": 1365,
+      "source_frame": 335,
+      "best_offset": 0,
+      "distances": {
+        "-2": 43.321,
+        "-1": 34.251,
+        "0": 0.82,
+        "1": 32.239,
+        "2": 39.974
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-1",
+      "output_frame": 1411,
+      "source_frame": 381,
+      "best_offset": 0,
+      "distances": {
+        "-2": 10.923,
+        "-1": 7.75,
+        "0": 0.73,
+        "1": 20.827,
+        "2": 30.453
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-1",
+      "output_frame": 1456,
+      "source_frame": 426,
+      "best_offset": 0,
+      "distances": {
+        "-2": 11.032,
+        "-1": 9.701,
+        "0": 0.638,
+        "1": 9.001,
+        "2": 10.682
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-2",
+      "output_frame": 1517,
+      "source_frame": 515,
+      "best_offset": 0,
+      "distances": {
+        "-2": 14.551,
+        "-1": 10.507,
+        "0": 0.637,
+        "1": 10.424,
+        "2": 14.711
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-2",
+      "output_frame": 1533,
+      "source_frame": 531,
+      "best_offset": 0,
+      "distances": {
+        "-2": 21.86,
+        "-1": 21.51,
+        "0": 0.713,
+        "1": 18.975,
+        "2": 22.812
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-2",
+      "output_frame": 1548,
+      "source_frame": 546,
+      "best_offset": 0,
+      "distances": {
+        "-2": 14.36,
+        "-1": 10.401,
+        "0": 0.564,
+        "1": 13.325,
+        "2": 14.581
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-3",
+      "output_frame": 1579,
+      "source_frame": 665,
+      "best_offset": 0,
+      "distances": {
+        "-2": 14.362,
+        "-1": 12.587,
+        "0": 0.576,
+        "1": 12.96,
+        "2": 17.811
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-3",
+      "output_frame": 1595,
+      "source_frame": 681,
+      "best_offset": 0,
+      "distances": {
+        "-2": 9.342,
+        "-1": 3.15,
+        "0": 0.893,
+        "1": 2.346,
+        "2": 34.121
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-3",
+      "output_frame": 1610,
+      "source_frame": 696,
+      "best_offset": 0,
+      "distances": {
+        "-2": 17.353,
+        "-1": 13.084,
+        "0": 0.594,
+        "1": 13.422,
+        "2": 15.959
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-4",
+      "output_frame": 1640,
+      "source_frame": 809,
+      "best_offset": 0,
+      "distances": {
+        "-2": 14.219,
+        "-1": 12.203,
+        "0": 0.593,
+        "1": 11.389,
+        "2": 15.967
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-4",
+      "output_frame": 1654,
+      "source_frame": 823,
+      "best_offset": 0,
+      "distances": {
+        "-2": 8.717,
+        "-1": 7.34,
+        "0": 0.686,
+        "1": 18.833,
+        "2": 24.556
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-4",
+      "output_frame": 1668,
+      "source_frame": 837,
+      "best_offset": 0,
+      "distances": {
+        "-2": 15.045,
+        "-1": 12.012,
+        "0": 0.603,
+        "1": 13.767,
+        "2": 16.121
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-5",
+      "output_frame": 1703,
+      "source_frame": 970,
+      "best_offset": 0,
+      "distances": {
+        "-2": 31.855,
+        "-1": 26.871,
+        "0": 0.884,
+        "1": 31.022,
+        "2": 38.199
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-5",
+      "output_frame": 1723,
+      "source_frame": 990,
+      "best_offset": 0,
+      "distances": {
+        "-2": 15.292,
+        "-1": 10.972,
+        "0": 0.601,
+        "1": 13.307,
+        "2": 15.621
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-5",
+      "output_frame": 1743,
+      "source_frame": 1010,
+      "best_offset": 0,
+      "distances": {
+        "-2": 11.566,
+        "-1": 9.982,
+        "0": 0.601,
+        "1": 7.837,
+        "2": 11.295
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-contrast",
+      "output_frame": 1793,
+      "source_frame": 142,
+      "best_offset": 0,
+      "distances": {
+        "-2": 10.681,
+        "-1": 6.849,
+        "0": 1.072,
+        "1": 12.715,
+        "2": 14.978
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-contrast",
+      "output_frame": 1793,
+      "source_frame": 389,
+      "best_offset": 0,
+      "distances": {
+        "-2": 37.323,
+        "-1": 32.172,
+        "0": 1.789,
+        "1": 29.693,
+        "2": 32.53
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-contrast",
+      "output_frame": 1823,
+      "source_frame": 172,
+      "best_offset": 0,
+      "distances": {
+        "-2": 7.465,
+        "-1": 7.378,
+        "0": 1.078,
+        "1": 8.397,
+        "2": 9.097
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-contrast",
+      "output_frame": 1823,
+      "source_frame": 419,
+      "best_offset": 0,
+      "distances": {
+        "-2": 13.586,
+        "-1": 11.921,
+        "0": 1.216,
+        "1": 10.315,
+        "2": 12.562
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-contrast",
+      "output_frame": 1853,
+      "source_frame": 202,
+      "best_offset": 0,
+      "distances": {
+        "-2": 10.164,
+        "-1": 2.864,
+        "0": 1.53,
+        "1": 3.064,
+        "2": 12.079
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "chain-contrast",
+      "output_frame": 1853,
+      "source_frame": 449,
+      "best_offset": 0,
+      "distances": {
+        "-2": 8.739,
+        "-1": 6.757,
+        "0": 1.374,
+        "1": 4.018,
+        "2": 5.469
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-native",
+      "output_frame": 1900,
+      "source_frame": 79,
+      "best_offset": 0,
+      "distances": {
+        "-2": 33.277,
+        "-1": 26.828,
+        "0": 0.906,
+        "1": 31.812,
+        "2": 31.914
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-native",
+      "output_frame": 1917,
+      "source_frame": 96,
+      "best_offset": 0,
+      "distances": {
+        "-2": 26.482,
+        "-1": 22.906,
+        "0": 1.081,
+        "1": 29.526,
+        "2": 26.374
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-native",
+      "output_frame": 1934,
+      "source_frame": 113,
+      "best_offset": 0,
+      "distances": {
+        "-2": 32.211,
+        "-1": 28.407,
+        "0": 1.006,
+        "1": 26.09,
+        "2": 31.22
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-on",
+      "output_frame": 1954,
+      "source_frame": 189,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.174,
+        "-1": 1.174,
+        "0": 1.174,
+        "1": 1.174,
+        "2": 1.174
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-on",
+      "output_frame": 1958,
+      "source_frame": 193,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.174,
+        "-1": 1.174,
+        "0": 1.174,
+        "1": 1.174,
+        "2": 1.174
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-on",
+      "output_frame": 1961,
+      "source_frame": 196,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.178,
+        "-1": 1.178,
+        "0": 1.178,
+        "1": 1.178,
+        "2": 3.874
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-slide",
+      "output_frame": 1986,
+      "source_frame": 227,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.253,
+        "-1": 1.253,
+        "0": 1.253,
+        "1": 1.253,
+        "2": 1.388
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-slide",
+      "output_frame": 2008,
+      "source_frame": 249,
+      "best_offset": 0,
+      "distances": {
+        "-2": 1.352,
+        "-1": 1.352,
+        "0": 1.252,
+        "1": 1.252,
+        "2": 1.252
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-slide",
+      "output_frame": 2029,
+      "source_frame": 270,
+      "best_offset": -1,
+      "distances": {
+        "-2": 1.368,
+        "-1": 1.251,
+        "0": 1.251,
+        "1": 1.251,
+        "2": 1.251
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-resume",
+      "output_frame": 2055,
+      "source_frame": 334,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.284,
+        "-1": 1.284,
+        "0": 1.284,
+        "1": 1.284,
+        "2": 1.284
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-resume",
+      "output_frame": 2060,
+      "source_frame": 339,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.283,
+        "-1": 1.283,
+        "0": 1.283,
+        "1": 1.283,
+        "2": 1.283
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-resume",
+      "output_frame": 2064,
+      "source_frame": 343,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.283,
+        "-1": 1.283,
+        "0": 1.283,
+        "1": 1.283,
+        "2": 1.283
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-moon",
+      "output_frame": 2117,
+      "source_frame": 396,
+      "best_offset": 0,
+      "distances": {
+        "-2": 27.653,
+        "-1": 23.205,
+        "0": 1.381,
+        "1": 26.934,
+        "2": 28.833
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-moon",
+      "output_frame": 2165,
+      "source_frame": 444,
+      "best_offset": 0,
+      "distances": {
+        "-2": 33.408,
+        "-1": 28.711,
+        "0": 1.699,
+        "1": 26.852,
+        "2": 32.055
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-moon",
+      "output_frame": 2213,
+      "source_frame": 492,
+      "best_offset": 0,
+      "distances": {
+        "-2": 21.057,
+        "-1": 19.663,
+        "0": 1.453,
+        "1": 20.12,
+        "2": 19.867
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-off",
+      "output_frame": 2270,
+      "source_frame": 615,
+      "best_offset": 0,
+      "distances": {
+        "-2": 3.383,
+        "-1": 2.005,
+        "0": 1.242,
+        "1": 1.242,
+        "2": 1.242
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-off",
+      "output_frame": 2279,
+      "source_frame": 624,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.119,
+        "-1": 4.119,
+        "0": 1.227,
+        "1": 1.227,
+        "2": 1.227
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-menu-off",
+      "output_frame": 2288,
+      "source_frame": 633,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.226,
+        "-1": 1.226,
+        "0": 1.226,
+        "1": 1.226,
+        "2": 1.226
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-back",
+      "output_frame": 2318,
+      "source_frame": 707,
+      "best_offset": 0,
+      "distances": {
+        "-2": 33.233,
+        "-1": 25.735,
+        "0": 1.02,
+        "1": 28.048,
+        "2": 33.967
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-back",
+      "output_frame": 2339,
+      "source_frame": 728,
+      "best_offset": 0,
+      "distances": {
+        "-2": 34.913,
+        "-1": 28.136,
+        "0": 1.183,
+        "1": 29.86,
+        "2": 37.977
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "grav-back",
+      "output_frame": 2360,
+      "source_frame": 749,
+      "best_offset": 0,
+      "distances": {
+        "-2": 32.489,
+        "-1": 28.088,
+        "0": 1.171,
+        "1": 25.96,
+        "2": 31.2
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-normal",
+      "output_frame": 2408,
+      "source_frame": 137,
+      "best_offset": 0,
+      "distances": {
+        "-2": 44.299,
+        "-1": 39.292,
+        "0": 1.098,
+        "1": 41.169,
+        "2": 44.258
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-normal",
+      "output_frame": 2436,
+      "source_frame": 165,
+      "best_offset": 0,
+      "distances": {
+        "-2": 49.286,
+        "-1": 40.507,
+        "0": 1.139,
+        "1": 40.364,
+        "2": 45.651
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-normal",
+      "output_frame": 2464,
+      "source_frame": 193,
+      "best_offset": 0,
+      "distances": {
+        "-2": 49.298,
+        "-1": 45.062,
+        "0": 1.333,
+        "1": 43.31,
+        "2": 47.535
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-on",
+      "output_frame": 2497,
+      "source_frame": 357,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.196,
+        "-1": 1.196,
+        "0": 1.196,
+        "1": 1.196,
+        "2": 1.196
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-on",
+      "output_frame": 2502,
+      "source_frame": 362,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.185,
+        "-1": 1.185,
+        "0": 1.185,
+        "1": 1.185,
+        "2": 1.185
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-on",
+      "output_frame": 2507,
+      "source_frame": 367,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.183,
+        "-1": 1.183,
+        "0": 1.183,
+        "1": 1.183,
+        "2": 1.183
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-pct",
+      "output_frame": 2524,
+      "source_frame": 414,
+      "best_offset": -1,
+      "distances": {
+        "-2": 1.337,
+        "-1": 1.195,
+        "0": 1.195,
+        "1": 1.195,
+        "2": 1.195
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-pct",
+      "output_frame": 2537,
+      "source_frame": 427,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.196,
+        "-1": 1.196,
+        "0": 1.196,
+        "1": 1.196,
+        "2": 1.196
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-pct",
+      "output_frame": 2549,
+      "source_frame": 439,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.196,
+        "-1": 1.196,
+        "0": 1.196,
+        "1": 1.196,
+        "2": 1.196
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-audio",
+      "output_frame": 2568,
+      "source_frame": 482,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.242,
+        "-1": 1.242,
+        "0": 1.242,
+        "1": 4.164,
+        "2": 4.164
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-audio",
+      "output_frame": 2574,
+      "source_frame": 488,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.223,
+        "-1": 1.223,
+        "0": 1.223,
+        "1": 1.223,
+        "2": 1.223
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-audio",
+      "output_frame": 2580,
+      "source_frame": 494,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.222,
+        "-1": 1.222,
+        "0": 1.222,
+        "1": 1.222,
+        "2": 1.222
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-resume",
+      "output_frame": 2589,
+      "source_frame": 607,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.266,
+        "-1": 1.266,
+        "0": 1.266,
+        "1": 1.266,
+        "2": 1.266
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-resume",
+      "output_frame": 2592,
+      "source_frame": 610,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.265,
+        "-1": 1.265,
+        "0": 1.265,
+        "1": 1.265,
+        "2": 1.265
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-menu-resume",
+      "output_frame": 2595,
+      "source_frame": 613,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.264,
+        "-1": 1.264,
+        "0": 1.264,
+        "1": 1.264,
+        "2": 1.264
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-fast",
+      "output_frame": 2634,
+      "source_frame": 652,
+      "best_offset": 0,
+      "distances": {
+        "-2": 39.956,
+        "-1": 34.219,
+        "0": 1.643,
+        "1": 34.408,
+        "2": 39.605
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-fast",
+      "output_frame": 2670,
+      "source_frame": 688,
+      "best_offset": 0,
+      "distances": {
+        "-2": 34.75,
+        "-1": 33.543,
+        "0": 1.501,
+        "1": 33.23,
+        "2": 34.696
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-fast",
+      "output_frame": 2706,
+      "source_frame": 724,
+      "best_offset": -1,
+      "distances": {
+        "-2": 1.233,
+        "-1": 1.185,
+        "0": 1.185,
+        "1": 1.226,
+        "2": 1.242
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2785,
+      "source_frame": 63,
+      "best_offset": 0,
+      "distances": {
+        "-2": 25.126,
+        "-1": 25.126,
+        "0": 1.369,
+        "1": 1.369,
+        "2": 27.621
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2785,
+      "source_frame": 63,
+      "best_offset": 0,
+      "distances": {
+        "-2": 36.558,
+        "-1": 32.248,
+        "0": 2.277,
+        "1": 31.865,
+        "2": 34.994
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2785,
+      "source_frame": 63,
+      "best_offset": 0,
+      "distances": {
+        "-2": 40.573,
+        "-1": 35.869,
+        "0": 2.123,
+        "1": 36.467,
+        "2": 43.697
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2828,
+      "source_frame": 106,
+      "best_offset": -1,
+      "distances": {
+        "-2": 32.973,
+        "-1": 1.484,
+        "0": 1.484,
+        "1": 32.047,
+        "2": 32.047
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2828,
+      "source_frame": 106,
+      "best_offset": 0,
+      "distances": {
+        "-2": 36.476,
+        "-1": 33.976,
+        "0": 2.121,
+        "1": 32.977,
+        "2": 35.028
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2828,
+      "source_frame": 106,
+      "best_offset": 0,
+      "distances": {
+        "-2": 53.361,
+        "-1": 47.413,
+        "0": 2.427,
+        "1": 45.17,
+        "2": 48.6
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2871,
+      "source_frame": 149,
+      "best_offset": 0,
+      "distances": {
+        "-2": 33.46,
+        "-1": 33.46,
+        "0": 1.544,
+        "1": 1.544,
+        "2": 33.925
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2871,
+      "source_frame": 149,
+      "best_offset": 0,
+      "distances": {
+        "-2": 43.984,
+        "-1": 33.626,
+        "0": 2.169,
+        "1": 38.947,
+        "2": 46.053
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "speed-trio",
+      "output_frame": 2871,
+      "source_frame": 149,
+      "best_offset": 0,
+      "distances": {
+        "-2": 28.092,
+        "-1": 23.854,
+        "0": 2.479,
+        "1": 24.177,
+        "2": 30.92
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-visible",
+      "output_frame": 2926,
+      "source_frame": 42,
+      "best_offset": 0,
+      "distances": {
+        "-2": 6.183,
+        "-1": 1.497,
+        "0": 0.843,
+        "1": 1.437,
+        "2": 1.977
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-visible",
+      "output_frame": 2939,
+      "source_frame": 55,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.829,
+        "-1": 2.459,
+        "0": 0.842,
+        "1": 2.057,
+        "2": 2.358
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-visible",
+      "output_frame": 2951,
+      "source_frame": 67,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.55,
+        "-1": 2.199,
+        "0": 0.836,
+        "1": 1.814,
+        "2": 2.355
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-on",
+      "output_frame": 2969,
+      "source_frame": 151,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.251,
+        "-1": 1.251,
+        "0": 1.251,
+        "1": 4.506,
+        "2": 4.506
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-on",
+      "output_frame": 2975,
+      "source_frame": 157,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.234,
+        "-1": 1.234,
+        "0": 1.234,
+        "1": 1.234,
+        "2": 1.234
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-on",
+      "output_frame": 2980,
+      "source_frame": 162,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.234,
+        "-1": 1.234,
+        "0": 1.234,
+        "1": 1.234,
+        "2": 1.234
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-resume",
+      "output_frame": 2988,
+      "source_frame": 260,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.279,
+        "-1": 1.279,
+        "0": 1.279,
+        "1": 1.279,
+        "2": 1.279
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-resume",
+      "output_frame": 2991,
+      "source_frame": 263,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.279,
+        "-1": 1.279,
+        "0": 1.279,
+        "1": 1.279,
+        "2": 1.279
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-resume",
+      "output_frame": 2994,
+      "source_frame": 266,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.278,
+        "-1": 1.278,
+        "0": 1.278,
+        "1": 1.278,
+        "2": 1.278
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-run",
+      "output_frame": 3012,
+      "source_frame": 284,
+      "best_offset": 0,
+      "distances": {
+        "-2": 28.24,
+        "-1": 23.298,
+        "0": 0.959,
+        "1": 23.951,
+        "2": 28.067
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-run",
+      "output_frame": 3027,
+      "source_frame": 299,
+      "best_offset": 0,
+      "distances": {
+        "-2": 24.802,
+        "-1": 27.364,
+        "0": 0.897,
+        "1": 22.209,
+        "2": 26.248
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-run",
+      "output_frame": 3042,
+      "source_frame": 314,
+      "best_offset": 0,
+      "distances": {
+        "-2": 27.569,
+        "-1": 23.379,
+        "0": 0.927,
+        "1": 28.34,
+        "2": 27.514
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-proof",
+      "output_frame": 3098,
+      "source_frame": 480,
+      "best_offset": 0,
+      "distances": {
+        "-2": 25.351,
+        "-1": 16.216,
+        "0": 0.984,
+        "1": 15.193,
+        "2": 22.91
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-proof",
+      "output_frame": 3138,
+      "source_frame": 520,
+      "best_offset": 0,
+      "distances": {
+        "-2": 19.235,
+        "-1": 21.169,
+        "0": 1.15,
+        "1": 18.97,
+        "2": 16.921
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-proof",
+      "output_frame": 3178,
+      "source_frame": 560,
+      "best_offset": 0,
+      "distances": {
+        "-2": 21.277,
+        "-1": 19.329,
+        "0": 1.272,
+        "1": 19.379,
+        "2": 23.277
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-off",
+      "output_frame": 3222,
+      "source_frame": 746,
+      "best_offset": -1,
+      "distances": {
+        "-2": 4.674,
+        "-1": 1.392,
+        "0": 1.392,
+        "1": 1.392,
+        "2": 1.392
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-off",
+      "output_frame": 3227,
+      "source_frame": 751,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.39,
+        "-1": 1.39,
+        "0": 1.39,
+        "1": 1.39,
+        "2": 1.39
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-menu-off",
+      "output_frame": 3231,
+      "source_frame": 755,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.391,
+        "-1": 1.391,
+        "0": 1.391,
+        "1": 1.391,
+        "2": 1.391
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-back",
+      "output_frame": 3254,
+      "source_frame": 880,
+      "best_offset": 0,
+      "distances": {
+        "-2": 20.595,
+        "-1": 13.864,
+        "0": 0.941,
+        "1": 13.894,
+        "2": 27.961
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-back",
+      "output_frame": 3272,
+      "source_frame": 898,
+      "best_offset": 0,
+      "distances": {
+        "-2": 29.292,
+        "-1": 21.066,
+        "0": 0.915,
+        "1": 22.849,
+        "2": 30.718
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "stealth-back",
+      "output_frame": 3290,
+      "source_frame": 916,
+      "best_offset": 0,
+      "distances": {
+        "-2": 27.989,
+        "-1": 25.678,
+        "0": 0.897,
+        "1": 23.802,
+        "2": 28.06
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run1-rings",
+      "output_frame": 3321,
+      "source_frame": 177,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.351,
+        "-1": 2.102,
+        "0": 0.794,
+        "1": 1.429,
+        "2": 1.796
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run1-rings",
+      "output_frame": 3334,
+      "source_frame": 190,
+      "best_offset": 0,
+      "distances": {
+        "-2": 24.5,
+        "-1": 17.194,
+        "0": 0.852,
+        "1": 13.489,
+        "2": 23.803
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run1-rings",
+      "output_frame": 3346,
+      "source_frame": 202,
+      "best_offset": 0,
+      "distances": {
+        "-2": 44.184,
+        "-1": 33.007,
+        "0": 0.925,
+        "1": 33.059,
+        "2": 42.099
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run1-inv",
+      "output_frame": 3376,
+      "source_frame": 389,
+      "best_offset": 0,
+      "distances": {
+        "-2": 15.117,
+        "-1": 9.817,
+        "0": 1.056,
+        "1": 4.596,
+        "2": 5.208
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run1-inv",
+      "output_frame": 3393,
+      "source_frame": 406,
+      "best_offset": 0,
+      "distances": {
+        "-2": 29.767,
+        "-1": 22.704,
+        "0": 1.075,
+        "1": 12.345,
+        "2": 26.754
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run1-inv",
+      "output_frame": 3410,
+      "source_frame": 423,
+      "best_offset": 0,
+      "distances": {
+        "-2": 36.944,
+        "-1": 27.124,
+        "0": 1.162,
+        "1": 31.302,
+        "2": 41.477
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-page",
+      "output_frame": 3432,
+      "source_frame": 695,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.073,
+        "-1": 4.073,
+        "0": 1.21,
+        "1": 1.21,
+        "2": 1.21
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-page",
+      "output_frame": 3438,
+      "source_frame": 701,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.21,
+        "-1": 1.21,
+        "0": 1.21,
+        "1": 1.21,
+        "2": 1.21
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-page",
+      "output_frame": 3443,
+      "source_frame": 706,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.21,
+        "-1": 1.21,
+        "0": 1.21,
+        "1": 1.21,
+        "2": 1.21
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-check",
+      "output_frame": 3463,
+      "source_frame": 790,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.177,
+        "-1": 1.177,
+        "0": 1.177,
+        "1": 1.177,
+        "2": 1.177
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-check",
+      "output_frame": 3477,
+      "source_frame": 804,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.177,
+        "-1": 1.177,
+        "0": 1.177,
+        "1": 1.177,
+        "2": 1.177
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-check",
+      "output_frame": 3491,
+      "source_frame": 818,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.177,
+        "-1": 1.177,
+        "0": 1.177,
+        "1": 1.177,
+        "2": 1.177
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-restart",
+      "output_frame": 3511,
+      "source_frame": 926,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.195,
+        "-1": 1.195,
+        "0": 1.195,
+        "1": 1.195,
+        "2": 1.195
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-restart",
+      "output_frame": 3518,
+      "source_frame": 933,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.195,
+        "-1": 1.195,
+        "0": 1.195,
+        "1": 1.195,
+        "2": 1.195
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-menu-restart",
+      "output_frame": 3524,
+      "source_frame": 939,
+      "best_offset": 0,
+      "distances": {
+        "-2": 16.391,
+        "-1": 6.414,
+        "0": 1.221,
+        "1": 8.397,
+        "2": 17.74
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run2-rings",
+      "output_frame": 3543,
+      "source_frame": 1234,
+      "best_offset": 0,
+      "distances": {
+        "-2": 38.296,
+        "-1": 16.956,
+        "0": 0.928,
+        "1": 1.866,
+        "2": 2.666
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run2-rings",
+      "output_frame": 3556,
+      "source_frame": 1247,
+      "best_offset": 0,
+      "distances": {
+        "-2": 24.236,
+        "-1": 16.969,
+        "0": 0.944,
+        "1": 13.903,
+        "2": 23.438
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-run2-rings",
+      "output_frame": 3568,
+      "source_frame": 1259,
+      "best_offset": 0,
+      "distances": {
+        "-2": 44.363,
+        "-1": 32.689,
+        "0": 1.006,
+        "1": 33.248,
+        "2": 42.481
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-compare",
+      "output_frame": 3602,
+      "source_frame": 393,
+      "best_offset": 0,
+      "distances": {
+        "-2": 10.687,
+        "-1": 3.034,
+        "0": 1.63,
+        "1": 12.457,
+        "2": 13.083
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-compare",
+      "output_frame": 3602,
+      "source_frame": 1450,
+      "best_offset": 0,
+      "distances": {
+        "-2": 45.334,
+        "-1": 36.854,
+        "0": 2.72,
+        "1": 36.864,
+        "2": 43.682
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-compare",
+      "output_frame": 3623,
+      "source_frame": 414,
+      "best_offset": 0,
+      "distances": {
+        "-2": 33.972,
+        "-1": 23.079,
+        "0": 1.809,
+        "1": 22.303,
+        "2": 32.699
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-compare",
+      "output_frame": 3623,
+      "source_frame": 1471,
+      "best_offset": 0,
+      "distances": {
+        "-2": 43.34,
+        "-1": 35.788,
+        "0": 2.32,
+        "1": 37.693,
+        "2": 42.992
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-compare",
+      "output_frame": 3644,
+      "source_frame": 435,
+      "best_offset": 0,
+      "distances": {
+        "-2": 45.707,
+        "-1": 38.761,
+        "0": 1.941,
+        "1": 38.499,
+        "2": 47.651
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "np-compare",
+      "output_frame": 3644,
+      "source_frame": 1492,
+      "best_offset": 0,
+      "distances": {
+        "-2": 46.263,
+        "-1": 41.06,
+        "0": 2.41,
+        "1": 41.592,
+        "2": 46.524
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-before",
+      "output_frame": 3682,
+      "source_frame": 267,
+      "best_offset": 0,
+      "distances": {
+        "-2": 32.759,
+        "-1": 29.0,
+        "0": 1.426,
+        "1": 29.36,
+        "2": 33.69
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-before",
+      "output_frame": 3699,
+      "source_frame": 284,
+      "best_offset": 0,
+      "distances": {
+        "-2": 31.91,
+        "-1": 28.206,
+        "0": 1.465,
+        "1": 27.031,
+        "2": 31.346
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-before",
+      "output_frame": 3716,
+      "source_frame": 301,
+      "best_offset": 0,
+      "distances": {
+        "-2": 34.891,
+        "-1": 30.087,
+        "0": 1.517,
+        "1": 28.917,
+        "2": 35.005
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-menu",
+      "output_frame": 3742,
+      "source_frame": 419,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.106,
+        "-1": 1.106,
+        "0": 1.106,
+        "1": 1.106,
+        "2": 1.106
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-menu",
+      "output_frame": 3752,
+      "source_frame": 429,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.105,
+        "-1": 1.105,
+        "0": 1.105,
+        "1": 1.105,
+        "2": 4.595
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-menu",
+      "output_frame": 3761,
+      "source_frame": 438,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.096,
+        "-1": 1.096,
+        "0": 1.096,
+        "1": 1.096,
+        "2": 1.096
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-restart",
+      "output_frame": 3788,
+      "source_frame": 507,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.081,
+        "-1": 1.081,
+        "0": 1.081,
+        "1": 1.081,
+        "2": 1.081
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-restart",
+      "output_frame": 3806,
+      "source_frame": 525,
+      "best_offset": 0,
+      "distances": {
+        "-2": 15.343,
+        "-1": 5.44,
+        "0": 0.267,
+        "1": 3.699,
+        "2": 5.313
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-restart",
+      "output_frame": 3823,
+      "source_frame": 542,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.22,
+        "-1": 1.22,
+        "0": 1.22,
+        "1": 1.22,
+        "2": 1.22
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-after",
+      "output_frame": 3854,
+      "source_frame": 1163,
+      "best_offset": 0,
+      "distances": {
+        "-2": 33.713,
+        "-1": 28.514,
+        "0": 1.423,
+        "1": 28.744,
+        "2": 33.101
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-after",
+      "output_frame": 3867,
+      "source_frame": 1176,
+      "best_offset": 0,
+      "distances": {
+        "-2": 30.75,
+        "-1": 27.271,
+        "0": 1.414,
+        "1": 26.631,
+        "2": 31.566
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-after",
+      "output_frame": 3880,
+      "source_frame": 1189,
+      "best_offset": 0,
+      "distances": {
+        "-2": 34.523,
+        "-1": 29.304,
+        "0": 1.466,
+        "1": 29.674,
+        "2": 35.013
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-death",
+      "output_frame": 3920,
+      "source_frame": 1357,
+      "best_offset": 0,
+      "distances": {
+        "-2": 32.509,
+        "-1": 29.156,
+        "0": 1.431,
+        "1": 28.693,
+        "2": 32.028
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-death",
+      "output_frame": 3948,
+      "source_frame": 1385,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.994,
+        "-1": 2.777,
+        "0": 1.202,
+        "1": 3.137,
+        "2": 3.578
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "norings-death",
+      "output_frame": 3975,
+      "source_frame": 1412,
+      "best_offset": 0,
+      "distances": {
+        "-2": 3.15,
+        "-1": 2.767,
+        "0": 1.194,
+        "1": 3.051,
+        "2": 3.629
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-post",
+      "output_frame": 4013,
+      "source_frame": 30,
+      "best_offset": 0,
+      "distances": {
+        "-2": 15.688,
+        "-1": 13.538,
+        "0": 0.673,
+        "1": 9.046,
+        "2": 14.77
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-post",
+      "output_frame": 4024,
+      "source_frame": 41,
+      "best_offset": 0,
+      "distances": {
+        "-2": 18.146,
+        "-1": 14.607,
+        "0": 0.697,
+        "1": 9.537,
+        "2": 16.787
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-post",
+      "output_frame": 4034,
+      "source_frame": 51,
+      "best_offset": 0,
+      "distances": {
+        "-2": 17.063,
+        "-1": 13.212,
+        "0": 0.697,
+        "1": 13.694,
+        "2": 17.633
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-death1",
+      "output_frame": 4057,
+      "source_frame": 162,
+      "best_offset": 0,
+      "distances": {
+        "-2": 32.966,
+        "-1": 26.643,
+        "0": 1.079,
+        "1": 26.911,
+        "2": 33.305
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-death1",
+      "output_frame": 4070,
+      "source_frame": 175,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.973,
+        "-1": 3.279,
+        "0": 1.093,
+        "1": 3.639,
+        "2": 4.417
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-death1",
+      "output_frame": 4082,
+      "source_frame": 187,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.232,
+        "-1": 2.712,
+        "0": 1.082,
+        "1": 2.191,
+        "2": 2.908
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-respawn",
+      "output_frame": 4103,
+      "source_frame": 334,
+      "best_offset": 0,
+      "distances": {
+        "-2": 5.496,
+        "-1": 4.153,
+        "0": 1.02,
+        "1": 5.006,
+        "2": 17.328
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-respawn",
+      "output_frame": 4112,
+      "source_frame": 343,
+      "best_offset": 0,
+      "distances": {
+        "-2": 3.313,
+        "-1": 1.618,
+        "0": 0.85,
+        "1": 2.598,
+        "2": 2.727
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-respawn",
+      "output_frame": 4120,
+      "source_frame": 351,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.713,
+        "-1": 1.267,
+        "0": 0.864,
+        "1": 2.289,
+        "2": 2.443
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-menu",
+      "output_frame": 4135,
+      "source_frame": 450,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.492,
+        "-1": 4.492,
+        "0": 1.217,
+        "1": 1.217,
+        "2": 1.217
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-menu",
+      "output_frame": 4141,
+      "source_frame": 456,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.216,
+        "-1": 1.216,
+        "0": 1.216,
+        "1": 1.216,
+        "2": 1.216
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-menu",
+      "output_frame": 4147,
+      "source_frame": 462,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.216,
+        "-1": 1.216,
+        "0": 1.216,
+        "1": 1.216,
+        "2": 1.216
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-death2",
+      "output_frame": 4165,
+      "source_frame": 652,
+      "best_offset": 0,
+      "distances": {
+        "-2": 38.657,
+        "-1": 31.337,
+        "0": 1.177,
+        "1": 31.853,
+        "2": 32.363
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-death2",
+      "output_frame": 4178,
+      "source_frame": 665,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.922,
+        "-1": 3.109,
+        "0": 1.048,
+        "1": 2.444,
+        "2": 3.425
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-death2",
+      "output_frame": 4190,
+      "source_frame": 677,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.439,
+        "-1": 2.168,
+        "0": 1.055,
+        "1": 1.864,
+        "2": 2.817
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-actstart",
+      "output_frame": 4220,
+      "source_frame": 829,
+      "best_offset": 0,
+      "distances": {
+        "-2": 3.89,
+        "-1": 3.89,
+        "0": 1.019,
+        "1": 1.503,
+        "2": 1.503
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-actstart",
+      "output_frame": 4237,
+      "source_frame": 846,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.073,
+        "-1": 1.496,
+        "0": 1.023,
+        "1": 1.023,
+        "2": 1.023
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "nc-actstart",
+      "output_frame": 4254,
+      "source_frame": 863,
+      "best_offset": -1,
+      "distances": {
+        "-2": 1.504,
+        "-1": 1.029,
+        "0": 1.029,
+        "1": 1.029,
+        "2": 1.124
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-menu",
+      "output_frame": 4281,
+      "source_frame": 116,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.193,
+        "-1": 1.193,
+        "0": 1.193,
+        "1": 1.193,
+        "2": 1.193
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-menu",
+      "output_frame": 4291,
+      "source_frame": 126,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.188,
+        "-1": 1.188,
+        "0": 1.188,
+        "1": 1.188,
+        "2": 1.188
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-menu",
+      "output_frame": 4301,
+      "source_frame": 136,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.189,
+        "-1": 1.189,
+        "0": 1.189,
+        "1": 1.189,
+        "2": 1.189
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-compare",
+      "output_frame": 4332,
+      "source_frame": 261,
+      "best_offset": 0,
+      "distances": {
+        "-2": 50.386,
+        "-1": 42.306,
+        "0": 1.833,
+        "1": 45.112,
+        "2": 51.332
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-compare",
+      "output_frame": 4332,
+      "source_frame": 445,
+      "best_offset": 0,
+      "distances": {
+        "-2": 50.533,
+        "-1": 42.388,
+        "0": 2.022,
+        "1": 45.213,
+        "2": 51.411
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-compare",
+      "output_frame": 4353,
+      "source_frame": 282,
+      "best_offset": 0,
+      "distances": {
+        "-2": 9.027,
+        "-1": 7.272,
+        "0": 1.64,
+        "1": 4.167,
+        "2": 8.785
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-compare",
+      "output_frame": 4353,
+      "source_frame": 466,
+      "best_offset": 0,
+      "distances": {
+        "-2": 7.443,
+        "-1": 5.706,
+        "0": 1.949,
+        "1": 4.67,
+        "2": 5.041
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-compare",
+      "output_frame": 4374,
+      "source_frame": 303,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.069,
+        "-1": 3.78,
+        "0": 1.541,
+        "1": 2.593,
+        "2": 4.466
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-compare",
+      "output_frame": 4374,
+      "source_frame": 487,
+      "best_offset": 0,
+      "distances": {
+        "-2": 8.7,
+        "-1": 4.121,
+        "0": 1.906,
+        "1": 2.955,
+        "2": 4.824
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-stock-stage",
+      "output_frame": 4416,
+      "source_frame": 1407,
+      "best_offset": -2,
+      "distances": {
+        "-2": 0.454,
+        "-1": 0.454,
+        "0": 0.454,
+        "1": 0.454,
+        "2": 5.944
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-stock-stage",
+      "output_frame": 4437,
+      "source_frame": 1428,
+      "best_offset": 0,
+      "distances": {
+        "-2": 17.927,
+        "-1": 12.866,
+        "0": 0.496,
+        "1": 13.557,
+        "2": 20.041
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-stock-stage",
+      "output_frame": 4458,
+      "source_frame": 1449,
+      "best_offset": 0,
+      "distances": {
+        "-2": 51.695,
+        "-1": 20.727,
+        "0": 0.825,
+        "1": 20.848,
+        "2": 25.145
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-deny-clear",
+      "output_frame": 4491,
+      "source_frame": 712,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.658,
+        "-1": 4.074,
+        "0": 0.873,
+        "1": 1.767,
+        "2": 2.072
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-deny-clear",
+      "output_frame": 4504,
+      "source_frame": 725,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.363,
+        "-1": 1.752,
+        "0": 0.877,
+        "1": 3.72,
+        "2": 4.143
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-deny-clear",
+      "output_frame": 4516,
+      "source_frame": 737,
+      "best_offset": 0,
+      "distances": {
+        "-2": 4.113,
+        "-1": 1.759,
+        "0": 0.911,
+        "1": 1.658,
+        "2": 2.031
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-deny-act2",
+      "output_frame": 4543,
+      "source_frame": 1726,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.491,
+        "-1": 1.887,
+        "0": 0.751,
+        "1": 1.841,
+        "2": 2.403
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-deny-act2",
+      "output_frame": 4557,
+      "source_frame": 1740,
+      "best_offset": 0,
+      "distances": {
+        "-2": 1.824,
+        "-1": 1.536,
+        "0": 0.756,
+        "1": 6.325,
+        "2": 7.109
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "ss-deny-act2",
+      "output_frame": 4571,
+      "source_frame": 1754,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.507,
+        "-1": 1.769,
+        "0": 0.747,
+        "1": 1.403,
+        "2": 6.368
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-menu",
+      "output_frame": 4595,
+      "source_frame": 116,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.183,
+        "-1": 1.183,
+        "0": 1.183,
+        "1": 1.183,
+        "2": 4.59
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-menu",
+      "output_frame": 4605,
+      "source_frame": 126,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.175,
+        "-1": 1.175,
+        "0": 1.175,
+        "1": 1.175,
+        "2": 1.175
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-menu",
+      "output_frame": 4615,
+      "source_frame": 136,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.175,
+        "-1": 1.175,
+        "0": 1.175,
+        "1": 1.175,
+        "2": 1.175
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-compare",
+      "output_frame": 4648,
+      "source_frame": 135,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.617,
+        "-1": 2.535,
+        "0": 1.023,
+        "1": 1.711,
+        "2": 2.44
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-compare",
+      "output_frame": 4648,
+      "source_frame": 319,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.742,
+        "-1": 2.693,
+        "0": 1.228,
+        "1": 1.824,
+        "2": 2.531
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-compare",
+      "output_frame": 4672,
+      "source_frame": 159,
+      "best_offset": 0,
+      "distances": {
+        "-2": 16.377,
+        "-1": 14.693,
+        "0": 1.543,
+        "1": 12.062,
+        "2": 15.416
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-compare",
+      "output_frame": 4672,
+      "source_frame": 343,
+      "best_offset": 0,
+      "distances": {
+        "-2": 16.381,
+        "-1": 14.781,
+        "0": 1.743,
+        "1": 12.105,
+        "2": 15.43
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-compare",
+      "output_frame": 4695,
+      "source_frame": 182,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.706,
+        "-1": 1.777,
+        "0": 1.042,
+        "1": 2.651,
+        "2": 24.065
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-compare",
+      "output_frame": 4695,
+      "source_frame": 366,
+      "best_offset": 0,
+      "distances": {
+        "-2": 2.779,
+        "-1": 1.922,
+        "0": 1.293,
+        "1": 2.788,
+        "2": 24.111
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-stock-slots",
+      "output_frame": 4735,
+      "source_frame": 334,
+      "best_offset": 0,
+      "distances": {
+        "-2": 32.432,
+        "-1": 20.891,
+        "0": 0.601,
+        "1": 22.215,
+        "2": 30.666
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-stock-slots",
+      "output_frame": 4752,
+      "source_frame": 351,
+      "best_offset": 0,
+      "distances": {
+        "-2": 51.146,
+        "-1": 39.895,
+        "0": 0.763,
+        "1": 37.16,
+        "2": 52.378
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-stock-slots",
+      "output_frame": 4768,
+      "source_frame": 367,
+      "best_offset": 0,
+      "distances": {
+        "-2": 36.397,
+        "-1": 28.094,
+        "0": 1.047,
+        "1": 24.514,
+        "2": 32.929
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-deny-run",
+      "output_frame": 4810,
+      "source_frame": 565,
+      "best_offset": 0,
+      "distances": {
+        "-2": 14.628,
+        "-1": 12.402,
+        "0": 0.586,
+        "1": 9.563,
+        "2": 15.283
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-deny-run",
+      "output_frame": 4835,
+      "source_frame": 590,
+      "best_offset": 0,
+      "distances": {
+        "-2": 17.244,
+        "-1": 12.734,
+        "0": 0.602,
+        "1": 14.28,
+        "2": 17.601
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "bon-deny-run",
+      "output_frame": 4860,
+      "source_frame": 615,
+      "best_offset": 0,
+      "distances": {
+        "-2": 18.015,
+        "-1": 16.007,
+        "0": 0.663,
+        "1": 15.4,
+        "2": 17.227
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-menu",
+      "output_frame": 4893,
+      "source_frame": 104,
+      "best_offset": 0,
+      "distances": {
+        "-2": 5.47,
+        "-1": 3.658,
+        "0": 1.34,
+        "1": 3.795,
+        "2": 4.083
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-menu",
+      "output_frame": 4901,
+      "source_frame": 112,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.33,
+        "-1": 1.33,
+        "0": 1.33,
+        "1": 1.33,
+        "2": 1.33
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-menu",
+      "output_frame": 4909,
+      "source_frame": 120,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.33,
+        "-1": 1.33,
+        "0": 1.33,
+        "1": 1.33,
+        "2": 1.33
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-menu-active",
+      "output_frame": 4921,
+      "source_frame": 194,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.381,
+        "-1": 1.381,
+        "0": 1.381,
+        "1": 1.381,
+        "2": 1.381
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-menu-active",
+      "output_frame": 4925,
+      "source_frame": 198,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.38,
+        "-1": 1.38,
+        "0": 1.38,
+        "1": 1.38,
+        "2": 1.38
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-menu-active",
+      "output_frame": 4929,
+      "source_frame": 202,
+      "best_offset": -2,
+      "distances": {
+        "-2": 1.38,
+        "-1": 1.38,
+        "0": 1.38,
+        "1": 79.616,
+        "2": 79.616
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-soar",
+      "output_frame": 4950,
+      "source_frame": 487,
+      "best_offset": 0,
+      "distances": {
+        "-2": 32.005,
+        "-1": 27.439,
+        "0": 1.439,
+        "1": 25.251,
+        "2": 32.561
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-soar",
+      "output_frame": 4968,
+      "source_frame": 505,
+      "best_offset": 0,
+      "distances": {
+        "-2": 27.938,
+        "-1": 21.884,
+        "0": 1.331,
+        "1": 21.37,
+        "2": 26.986
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-soar",
+      "output_frame": 4985,
+      "source_frame": 522,
+      "best_offset": 0,
+      "distances": {
+        "-2": 16.308,
+        "-1": 12.663,
+        "0": 1.332,
+        "1": 14.353,
+        "2": 16.497
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-approach",
+      "output_frame": 5018,
+      "source_frame": 705,
+      "best_offset": 0,
+      "distances": {
+        "-2": 29.391,
+        "-1": 24.783,
+        "0": 1.33,
+        "1": 25.54,
+        "2": 29.465
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-approach",
+      "output_frame": 5034,
+      "source_frame": 721,
+      "best_offset": 0,
+      "distances": {
+        "-2": 30.583,
+        "-1": 27.413,
+        "0": 1.387,
+        "1": 25.748,
+        "2": 32.079
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-approach",
+      "output_frame": 5049,
+      "source_frame": 736,
+      "best_offset": 0,
+      "distances": {
+        "-2": 30.843,
+        "-1": 28.599,
+        "0": 1.446,
+        "1": 27.138,
+        "2": 31.081
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-storm",
+      "output_frame": 5092,
+      "source_frame": 779,
+      "best_offset": 0,
+      "distances": {
+        "-2": 36.393,
+        "-1": 29.689,
+        "0": 1.772,
+        "1": 31.885,
+        "2": 37.685
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-storm",
+      "output_frame": 5119,
+      "source_frame": 806,
+      "best_offset": 0,
+      "distances": {
+        "-2": 17.743,
+        "-1": 16.665,
+        "0": 1.68,
+        "1": 14.274,
+        "2": 17.055
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-storm",
+      "output_frame": 5146,
+      "source_frame": 833,
+      "best_offset": 0,
+      "distances": {
+        "-2": 14.641,
+        "-1": 14.0,
+        "0": 1.526,
+        "1": 10.173,
+        "2": 13.363
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-scramble",
+      "output_frame": 5198,
+      "source_frame": 885,
+      "best_offset": 0,
+      "distances": {
+        "-2": 22.419,
+        "-1": 22.051,
+        "0": 1.532,
+        "1": 6.781,
+        "2": 9.508
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-scramble",
+      "output_frame": 5223,
+      "source_frame": 910,
+      "best_offset": 0,
+      "distances": {
+        "-2": 31.395,
+        "-1": 27.798,
+        "0": 1.5,
+        "1": 24.205,
+        "2": 30.028
+      },
+      "mismatch": false
+    },
+    {
+      "segment": "finale-scramble",
+      "output_frame": 5248,
+      "source_frame": 935,
+      "best_offset": 0,
+      "distances": {
+        "-2": 31.465,
+        "-1": 25.989,
+        "0": 1.429,
+        "1": 5.647,
+        "2": 7.161
+      },
+      "mismatch": false
+    }
+  ]
+}

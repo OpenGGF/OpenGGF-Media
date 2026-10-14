@@ -1,0 +1,234 @@
+{
+  "video": {
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "fps": 60,
+    "frames": 5364,
+    "duration": 89.4,
+    "codec": "H264",
+    "audio": "AAC48kHz stereo",
+    "chapters": 30,
+    "fastStart": true,
+    "fullDecode": "PASS"
+  },
+  "cuts": [
+    {
+      "shot": 0,
+      "title": "A normal day",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 1,
+      "title": "One hedgehog",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 2,
+      "title": "No rules",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 3,
+      "title": "Sonic3K Chaos Mode",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 4,
+      "title": "Bobble Head",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 5,
+      "title": "Throbbing Heads",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 6,
+      "title": "Where Did Sonic Go?",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 7,
+      "title": "Too Many Sonics",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 8,
+      "title": "DVD HUD",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 9,
+      "title": "Available and selected effects",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 10,
+      "title": "Native Sonic launch",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 11,
+      "title": "Side effects",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 12,
+      "title": "Moon Gravity",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 13,
+      "title": "Gravity Hiccup",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 14,
+      "title": "Bumper Ahead!",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 15,
+      "title": "Ring Rain",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 16,
+      "title": "Ring Magnet",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 17,
+      "title": "Mirror Universe",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 18,
+      "title": "Negative Zone",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 19,
+      "title": "Wrong-Zone Scenery",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 20,
+      "title": "Badnik Overdrive",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 21,
+      "title": "Flash Flood",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 22,
+      "title": "Fictional critics",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 23,
+      "title": "Optional sidegames",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 24,
+      "title": "Ring Pong",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 25,
+      "title": "Monitor Stack",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 26,
+      "title": "Sandopolis Ghost Party",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 27,
+      "title": "105 effects. Choose your pool.",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 28,
+      "title": "Good luck",
+      "firstMiddleLastFrameMatches": true
+    },
+    {
+      "shot": 29,
+      "title": "One more thing",
+      "firstMiddleLastFrameMatches": true
+    }
+  ],
+  "motion": [
+    {
+      "title": "A normal day",
+      "sampledFrames": 7,
+      "distinctFrames": 7,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "Bobble Head",
+      "sampledFrames": 10,
+      "distinctFrames": 10,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "Where Did Sonic Go?",
+      "sampledFrames": 9,
+      "distinctFrames": 9,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "DVD HUD",
+      "sampledFrames": 10,
+      "distinctFrames": 10,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "Moon Gravity",
+      "sampledFrames": 10,
+      "distinctFrames": 10,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "Gravity Hiccup",
+      "sampledFrames": 9,
+      "distinctFrames": 9,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "Badnik Overdrive",
+      "sampledFrames": 10,
+      "distinctFrames": 10,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "Flash Flood",
+      "sampledFrames": 9,
+      "distinctFrames": 9,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "Ring Pong",
+      "sampledFrames": 10,
+      "distinctFrames": 10,
+      "timing": "unchanged60Hz presentation speed"
+    },
+    {
+      "title": "Sandopolis Ghost Party",
+      "sampledFrames": 10,
+      "distinctFrames": 10,
+      "timing": "unchanged60Hz presentation speed"
+    }
+  ],
+  "loudnessLUFS": -14.01,
+  "truePeakDBTP": -0.82,
+  "sha256": "24ce53c0e3c0ed0d1e60356499e2b78024d7cbb589c6e810a788907bf2eddff0",
+  "limits": "Actual media checks. Curated AIZ1 footage; no all-effect/all-act certification. Audio level/decode checks are not a listening review."
+}

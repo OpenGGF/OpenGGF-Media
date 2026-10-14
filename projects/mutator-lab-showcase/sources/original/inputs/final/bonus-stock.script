@@ -1,0 +1,7 @@
+# S3K AIZ1 starpost ledge (positioned, 25 carried rings): activate post, stand, jump into the native bonus stars.
+10 -
+44 R
+20 L
+30 -
+repeat 8 { 1 A; 40 - }
+300 -

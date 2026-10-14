@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:robotnik_offer@2:3:2
+# ticks: 560
+90:enter
++330:enter

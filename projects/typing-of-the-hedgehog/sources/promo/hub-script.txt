@@ -1,0 +1,15 @@
+# Hub tour: real art and voiced scenes at 400x224, 60 Hz. demo populates a sample profile.
+300:jump=demo
+301:jump=story:s1
+480:jump=story:s2
+660:jump=story:s3k
+840:jump=school
+1060:jump=drill:RING_RUSH
+1200:jump=type:ring
+1240:jump=type:tails
+1280:jump=type:sonic
+1400:jump=drill:BOSS_TRAINING
+1650:jump=records:KEYS
+1880:jump=rush
+2100:jump=results:sample
+2460:jump=title

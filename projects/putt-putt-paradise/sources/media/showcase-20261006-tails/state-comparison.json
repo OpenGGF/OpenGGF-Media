@@ -1,0 +1,23 @@
+[
+  {
+    "capture": "ehz1-sonic-rewind-final-v5",
+    "reference": "ehz1-sonic-rewind-final-v4",
+    "all_state_columns_equal": true,
+    "native_rows": 4563,
+    "events_equal": true
+  },
+  {
+    "capture": "ehz2-tails-final-v5",
+    "reference": "ehz2-tails-final-v4",
+    "all_state_columns_equal": true,
+    "native_rows": 7485,
+    "events_equal": true
+  },
+  {
+    "capture": "local-two-player-final-v5",
+    "reference": "local-two-player-final-v4",
+    "all_state_columns_equal": true,
+    "native_rows": 1437,
+    "events_equal": true
+  }
+]

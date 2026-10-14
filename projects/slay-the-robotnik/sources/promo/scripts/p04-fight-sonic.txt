@@ -1,0 +1,8 @@
+# jump: sonic:7:fight:lbz:snale_trio@3:5:2
+# ticks: 760
+150:enter +30:enter
++60:enter +30:enter
++60:enter +30:enter
++60:enter +30:enter
++80:e
++300:enter +30:enter

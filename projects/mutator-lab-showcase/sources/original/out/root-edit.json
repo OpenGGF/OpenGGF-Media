@@ -1,0 +1,28 @@
+{
+  "reason": "Give actual checked On state enough native frames to read before consequence. No source manipulation or retiming.",
+  "original_film_sha256": "2eef605bcfb9097b84036f1f2e76ed3c7ba7074add00ecd1638bfea2a9d5fb4f",
+  "changes": {
+    "ss-menu": {
+      "from": [
+        106,
+        126
+      ],
+      "to": [
+        106,
+        146
+      ]
+    },
+    "bon-menu": {
+      "from": [
+        106,
+        126
+      ],
+      "to": [
+        106,
+        146
+      ]
+    }
+  },
+  "encoder_threads": 6,
+  "source": "379b6641323853f61851943fb7aadd5e7a389e01"
+}

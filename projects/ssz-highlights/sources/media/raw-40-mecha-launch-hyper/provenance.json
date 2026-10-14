@@ -1,0 +1,43 @@
+{
+  "game": "s3k",
+  "zone": "ssz",
+  "act": 1,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "setup": {
+    "star_post": true,
+    "x": "0x1A40",
+    "y": "0x670",
+    "rings": 355,
+    "emeralds": "3333333"
+  },
+  "input": "InputLog.txt",
+  "input_sha256": "34446640eac5fec89da758c44f556223552c6c89512089e3c363a694d172fcbd",
+  "stepped_frames": 4800,
+  "source_head": "ca23d74138e9b8471387e2e8d6e6ff39edc7dbf5",
+  "production_diff_sha256": "f886a0ee5e4ad1ce02b3a3eb5ae772629fd643d8626325fb024f8315b0f155b9",
+  "scope": "Controller input from declared final checkpoint through actual Death Egg 1 load; Hyper activated by buttons. Not cold-route or native parity evidence.",
+  "excerpt": {
+    "file": "../24-ssz-collapse-spiral-to-dez.mp4",
+    "source_frame_start": 2500,
+    "source_frame_end_exclusive": 4440
+  },
+  "production_files": {
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kLevelEventManager.java": "347422e2d95d76674fd0f9314f0f77f0ec619f1f643679f74a9ea72a19196ae8",
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kObjectArtKeys.java": "79abad1e89def9de49ce3344a57afa3cf8626a97fad1352f39f18df161cf6be0",
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kPlcArtRegistry.java": "618f9903704a826f94bfa1c00d8d06b55d0cc30edbc6346cb3facde9fbb250be",
+    "src/main/java/com/openggf/game/sonic3k/events/Sonic3kSSZEvents.java": "ebb74c73bc5cc4f263716c11ba2e940dec5379968247d12311b2522d2980c9ef",
+    "src/main/java/com/openggf/game/sonic3k/events/SszLaunchBackground.java": "0dcb97e7b07cf47e41977a329c0164017721e6a3ba01144ff43770dadf1b057a",
+    "src/main/java/com/openggf/game/sonic3k/events/SszLaunchWorld.java": "a4da08dd68337a82ddb0553f1ec2ead0e2c97b5f711f61199b1f43009c14d210",
+    "src/main/java/com/openggf/game/sonic3k/objects/SszLaunchControllerObjectInstance.java": "3fdb37ed949255de3cae1b512cd7ee62b302136a4bf648fe7b19f0c1fb8f30b7",
+    "src/main/java/com/openggf/game/sonic3k/objects/SszLaunchCrumbleObjectInstance.java": "42f36b3bc4d9ebf68339fdc5a296da86f49dd610adfe5b51b68b0569262921c3",
+    "src/main/java/com/openggf/game/sonic3k/objects/SszLaunchPieceObjectInstance.java": "208a9c150f75754a35eeb6c2eb379689ffa922d274aeb6e16b6c127452f17ed7",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaSonicObjectInstance.java": "c26d79f5ec03346391db51f8106a17006ee530c39433e2bb0f0f55fa3bfdb8fd",
+    "src/main/java/com/openggf/game/sonic3k/runtime/SszLaunchState.java": "73de1303ab36ae937b7ceeaf20f039bcbc77e30449b565c006f0e9eaecf8211a",
+    "src/main/java/com/openggf/game/sonic3k/runtime/SszZoneRuntimeState.java": "ca879fd8eca45af57f28565e75261907eee701e5eeacfbba189663a30c4cfdf2",
+    "src/main/java/com/openggf/game/sonic3k/scroll/SwScrlSsz.java": "5abace058a2f3cc2fc14b4c3505b8e0b1fd3696e0adb934aeeb087b2d0eedda6"
+  },
+  "validated_commit": "703158d80"
+}

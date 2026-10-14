@@ -1,0 +1,9 @@
+{
+  "validated_commit": "7a324bdd4",
+  "frames": 900,
+  "capture_from": 0,
+  "scope": "Positioned engine capture, Sonic solo. Not cold-route or native parity.",
+  "verification": "Full MP4 decoded and selected stills inspected. Zero hurt/death rows.",
+  "source_sha256": "97d41ff92f0832878a437e9a7fd800cd2e4d50b7f7c3fd0313f8bab28a45d7c3",
+  "setup": "DEZ2 ($34B0,$300), 200 rings; neutral inputs"
+}

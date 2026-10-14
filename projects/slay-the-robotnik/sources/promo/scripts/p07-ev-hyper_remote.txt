@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:hyper_remote@3:10:0
+# ticks: 560
+90:enter
++330:enter

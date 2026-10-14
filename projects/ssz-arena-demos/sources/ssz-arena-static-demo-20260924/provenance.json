@@ -1,0 +1,28 @@
+{
+  "prototype": true,
+  "arena": [
+    240,
+    560
+  ],
+  "nativeWidth": 320,
+  "viewportWidth": 800,
+  "fps": 60,
+  "sources": {
+    "ghz": {
+      "path": "/home/farrell/Videos/OGGF/ssz-bring-up/campaign-20260924-ghz-eggmobile-800/capture.mp4",
+      "sha256": "c94dd786f0f997b65c4747fadbdcf1df5230758be5c9df3db494e41f5eae8361",
+      "frames": 300
+    },
+    "mtz": {
+      "path": "/home/farrell/Videos/OGGF/ssz-bring-up/campaign-20260924-mtz-eggmobile-800/capture.mp4",
+      "sha256": "1c81b03b8fd410f490fa534fc41cac78285ebd9f4a709a8cb780b6a9a52e98c0",
+      "frames": 300
+    }
+  },
+  "checks": [
+    "600 composited frames preserve the exact active rectangle before encoding",
+    "fade endpoints unchanged",
+    "both final movies fully decoded",
+    "opaque outer wings at full envelope"
+  ]
+}

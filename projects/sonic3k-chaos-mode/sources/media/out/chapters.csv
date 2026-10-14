@@ -1,0 +1,31 @@
+act,route_order,title,source,src,card,source_start_seconds,source_end_seconds,output_start,output_end,caption
+AIZ1,0,A normal day,captures/wind/source.mkv,wind,,9.75,12.25,0,2.5,A NORMAL DAY ON ANGEL ISLAND.
+editorial,1,One hedgehog,cards/one/f%04d.png,,one,0,1.2,2.5,3.7,
+editorial,2,No rules,cards/no/f%04d.png,,no,0,1.2,3.7,4.9,
+editorial,3,Sonic3K Chaos Mode,cards/chaos/f%04d.png,,chaos,0,2.0,4.9,6.9,
+AIZ1,4,Bobble Head,captures/bobble/source.mkv,bobble,,9.8,14.0,6.9,11.1,A HEALTHY SENSE OF SELF.
+AIZ1,5,Throbbing Heads,captures/heads/source.mkv,heads,,15.0,17.5,11.1,13.6,AND ROOM FOR PERSONAL GROWTH.
+AIZ1,6,Where Did Sonic Go?,captures/invisible/source.mkv,invisible,,10.0,13.2,13.6,16.8,SONIC HAS LEFT THE CHAT.
+AIZ1,7,Too Many Sonics,captures/trails/source.mkv,trails,,11.2,14.2,16.8,19.8,ONE SONIC WAS APPARENTLY INSUFFICIENT.
+AIZ1,8,DVD HUD,captures/dvd/source.mkv,dvd,,9.75,15.15,19.8,25.2,EVEN THE HUD WANTS OUT.
+AIZ1,9,Available and selected effects,captures/menu/source.mkv,menu,,11.1,13.9,25.2,28.0,CHOOSE YOUR PROBLEMS.
+AIZ1,10,Native Sonic launch,captures/menu/source.mkv,menu,,19.8,23.1,28.0,31.3,THEN PLAY THE NATIVE GAME.
+editorial,11,Side effects,cards/side/f%04d.png,,side,0,1.2,31.3,32.5,
+AIZ1,12,Moon Gravity,captures/moon/source.mkv,moon,,10.0,14.0,32.5,36.5,GRAVITY HAS LEFT THE CHAT.
+AIZ1,13,Gravity Hiccup,captures/gravity/source.mkv,gravity,,9.75,12.75,36.5,39.5,IT HAS ALSO HANDED IN ITS NOTICE.
+AIZ1,14,Bumper Ahead!,captures/bumper/source.mkv,bumper,,9.75,12.25,39.5,42.0,PERSONAL SPACE DENIED.
+AIZ1,15,Ring Rain,captures/rain/source.mkv,rain,,10.15,13.65,42.0,45.5,THE ECONOMY IS DOING GREAT.
+AIZ1,16,Ring Magnet,captures/magnet/source.mkv,magnet,,12.0,15.8,45.5,49.3,EVERY RING WANTS TO MEET YOU.
+AIZ1,17,Mirror Universe,captures/mirror/source.mkv,mirror,,10.0,12.0,49.3,51.3,WRONG WAY.
+AIZ1,18,Negative Zone,captures/negative/source.mkv,negative,,10.0,12.0,51.3,53.3,WRONG FILTER.
+AIZ1,19,Wrong-Zone Scenery,captures/scenery/source.mkv,scenery,,12.8,15.8,53.3,56.3,WRONG ISLAND.
+AIZ1,20,Badnik Overdrive,captures/overdrive/source.mkv,overdrive,,10.0,14.0,56.3,60.3,WHO GAVE THE SHRUB CAFFEINE?
+AIZ1,21,Flash Flood,captures/flood/source.mkv,flood,,9.85,13.0,60.3,63.45,LOCAL FORECAST: EXTREMELY LOCAL.
+editorial,22,Fictional critics,cards/reviews/f%04d.png,,reviews,0,4.5,63.45,67.95,
+editorial,23,Optional sidegames,cards/optional/f%04d.png,,optional,0,1.5,67.95,69.45,
+AIZ1,24,Ring Pong,captures/pong-play/source.mkv,pong-play,,10.0,13.75,69.45,73.2,WE INTERRUPT THIS PLATFORMER...
+AIZ1,25,Monitor Stack,captures/stack/source.mkv,stack,,10.0,13.0,73.2,76.2,FOR ANOTHER GAME ENTIRELY.
+AIZ1,26,Sandopolis Ghost Party,captures/ghost-close/source.mkv,ghost-close,,11.0,15.0,76.2,80.2,THE NEIGHBOURS SEEM FRIENDLY.
+editorial,27,105 effects. Choose your pool.,cards/end/f%04d.png,,end,0,5.0,80.2,85.2,
+editorial,28,Good luck,cards/post/f%04d.png,,post,0,2.0,85.2,87.2,
+AIZ1,29,One more thing,captures/bumper/source.mkv,bumper,,9.8,12.0,87.2,89.4,ONE MORE THING.

@@ -1,0 +1,4 @@
+LostRingObjectInstance 4744,1401 spawn=ObjectSpawn[x=4789, y=1329, objectId=55, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SpikebonkerBadnikInstance 4872,1320 spawn=ObjectSpawn[x=4872, y=1320, objectId=164, subtype=64, renderFlags=2, respawnTracked=false, rawYWord=17704, layoutIndex=151, ownerModId=null, objectKey=null]
+SpikebonkerMace 4844,1340 spawn=ObjectSpawn[x=4844, y=1340, objectId=164, subtype=64, renderFlags=2, respawnTracked=false, rawYWord=17704, layoutIndex=151, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 4400,1220 spawn=ObjectSpawn[x=4400, y=1220, objectId=7, subtype=35, renderFlags=2, respawnTracked=false, rawYWord=17604, layoutIndex=139, ownerModId=null, objectKey=null]

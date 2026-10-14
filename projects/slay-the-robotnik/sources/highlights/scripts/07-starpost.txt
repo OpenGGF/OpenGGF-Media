@@ -1,0 +1,6 @@
+# jump: tails:7:room:Rest
+# ticks: 330
+# Tune up a card at the Starpost: pick it, then watch it flash into its upgrade.
+60:right +30:enter
++70:enter          # the first card in the list
++40:enter          # confirm, if the list asks

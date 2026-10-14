@@ -1,0 +1,9 @@
+{
+  "validated_commit": "7a324bdd4",
+  "frames": 6830,
+  "capture_from": 6250,
+  "scope": "Positioned engine capture, Sonic solo. Not cold-route or native parity.",
+  "verification": "Full MP4 decoded and selected stills inspected. Zero hurt/death rows.",
+  "source_sha256": "8138441d98a16906dca8af2468a30b2832442add1d1e837f0f9abd198ec985b0",
+  "setup": "DEZ2 ($34B0,$300), 200 rings; seven Super Emeralds, authored dez-end-boss-solo.txt; actual enemy collision hits and escape"
+}

@@ -1,0 +1,136 @@
+{
+  "status": "PROVISIONAL; formal lifecycle/restore/pixel qualification pending",
+  "output": "s3k-ending-highlights-provisional.mp4",
+  "output_sha256": "6ad71a40d4ed457828a4b48d6f459c1af3a8cebcb2cc824c367f2a88a45facc2",
+  "edl_sha256": "bda6ecd6b52f6b96974aac607f2660e0eb5db37ce04fb2ed89d6441e4c906561",
+  "assembly_script_sha256": "69ef2892e2579aa43218c0f8604166eefe459fcca5473810b56a2fc4cebb8d0d",
+  "duration_seconds": 57.0,
+  "dimensions": [
+    1600,
+    520
+  ],
+  "fps": "15/1",
+  "audio": false,
+  "chapters": [
+    {
+      "id": 0,
+      "time_base": "1/1000",
+      "start": 0,
+      "start_time": "0.000000",
+      "end": 6000,
+      "end_time": "6.000000",
+      "tags": {
+        "title": "Sonic - Tornado rescue"
+      }
+    },
+    {
+      "id": 1,
+      "time_base": "1/1000",
+      "start": 6000,
+      "start_time": "6.000000",
+      "end": 13000,
+      "end_time": "13.000000",
+      "tags": {
+        "title": "Sonic - reunion"
+      }
+    },
+    {
+      "id": 2,
+      "time_base": "1/1000",
+      "start": 13000,
+      "start_time": "13.000000",
+      "end": 21000,
+      "end_time": "21.000000",
+      "tags": {
+        "title": "Tails - AIZ Master Emerald restoration"
+      }
+    },
+    {
+      "id": 3,
+      "time_base": "1/1000",
+      "start": 21000,
+      "start_time": "21.000000",
+      "end": 27000,
+      "end_time": "27.000000",
+      "tags": {
+        "title": "Tails - Super reunion"
+      }
+    },
+    {
+      "id": 4,
+      "time_base": "1/1000",
+      "start": 27000,
+      "start_time": "27.000000",
+      "end": 33000,
+      "end_time": "33.000000",
+      "tags": {
+        "title": "ROM credits"
+      }
+    },
+    {
+      "id": 5,
+      "time_base": "1/1000",
+      "start": 33000,
+      "start_time": "33.000000",
+      "end": 37000,
+      "end_time": "37.000000",
+      "tags": {
+        "title": "Sonic - post-credit banner"
+      }
+    },
+    {
+      "id": 6,
+      "time_base": "1/1000",
+      "start": 37000,
+      "start_time": "37.000000",
+      "end": 41000,
+      "end_time": "41.000000",
+      "tags": {
+        "title": "Knuckles - powered flight with Master Emerald"
+      }
+    },
+    {
+      "id": 7,
+      "time_base": "1/1000",
+      "start": 41000,
+      "start_time": "41.000000",
+      "end": 45000,
+      "end_time": "45.000000",
+      "tags": {
+        "title": "Knuckles - turning plane and departure"
+      }
+    },
+    {
+      "id": 8,
+      "time_base": "1/1000",
+      "start": 45000,
+      "start_time": "45.000000",
+      "end": 53000,
+      "end_time": "53.000000",
+      "tags": {
+        "title": "Knuckles - Mecha and Master Emerald terminal"
+      }
+    },
+    {
+      "id": 9,
+      "time_base": "1/1000",
+      "start": 53000,
+      "start_time": "53.000000",
+      "end": 57000,
+      "end_time": "57.000000",
+      "tags": {
+        "title": "Return to the title screen"
+      }
+    }
+  ],
+  "full_xerror_decode_exit": 0,
+  "limits": "Editorial excerpts do not demonstrate a continuous cold campaign or native pixel parity.",
+  "temporal_visual_review": {
+    "chapters": 10,
+    "samples_per_chapter": 3,
+    "locations": "start+0.2s,midpoint,end-0.2s; native centre crop",
+    "contact_sheets": "temporal-review/temporal-group-1.png through temporal-group-4.png",
+    "observed": "Moving rescue/reunion; Tails plane and Knuckles return at AIZ emerald; advancing ROM credits/banner; powered flight/turn; Mecha charge/emerald transition; animated title.",
+    "limits": "Temporal samples plus full codec decode, not complete uninterrupted runtime or native pixel parity."
+  }
+}

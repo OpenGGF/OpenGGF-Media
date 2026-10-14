@@ -1,0 +1,182 @@
+{
+ "note": "Compare the r5 real-menu-route captures with the r4 direct-entry captures (Opus, 2026-10-06).",
+ "ehz1-practice": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 4923,
+  "rows_old": 4923,
+  "compared_rows": 4803,
+  "mismatched_rows": 1,
+  "first_mismatch": {
+   "offset": 240,
+   "new_row": 360,
+   "old_row": 360,
+   "fields": {
+    "x": [
+     "886",
+     "96"
+    ],
+    "y": [
+     "684",
+     "656"
+    ],
+    "xvel": [
+     "2859",
+     "0"
+    ],
+    "yvel": [
+     "558",
+     "0"
+    ],
+    "gspeed": [
+     "2916",
+     "0"
+    ],
+    "rolling": [
+     "true",
+     "false"
+    ],
+    "cam_x": [
+     "726",
+     "0"
+    ],
+    "cam_y": [
+     "583",
+     "560"
+    ],
+    "stage": [
+     "WATCH",
+     "AIM"
+    ],
+    "score": [
+     "[Golfer[character=SONIC; holes=[HoleScore[strokes=1; penalties=0; finished=false; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]]",
+     "[Golfer[character=SONIC; holes=[HoleScore[strokes=0; penalties=0; finished=false; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]]"
+    ]
+   }
+  },
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "0"
+  ]
+ },
+ "ehz2-practice": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 7851,
+  "rows_old": 7851,
+  "compared_rows": 7731,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "1"
+  ]
+ },
+ "local-match": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 31771,
+  "rows_old": 31771,
+  "compared_rows": 31651,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "0",
+   "1"
+  ]
+ },
+ "online/online-host": {
+  "anchor": "handoff-0",
+  "anchor_row_new": 56,
+  "anchor_row_old": 56,
+  "shift_rows": 0,
+  "rows_new": 4985,
+  "rows_old": 4984,
+  "compared_rows": 4928,
+  "mismatched_rows": 2189,
+  "first_mismatch": {
+   "offset": 1974,
+   "new_row": 2030,
+   "old_row": 2030,
+   "fields": {
+    "x": [
+     "1548",
+     "1228"
+    ],
+    "y": [
+     "504",
+     "639"
+    ],
+    "xvel": [
+     "1294",
+     "0"
+    ],
+    "yvel": [
+     "433",
+     "0"
+    ],
+    "gspeed": [
+     "2353",
+     "0"
+    ],
+    "air": [
+     "true",
+     "false"
+    ],
+    "cam_x": [
+     "1388",
+     "1068"
+    ],
+    "cam_y": [
+     "430",
+     "538"
+    ],
+    "stage": [
+     "WATCH",
+     "AIM"
+    ],
+    "score": [
+     "[Golfer[character=SONIC; holes=[HoleScore[strokes=2; penalties=0; finished=false; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]; Golfer[character=TAILS; holes=[HoleScore[strokes=2; penalties=0; finished=false; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]]",
+     "[Golfer[character=SONIC; holes=[HoleScore[strokes=2; penalties=0; finished=false; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]; Golfer[character=TAILS; holes=[HoleScore[strokes=1; penalties=0; finished=false; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]]"
+    ]
+   }
+  },
+  "events_after_anchor_identical": false,
+  "acts_new": [
+   "0"
+  ]
+ },
+ "online/online-guest": {
+  "anchor": "handoff-0",
+  "anchor_row_new": 56,
+  "anchor_row_old": 56,
+  "shift_rows": 0,
+  "rows_new": 4985,
+  "rows_old": 4984,
+  "compared_rows": 4928,
+  "mismatched_rows": 12,
+  "first_mismatch": {
+   "offset": 1974,
+   "new_row": 2030,
+   "old_row": 2030,
+   "fields": {
+    "stage": [
+     "WATCH",
+     "AIM"
+    ]
+   }
+  },
+  "events_after_anchor_identical": false,
+  "acts_new": [
+   "0"
+  ]
+ },
+ "reference": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/_superseded-f3"
+}

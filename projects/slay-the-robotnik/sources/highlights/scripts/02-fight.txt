@@ -1,0 +1,8 @@
+# jump: knuckles:7:fight:aiz:monkey_pair
+# ticks: 700
+# A fight: the entrance, three cards on the first Monkey Dude, the enemy turn, then turn two.
+150:enter +30:enter
++70:enter +30:enter
++70:enter +30:enter
++80:e
++300:enter +30:enter

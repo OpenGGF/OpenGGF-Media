@@ -1,0 +1,22 @@
+{
+  "purpose": "Diagnostic cold MHZ1 through MHZ2 completion and playable FBZ1 load; missing ship body remains visible in this revision.",
+  "worktree": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-sk-zone-completion",
+  "head": "b6c1147a2",
+  "working_tree": "Uncommitted campaign fixes; captured before foreground VScroll split implementation. Exact compiled class hash was not recorded at capture time.",
+  "game": "s3k",
+  "zone": 7,
+  "act": 1,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "gameplay_seeds": [],
+  "frames": 23775,
+  "capture_from": 20900,
+  "captured_frames": 2875,
+  "observed_deaths": 0,
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "validation": "MP4 full decode completed; stills 23550 and 23650 show missing ship body, 23774 shows actual FBZ1.",
+  "input.script_sha256": "68cbad254f56eda9bc0fffee3c840d147c317d4305df6053388a078f4b10bcc8",
+  "input.bk2_sha256": "df0f52d4d34620022ff027059a2cc90911a3e1b039feb884d1bf8597d63a351f"
+}

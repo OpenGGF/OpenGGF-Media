@@ -1,0 +1,390 @@
+[
+  {
+    "card": "one",
+    "dur": 1.2,
+    "source_start": null,
+    "index": 0,
+    "start": 0,
+    "end": 1.2
+  },
+  {
+    "card": "keyboard",
+    "dur": 1.2,
+    "source_start": null,
+    "index": 1,
+    "start": 1.2,
+    "end": 2.4
+  },
+  {
+    "card": "survive",
+    "dur": 2.0,
+    "source_start": null,
+    "index": 2,
+    "start": 2.4,
+    "end": 4.4
+  },
+  {
+    "src": "hub",
+    "start": 4.4,
+    "dur": 3.0,
+    "name": "Title logo and announcer",
+    "source_start": 0,
+    "index": 3,
+    "end": 7.4
+  },
+  {
+    "src": "ehz",
+    "start": 7.4,
+    "dur": 3.7,
+    "caption": "ready",
+    "name": "Sonic 2 spindash: 3-2-1 START",
+    "source_start": 0.65,
+    "index": 4,
+    "end": 11.1
+  },
+  {
+    "src": "ghz",
+    "start": 11.1,
+    "dur": 3.6,
+    "caption": "ready",
+    "name": "Sonic 1 run and roll launch",
+    "source_start": 0.8,
+    "index": 5,
+    "end": 14.7
+  },
+  {
+    "src": "ehz",
+    "start": 14.7,
+    "dur": 2.2,
+    "caption": "ready",
+    "name": "GET READY while travelling",
+    "source_start": 4.35,
+    "index": 6,
+    "end": 16.9
+  },
+  {
+    "src": "ghz",
+    "start": 16.9,
+    "dur": 4.0,
+    "caption": "combat",
+    "punches": [
+      1.5,
+      3.5
+    ],
+    "name": "Closing badniks and typed homing strikes",
+    "source_start": 7.5,
+    "index": 7,
+    "end": 20.9
+  },
+  {
+    "src": "ehz",
+    "start": 20.9,
+    "dur": 3.2,
+    "caption": "combat",
+    "punches": [
+      1.0
+    ],
+    "name": "Keyboard lights and chained bounces",
+    "source_start": 13.0,
+    "index": 8,
+    "end": 24.1
+  },
+  {
+    "src": "ehz",
+    "start": 24.1,
+    "dur": 1.4,
+    "speed": 0.5,
+    "zoom": 1.6,
+    "caption": "slow",
+    "name": "Keyboard impact: labelled half speed",
+    "source_start": 12.0,
+    "index": 9,
+    "end": 26.9
+  },
+  {
+    "card": "letters",
+    "dur": 1.3,
+    "source_start": null,
+    "index": 10,
+    "start": 26.9,
+    "end": 28.2
+  },
+  {
+    "src": "ehz",
+    "start": 28.2,
+    "dur": 3.2,
+    "caption": "rings",
+    "name": "Letter rings to recover",
+    "source_start": 49.7,
+    "index": 11,
+    "end": 31.4
+  },
+  {
+    "src": "ghz",
+    "start": 31.4,
+    "dur": 3.0,
+    "caption": "rescue",
+    "name": "Monitors and animal rescue",
+    "source_start": 38.5,
+    "index": 12,
+    "end": 34.4
+  },
+  {
+    "src": "ehz",
+    "start": 34.4,
+    "dur": 2.0,
+    "caption": "combat",
+    "name": "WAVE CLEAR",
+    "source_start": 146.9,
+    "index": 13,
+    "end": 36.4
+  },
+  {
+    "card": "school",
+    "dur": 1.0,
+    "source_start": null,
+    "index": 14,
+    "start": 36.4,
+    "end": 37.4
+  },
+  {
+    "src": "hub",
+    "start": 37.4,
+    "dur": 1.2,
+    "name": "Sonic 1 Story chapter map",
+    "source_start": 5.3,
+    "index": 15,
+    "end": 38.6
+  },
+  {
+    "src": "hub",
+    "start": 38.6,
+    "dur": 1.2,
+    "name": "Sonic 2 Story chapter map",
+    "source_start": 8.3,
+    "index": 16,
+    "end": 39.8
+  },
+  {
+    "src": "hub",
+    "start": 39.8,
+    "dur": 1.2,
+    "name": "Sonic 3 and Knuckles Story map",
+    "source_start": 11.3,
+    "index": 17,
+    "end": 41.0
+  },
+  {
+    "src": "hub",
+    "start": 41.0,
+    "dur": 3.0,
+    "name": "Tails welcomes you to Typing School",
+    "source_start": 14.0,
+    "index": 18,
+    "end": 44.0
+  },
+  {
+    "src": "hub",
+    "start": 44.0,
+    "dur": 3.3,
+    "name": "Boss Training drill",
+    "source_start": 23.35,
+    "index": 19,
+    "end": 47.3
+  },
+  {
+    "src": "hub",
+    "start": 47.3,
+    "dur": 2.0,
+    "name": "Records: per-key heat map",
+    "source_start": 27.8,
+    "index": 20,
+    "end": 49.3
+  },
+  {
+    "src": "hub",
+    "start": 49.3,
+    "dur": 1.6,
+    "name": "Boss Rush selection",
+    "source_start": 31.5,
+    "index": 21,
+    "end": 50.9
+  },
+  {
+    "card": "reviews",
+    "dur": 3.0,
+    "source_start": null,
+    "index": 22,
+    "start": 50.9,
+    "end": 53.9
+  },
+  {
+    "card": "back",
+    "dur": 1.1,
+    "source_start": null,
+    "index": 23,
+    "start": 53.9,
+    "end": 55.0
+  },
+  {
+    "src": "ehz",
+    "start": 55.0,
+    "dur": 4.5,
+    "caption": "taunt",
+    "name": "Robotnik voiced taunt typed back",
+    "source_start": 159.0,
+    "index": 24,
+    "end": 59.5
+  },
+  {
+    "src": "ghz",
+    "start": 59.5,
+    "dur": 4.1,
+    "caption": "quiz",
+    "name": "Robotnik trivia window",
+    "source_start": 130.8,
+    "index": 25,
+    "end": 63.6
+  },
+  {
+    "card": "boss",
+    "dur": 1.2,
+    "source_start": null,
+    "index": 26,
+    "start": 63.6,
+    "end": 64.8
+  },
+  {
+    "src": "ghz",
+    "start": 64.8,
+    "dur": 3.8,
+    "caption": "ghz",
+    "punches": [
+      1.4
+    ],
+    "name": "Green Hill wrecking-ball dodge",
+    "source_start": 137.9,
+    "index": 27,
+    "end": 68.6
+  },
+  {
+    "src": "ehz",
+    "start": 68.6,
+    "dur": 3.3,
+    "caption": "ehz",
+    "punches": [
+      1.5
+    ],
+    "name": "Emerald Hill drill car charge",
+    "source_start": 171.3,
+    "index": 28,
+    "end": 71.9
+  },
+  {
+    "src": "fz",
+    "start": 71.9,
+    "dur": 3.5,
+    "caption": "fz",
+    "name": "HIT ROBOTNIK S PILLAR: four words",
+    "source_start": 53.9,
+    "index": 29,
+    "end": 75.4
+  },
+  {
+    "src": "fz",
+    "start": 75.4,
+    "dur": 2.4,
+    "caption": "fz",
+    "punches": [
+      1.3
+    ],
+    "name": "Final Zone crushers and plasma",
+    "source_start": 56.7,
+    "index": 30,
+    "end": 77.8
+  },
+  {
+    "card": "climax",
+    "dur": 1.0,
+    "source_start": null,
+    "index": 31,
+    "start": 77.8,
+    "end": 78.8
+  },
+  {
+    "src": "dez",
+    "start": 78.8,
+    "dur": 2.7,
+    "caption": "dez",
+    "name": "Death Egg rocket fist",
+    "source_start": 13.7,
+    "index": 32,
+    "end": 81.5
+  },
+  {
+    "src": "dez",
+    "start": 81.5,
+    "dur": 3.0,
+    "caption": "dez",
+    "punches": [
+      1.2
+    ],
+    "name": "Death Egg targeting-sensor slam",
+    "source_start": 15.6,
+    "index": 33,
+    "end": 84.5
+  },
+  {
+    "src": "dez",
+    "start": 84.5,
+    "dur": 2.5,
+    "caption": "dez",
+    "punches": [
+      1.5
+    ],
+    "name": "Death Egg bombs",
+    "source_start": 19.3,
+    "index": 34,
+    "end": 87.0
+  },
+  {
+    "src": "dez",
+    "start": 87.0,
+    "dur": 3.0,
+    "caption": "tally",
+    "punches": [
+      1.0
+    ],
+    "name": "Twelfth hit and BOSS DEFEATED",
+    "source_start": 104.3,
+    "index": 35,
+    "end": 90.0
+  },
+  {
+    "src": "dez",
+    "start": 90.0,
+    "dur": 3.2,
+    "caption": "tally",
+    "name": "Rank tally",
+    "source_start": 109.0,
+    "index": 36,
+    "end": 93.2
+  },
+  {
+    "src": "hub",
+    "start": 93.2,
+    "dur": 1.7,
+    "name": "Rank A and record reward",
+    "source_start": 39.6,
+    "index": 37,
+    "end": 94.9
+  },
+  {
+    "card": "end",
+    "dur": 5.0,
+    "source_start": null,
+    "index": 38,
+    "start": 94.9,
+    "end": 99.9
+  }
+]

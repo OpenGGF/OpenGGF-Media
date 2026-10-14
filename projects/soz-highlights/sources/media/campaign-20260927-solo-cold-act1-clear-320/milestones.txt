@@ -1,0 +1,3 @@
+Act2 ready frame: 31490
+Controller frames: 31671
+Cold Sonic; followers=; width=320; donor=off; intro enabled.

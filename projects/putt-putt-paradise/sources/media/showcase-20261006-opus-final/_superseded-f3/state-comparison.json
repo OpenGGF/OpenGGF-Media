@@ -1,0 +1,117 @@
+{
+ "note": "Compare the r5 real-menu-route captures with the r4 direct-entry captures (Opus, 2026-10-06).",
+ "ehz1-practice": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 4923,
+  "rows_old": 4923,
+  "compared_rows": 4803,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "0"
+  ]
+ },
+ "ehz2-practice": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 7851,
+  "rows_old": 7845,
+  "compared_rows": 7725,
+  "mismatched_rows": 2055,
+  "first_mismatch": {
+   "offset": 791,
+   "new_row": 911,
+   "old_row": 911,
+   "fields": {
+    "x": [
+     "2793",
+     "2794"
+    ],
+    "cam_x": [
+     "2633",
+     "2634"
+    ]
+   }
+  },
+  "events_after_anchor_identical": false,
+  "acts_new": [
+   "1"
+  ]
+ },
+ "local-match": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 31771,
+  "rows_old": 31727,
+  "compared_rows": 31607,
+  "mismatched_rows": 14334,
+  "first_mismatch": {
+   "offset": 10700,
+   "new_row": 10820,
+   "old_row": 10820,
+   "fields": {
+    "stage": [
+     "AIM",
+     "SPIN"
+    ]
+   }
+  },
+  "events_after_anchor_identical": false,
+  "acts_new": [
+   "0",
+   "1"
+  ]
+ },
+ "online/online-host": {
+  "anchor": "handoff-0",
+  "anchor_row_new": 56,
+  "anchor_row_old": 3,
+  "shift_rows": 53,
+  "rows_new": 4984,
+  "rows_old": 4931,
+  "compared_rows": 4928,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": false,
+  "acts_new": [
+   "0"
+  ]
+ },
+ "online/online-guest": {
+  "anchor": "handoff-0",
+  "anchor_row_new": 56,
+  "anchor_row_old": 3,
+  "shift_rows": 53,
+  "rows_new": 4984,
+  "rows_old": 4931,
+  "compared_rows": 4928,
+  "mismatched_rows": 4928,
+  "first_mismatch": {
+   "offset": 0,
+   "new_row": 56,
+   "old_row": 3,
+   "fields": {
+    "y": [
+     "660",
+     "655"
+    ],
+    "cam_y": [
+     "564",
+     "559"
+    ]
+   }
+  },
+  "events_after_anchor_identical": false,
+  "acts_new": [
+   "0"
+  ]
+ }
+}

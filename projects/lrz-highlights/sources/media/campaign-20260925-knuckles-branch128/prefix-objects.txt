@@ -1,0 +1,7 @@
+Sonic3kSpringObjectInstance 9392,830 spawn=ObjectSpawn[x=9392, y=830, objectId=7, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=830, layoutIndex=313, ownerModId=null, objectKey=null]
+LrzSolidMovingPlatformObjectInstance 9509,416 spawn=ObjectSpawn[x=9509, y=416, objectId=45, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=416, layoutIndex=314, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 9752,452 spawn=ObjectSpawn[x=9752, y=452, objectId=41, subtype=150, renderFlags=0, respawnTracked=false, rawYWord=452, layoutIndex=317, ownerModId=null, objectKey=null]
+LrzFlameObjectInstance 9766,521 spawn=ObjectSpawn[x=9766, y=521, objectId=41, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+LrzFlameObjectInstance 9764,505 spawn=ObjectSpawn[x=9764, y=505, objectId=41, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+LrzFlameObjectInstance 9760,490 spawn=ObjectSpawn[x=9760, y=490, objectId=41, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+LrzFlameObjectInstance 9754,475 spawn=ObjectSpawn[x=9754, y=475, objectId=41, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]

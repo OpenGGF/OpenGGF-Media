@@ -1,0 +1,8 @@
+{
+  "validated_commit": "81768e6ee",
+  "frames": 4000,
+  "scope": "Positioned engine capture, Sonic solo. Not cold-route or native timing parity.",
+  "verification": "Full MP4 decoded and selected stills inspected.",
+  "source_sha256": "d2ef919d4b8301c1fd6c58dd86fc03dd9ac4cdac71abc4902547d23a2071d226",
+  "setup": "DEZ1 ($3740,$2E0), 200 rings, seven Super Emeralds, authored controller log dez-miniboss-solo.txt; real collision hits through both phases and Act 2 landing; zero hurt/death, no follower"
+}

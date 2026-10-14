@@ -1,0 +1,23 @@
+start_seconds,end_seconds,source,source_start_seconds,source_end_seconds,title
+0,14,completion-cold-route/native-320-final/capture.mp4,20,34,Act 1 - Desert parallax and heat shimmer
+14,24,completion-cold-route/native-320-final/capture.mp4,84,94,Act 1 - Desert enemies and ruins
+24,34,completion-cold-route/native-320-final/capture.mp4,115,125,Act 1 - Sandfalls and spikes
+34,46,completion-cold-route/native-320-final/capture.mp4,172,184,Act 1 - Moving platforms
+46,58,completion-cold-route/native-320-final/capture.mp4,266,278,Act 1 - Crossing the ruins
+58,72,completion-cold-route/native-320-final/capture.mp4,294,308,Act 1 - Swinging across the desert
+72,84,pyramid-presentation/final/capture.mp4,1,13,Act 1 - The pyramid rises
+84,97,pyramid-presentation/final/capture.mp4,24,37,Act 1 - Egg Golem — widescreen arena
+97,110,pyramid-presentation/final/capture.mp4,50,63,Act 1 - Egg Golem defeat
+110,118.2,pyramid-presentation/final/capture.mp4,80,88.2,Act 1 - Entering the pyramid
+118.2,130.2,completion-cold-route/act2-native-320-final/capture.mp4,24,36,Act 2 - Inside the temple
+130.2,142.2,completion-cold-route/act2-native-320-final/capture.mp4,52,64,Act 2 - Releasing the ghosts
+142.2,156.2,completion-cold-route/act2-native-320-final/capture.mp4,84,98,Act 2 - Darkness and pursuit
+156.2,170.2,completion-cold-route/act2-native-320-final/capture.mp4,142,156,Act 2 - Wire traversal
+170.2,182.2,completion-cold-route/act2-native-320-final/capture.mp4,174,186,Act 2 - Light switches
+182.2,194.2,priority-pass/complete/act2-mechanisms/lower/capture.mp4,16,28,Act 2 - Rising sand
+194.2,208.2,completion-cold-route/act2-native-320-final/capture.mp4,324,338,Act 2 - Temple mechanisms
+208.2,220.2,completion-cold-route/act2-native-320-final/capture.mp4,356,368,Act 2 - Rock platforms
+220.2,232.2,playtest-followup/checkpoint-shortcut-shell/capture.mp4,8,20,Act 2 - Checkpoint approach and boss-room entry
+232.2,252.2,playtest-followup/act2-boss/capture.mp4,2,22,Act 2 - Eggman and the final hits
+252.2,256.2,playtest-followup/act2-boss/capture.mp4,22,26,Act 2 - Victory and rescue
+256.2,260.7,playtest-followup/act2-boss/capture.mp4,46.3,50.8,Act 2 - Into Lava Reef

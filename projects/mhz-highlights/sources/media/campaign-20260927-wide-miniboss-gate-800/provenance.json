@@ -1,0 +1,18 @@
+{
+  "baseCommit": "5ff400010e288acaeeb33005edb4da8960a46c3a",
+  "source": "feature/ai-mhz-wide-route plus uncommitted MHZ native-camera projection fixes",
+  "game": "s3k",
+  "zone": "mhz",
+  "act": 1,
+  "width": 800,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "setup": "cold entry, ordinary fixed controller inputs; no position/health/ring seeds",
+  "captureFrom": 8030,
+  "observedFrames": 8620,
+  "movieFrames": 590,
+  "fps": 60,
+  "audio": false,
+  "status": "candidate arena-admission evidence, not complete encounter or native parity"
+}

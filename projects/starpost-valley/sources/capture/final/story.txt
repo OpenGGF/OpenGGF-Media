@@ -1,0 +1,6 @@
+20:jump=card_THE_/_STORY
+230:enter
+310:right
+350:left
+400:enter
+950:enter

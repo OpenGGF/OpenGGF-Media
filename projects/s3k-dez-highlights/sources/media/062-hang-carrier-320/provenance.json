@@ -1,0 +1,25 @@
+{
+  "source_head": "b1c767647",
+  "source_sha256": {
+    "S3kDezHangCarrierObjectInstance.java": "e72a6ea39d2c77ea26cf44098d459ca91b361c87ad38dc0eb13c7e5eba180c5c"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "x": 2049,
+    "y": 2196,
+    "width": 320,
+    "rings": 7,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "../inputs/062-hang-carrier.txt"
+  },
+  "stepped_frames": 480,
+  "hurt_frames": 36,
+  "death_frames": 0,
+  "scope": "Positioned grab, rise, ceiling travel and jump release; not cold route or native parity.",
+  "validated_commit": "33e6b66d5",
+  "verification": "Full ffmpeg decode passed; CSV and ride frames inspected."
+}

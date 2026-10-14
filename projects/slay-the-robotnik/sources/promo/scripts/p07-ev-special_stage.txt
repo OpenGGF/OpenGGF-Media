@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:special_stage@3:9:2
+# ticks: 560
+90:enter
++330:enter

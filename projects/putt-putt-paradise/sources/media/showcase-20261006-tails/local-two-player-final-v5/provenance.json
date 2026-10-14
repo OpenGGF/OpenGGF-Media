@@ -1,0 +1,20 @@
+{
+  "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+  "mod_sha256": "39987416692c75e47c73d6f74a67c71d0fce6dd35a8fb95130fa70ef61190de6",
+  "act": 0,
+  "character": "sonic",
+  "mode": "local",
+  "native_hz": 60,
+  "capture_fps": 30,
+  "dimensions": [
+    320,
+    224
+  ],
+  "audio": "silent",
+  "rewind_vhs_effect": true,
+  "rewind_vhs_tear_bands": true,
+  "entry": "explicit SDK-validated ModContext capture wrapper",
+  "baseline": "b2faa748f84b83f1d9d8b76dda0e6047c1e64ea4",
+  "engine_java_sha256": "5f15f804253a67305a3d4831b8812e502a2f231ad37a9734022d9822f9a05f68",
+  "working_diff_sha256": "33e3da3a3b2939e453d9ddff6a5c51c77d684c6d1cf2fb5c1b6e8d37797df33d"
+}

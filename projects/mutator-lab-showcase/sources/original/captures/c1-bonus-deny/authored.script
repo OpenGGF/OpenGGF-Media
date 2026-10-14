@@ -1,0 +1,16 @@
+# Same setup: open the Lab first, switch No Bonus Stages on, Resume, then the same post/star input, then keep running.
+10 -
+1 S
+24 -
+repeat 9 { 1 D; 6 - }
+20 -
+1 R
+40 -
+repeat 2 { 1 D; 6 - }
+20 -
+1 A
+44 R
+20 L
+30 -
+repeat 6 { 1 A; 40 - }
+300 R

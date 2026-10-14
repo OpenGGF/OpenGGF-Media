@@ -1,0 +1,13 @@
+order,act,reel_start,reel_end,source,source_start,source_end,title
+0,0,0.0,3.0,ehz1-sonic-rewind-final-v5/title.mkv,0.0,3.0,Putt Putt Paradise | Sonic 2 Mini Golf
+1,1,3.0,7.666666666666667,ehz1-sonic-rewind-final-v5/gameplay.mkv,2.0,6.666666666666667,Emerald Hill 1 | Whole-shot rewind with VHS effects
+2,1,7.666666666666667,13.666666666666666,ehz1-sonic-rewind-final-v5/gameplay.mkv,6.666666666666667,12.666666666666666,"Sonic | Time the putt, then let it roll"
+3,1,13.666666666666666,21.733333333333334,ehz1-sonic-rewind-final-v5/gameplay.mkv,12.666666666666666,20.733333333333334,"Chip | Choose loft, then time backspin or topspin"
+4,1,21.733333333333334,27.0,ehz1-sonic-rewind-final-v5/gameplay.mkv,38.03333333333333,43.3,"Native slopes, loops and rolling momentum"
+5,1,27.0,35.2,ehz1-sonic-rewind-final-v5/gameplay.mkv,67.86666666666666,76.06666666666666,Emerald Hill 1 | Roll through the finish
+6,1,35.2,41.86666666666667,local-two-player-final-v5/gameplay.mkv,2.0,8.666666666666666,Local two-player | Sonic takes the first shot
+7,1,41.86666666666667,49.2,local-two-player-final-v5/gameplay.mkv,9.0,16.333333333333332,Local two-player | Tails plays the same course
+8,1,49.2,50.666666666666664,local-two-player-final-v5/gameplay.mkv,22.5,23.966666666666665,Turns pass automatically when the shot settles
+9,2,50.666666666666664,61.166666666666664,ehz2-tails-final-v5/gameplay.mkv,2.0,12.5,Emerald Hill 2 | Tails takes on the full act
+10,2,61.166666666666664,68.43333333333334,ehz2-tails-final-v5/gameplay.mkv,44.766666666666666,52.03333333333333,Higher loft | Chip through the terrain
+11,2,68.43333333333334,80.5,ehz2-tails-final-v5/gameplay.mkv,112.7,124.76666666666667,Emerald Hill 2 | The final approach

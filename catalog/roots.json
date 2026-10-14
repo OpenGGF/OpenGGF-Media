@@ -1,0 +1,177 @@
+[
+  {
+    "id": "hpz-highlights/media",
+    "original": "~/Videos/OGGF/hpz-bring-up",
+    "archive": "projects/hpz-highlights/sources/media"
+  },
+  {
+    "id": "ddz-highlights/media",
+    "original": "~/Videos/OGGF/ddz-bring-up",
+    "archive": "projects/ddz-highlights/sources/media"
+  },
+  {
+    "id": "lrz-highlights/media",
+    "original": "~/Videos/OGGF/lrz-bring-up",
+    "archive": "projects/lrz-highlights/sources/media"
+  },
+  {
+    "id": "ssz-highlights/media",
+    "original": "~/Videos/OGGF/ssz-bring-up",
+    "archive": "projects/ssz-highlights/sources/media"
+  },
+  {
+    "id": "s3k-dez-highlights/media",
+    "original": "~/Videos/OGGF/s3k-dez-bring-up",
+    "archive": "projects/s3k-dez-highlights/sources/media"
+  },
+  {
+    "id": "mhz-highlights/media",
+    "original": "~/Videos/OGGF/mhz-bring-up",
+    "archive": "projects/mhz-highlights/sources/media"
+  },
+  {
+    "id": "soz-highlights/media",
+    "original": "~/Videos/OGGF/soz-bring-up",
+    "archive": "projects/soz-highlights/sources/media"
+  },
+  {
+    "id": "dez-highlights/media",
+    "original": "~/Videos/OGGF/dez-bring-up",
+    "archive": "projects/dez-highlights/sources/media"
+  },
+  {
+    "id": "fbz-highlights/media",
+    "original": "~/Videos/OGGF/fbz-bring-up",
+    "archive": "projects/fbz-highlights/sources/media"
+  },
+  {
+    "id": "release-reels/media",
+    "original": "~/Videos/OGGF",
+    "archive": "projects/release-reels/sources/media"
+  },
+  {
+    "id": "release-reels/resolve",
+    "original": "~/.local/share/DaVinciResolve/Resolve Project Library/Resolve Projects/Users/guest/Projects",
+    "archive": "projects/release-reels/sources/resolve"
+  },
+  {
+    "id": "seamless-presentation/media",
+    "original": "~/Videos/OGGF/seamless-presentation",
+    "archive": "projects/seamless-presentation/sources/media"
+  },
+  {
+    "id": "ssz-arena-demos/ssz-arena-static-camera-fixed-60fps-20260924",
+    "original": "~/Videos/OGGF/ssz-arena-static-camera-fixed-60fps-20260924",
+    "archive": "projects/ssz-arena-demos/sources/ssz-arena-static-camera-fixed-60fps-20260924"
+  },
+  {
+    "id": "ssz-arena-demos/ssz-arena-static-demo-20260924",
+    "original": "~/Videos/OGGF/ssz-arena-static-demo-20260924",
+    "archive": "projects/ssz-arena-demos/sources/ssz-arena-static-demo-20260924"
+  },
+  {
+    "id": "ssz-arena-demos/ssz-arena-static-held-20260924",
+    "original": "~/Videos/OGGF/ssz-arena-static-held-20260924",
+    "archive": "projects/ssz-arena-demos/sources/ssz-arena-static-held-20260924"
+  },
+  {
+    "id": "ssz-arena-demos/ssz-arena-static-random-20260924",
+    "original": "~/Videos/OGGF/ssz-arena-static-random-20260924",
+    "archive": "projects/ssz-arena-demos/sources/ssz-arena-static-random-20260924"
+  },
+  {
+    "id": "slay-the-robotnik/highlights",
+    "original": "~/Videos/OGGF/slay-the-robotnik-reel",
+    "archive": "projects/slay-the-robotnik/sources/highlights"
+  },
+  {
+    "id": "slay-the-robotnik/promo",
+    "original": "~/Videos/OGGF/slay-the-robotnik-promo",
+    "archive": "projects/slay-the-robotnik/sources/promo"
+  },
+  {
+    "id": "starpost-valley/media",
+    "original": "~/Videos/OGGF/starpost-valley",
+    "archive": "projects/starpost-valley/sources/media"
+  },
+  {
+    "id": "starpost-valley/capture",
+    "original": "~/scratch/sv-promo",
+    "archive": "projects/starpost-valley/sources/capture"
+  },
+  {
+    "id": "starpost-valley/integration",
+    "original": "~/scratch/sv-integrate",
+    "archive": "projects/starpost-valley/sources/integration"
+  },
+  {
+    "id": "s3k-endings/media",
+    "original": "~/Videos/OGGF/s3k-finish-endings-2026-10-13",
+    "archive": "projects/s3k-endings/sources/media"
+  },
+  {
+    "id": "putt-putt-paradise/media",
+    "original": "~/scratch/gameplay-captures/putt-putt-paradise-20261005",
+    "archive": "projects/putt-putt-paradise/sources/media"
+  },
+  {
+    "id": "flappy-tails/promo",
+    "original": "~/scratch/flappy-tails-20261008/promo",
+    "archive": "projects/flappy-tails/sources/promo"
+  },
+  {
+    "id": "typing-of-the-hedgehog/promo",
+    "original": "~/scratch/typing-hedgehog/promo",
+    "archive": "projects/typing-of-the-hedgehog/sources/promo"
+  },
+  {
+    "id": "sitar-hero/promo",
+    "original": "~/scratch/agent-tmp/codex/sitar-hero-polish/promo",
+    "archive": "projects/sitar-hero/sources/promo"
+  },
+  {
+    "id": "mutator-lab-expansion/promo",
+    "original": "~/scratch/agent-tmp/codex/mutator-lab-expansion-5c24f4a5-76e8-47c7-bc47-4173173d5caa/opus-expansion-promo",
+    "archive": "projects/mutator-lab-expansion/sources/promo"
+  },
+  {
+    "id": "mutator-lab-gameplay/promo",
+    "original": "~/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3",
+    "archive": "projects/mutator-lab-gameplay/sources/promo"
+  },
+  {
+    "id": "mutator-lab-showcase/original",
+    "original": "~/scratch/agent-tmp/claude/mutator-complete-showcase-20261010",
+    "archive": "projects/mutator-lab-showcase/sources/original"
+  },
+  {
+    "id": "mutator-lab-showcase/revised",
+    "original": "~/scratch/agent-tmp/codex/mutator-lab-audio-revision-20261010/edit-r2",
+    "archive": "projects/mutator-lab-showcase/sources/revised"
+  },
+  {
+    "id": "soz-methodology/media",
+    "original": "~/scratch/agent-tmp/codex/soz-v2-20260915",
+    "archive": "projects/soz-methodology/sources/media"
+  },
+  {
+    "id": "sonic3k-chaos-mode/media",
+    "original": "~/scratch/sonic3k-chaos-demo-20261014",
+    "archive": "projects/sonic3k-chaos-mode/sources/media"
+  },
+  {
+    "id": "shared-production/helpers",
+    "original": "~/scratch/agent-tmp/codex",
+    "archive": "projects/shared-production/sources/helpers"
+  },
+  {
+    "id": "shared-production/workflows",
+    "original": "~/code/projects/OpenGGF",
+    "archive": "projects/shared-production/sources/workflows"
+  },
+  {
+    "id": "release-reels/website",
+    "original": "~/code/projects/OpenGGF-WebZone/public/media",
+    "archive": ""
+  }
+]

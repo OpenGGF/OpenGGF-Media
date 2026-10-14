@@ -1,0 +1,47 @@
+{
+ "film": "out/mutator-lab-complete-showcase.mp4",
+ "root": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010",
+ "sha256": "2eef605bcfb9097b84036f1f2e76ed3c7ba7074add00ecd1638bfea2a9d5fb4f",
+ "bytes": 86523685,
+ "duration_s": 90.217,
+ "frames": 5413,
+ "menu_s": 12.617,
+ "thumbnail": "out/mutator-lab-complete-showcase-thumb.png",
+ "chapters": "out/chapters.json",
+ "verify": "out/verify.json",
+ "recipe": "recipe/build_showcase.py",
+ "source_head": "379b6641323853f61851943fb7aadd5e7a389e01",
+ "source_dirty": false,
+ "new_takes": [
+  "final-bonus-deny",
+  "final-bonus-stock",
+  "final-nc",
+  "final-np",
+  "final-speed-live",
+  "final-speed100",
+  "final-speed200",
+  "final-speed50",
+  "final-ss-deny",
+  "final-ss-stock",
+  "final-stealth"
+ ],
+ "old_takes_root": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures",
+ "verification": {
+  "decode_exit": 0,
+  "video_checks": 243,
+  "video_mismatches": 0,
+  "pcm_segments_mismatched": [],
+  "av_max_abs_lag_ms": 0.0
+ },
+ "processes": {
+  "count": 75,
+  "nonzero": 0,
+  "running": 0,
+  "manifest": "~/.local/state/temporary-agents/mutator-complete-showcase-20261010/manifest.json"
+ },
+ "limitations": [
+  "audio-follows evidenced by policy + zero-crossing proxy",
+  "bonus-star difference visually small",
+  "positioned starts for stage/checkpoint takes (disclosed)"
+ ]
+}

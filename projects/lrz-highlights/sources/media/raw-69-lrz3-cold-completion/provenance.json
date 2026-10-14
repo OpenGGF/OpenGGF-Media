@@ -1,0 +1,16 @@
+{
+  "parent": "68255ce2e",
+  "candidate": "cold-entry and bonus-return fixes, dirty working tree",
+  "width": 320,
+  "leader": "sonic",
+  "sidekick": "tails",
+  "donor": "off",
+  "initialShield": "fire",
+  "initialRings": 37,
+  "start": "fresh default boss-act entry",
+  "input": "original movie from 428867; continuation re-aligned at live bonus return to native 434070, then authored live mine/capsule/exit control",
+  "probeFrames": 12701,
+  "probeHurtFrames": 0,
+  "probeDeadFrames": 0,
+  "probeExit": "HPZ at frame 12700"
+}

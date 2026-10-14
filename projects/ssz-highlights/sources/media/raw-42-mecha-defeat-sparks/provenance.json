@@ -1,0 +1,34 @@
+{
+  "source_head": "3c024e515128333d4804bf0689a301f0573b71b0",
+  "source_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kObjectArtKeys.java": "695bcd685fb9d013b2060df8f4033eba3c4ac68950c113bbd9b7f66212698c0c",
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kPlcArtRegistry.java": "635cdd3bbd492cb8e3268a8ef7ec03e542b80dea75c637ca416a4c5da5192f1b",
+    "src/main/java/com/openggf/game/sonic3k/constants/Sonic3kConstants.java": "114a8c53ccd978840522fcfd9a7678e0dff97149b1beb1b3ac0f627e8dc6b565",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaSonicObjectInstance.java": "f68729bc8b97aa3eb26ca26103b3f44d508ff3a22de5b3a21f2a99183d10b903",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaSonicSparkChild.java": "02d70bb9e3bfd637006b7a76a83404d184cf68961472e606447bfec309d12121"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "ssz",
+    "act": 1,
+    "star_post": [
+      6720,
+      1648
+    ],
+    "rings": 355,
+    "emeralds": "3333333",
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off"
+  },
+  "input": "../raw-40-mecha-launch-hyper/InputLog.txt",
+  "stepped_frames": 2600,
+  "captured_frames": [
+    1600,
+    2599
+  ],
+  "video_frames": 1000,
+  "verification": "zero deaths; full ffmpeg decode passed; frame 1805 inspected with flashing Mecha and spark; declared Hyper checkpoint capture, not cold-route/native parity",
+  "validated_commit": "d094005bb"
+}

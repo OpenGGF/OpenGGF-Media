@@ -1,0 +1,541 @@
+{
+ "video": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-expansion-5c24f4a5-76e8-47c7-bc47-4173173d5caa/opus-expansion-promo/out/mutator-lab-expanded-promo.mp4",
+ "duration": 81.367,
+ "chapters": [
+  {
+   "title": "Intro",
+   "start": 0.0
+  },
+  {
+   "title": "Three games",
+   "start": 3.5
+  },
+  {
+   "title": "Catalogue",
+   "start": 10.95
+  },
+  {
+   "title": "Native play",
+   "start": 29.95
+  },
+  {
+   "title": "LIVE vs LOAD",
+   "start": 34.617
+  },
+  {
+   "title": "Sonic 2",
+   "start": 47.933
+  },
+  {
+   "title": "Sonic 3 & Knuckles",
+   "start": 54.917
+  },
+  {
+   "title": "Ring-scaled head",
+   "start": 61.867
+  },
+  {
+   "title": "Outro",
+   "start": 76.867
+  }
+ ],
+ "segments": [
+  {
+   "name": "01-intro",
+   "seconds": 3.5,
+   "chapter": "Intro",
+   "source": "card over blurred s3k-play-03#520",
+   "audio": "s3k-play-03 from frame 1000",
+   "kind": "title card",
+   "text": [
+    "OpenGGF",
+    "Mutator Lab",
+    "11 optional mutators for native Sonic 1, Sonic 2 and Sonic 3 & Knuckles",
+    "Example creator mod  \u00b7  every effect off by default  \u00b7  your own ROMs"
+   ],
+   "start": 0.0,
+   "end": 3.5,
+   "final_audio_rms_db": "-17.972663",
+   "final_audio_peak_db": "-3.499681"
+  },
+  {
+   "name": "02-hub-s1",
+   "seconds": 2.5,
+   "chapter": "Three games",
+   "source": "s1-play-03",
+   "frames": [
+    450,
+    600
+   ],
+   "kind": "native clip",
+   "header": "Three games, one hub",
+   "caption": "Mutator Lab opens from each game's own title screen.",
+   "start": 3.5,
+   "end": 6.0,
+   "final_audio_rms_db": "-15.050237",
+   "final_audio_peak_db": "-1.521550"
+  },
+  {
+   "name": "03-hub-s2",
+   "seconds": 2.283333333333333,
+   "chapter": "Three games",
+   "source": "s2-play-03",
+   "frames": [
+    560,
+    697
+   ],
+   "kind": "native clip",
+   "header": "Three games, one hub",
+   "caption": "Start, configure, or read how to play.",
+   "start": 6.0,
+   "end": 8.283,
+   "final_audio_rms_db": "-17.365924",
+   "final_audio_peak_db": "-1.698186"
+  },
+  {
+   "name": "04-hub-s3k",
+   "seconds": 2.6666666666666665,
+   "chapter": "Three games",
+   "source": "s3k-play-03",
+   "frames": [
+    430,
+    590
+   ],
+   "kind": "native clip",
+   "header": "Three games, one hub",
+   "caption": "Native ROM play; the menu cues are the games' own sound effects.",
+   "start": 8.283,
+   "end": 10.95,
+   "final_audio_rms_db": "-15.921730",
+   "final_audio_peak_db": "-2.808117"
+  },
+  {
+   "name": "05-gravity",
+   "seconds": 3.0,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    3430,
+    3610
+   ],
+   "kind": "native clip",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "25\u2013200% dry fall acceleration for ordinary Sonic. Jumps, water, hurt and scripted motion stay native.",
+   "start": 10.95,
+   "end": 13.95,
+   "final_audio_rms_db": "-28.120659",
+   "final_audio_peak_db": "-11.556283"
+  },
+  {
+   "name": "06-ringfall",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    1083,
+    1083
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "When hurt you still lose every held ring; only 10\u2013100% scatter back as recoverable rings, with an optional 1\u201332 cap.",
+   "start": 13.95,
+   "end": 15.55,
+   "final_audio_rms_db": "-25.701148",
+   "final_audio_peak_db": "-10.523244"
+  },
+  {
+   "name": "07-bighead",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    1254,
+    1254
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "100\u2013200% about the neck on reviewed native Sonic head pixels. Feet, body and collisions unchanged.",
+   "start": 15.55,
+   "end": 17.15,
+   "final_audio_rms_db": "-26.101687",
+   "final_audio_peak_db": "-13.756168"
+  },
+  {
+   "name": "08-stealth",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    1482,
+    1482
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "Hides the player sprite. Gameplay, HUD, sound and world effects stay native.",
+   "start": 17.15,
+   "end": 18.75,
+   "final_audio_rms_db": "-20.837520",
+   "final_audio_peak_db": "-6.921796"
+  },
+  {
+   "name": "09-nopowerups",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    1596,
+    1596
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "Per-type monitor filters, applied on the next full LOAD. Types a game lacks show Unavailable.",
+   "start": 18.75,
+   "end": 20.35,
+   "final_audio_rms_db": "-27.060361",
+   "final_audio_peak_db": "-14.396362"
+  },
+  {
+   "name": "10-nocheckpoints",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    1710,
+    1710
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "Death returns to the act start. Death banking is independent of stage-entry triggers.",
+   "start": 20.35,
+   "end": 21.95,
+   "final_audio_rms_db": "-25.971925",
+   "final_audio_peak_db": "-13.469049"
+  },
+  {
+   "name": "11-norings",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    1881,
+    1881
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "Removes main-level rings and ring rewards on a full load. Main play only.",
+   "start": 21.95,
+   "end": 23.55,
+   "final_audio_rms_db": "-25.876237",
+   "final_audio_peak_db": "-13.508328"
+  },
+  {
+   "name": "12-gamespeed",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    2109,
+    2109
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "25\u2013400% in whole native steps, with optional audio follow. (Not visible in this video: the capture tool runs one tick per frame.)",
+   "start": 23.55,
+   "end": 25.15,
+   "final_audio_rms_db": "-19.956587",
+   "final_audio_peak_db": "-6.174077"
+  },
+  {
+   "name": "13-nospecial",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    2166,
+    2166
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "Denies new special-stage entry. A transition already admitted finishes normally.",
+   "start": 25.15,
+   "end": 26.75,
+   "final_audio_rms_db": "-25.764345",
+   "final_audio_peak_db": "-10.541020"
+  },
+  {
+   "name": "14-nobonus",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    2337,
+    2337
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "Sonic 3 & Knuckles only. Sonic 1 and 2 show it Unavailable.",
+   "start": 26.75,
+   "end": 28.35,
+   "final_audio_rms_db": "-25.769445",
+   "final_audio_peak_db": "-13.394921"
+  },
+  {
+   "name": "15-violent",
+   "seconds": 1.6,
+   "chapter": "Catalogue",
+   "source": "s1-explore-04",
+   "frames": [
+    2565,
+    2565
+   ],
+   "kind": "held native UI frame (audio continues from same capture)",
+   "header": "The catalogue  \u00b7  11 mutators",
+   "caption": "150\u2013300% vertical badnik-defeat rebound with a speed cap. Not radial blasts; bosses unaffected.",
+   "start": 28.35,
+   "end": 29.95,
+   "final_audio_rms_db": "-20.133058",
+   "final_audio_peak_db": "-5.887157"
+  },
+  {
+   "name": "16-s1-bighead",
+   "seconds": 4.666666666666667,
+   "chapter": "Native play",
+   "source": "s1-play-03",
+   "frames": [
+    920,
+    1200
+   ],
+   "kind": "native clip",
+   "header": "Native play",
+   "caption": "Big Head at a fixed 150%, the default mode. The enlarged head is Sonic's own reviewed head pixels; the body underneath is untouched.",
+   "start": 29.95,
+   "end": 34.617,
+   "final_audio_rms_db": "-16.030700",
+   "final_audio_peak_db": "-1.363032"
+  },
+  {
+   "name": "17-s1-live",
+   "seconds": 4.833333333333333,
+   "chapter": "LIVE vs LOAD",
+   "source": "s1-play-03",
+   "frames": [
+    1250,
+    1540
+   ],
+   "kind": "native clip",
+   "header": "LIVE edits apply on Resume",
+   "caption": "Start holds play. Edits stay pending until Resume: Stealth on, Game Speed 200%. No Powerups waits for a restart or death.",
+   "start": 34.617,
+   "end": 39.45,
+   "final_audio_rms_db": "-16.413669",
+   "final_audio_peak_db": "-1.556630"
+  },
+  {
+   "name": "18-s1-stealth",
+   "seconds": 3.9833333333333334,
+   "chapter": "LIVE vs LOAD",
+   "source": "s1-play-03",
+   "frames": [
+    1541,
+    1780
+   ],
+   "kind": "native clip",
+   "header": "LIVE edits apply on Resume",
+   "caption": "Stealth: Sonic is hidden. Camera, HUD, rings and sound carry on natively.",
+   "start": 39.45,
+   "end": 43.433,
+   "final_audio_rms_db": "-16.452996",
+   "final_audio_peak_db": "-1.477230"
+  },
+  {
+   "name": "19-s1-load",
+   "seconds": 4.5,
+   "chapter": "LIVE vs LOAD",
+   "source": "s1-play-03",
+   "frames": [
+    1830,
+    2100
+   ],
+   "kind": "native clip",
+   "header": "LOAD edits apply on restart",
+   "caption": "Restart rebuilds the act through native assembly, so LOAD-time monitor filters take effect.",
+   "start": 43.433,
+   "end": 47.933,
+   "final_audio_rms_db": "-16.389960",
+   "final_audio_peak_db": "-1.712060"
+  },
+  {
+   "name": "20-s2-bighead",
+   "seconds": 4.0,
+   "chapter": "Sonic 2",
+   "source": "s2-play-03",
+   "frames": [
+    880,
+    1120
+   ],
+   "kind": "native clip",
+   "header": "Sonic 2",
+   "caption": "Same mutators, same hub, Sonic 2's own engine rules and art.",
+   "start": 47.933,
+   "end": 51.933,
+   "final_audio_rms_db": "-19.727779",
+   "final_audio_peak_db": "-3.494720"
+  },
+  {
+   "name": "21-s2-stealth",
+   "seconds": 2.9833333333333334,
+   "chapter": "Sonic 2",
+   "source": "s2-play-03",
+   "frames": [
+    1541,
+    1720
+   ],
+   "kind": "native clip",
+   "header": "Sonic 2",
+   "caption": "After Resume the player sprite is hidden; the world keeps running.",
+   "start": 51.933,
+   "end": 54.917,
+   "final_audio_rms_db": "-19.988060",
+   "final_audio_peak_db": "-3.836768"
+  },
+  {
+   "name": "22-s3k-ball",
+   "seconds": 2.966666666666667,
+   "chapter": "Sonic 3 & Knuckles",
+   "source": "s3k-play-03",
+   "frames": [
+    2470,
+    2648
+   ],
+   "kind": "native clip",
+   "header": "Sonic 3 & Knuckles",
+   "caption": "Big Head on standing art. Curled, unreviewed, powered or non-Sonic art keeps the stock sprite.",
+   "start": 54.917,
+   "end": 57.883,
+   "final_audio_rms_db": "-17.772981",
+   "final_audio_peak_db": "-3.208345"
+  },
+  {
+   "name": "23-s3k-stealth",
+   "seconds": 3.9833333333333334,
+   "chapter": "Sonic 3 & Knuckles",
+   "source": "s3k-play-03",
+   "frames": [
+    2941,
+    3180
+   ],
+   "kind": "native clip",
+   "header": "Sonic 3 & Knuckles",
+   "caption": "Stealth targets the leader: Sonic vanishes while Tails, the sidekick, stays visible.",
+   "start": 57.883,
+   "end": 61.867,
+   "final_audio_rms_db": "-17.390141",
+   "final_audio_peak_db": "-1.805286"
+  },
+  {
+   "name": "24-rh-s1",
+   "seconds": 3.0,
+   "chapter": "Ring-scaled head",
+   "source": [
+    "s1-ringhead-stock0",
+    "s1-ringhead-0",
+    "s1-ringhead-25",
+    "s1-ringhead-50",
+    "s1-ringhead-100",
+    "s1-ringhead-150"
+   ],
+   "frames": [
+    20,
+    200
+   ],
+   "kind": "native clip grid (starting inventory)",
+   "header": "Big Head scales with rings",
+   "start": 61.867,
+   "end": 64.867,
+   "final_audio_rms_db": "-16.276476",
+   "final_audio_peak_db": "-1.611031"
+  },
+  {
+   "name": "25-rh-s2",
+   "seconds": 3.0,
+   "chapter": "Ring-scaled head",
+   "source": [
+    "s2-ringhead-stock0",
+    "s2-ringhead-0",
+    "s2-ringhead-25",
+    "s2-ringhead-50",
+    "s2-ringhead-100",
+    "s2-ringhead-150"
+   ],
+   "frames": [
+    20,
+    200
+   ],
+   "kind": "native clip grid (starting inventory)",
+   "header": "Big Head scales with rings",
+   "start": 64.867,
+   "end": 67.867,
+   "final_audio_rms_db": "-19.335429",
+   "final_audio_peak_db": "-4.991824"
+  },
+  {
+   "name": "26-rh-s3k",
+   "seconds": 3.0,
+   "chapter": "Ring-scaled head",
+   "source": [
+    "s3k-ringhead-stock0",
+    "s3k-ringhead-0",
+    "s3k-ringhead-25",
+    "s3k-ringhead-50",
+    "s3k-ringhead-100",
+    "s3k-ringhead-150"
+   ],
+   "frames": [
+    20,
+    200
+   ],
+   "kind": "native clip grid (starting inventory)",
+   "header": "Big Head scales with rings",
+   "start": 67.867,
+   "end": 70.867,
+   "final_audio_rms_db": "-20.219327",
+   "final_audio_peak_db": "-4.700213"
+  },
+  {
+   "name": "27-rh-earned",
+   "seconds": 6.0,
+   "chapter": "Ring-scaled head",
+   "source": "s3k-ringhead-title",
+   "frames": [
+    2840,
+    3200
+   ],
+   "kind": "native clip",
+   "header": "NEW  \u00b7  Big Head scales with rings",
+   "caption": "Collected in play, 0 to 11 rings. The LIVE menu reports the head at 111% for 11 rings (max 200%).",
+   "start": 70.867,
+   "end": 76.867,
+   "final_audio_rms_db": "-16.505026",
+   "final_audio_peak_db": "-1.419751"
+  },
+  {
+   "name": "28-outro",
+   "seconds": 4.5,
+   "chapter": "Outro",
+   "source": "card over blurred s1-ringhead-100#170",
+   "audio": "s3k-play-03 from frame 1400",
+   "kind": "title card",
+   "text": [
+    "Mutator Lab",
+    "Defaults off  \u00b7  LIVE edits on Resume  \u00b7  LOAD edits on native restart",
+    "Sonic 1  \u00b7  Sonic 2  \u00b7  Sonic 3 & Knuckles",
+    "Example mod jar prepared at JVM boot  \u00b7  all game assets from your own ROMs",
+    "OpenGGF is an independent fan research project, not affiliated with Sega."
+   ],
+   "start": 76.867,
+   "end": 81.367,
+   "final_audio_rms_db": "-23.211511",
+   "final_audio_peak_db": "-8.163714"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "chapter": "story",
+    "start": 0,
+    "end": 17.35
+  },
+  {
+    "chapter": "grow",
+    "start": 17.35,
+    "end": 41.5
+  },
+  {
+    "chapter": "seasons",
+    "start": 41.5,
+    "end": 59.35
+  },
+  {
+    "chapter": "neighbours",
+    "start": 59.35,
+    "end": 73.75
+  },
+  {
+    "chapter": "festivals",
+    "start": 73.75,
+    "end": 90.25
+  },
+  {
+    "chapter": "adventure",
+    "start": 90.25,
+    "end": 106.55
+  },
+  {
+    "chapter": "finale",
+    "start": 106.55,
+    "end": 119.8
+  }
+]

@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:special_stage
+90:enter
++120:enter
++300:enter

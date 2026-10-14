@@ -1,0 +1,468 @@
+{
+ "fps": 60,
+ "frames": 5218,
+ "seconds": 86.96666666666667,
+ "segments": [
+  {
+   "name": "cold-open",
+   "start_frame": 0,
+   "frames": 336,
+   "start_s": 0.0,
+   "end_s": 5.6,
+   "transition_in": "fade",
+   "transition_frames": 20,
+   "chapter": "OpenGGF: the open-source engine for classic Sonic",
+   "source": "OpenGGF 0.6 Sonic 2 promo master, muted",
+   "capture": null,
+   "first_row": null,
+   "last_row": null,
+   "beat_shift_rows": 0,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-music-96.wav",
+     "source_frame": 0,
+     "local_frame": 0,
+     "frames": 346,
+     "gain": 1.7
+    }
+   ]
+  },
+  {
+   "name": "hook-sonic",
+   "start_frame": 320,
+   "frames": 196,
+   "start_s": 5.333,
+   "end_s": 8.6,
+   "transition_in": "flash",
+   "transition_frames": 16,
+   "chapter": "What if Sonic was the golf ball?",
+   "source": "ehz1-practice",
+   "capture": "e1",
+   "first_row": 96,
+   "last_row": 291,
+   "beat_shift_rows": 0,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+     "source_frame": 96,
+     "local_frame": 0,
+     "frames": 196,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "hook-tails",
+   "start_frame": 504,
+   "frames": 176,
+   "start_s": 8.4,
+   "end_s": 11.333,
+   "transition_in": "whip",
+   "transition_frames": 12,
+   "chapter": "",
+   "source": "ehz2-practice",
+   "capture": "e2",
+   "first_row": 306,
+   "last_row": 481,
+   "beat_shift_rows": 6,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz2-practice/gameplay.wav",
+     "source_frame": 306,
+     "local_frame": 0,
+     "frames": 176,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "title",
+   "start_frame": 650,
+   "frames": 390,
+   "start_s": 10.833,
+   "end_s": 17.333,
+   "transition_in": "bands",
+   "transition_frames": 30,
+   "chapter": "Putt Putt Paradise: Sonic 2 Mini Golf",
+   "source": "ehz1-practice title rows",
+   "capture": "e1",
+   "first_row": 0,
+   "last_row": 389,
+   "beat_shift_rows": 0,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/title.wav",
+     "source_frame": 0,
+     "local_frame": 0,
+     "frames": 390,
+     "gain": 0.95
+    }
+   ]
+  },
+  {
+   "name": "how-to",
+   "start_frame": 1028,
+   "frames": 470,
+   "start_s": 17.133,
+   "end_s": 24.967,
+   "transition_in": "whip",
+   "transition_frames": 12,
+   "chapter": "One button: aim, hit point, power",
+   "source": "ehz1-practice",
+   "capture": "e1",
+   "first_row": 744,
+   "last_row": 1213,
+   "beat_shift_rows": 0,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+     "source_frame": 744,
+     "local_frame": 0,
+     "frames": 470,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "loops",
+   "start_frame": 1474,
+   "frames": 220,
+   "start_s": 24.567,
+   "end_s": 28.233,
+   "transition_in": "iris",
+   "transition_frames": 24,
+   "chapter": "Real Sonic 2 physics: loops, springs, badniks",
+   "source": "ehz1-practice",
+   "capture": "e1",
+   "first_row": 2694,
+   "last_row": 2913,
+   "beat_shift_rows": 6,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+     "source_frame": 2694,
+     "local_frame": 0,
+     "frames": 220,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "springs",
+   "start_frame": 1682,
+   "frames": 330,
+   "start_s": 28.033,
+   "end_s": 33.533,
+   "transition_in": "whip",
+   "transition_frames": 12,
+   "chapter": "",
+   "source": "ehz2-practice",
+   "capture": "e2",
+   "first_row": 309,
+   "last_row": 638,
+   "beat_shift_rows": -9,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz2-practice/gameplay.wav",
+     "source_frame": 309,
+     "local_frame": 0,
+     "frames": 330,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "arch",
+   "start_frame": 2000,
+   "frames": 170,
+   "start_s": 33.333,
+   "end_s": 36.167,
+   "transition_in": "whip",
+   "transition_frames": 12,
+   "chapter": "",
+   "source": "ehz1-practice",
+   "capture": "e1",
+   "first_row": 2062,
+   "last_row": 2231,
+   "beat_shift_rows": 0,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+     "source_frame": 2062,
+     "local_frame": 0,
+     "frames": 170,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "rewind",
+   "start_frame": 2140,
+   "frames": 340,
+   "start_s": 35.667,
+   "end_s": 41.333,
+   "transition_in": "bands",
+   "transition_frames": 30,
+   "chapter": "Rewind a whole shot",
+   "source": "ehz1-practice",
+   "capture": "e1",
+   "first_row": 231,
+   "last_row": 570,
+   "beat_shift_rows": 9,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+     "source_frame": 231,
+     "local_frame": 0,
+     "frames": 340,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "local",
+   "start_frame": 2468,
+   "frames": 420,
+   "start_s": 41.133,
+   "end_s": 48.133,
+   "transition_in": "whip",
+   "transition_frames": 12,
+   "chapter": "Local two-player",
+   "source": "local-match",
+   "capture": "lm",
+   "first_row": 559,
+   "last_row": 978,
+   "beat_shift_rows": -1,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/local-match/gameplay.wav",
+     "source_frame": 559,
+     "local_frame": 0,
+     "frames": 420,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "local-2",
+   "start_frame": 2888,
+   "frames": 170,
+   "start_s": 48.133,
+   "end_s": 50.967,
+   "transition_in": "cut",
+   "transition_frames": 0,
+   "chapter": "",
+   "source": "local-match",
+   "capture": "lm",
+   "first_row": 1057,
+   "last_row": 1226,
+   "beat_shift_rows": -3,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/local-match/gameplay.wav",
+     "source_frame": 1057,
+     "local_frame": 0,
+     "frames": 170,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "online",
+   "start_frame": 3034,
+   "frames": 300,
+   "start_s": 50.567,
+   "end_s": 55.567,
+   "transition_in": "iris",
+   "transition_frames": 24,
+   "chapter": "Online play over direct IP",
+   "source": "online-host + online-guest (host audio)",
+   "capture": "oh",
+   "first_row": 12,
+   "last_row": 311,
+   "beat_shift_rows": 2,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/online/online-host/gameplay.wav",
+     "source_frame": 12,
+     "local_frame": 0,
+     "frames": 300,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "online-2",
+   "start_frame": 3322,
+   "frames": 420,
+   "start_s": 55.367,
+   "end_s": 62.367,
+   "transition_in": "whip",
+   "transition_frames": 12,
+   "chapter": "",
+   "source": "online-host + online-guest (host audio)",
+   "capture": "oh",
+   "first_row": 1571,
+   "last_row": 1990,
+   "beat_shift_rows": 3,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/online/online-host/gameplay.wav",
+     "source_frame": 1571,
+     "local_frame": 0,
+     "frames": 420,
+     "gain": 1.0
+    }
+   ]
+  },
+  {
+   "name": "mod-api",
+   "start_frame": 3712,
+   "frames": 330,
+   "start_s": 61.867,
+   "end_s": 67.367,
+   "transition_in": "bands",
+   "transition_frames": 30,
+   "chapter": "Make your own with the OpenGGF Mod API",
+   "source": "local-match + PuttPuttParadiseMod.java",
+   "capture": "lm",
+   "first_row": 3463,
+   "last_row": 3792,
+   "beat_shift_rows": -7,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/local-match/gameplay.wav",
+     "source_frame": 3463,
+     "local_frame": 0,
+     "frames": 330,
+     "gain": 0.9
+    }
+   ]
+  },
+  {
+   "name": "finale",
+   "start_frame": 4018,
+   "frames": 690,
+   "start_s": 66.967,
+   "end_s": 78.467,
+   "transition_in": "iris",
+   "transition_frames": 24,
+   "chapter": "The final putt: Hole Complete",
+   "source": "ehz2-practice",
+   "capture": "e2",
+   "first_row": 7034,
+   "last_row": 7723,
+   "beat_shift_rows": 4,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz2-practice/gameplay.wav",
+     "source_frame": 7034,
+     "local_frame": 0,
+     "frames": 690,
+     "gain": 1.9
+    }
+   ]
+  },
+  {
+   "name": "end",
+   "start_frame": 4678,
+   "frames": 540,
+   "start_s": 77.967,
+   "end_s": 86.967,
+   "transition_in": "fade",
+   "transition_frames": 30,
+   "chapter": "Learn more",
+   "source": "end card; editorial Option Screen theme",
+   "capture": null,
+   "first_row": null,
+   "last_row": null,
+   "beat_shift_rows": 0,
+   "audio": [
+    {
+     "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-music-89.wav",
+     "source_frame": 0,
+     "local_frame": 24,
+     "frames": 516,
+     "gain": 2.1
+    }
+   ]
+  }
+ ],
+ "beat_alignment": [
+  {
+   "cut_into": "hook-tails",
+   "aligned": true,
+   "shift_rows": 6,
+   "beat_phase_out": 0.77,
+   "beat_phase_in": 0.84
+  },
+  {
+   "cut_into": "loops",
+   "aligned": true,
+   "shift_rows": 6,
+   "beat_phase_out": 9.22,
+   "beat_phase_in": 9.28
+  },
+  {
+   "cut_into": "springs",
+   "aligned": true,
+   "shift_rows": -9,
+   "beat_phase_out": 3.84,
+   "beat_phase_in": 3.84
+  },
+  {
+   "cut_into": "arch",
+   "aligned": false,
+   "reason": "no normal-tempo zone bed on both sides"
+  },
+  {
+   "cut_into": "rewind",
+   "aligned": true,
+   "shift_rows": 9,
+   "beat_phase_out": 12.95,
+   "beat_phase_in": 12.63
+  },
+  {
+   "cut_into": "local",
+   "aligned": true,
+   "shift_rows": -1,
+   "beat_phase_out": 20.47,
+   "beat_phase_in": 20.47
+  },
+  {
+   "cut_into": "local-2",
+   "aligned": true,
+   "shift_rows": -3,
+   "beat_phase_out": 19.59,
+   "beat_phase_in": 19.8
+  },
+  {
+   "cut_into": "online",
+   "aligned": true,
+   "shift_rows": 2,
+   "beat_phase_out": 22.22,
+   "beat_phase_in": 22.0
+  },
+  {
+   "cut_into": "online-2",
+   "aligned": true,
+   "shift_rows": 3,
+   "beat_phase_out": 18.77,
+   "beat_phase_in": 19.2
+  },
+  {
+   "cut_into": "mod-api",
+   "aligned": true,
+   "shift_rows": -7,
+   "beat_phase_out": 3.32,
+   "beat_phase_in": 3.38
+  },
+  {
+   "cut_into": "finale",
+   "aligned": true,
+   "shift_rows": 4,
+   "beat_phase_out": 21.15,
+   "beat_phase_in": 21.54
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+docs(starpost): record native architecture and seven-chapter promo
+
+Describe the retained scene-act round trip, seasonal presentation and engine
+ROM object-art intake. Record focused consumer and guard evidence, the final
+119.8-second promo chapter map, visual checks and inherited coverage gaps.
+
+Changelog: n/a: develop release prose updated in CHANGELOG.0.7.md
+Guide: n/a
+Known-Discrepancies: n/a
+S3K-Known-Discrepancies: n/a
+Agent-Docs: n/a
+Configuration-Docs: n/a
+Skills: n/a
+
+Co-Authored-By: GPT-6.1-Sol <noreply@openai.com>

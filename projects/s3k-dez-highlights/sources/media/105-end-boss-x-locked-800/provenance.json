@@ -1,0 +1,12 @@
+{
+  "validated_dez2_commit": "294aff6ecd8598b8f4e67826b9b3b8a24d650944",
+  "frames": 900,
+  "setup": "DEZ2 ($34B0,$300), 200 rings, seven Super Emeralds, Sonic solo, 800px",
+  "scope": "Positioned engine presentation, not native or cold-route parity; capture tree also contained unconnected final-arena escape work. DEZ2 camera sources match the stated commit.",
+  "camera_evidence": "cam_x=0x3380 from frame 1; frames 200..899 cam_y=0x218..0x288; first 700 rows differ from capture 104 only in cam_x",
+  "sha256": {
+    "/home/farrell/Videos/OGGF/s3k-dez-bring-up/105-end-boss-x-locked-800/capture.mp4": "4ed52c3a06f830f6d1d11ebf77d8f0cc5bff10f86f8fdf14e71b2fb49e0527f8",
+    "/home/farrell/Videos/OGGF/s3k-dez-bring-up/105-end-boss-x-locked-800/state.csv": "9617f76a2ceb8441a49c8912cce90c45ffa029a387b7ac01fec4e51b928f7c2d",
+    "/home/farrell/Videos/OGGF/s3k-dez-bring-up/inputs/dez-end-boss-solo.txt": "1a641708be560cf1dd8659223a5c23fb0e8994067a92ce76080d0029b9363e6f"
+  }
+}

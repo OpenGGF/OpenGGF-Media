@@ -1,0 +1,10 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+20:jump=card_FESTIVALS
+145:jump=festival_start_ring_hunt
+560:hold=right
+690:z
+760:z
+820:z
+1000:release=right

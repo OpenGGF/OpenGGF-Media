@@ -1,0 +1,197 @@
+{
+  "created": "2026-10-06",
+  "task": "Putt Putt Paradise promo, intro-audio revision (Opus implementation lane)",
+  "output": {
+    "file": "promo-opus-intro-audio.mp4",
+    "sha256": "a33343fb3a439cfacd8a56fecc7691807bc95f46727c01021f292e222b067e4f",
+    "duration_s": 96.133333,
+    "frames": 2884,
+    "fps": 30,
+    "canvas": [
+      1920,
+      1080
+    ],
+    "video": "H.264 yuv420p bt709 crf16",
+    "audio": "AAC-LC 256 kb/s, 48 kHz stereo",
+    "chapters": 15
+  },
+  "base_edit": {
+    "file": "../paced/promo-opus-paced.mp4",
+    "sha256": "aff138a424e9032e6f94a290b51169c61c05d02722f01ba8aed2208c50172297",
+    "duration_s": 88.467,
+    "relation": "all 14 paced segments unchanged in content and length; each shifted by +230 frames (+7.667 s) behind the new cold open"
+  },
+  "footage": {
+    "source_root": "../../showcase-20261006-tails",
+    "captures": [
+      "ehz1-sonic-rewind-final-v5",
+      "local-two-player-final-v5",
+      "ehz2-tails-final-v5"
+    ],
+    "lock": "source-lock-intro.json (12 paced range hashes byte-identical to ../paced/source-lock-paced.json plus intro/main)",
+    "intro_range": {
+      "src": "ehz1-sonic-rewind-final-v5/gameplay.mkv",
+      "native": [
+        1200,
+        1684
+      ],
+      "note": "contiguous; native 1660-1684 are the same frames the hook shot opens with, so the 12-frame build dissolve changes only the surround. Shot launch at native 1323."
+    },
+    "recorded_audio": "none: captures were recorded silent"
+  },
+  "soundtrack": {
+    "nature": "EDITORIAL. Sonic 2 music and sound effects placed in editing; not synchronised gameplay audio and not mixed through the game's channel priority.",
+    "renderer": "tools/S2PromoAudioRender.java, compiled outside the repo against OpenGGF target/classes (b2faa748f + working follow-up, feature/ai-putt-putt-paradise). Sonic2SmpsLoader + Sonic2SmpsSequencerConfig, OwnedSmpsAudioStream, LegacyCompatibilitySmpsPhysicalPolicy, accurate FM core, NTSC, 48 kHz; one isolated driver session per stem. Same pattern as com.openggf.tools.audio.PsgSfxRenderTool.",
+    "rom": {
+      "title": "Sonic The Hedgehog 2 (W) (REV01) [!]",
+      "sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+      "note": "user-supplied; read in place, not copied"
+    },
+    "stems_reproducible": "tools/render_stems.sh re-rendered all six stems byte-identically",
+    "placements": [
+      {
+        "stem": "title",
+        "id": "music 0x96 Title Screen",
+        "file": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-music-96.wav",
+        "why": "cold-open fanfare; its closing hit (stem 6.75 s) is replaced by the EHZ downbeat at the hook",
+        "out_start_s": 0.9167,
+        "out_end_s": 7.6667,
+        "stem_range_s": [
+          0.0,
+          6.75
+        ],
+        "gain": 1.0,
+        "fade_in_s": 1.0,
+        "fade_out_s": 0.05,
+        "stem_sha256": "ce2c2f906a192cd9ded5dbab2c67b9e46e155a179ee14b84dc8349c2354cc2dd"
+      },
+      {
+        "stem": "ehz",
+        "id": "music 0x81 Emerald Hill Zone",
+        "file": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-music-81.wav",
+        "why": "main bed from the hook to the finale's hole-complete",
+        "out_start_s": 7.6667,
+        "out_end_s": 75.9,
+        "stem_range_s": [
+          0.0,
+          68.2333
+        ],
+        "gain": 1.0,
+        "fade_in_s": 0.0,
+        "fade_out_s": 0.4,
+        "stem_sha256": "34c7c0894f60c8a04d64a478fdc20713aef36951d7af8119a2863ad736daee75"
+      },
+      {
+        "stem": "actclear",
+        "id": "music 0x97 Stage Clear",
+        "file": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-music-97.wav",
+        "why": "Stage Clear jingle on hole-complete (state.csv native 4444 = finale local frame 154)",
+        "out_start_s": 75.9,
+        "out_end_s": 82.1833,
+        "stem_range_s": [
+          0.0,
+          6.2833
+        ],
+        "gain": 1.0,
+        "fade_in_s": 0.0,
+        "fade_out_s": 0.0,
+        "stem_sha256": "8d97229e1836369f7223ff653276cee2c33a8d43f5cbadd46f093f2fde7a29c9"
+      },
+      {
+        "stem": "options",
+        "id": "music 0x89 Option Screen",
+        "file": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-music-89.wav",
+        "why": "calm bed under the engine and end cards after the jingle",
+        "out_start_s": 82.0667,
+        "out_end_s": 95.8333,
+        "stem_range_s": [
+          0.0,
+          13.7667
+        ],
+        "gain": 0.9,
+        "fade_in_s": 1.5,
+        "fade_out_s": 4.0,
+        "stem_sha256": "7083d91868985ca4d7da052d7e44c958582e5950568f9dfa5f1a563413a7f0e0"
+      },
+      {
+        "stem": "spindash",
+        "id": "sfx 0xBC Spindash Release",
+        "file": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-sfx-bc.wav",
+        "why": "title-drop stripe wipe",
+        "out_start_s": 16.2,
+        "out_end_s": 17.9,
+        "stem_range_s": [
+          0.0,
+          1.7
+        ],
+        "gain": 0.85,
+        "fade_in_s": 0.0,
+        "fade_out_s": 0.0,
+        "stem_sha256": "b6ac44ac15e4e785df4f3a02edef6ed11fe1a23999236c291e34feb2be8bb4b2"
+      },
+      {
+        "stem": "ring",
+        "id": "sfx 0xB5 Ring",
+        "file": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-sfx-b5.wav",
+        "why": "end-card ball drops into the cup (roll_frames)",
+        "out_start_s": 91.3667,
+        "out_end_s": 92.25,
+        "stem_range_s": [
+          0.0,
+          0.8833
+        ],
+        "gain": 0.85,
+        "fade_in_s": 0.0,
+        "fade_out_s": 0.0,
+        "stem_sha256": "0cf1794b97023bb56944fed4fd3301e2c2e64a79dc63fc4a5caed63b7e3dd69b"
+      }
+    ],
+    "mix": {
+      "premix": {
+        "integrated_lufs": -27.9,
+        "lra_lu": 2.4,
+        "true_peak_dbfs": -13.8
+      },
+      "loudnorm_pass1": {
+        "input_i": "-27.99",
+        "input_tp": "-13.77",
+        "input_lra": "2.50",
+        "input_thresh": "-38.10",
+        "output_i": "-16.22",
+        "output_tp": "-1.50",
+        "output_lra": "2.30",
+        "output_thresh": "-26.29",
+        "normalization_type": "dynamic",
+        "target_offset": "0.22"
+      },
+      "loudnorm_pass2_type": "linear",
+      "final_wav": {
+        "integrated_lufs": -15.9,
+        "lra_lu": 2.4,
+        "true_peak_dbfs": -1.8
+      }
+    },
+    "verify": {
+      "audio_streams": 1,
+      "codec": "aac",
+      "sample_rate": 48000,
+      "channels": 2,
+      "audio_end_s": 96.1333,
+      "video_end_s": 96.1333,
+      "integrated_lufs": -16.0,
+      "lra_lu": 2.4,
+      "true_peak_dbfs": -1.8,
+      "sample_peak_dbfs": -2.168461,
+      "clipped_samples": null,
+      "head_0_0.2s_peak_dbfs": -200.0,
+      "tail_last_0.2s_peak_dbfs": -200.0,
+      "ok": true
+    }
+  },
+  "not_used": [
+    "downloaded or stock music",
+    "Slay the Robotnik's S3K audio or scene APIs",
+    "disassembly data",
+    "ROM copies or links"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "revision": "b6c1147a2 plus uncommitted campaign edits",
+  "game": "s3k",
+  "zone": "ddz",
+  "act": 1,
+  "width": 800,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "emeralds": "1111111",
+  "setup": "Fresh level select; no inherited clock, camera fraction, position, rings or health seed. Controller-only authored input.",
+  "frames": 9923,
+  "capture_from": 8250,
+  "last_frame": 9922,
+  "final_rings": 20,
+  "verification": "9923 state rows, zero death/follower rows; 1673 images; full ffmpeg decode passed. Viewed 8400/9000/9681. Intermittent BG vertical seam under investigation; not presentation certification.",
+  "input_sha256": "bc89c58e0bf9c52ebc588df21fbe76a285fc292ce83a42905f4a394cfe52e7b4",
+  "shader_sha256": "124f4ee564e4f2b097064e03043ddc74622b0263b0ed4fde946399ea3826c893"
+}

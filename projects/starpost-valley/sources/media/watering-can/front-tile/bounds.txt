@@ -1,0 +1,17 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=people_hold_moto_110_4
+4:jump=orchard_clear
+5:jump=music_off
+25:jump=farm_184_22
+26:clear=1,0
+30:hold=left
+34:release=left
+45:x
+85:jump=farm_552_22
+86:clear=1,23
+105:x
+145:jump=farm_168_22
+146:clear=1,0
+170:x

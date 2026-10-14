@@ -1,0 +1,1 @@
+Invalid input setup: offset 468982 belongs to a different movie. This movie was already exhausted, so this is neutral-input scenery, not a cold-route attempt. Corrected same-movie offset is 415362, from ssz_completerun metadata. See campaign-20260924-cold-route-correct-movie-320 for the actual controller probe.

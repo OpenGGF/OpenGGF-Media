@@ -1,0 +1,19 @@
+{
+  "validated_commit": "80d67c7fb",
+  "game": "s3k",
+  "zone": "lrz",
+  "act": 1,
+  "width": 800,
+  "frames": 600,
+  "start": {
+    "x": "0x2C00",
+    "y": "0x600",
+    "rings": 355,
+    "main": "sonic",
+    "sidekick": "none"
+  },
+  "input": "/home/farrell/Videos/OGGF/lrz-bring-up/inputs/lrz1-miniboss-arrival-v1.txt",
+  "input_sha256": "4666f587f8f496fc44a58468b77cb5921859b0ee11d8a7b1ec52684cf9e63260",
+  "video_sha256": "80d47b16110259dfc5b07e383aea784456539e414759cde170b34d55bc0dc053",
+  "scope": "Positioned arrival and arm art; not cold completion or native parity. Wide run takes hits; native-width run does not."
+}

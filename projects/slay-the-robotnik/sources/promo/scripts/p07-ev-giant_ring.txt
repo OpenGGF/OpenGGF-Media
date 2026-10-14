@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:giant_ring@2:5:0
+# ticks: 560
+90:enter
++330:enter

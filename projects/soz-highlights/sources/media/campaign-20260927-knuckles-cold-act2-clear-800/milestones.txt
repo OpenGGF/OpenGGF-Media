@@ -1,0 +1,14 @@
+hit 1: 30988
+hit 2: 31323
+hit 3: 31675
+hit 4: 32379
+hit 5: 32731
+hit 6: 33435
+hit 7: 33771
+hit 8: 34123
+results: 34261
+capsule: 34720
+results finished: 35304
+LRZ load frame: 35439
+Controller frames: 35440
+Cold knuckles; followers=; width=800; donor=off; intro enabled.

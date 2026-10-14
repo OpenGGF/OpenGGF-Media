@@ -1,0 +1,4 @@
+# jump: tails:7:event:event:giant_ring
+# ticks: 640
+90:enter
++300:enter

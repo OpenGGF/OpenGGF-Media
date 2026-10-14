@@ -1,0 +1,27 @@
+{
+  "source_head": "bf7e5175c",
+  "source_sha256": {
+    "S3kDezGravityRoomObjectInstance": "49a36e1e8c04a6b69c7e334cbac56ce7fabf1e9de8779acdbf0af0f34a08bcac",
+    "S3kDezGravityPuzzleObjectInstance": "60bd0597ef4f5a389589f09e5b12b51bf42972c656287f7e73af0b4f7bc6a715",
+    "S3kDezBumperWallObjectInstance": "d547f318e92957046c8e268427ac74a5a65ac00f9fd68ba90ad6f9dbb49140ef"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "start": [
+      9472,
+      2112
+    ],
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "neutral"
+  },
+  "stepped_frames": 600,
+  "deaths": 0,
+  "scope": "Positioned turbine-room gameplay; not cold act or native parity. Controller paths use only pad input after initial declared position.",
+  "verification": "Full ffmpeg decode passed; selected phase frames inspected.",
+  "validated_commit": "674a99f72"
+}

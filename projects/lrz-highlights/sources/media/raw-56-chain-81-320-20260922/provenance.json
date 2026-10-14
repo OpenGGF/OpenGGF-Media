@@ -1,0 +1,23 @@
+{
+  "base_commit": "87f0bf87b",
+  "source_state": "plus uncommitted chained-platform implementation, 2026-09-22",
+  "game": "s3k",
+  "zone": 9,
+  "act": 2,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "entry": "positioned",
+  "setup": {
+    "x": "0x19C0",
+    "y": "0x550",
+    "rings": 99
+  },
+  "input": "480 neutral frames",
+  "frames": 480,
+  "fps": 60,
+  "stride": 1,
+  "audio": false,
+  "limits": "Superseded showcase: nearby flame thrower interrupts the ride; retained as diagnostic."
+}

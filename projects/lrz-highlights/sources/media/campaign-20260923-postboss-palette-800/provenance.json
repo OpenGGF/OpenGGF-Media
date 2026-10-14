@@ -1,0 +1,28 @@
+{
+  "revision": "b6c1147a2 plus campaign changes, 2026-09-23",
+  "game": "s3k",
+  "zone": "lrz",
+  "act": 1,
+  "width": 800,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "setup": "Positioned ($2B70,$750), 355 rings and seven Chaos Emeralds at boot. Walk through placed priority switch; real miniboss/results/act change, no later gameplay writes.",
+  "frames": 4200,
+  "capture_from": 3000,
+  "viewed_stills": [
+    3280,
+    3320,
+    3500
+  ],
+  "deaths": 0,
+  "hurt_rows": 0,
+  "full_ffmpeg_decode": "passed",
+  "input_sha256": "8046cb498a745416424b2ccff3bb109f4c180a528c82ce544288b788555e5038",
+  "compiled_class_sha256": {
+    "com/openggf/game/sonic3k/objects/LrzPostDefeatCameraReleaseInstance.class": "b5de4317139f716063714412b9adbf8e0db6b71702f151385b54df315a5df29e",
+    "com/openggf/game/sonic3k/Sonic3kPaletteCycler$Lrz2Cycle.class": "8bfc36491674979c8b1b9dc7879f257f2674b1a2d23ec538f17d92c0de56eee3",
+    "com/openggf/game/sonic3k/runtime/LrzZoneRuntimeState.class": "3a93e28e7891d469b3a232c6c53c10b2785a8a3aa5bb6d5da67996ead0477769"
+  },
+  "verification": "15 palette/camera cases and 558 LRZ/mandatory S3K consumer cases pass without skips. Native-width route whole-registry middle-of-ramp restore/45-input replay passes. Thirteen native-width palette writes at3276+[0,4,8,12,16,32,36,40,44,48,52,56,60]. Widths first differ during results at3125. Not cold traversal or full native pixel parity. Wide camera exposes scenery left of the Act2 start; that presentation gap remains open."
+}

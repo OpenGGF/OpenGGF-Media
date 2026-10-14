@@ -1,0 +1,4 @@
+Sonic3kSpringObjectInstance 9136,2110 spawn=ObjectSpawn[x=9136, y=2110, objectId=7, subtype=2, renderFlags=0, respawnTracked=true, rawYWord=34878, layoutIndex=306, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 9392,830 spawn=ObjectSpawn[x=9392, y=830, objectId=7, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=830, layoutIndex=313, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 9341,880 spawn=ObjectSpawn[x=9341, y=880, objectId=7, subtype=18, renderFlags=1, respawnTracked=false, rawYWord=9072, layoutIndex=310, ownerModId=null, objectKey=null]
+LrzWallRideObjectInstance 8832,976 spawn=ObjectSpawn[x=8832, y=976, objectId=22, subtype=0, renderFlags=1, respawnTracked=false, rawYWord=9168, layoutIndex=299, ownerModId=null, objectKey=null]

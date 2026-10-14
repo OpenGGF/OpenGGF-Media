@@ -1,0 +1,67 @@
+[
+  {
+    "source": "ghz",
+    "rate": 48000,
+    "channels": 2,
+    "pcm_frames": 8527200,
+    "pcm_bytes": 34108800,
+    "width": 2000,
+    "height": 1120,
+    "avg_frame_rate": "60/1",
+    "duration": "177.650000",
+    "nb_frames": "10659",
+    "pcm_frames_per_video_frame": 800.0
+  },
+  {
+    "source": "ehz",
+    "rate": 48000,
+    "channels": 2,
+    "pcm_frames": 10137600,
+    "pcm_bytes": 40550400,
+    "width": 2000,
+    "height": 1120,
+    "avg_frame_rate": "60/1",
+    "duration": "211.200000",
+    "nb_frames": "12672",
+    "pcm_frames_per_video_frame": 800.0
+  },
+  {
+    "source": "fz",
+    "rate": 48000,
+    "channels": 2,
+    "pcm_frames": 3483200,
+    "pcm_bytes": 13932800,
+    "width": 2000,
+    "height": 1120,
+    "avg_frame_rate": "60/1",
+    "duration": "72.566667",
+    "nb_frames": "4354",
+    "pcm_frames_per_video_frame": 800.0
+  },
+  {
+    "source": "dez",
+    "rate": 48000,
+    "channels": 2,
+    "pcm_frames": 5414400,
+    "pcm_bytes": 21657600,
+    "width": 2000,
+    "height": 1120,
+    "avg_frame_rate": "60/1",
+    "duration": "112.800000",
+    "nb_frames": "6768",
+    "pcm_frames_per_video_frame": 800.0
+  },
+  {
+    "source": "hub",
+    "rate": 48000,
+    "channels": 2,
+    "pcm_frames": 2160800,
+    "pcm_bytes": 8643200,
+    "width": 2000,
+    "height": 1120,
+    "avg_frame_rate": "60/1",
+    "duration": "45.016667",
+    "nb_frames": "2701",
+    "pcm_frames_per_video_frame": 800.0
+  }
+]

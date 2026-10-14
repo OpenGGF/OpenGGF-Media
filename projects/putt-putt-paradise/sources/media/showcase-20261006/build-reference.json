@@ -1,0 +1,9 @@
+{
+  "final_commit": "b2faa748f84b83f1d9d8b76dda0e6047c1e64ea4",
+  "integration_base": "dee7a93c99f3984fc2d8cd3b425ca4315cc9c19b",
+  "engine_java_sha256": "35841b00adf1e9b1ad0e3406bf9a3110fcbb30e5df8039cce0986a444816ff49",
+  "mod_sha256": "64790eb5dbd93fbf1638b71a959033673dbf84b67ff9d4fe574fd51f3db3ad3f",
+  "captured_before_commit": true,
+  "capture_entry": "explicit SDK-validated ModContext wrapper",
+  "reel": "putt-putt-paradise-highlights.mp4"
+}

@@ -1,0 +1,3 @@
+frames=5611
+max_x=2340
+reason=600-frame-position-stall

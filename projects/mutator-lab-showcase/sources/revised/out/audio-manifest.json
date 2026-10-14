@@ -1,0 +1,969 @@
+{
+  "status": "Editorial mix from native music+SFX captures, not isolated stems or raw audio evidence",
+  "samples": 5592000,
+  "rate": 48000,
+  "channels": 2,
+  "static_gain_db": 6.84,
+  "measured_prenorm": {
+    "input_i": "-24.50",
+    "input_tp": "-9.34",
+    "input_lra": "10.00",
+    "input_thresh": "-35.12",
+    "output_i": "-16.00",
+    "output_tp": "-2.50",
+    "output_lra": "9.30",
+    "output_thresh": "-26.37",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.00"
+  },
+  "pcm_clipped_samples": 0,
+  "pieces": [
+    {
+      "segment": "open-ringstorm",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+      "source_samples": [
+        566400,
+        684800
+      ],
+      "output_samples": [
+        0,
+        118400
+      ],
+      "nominal_output_frames": [
+        0,
+        142
+      ],
+      "trim_db": -3.0,
+      "handoff_s": 0,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        0,
+        1600
+      ],
+      "fade_out_output_samples": [
+        108800,
+        118400
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "title",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-allon",
+      "source_samples": [
+        427200,
+        556800
+      ],
+      "output_samples": [
+        108800,
+        238400
+      ],
+      "nominal_output_frames": [
+        142,
+        292
+      ],
+      "trim_db": -3.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        108800,
+        118400
+      ],
+      "fade_out_output_samples": [
+        228800,
+        238400
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "hero-config",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+      "source_samples": [
+        62400,
+        171200
+      ],
+      "output_samples": [
+        228800,
+        337600
+      ],
+      "nominal_output_frames": [
+        292,
+        416
+      ],
+      "trim_db": -3.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        228800,
+        238400
+      ],
+      "fade_out_output_samples": [
+        328000,
+        337600
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          118
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "hero-run",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+      "source_samples": [
+        371200,
+        804800
+      ],
+      "output_samples": [
+        328000,
+        761600
+      ],
+      "nominal_output_frames": [
+        416,
+        946
+      ],
+      "trim_db": -3.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        328000,
+        337600
+      ],
+      "fade_out_output_samples": [
+        752000,
+        761600
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "hero-compare",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+      "source_samples": [
+        556800,
+        664000
+      ],
+      "output_samples": [
+        752000,
+        859200
+      ],
+      "nominal_output_frames": [
+        946,
+        1068
+      ],
+      "trim_db": -3.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        752000,
+        761600
+      ],
+      "fade_out_output_samples": [
+        849600,
+        859200
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "chain-config",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-syz-chain",
+      "source_samples": [
+        62400,
+        204800
+      ],
+      "output_samples": [
+        849600,
+        992000
+      ],
+      "nominal_output_frames": [
+        1068,
+        1234
+      ],
+      "trim_db": 2.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        849600,
+        859200
+      ],
+      "fade_out_output_samples": [
+        982400,
+        992000
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          156
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "chain-run",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-syz-chain",
+      "source_samples": [
+        227200,
+        828800
+      ],
+      "output_samples": [
+        982400,
+        1584000
+      ],
+      "nominal_output_frames": [
+        1234,
+        1974
+      ],
+      "trim_db": 2.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        982400,
+        992000
+      ],
+      "fade_out_output_samples": [
+        1574400,
+        1584000
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "grav-normal",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-s2-live",
+      "source_samples": [
+        35200,
+        132800
+      ],
+      "output_samples": [
+        1574400,
+        1672000
+      ],
+      "nominal_output_frames": [
+        1974,
+        2084
+      ],
+      "trim_db": 1.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        1574400,
+        1584000
+      ],
+      "fade_out_output_samples": [
+        1662400,
+        1672000
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "grav-on",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-s2-live",
+      "source_samples": [
+        144000,
+        436800
+      ],
+      "output_samples": [
+        1662400,
+        1955200
+      ],
+      "nominal_output_frames": [
+        2084,
+        2438
+      ],
+      "trim_db": 1.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        1662400,
+        1672000
+      ],
+      "fade_out_output_samples": [
+        1945600,
+        1955200
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          156
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "grav-off",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-s2-live",
+      "source_samples": [
+        480000,
+        657600
+      ],
+      "output_samples": [
+        1945600,
+        2123200
+      ],
+      "nominal_output_frames": [
+        2438,
+        2652
+      ],
+      "trim_db": 1.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        1945600,
+        1955200
+      ],
+      "fade_out_output_samples": [
+        2116800,
+        2123200
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          80
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "speed-normal",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-speed-live",
+      "source_samples": [
+        83200,
+        196800
+      ],
+      "output_samples": [
+        2116800,
+        2230400
+      ],
+      "nominal_output_frames": [
+        2652,
+        2782
+      ],
+      "trim_db": -2.0,
+      "handoff_s": 0.13333333333333333,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        2116800,
+        2123200
+      ],
+      "fade_out_output_samples": [
+        2220800,
+        2230400
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "speed-on",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-speed-live",
+      "source_samples": [
+        276800,
+        617600
+      ],
+      "output_samples": [
+        2220800,
+        2561600
+      ],
+      "nominal_output_frames": [
+        2782,
+        3190
+      ],
+      "trim_db": -2.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        2220800,
+        2230400
+      ],
+      "fade_out_output_samples": [
+        2552000,
+        2561600
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          258
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "speed-compare",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-speed100",
+      "source_samples": [
+        16000,
+        244800
+      ],
+      "output_samples": [
+        2552000,
+        2780800
+      ],
+      "nominal_output_frames": [
+        3190,
+        3470
+      ],
+      "trim_db": 4.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        2552000,
+        2561600
+      ],
+      "fade_out_output_samples": [
+        2771200,
+        2780800
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "stealth-before",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-stealth",
+      "source_samples": [
+        19200,
+        84800
+      ],
+      "output_samples": [
+        2771200,
+        2836800
+      ],
+      "nominal_output_frames": [
+        3470,
+        3540
+      ],
+      "trim_db": -0.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        2771200,
+        2780800
+      ],
+      "fade_out_output_samples": [
+        2827200,
+        2836800
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "stealth-on",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-stealth",
+      "source_samples": [
+        112000,
+        484800
+      ],
+      "output_samples": [
+        2827200,
+        3200000
+      ],
+      "nominal_output_frames": [
+        3540,
+        3994
+      ],
+      "trim_db": -0.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        2827200,
+        2836800
+      ],
+      "fade_out_output_samples": [
+        3190400,
+        3200000
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          117
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "stealth-off",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-stealth",
+      "source_samples": [
+        588800,
+        752800
+      ],
+      "output_samples": [
+        3190400,
+        3354400
+      ],
+      "nominal_output_frames": [
+        3994,
+        4187
+      ],
+      "trim_db": -0.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        3190400,
+        3200000
+      ],
+      "fade_out_output_samples": [
+        3344800,
+        3354400
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          114
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "np-before",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-np",
+      "source_samples": [
+        127200,
+        356800
+      ],
+      "output_samples": [
+        3344800,
+        3574400
+      ],
+      "nominal_output_frames": [
+        4187,
+        4462
+      ],
+      "trim_db": -1.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        3344800,
+        3354400
+      ],
+      "fade_out_output_samples": [
+        3564800,
+        3574400
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "np-config",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-np",
+      "source_samples": [
+        616000,
+        686400
+      ],
+      "output_samples": [
+        3564800,
+        3635200
+      ],
+      "nominal_output_frames": [
+        4462,
+        4538
+      ],
+      "trim_db": -1.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        3564800,
+        3574400
+      ],
+      "fade_out_output_samples": [
+        3625600,
+        3635200
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          76
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "np-compare",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-np",
+      "source_samples": [
+        972800,
+        1214400
+      ],
+      "output_samples": [
+        3625600,
+        3867200
+      ],
+      "nominal_output_frames": [
+        4538,
+        4828
+      ],
+      "trim_db": -1.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        3625600,
+        3635200
+      ],
+      "fade_out_output_samples": [
+        3857600,
+        3867200
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "norings-before",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-norings",
+      "source_samples": [
+        195200,
+        300800
+      ],
+      "output_samples": [
+        3857600,
+        3963200
+      ],
+      "nominal_output_frames": [
+        4828,
+        4948
+      ],
+      "trim_db": -1.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        3857600,
+        3867200
+      ],
+      "fade_out_output_samples": [
+        3953600,
+        3963200
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "norings-config",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-norings",
+      "source_samples": [
+        323200,
+        452800
+      ],
+      "output_samples": [
+        3953600,
+        4083200
+      ],
+      "nominal_output_frames": [
+        4948,
+        5098
+      ],
+      "trim_db": -1.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": 1600,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        3953600,
+        3963200
+      ],
+      "fade_out_output_samples": [
+        4073600,
+        4083200
+      ],
+      "configuration_local_frames": [
+        [
+          0,
+          150
+        ]
+      ],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "norings-after",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-norings",
+      "source_samples": [
+        915200,
+        1156800
+      ],
+      "output_samples": [
+        4073600,
+        4315200
+      ],
+      "nominal_output_frames": [
+        5098,
+        5388
+      ],
+      "trim_db": -1.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        4073600,
+        4083200
+      ],
+      "fade_out_output_samples": [
+        4305600,
+        4315200
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "nc-hit",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-nc",
+      "source_samples": [
+        438400,
+        564800
+      ],
+      "output_samples": [
+        4305600,
+        4432000
+      ],
+      "nominal_output_frames": [
+        5388,
+        5534
+      ],
+      "trim_db": 2.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        4305600,
+        4315200
+      ],
+      "fade_out_output_samples": [
+        4422400,
+        4432000
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "nc-result",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-nc",
+      "source_samples": [
+        644800,
+        726400
+      ],
+      "output_samples": [
+        4422400,
+        4504000
+      ],
+      "nominal_output_frames": [
+        5534,
+        5624
+      ],
+      "trim_db": 2.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        4422400,
+        4432000
+      ],
+      "fade_out_output_samples": [
+        4494400,
+        4504000
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "ss-touch",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-ss-stock",
+      "source_samples": [
+        187200,
+        308800
+      ],
+      "output_samples": [
+        4494400,
+        4616000
+      ],
+      "nominal_output_frames": [
+        5624,
+        5764
+      ],
+      "trim_db": 0.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        4494400,
+        4504000
+      ],
+      "fade_out_output_samples": [
+        4606400,
+        4616000
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "ss-outcome",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-ss-stock",
+      "source_samples": [
+        1104000,
+        1233600
+      ],
+      "output_samples": [
+        4606400,
+        4736000
+      ],
+      "nominal_output_frames": [
+        5764,
+        5914
+      ],
+      "trim_db": 0.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        4606400,
+        4616000
+      ],
+      "fade_out_output_samples": [
+        4726400,
+        4736000
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "bon-compare",
+      "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-bonus-stock",
+      "source_samples": [
+        84800,
+        360000
+      ],
+      "output_samples": [
+        4726400,
+        5001600
+      ],
+      "nominal_output_frames": [
+        5914,
+        6246
+      ],
+      "trim_db": 2.5,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        4726400,
+        4736000
+      ],
+      "fade_out_output_samples": [
+        4992000,
+        5001600
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "finale-run",
+      "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-allon",
+      "source_samples": [
+        371200,
+        827200
+      ],
+      "output_samples": [
+        4992000,
+        5448000
+      ],
+      "nominal_output_frames": [
+        6246,
+        6810
+      ],
+      "trim_db": -3.0,
+      "handoff_s": 0.2,
+      "configuration_duck_db": -7,
+      "lowpass_hz": null,
+      "synchronous": true,
+      "audio_owner": "selected panel only; brief equal-power handoffs",
+      "fade_in_output_samples": [
+        4992000,
+        5001600
+      ],
+      "fade_out_output_samples": [
+        5400000,
+        5448000
+      ],
+      "configuration_local_frames": [],
+      "configuration_ramp_frames": 6
+    },
+    {
+      "segment": "outro",
+      "silent": true
+    }
+  ],
+  "speed_proof": "speed-on source616\u2013760 plays its actual native double-speed PCM, aligned to picture",
+  "limits": "Equal-power joins alter only clip boundaries; configuration audio is ducked/low-passed. No devices observed."
+}

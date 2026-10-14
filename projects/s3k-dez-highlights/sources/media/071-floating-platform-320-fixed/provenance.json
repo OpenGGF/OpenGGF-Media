@@ -1,0 +1,26 @@
+{
+  "source_head": "8a58aafbc",
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 2,
+    "x": 5440,
+    "y": 1936,
+    "rings": 7,
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "neutral"
+  },
+  "stepped_frames": 420,
+  "hurt_frames": 0,
+  "death_frames": 0,
+  "scope": "Accepted positioned landing and horizontal ride; not cold route or native comparison.",
+  "source_sha256": {
+    "S3kDezFloatingPlatformObjectInstance.java": "7820175fb2ec8c6797cda1ed4520d23c2a4c71d4080220c2e918cfa0a5e1e4f6",
+    "LrzSolidMovingPlatformObjectInstance.java": "12fbbbb2d6b9b48c3e828720e849c230292d024958d1b8178252bb12de4c2039"
+  },
+  "verification": "Full ffmpeg decode passed; CSV and frame 120 inspected.",
+  "validated_commit": "6b7055cea"
+}

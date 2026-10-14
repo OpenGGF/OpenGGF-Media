@@ -1,0 +1,48 @@
+{
+  "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+  "mod_jar_sha256": "55c6e3fc6f04ed58f53cb7abd6113c502b6d874a44fce6b44f8b90391607296a",
+  "mod_source_sha256": "79df24f6b7a0db713cf2acb2b7cbec19f93bc25152efebb2f9349e84dc201893",
+  "engine_java_sha256": "e54abff60866814fd2f92db14df859ce38e5e1373d0ac8dc1d87f1351c3367a7",
+  "golf_main_java_sha256": "73d3ddc77f914eadcd6a80fd04be809381b98c12c4efb1fc79140fed5d228407",
+  "engine_classes_snapshot_sha256": "40a2506ddbbf2846f2f67ffea7db0973d5ce267911032b594dd97cbf6760ab70",
+  "jar_source_check": {
+    "classes_compared": 123,
+    "jar_classes": 123,
+    "mismatched": [],
+    "manifest_identical": true,
+    "jar_sha256": "55c6e3fc6f04ed58f53cb7abd6113c502b6d874a44fce6b44f8b90391607296a",
+    "ok": true
+  },
+  "title_path": "production GameLoop TITLE_SCREEN -> fade -> TITLE_CARD -> LEVEL (capture.title=loop)",
+  "baseline": "09d5ed2a22db4b759cfd955233ab35df2837b147",
+  "integration_base": "f4b40f5026988c5152eb2ae1fadaaf7c648f5618",
+  "build_snapshot": {
+    "head": "09d5ed2a22db4b759cfd955233ab35df2837b147",
+    "integration_base": "f4b40f5026988c5152eb2ae1fadaaf7c648f5618",
+    "engine_java_sha256": "e54abff60866814fd2f92db14df859ce38e5e1373d0ac8dc1d87f1351c3367a7",
+    "golf_main_java_sha256": "73d3ddc77f914eadcd6a80fd04be809381b98c12c4efb1fc79140fed5d228407",
+    "engine_classes_tree_sha256": "40a2506ddbbf2846f2f67ffea7db0973d5ce267911032b594dd97cbf6760ab70",
+    "stale_classes_at_snapshot": 0,
+    "jar_sha256": "55c6e3fc6f04ed58f53cb7abd6113c502b6d874a44fce6b44f8b90391607296a",
+    "engine_classpath_sha256": "113a9989677a98e38c62d1476917a206bc9a138420565ed2345b3516d524ce4e",
+    "build": "examples/putt-putt-paradise/build.py via tools/testing/maven_queue.py (BUILD SUCCESS, queue wait 0 s)"
+  },
+  "working_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "untracked": [
+    "launch-putt-putt-paradise.sh"
+  ],
+  "native_hz": 60,
+  "png_fps": 60,
+  "dimensions": [
+    320,
+    224
+  ],
+  "viewport": "NATIVE_4_3",
+  "audio": "real HeadlessSmpsAudioBackend; one Engine.presentOuterAudioFrame + one LiveCaptureAudioHandle drain per row",
+  "audio_format": "48 kHz 16-bit stereo PCM, 800 frames per 60 Hz row",
+  "rewind_vhs_effect": true,
+  "rewind_vhs_tear_bands": true,
+  "entry": "explicit SDK-validated ModContext capture wrapper (source/GolfPromoCapture.java)",
+  "scenario": "online-guest",
+  "transport": "real direct TCP room on 127.0.0.1:20502 between two JVMs"
+}

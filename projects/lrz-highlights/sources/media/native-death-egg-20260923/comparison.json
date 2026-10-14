@@ -1,0 +1,43 @@
+{
+  "rows": 3301,
+  "position_equation_failures": [],
+  "first_nonzero": {
+    "frame": "427916",
+    "zone": "2305",
+    "camx": "13058",
+    "camy": "765",
+    "scroll2": "3672",
+    "bgy": "71",
+    "owner": "46980",
+    "code": "356694",
+    "flags": "0",
+    "priority": "896",
+    "art": "25503",
+    "x": "63520",
+    "y": "121",
+    "queued": "0"
+  },
+  "following_frame": {
+    "frame": "427917",
+    "zone": "2305",
+    "camx": "13063",
+    "camy": "763",
+    "scroll2": "3673",
+    "bgy": "71",
+    "owner": "46980",
+    "code": "356694",
+    "flags": "128",
+    "priority": "896",
+    "art": "25503",
+    "x": "63519",
+    "y": "121",
+    "queued": "65280"
+  },
+  "native_priority_words": [
+    896
+  ],
+  "native_art_words": [
+    25503
+  ],
+  "scope": "Read-only native state corroboration; no engine or whole-scene parity claim."
+}

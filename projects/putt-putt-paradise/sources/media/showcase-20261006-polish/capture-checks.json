@@ -1,0 +1,35 @@
+[
+  {
+    "capture": "ehz1-sonic-rewind-final-v4",
+    "native_rows": 4563,
+    "video_frames": 2282,
+    "final_status": "COMPLETE",
+    "final_owner": "0",
+    "final_turn": "11",
+    "final_score": "[Golfer[character=SONIC; holes=[HoleScore[strokes=10; penalties=0; finished=true; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]]",
+    "dead_rows": 0,
+    "full_lossless_decode": "passed"
+  },
+  {
+    "capture": "ehz2-tails-final-v4",
+    "native_rows": 7485,
+    "video_frames": 3743,
+    "final_status": "COMPLETE",
+    "final_owner": "0",
+    "final_turn": "26",
+    "final_score": "[Golfer[character=TAILS; holes=[HoleScore[strokes=0; penalties=0; finished=false; dnf=false]; HoleScore[strokes=25; penalties=0; finished=true; dnf=false]]; dnf=false]]",
+    "dead_rows": 0,
+    "full_lossless_decode": "passed"
+  },
+  {
+    "capture": "local-two-player-final-v4",
+    "native_rows": 1437,
+    "video_frames": 719,
+    "final_status": "PLAYING",
+    "final_owner": "0",
+    "final_turn": "3",
+    "final_score": "[Golfer[character=SONIC; holes=[HoleScore[strokes=1; penalties=0; finished=false; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]; Golfer[character=TAILS; holes=[HoleScore[strokes=1; penalties=0; finished=false; dnf=false]; HoleScore[strokes=0; penalties=0; finished=false; dnf=false]]; dnf=false]]",
+    "dead_rows": 0,
+    "full_lossless_decode": "passed"
+  }
+]

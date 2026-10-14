@@ -1,0 +1,10 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=give_fishing_rod_1
+4:jump=select_2
+40:jump=fish_lake
+180:place=180
+300:hold=x
+350:release=x
+390:auto=fish

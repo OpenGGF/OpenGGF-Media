@@ -1,0 +1,13 @@
+kind,chapter,title,sub,tags,theme,source,caption,source_start_seconds,source_end_seconds
+intro,DEATH EGG ZONE,THE DEATH EGG BRING-UP,Sonic 3 & Knuckles · zone 11 · from the first background fix through reverse gravity and the traversal route,OPENGGF|SONIC 3 & KNUCKLES,finale,,,,
+clip,1 · THE MACHINE WAKES,THE MACHINE WAKES,Scroll palette and animated tiles put the Death Egg's act-1 presentation back on screen,NEW,space,raw-01-presentation-320/capture.mp4,Death Egg presentation: background and machinery,0,11.333008
+clip,1 · ACT 1,GRAVITY HAS A FLOOR,The act-1 gravity puzzle bobs under the player and carries him across its full sine cycle,NEW,gravity,036-gravity-puzzle-320/capture.mp4,The act-1 gravity puzzle,0,4.750000
+clip,1 · ACT 1,RINGS GO UP,The swap trigger flips gravity while Sonic keeps the three rings he carried in,NEW,gravity,031-gravity-swap-rings-320/capture.mp4,Gravity swap carries three rings,0,3.666667
+clip,2 · REVERSE GRAVITY,THE WORLD TURNS OVER,"Sonic hits a real gravity swap, falls upward, lands on the ceiling and rolls",NEW,gravity,030-gravity-swap-flip-320/capture.mp4,Gravity swap: Sonic flips and rolls,0,4.700000
+clip,2 · REVERSE GRAVITY,PRESS THE PAD,The gravity-switch pad sinks under Sonic and sends him to the ceiling,NEW,gravity,033-gravity-switch-pad-320/capture.mp4,The gravity-switch pad,0,4.850000
+clip,2 · REVERSE GRAVITY,A TUBE INTO THE CEILING,The gravity tube catches the player at the same trigger pair and carries him inverted,NEW,gravity,035-gravity-tube-320/capture.mp4,The gravity tube,0,5.083008
+clip,2 · REVERSE GRAVITY,THE SPIKEBONKER PATROLS,The mace robot keeps its ROM timing while Sonic stands still,NEW,boss,037-spikebonker-320/capture.mp4,The Spikebonker patrol,0,5.000000
+clip,2 · TRAVERSAL,SPRING LOADED,"The retracting spring extends, launches Sonic and catches him again",NEW,space,038-retracting-spring-320/capture.mp4,The retracting spring,0,5.000000
+clip,2 · TRAVERSAL,THE BRIDGE GOES DARK,Sonic rides the energy bridge until its switch clears and drops him,NEW,space,039-energy-bridge-320/capture.mp4,The energy bridge goes dark,0,3.666667
+clip,2 · TRAVERSAL,TEAM INVERTED,Sonic and Tails cross the real gravity trigger together and run the ceiling,NEW,gravity,041-gravity-swap-tails-320/capture.mp4,Gravity swap with Sonic and Tails,0,4.700000
+outro,THE RESULT,THE ROUTE IS OPEN,"Fixed presentation, reachable gravity triggers, traversal objects and sidekick behavior now have filmed evidence across the Death Egg route",DEZ|S3K,finale,,,,

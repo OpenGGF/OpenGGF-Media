@@ -1,0 +1,20 @@
+Ordinary-input cold SOZ Act 2 attempt — not completion or trace parity evidence.
+Runtime commit: 28aabd127 (includes CPU04cbcd574, ghost identity fix, integrated64b7e4be9).
+Host S3K, native320x224, main Sonic, follower Tails, donor off.
+ROM: /home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen
+Boot: GameplayCaptureSession settings with no explicit position, zone8 act1 (zero based).
+Native cold start observed x$140/y$3AC; initial ProcessSprites consumed once before movie inputs.
+No player, object, camera, lighting or physics state hydrated from reference data.
+Movie: src/test/resources/traces/s3k/runs/s3k-sonic-tails-complete-emeralds/s3k-sonic-tails-complete-emeralds.bk2
+Window provenance: soz_2/metadata.json offset359659 is an Act1 special-stage return, not an Act2 start.
+Read only zone_act_state markers from soz_2/aux_state.jsonl.gz: first zone8/actual_act1 at local6149; next zone9/actual_act0 at30179.
+Selected next full input row6150, zero-based movie index365809=359659+6150, maximum24029 inputs ending before next zone marker.
+Original movie inputs belong to seamless Act1-to-2 entry. This independently cold-booted act does not reproduce its lighting, object phases, or carried state. Input timing may therefore cease to suit the live route.
+Every frame stepped through GameplayCaptureSession and rendered; PNG saved every60frames plus terminal frame. CSV records each resulting engine state.
+Stop rule: leader death, act/zone boundary, input-window end, or600frames with both position spans under8pixels.
+Result:5611frames; no death; maximum x2340($924) at frame1378, y1052($41C).
+At frame1378 diagonal spring launched xvel/yvel=-3824; source-independent observation only, not a diagnosed spring defect.
+First light-switch grip visible frame600. Diagonal spring region visible frame1380.
+Terminal frame5610, movie index371419: x1561($619),y327($147),rings14,alive.
+Last600 position ranges x1560..1565,y325..330; inputs372Right,6Left,222neutral. Terminal still frames/05610.png.
+Bounded extent ends in upper passage after spring return. No capsule/ghost/endboss/completion claim.

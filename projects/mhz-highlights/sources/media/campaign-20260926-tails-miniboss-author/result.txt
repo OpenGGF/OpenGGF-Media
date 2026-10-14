@@ -1,0 +1,8 @@
+Result[stop=DEFEATED, frames=22621]
+ROM=/home/farrell/code/projects/OpenGGF/s3k.gen
+settings=Settings[width=320, mainCharacter=tails, sidekickCharacter=, donor=off, donorRom=null, startX=null, startY=null, emeraldStates=null, showTitleCard=false, completeSpecialStage=false, vIntRunCount=null, cameraXSub=null, starPost=false, rings=null, reverseGravity=false]
+input=/home/farrell/Videos/OGGF/mhz-bring-up/campaign-20260926-tails-upper-branches/variant-0.bk2
+prefix=21900
+encounter=MHZ
+maxNewInputs=3000
+Fresh uninterrupted replay required.

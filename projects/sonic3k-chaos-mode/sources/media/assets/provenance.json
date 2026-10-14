@@ -1,0 +1,306 @@
+{
+  "purpose": "Chaos promo cards/editorial audio; never represented as synchronous gameplay",
+  "assets": [
+    {
+      "asset": "assets/glyphs/A.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/A.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "ec4c916c1c6fa3e7ea717884b37b937a5ffa94e7643711fe2991bca9b1f0bbab"
+    },
+    {
+      "asset": "assets/glyphs/B.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/B.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "9efd77e60b537d1ac222b671af5b79c4a1e1443dca0bfcac130f72feae5e7c4d"
+    },
+    {
+      "asset": "assets/glyphs/C.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/C.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "dc6a39e8aee81e30b45487798f70b929c0c7a2f887bf63348a536fab18dc48b5"
+    },
+    {
+      "asset": "assets/glyphs/D.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/D.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "726dbd91f7929b44f846ebabc1d4076dd1dadc79ff4aaa010320f0717ab69180"
+    },
+    {
+      "asset": "assets/glyphs/E.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/E.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "c074bc696b37322382be1809cc9ca7dd07e9d17ef7e3f15f28df2e91a8101cc3"
+    },
+    {
+      "asset": "assets/glyphs/F.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/F.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "b5487257229e880b1f587538ff7efafa35892dbc55a7ad86f850f00e09b4cb77"
+    },
+    {
+      "asset": "assets/glyphs/G.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/G.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "1a303865454af4ef5bafa484d9f2431fa27eceaeb2439f431b664a0ce14d952c"
+    },
+    {
+      "asset": "assets/glyphs/H.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/H.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "f435d280c87c1db6fc75799b5d8537d83df77522bcadf5481885a2b239b79dea"
+    },
+    {
+      "asset": "assets/glyphs/I.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/I.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "7e26ae70dd3349a63049f78307aacfa3dffcbb372067d28096375acdb353b692"
+    },
+    {
+      "asset": "assets/glyphs/K.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/K.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "3b53b34379caf322e71aad8aca4f17007255d2ad06cc29deb6b1f3fd8bee494e"
+    },
+    {
+      "asset": "assets/glyphs/L.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/L.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "a2cb5b962c47cbdb3500d5bf4600b89822c62ef82776fd3d4ea82431c576068f"
+    },
+    {
+      "asset": "assets/glyphs/M.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/M.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "7a600769d1d1b23482953e18dfd69999dea994aa6f0bae9a53a81abf804980c1"
+    },
+    {
+      "asset": "assets/glyphs/N.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/N.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "6ac28504080e4adf58fb9f3033ecdcf1c5d4921655656abbe9ad7661c84ee04c"
+    },
+    {
+      "asset": "assets/glyphs/O.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/O.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "c562a774ae3a08d2dc79f23cd1e57820e73057f1af32b77709956b82ec1d30d1"
+    },
+    {
+      "asset": "assets/glyphs/P.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/P.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "59914865e251ffcdfa51f235296f5520d20705c6ae6852d09e7b9fa38672eb9f"
+    },
+    {
+      "asset": "assets/glyphs/R.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/R.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "6524d5f4a958b0ff57ffcb6fadaadbf5df0a3e79ce9ab112076fe706a095ab83"
+    },
+    {
+      "asset": "assets/glyphs/S.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/S.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "33ee0310038748ad3e840bd1a158fa7c96ac2098c489715abe6b8fb0d544bda5"
+    },
+    {
+      "asset": "assets/glyphs/T.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/T.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "3b19d9c76c727e7b771ed1d1f303d9a740f53bc218ff7ba2f517af31b8f53673"
+    },
+    {
+      "asset": "assets/glyphs/U.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/U.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "495a8dcef64b847326b888a676181f0b747ee85ab84de3194a360695dd2788ac"
+    },
+    {
+      "asset": "assets/glyphs/V.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/V.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "8cfa977cc68279a451be6ecb78bb6458fee1432d26cc3ced5257917045864494"
+    },
+    {
+      "asset": "assets/glyphs/Y.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/Y.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "01d46b02d1e14f4f63cbef029d8f8a797861127125c5822a6fc5025456ca791f"
+    },
+    {
+      "asset": "assets/glyphs/ring-0.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-0.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "bc2f243a98a50aa6a80889c16fc6e355d951c83184db78a7f756da3b7b9c6d2f"
+    },
+    {
+      "asset": "assets/glyphs/ring-1.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-1.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "e93d0986dec7ff565c7486ee464ddf06250f6889bb23b4570c9c39e8d58ba048"
+    },
+    {
+      "asset": "assets/glyphs/ring-2.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-2.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "b81b4da0a5c691c25bc2ab4abaf06bc7ab2699fb31977bdbd3ef545e3f57c096"
+    },
+    {
+      "asset": "assets/glyphs/ring-3.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-3.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "cdb96d858a3f962db9d9a7fb0c82ea1f5a96e3d5d56f486a32bc5c151ef7bab3"
+    },
+    {
+      "asset": "assets/glyphs/ring-4.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-4.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "89b29a766bbf370422575a7dbf475d54eae08ba734d30fdddbfe45e727920327"
+    },
+    {
+      "asset": "assets/glyphs/ring-5.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-5.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "b7077e8e415190279bfb17ee7064f7362ee976dd7db9e1f4feec811ab31219b5"
+    },
+    {
+      "asset": "assets/glyphs/ring-6.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-6.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "4784f82e7fe0eb0f62cb78753e768b1b4df9be965ac9a5b2bd6f4ace141f6f0c"
+    },
+    {
+      "asset": "assets/glyphs/ring-7.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-7.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "048837c982560586c1f3708844a2c4fd4f5da3b47e0373161f24e3d6d5e73475"
+    },
+    {
+      "asset": "assets/glyphs/ring-8.png",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/glyphs/ring-8.png",
+      "kind": "ROM art",
+      "origin": "Typing of the Hedgehog promo,2026-10-10; S3K ROM-decoded title-card/ring art",
+      "sha256": "c3087446afe87c5da27035fd77db71f3d9911966b3cd33a452f80d731fbf8159"
+    },
+    {
+      "asset": "assets/plate-font.txt",
+      "source": "/home/farrell/scratch/typing-hedgehog/promo/assets/plate-font.txt",
+      "kind": "original font",
+      "origin": "Typing of the Hedgehog original plate face",
+      "sha256": "9916d77e907f96a9414fdd2770f584a026f090002b2fb4aa205f6d0bbb71b676"
+    },
+    {
+      "asset": "assets/audio/boom.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/boom.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "35a9cb58ad1fe044fbc39c2f3b36059a0832c9be421bde8ee7cdfc712c98a0f7"
+    },
+    {
+      "asset": "assets/audio/dash.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/dash.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "ad71b7e62afe6ec788a421136dfeb63ab4555a59744a67f7d07d5363fdb995fc"
+    },
+    {
+      "asset": "assets/audio/death.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/death.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "8452752dc02581a7cfab8e2735211a9f86c3694aeb152ac2543eaef24717225f"
+    },
+    {
+      "asset": "assets/audio/ring.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/ring.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "c10f1f33bb765eb7ede4e1eca99245a96b39e54ef58d81fe1ed24c2cbfc81820"
+    },
+    {
+      "asset": "assets/audio/ringloss.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/ringloss.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "409191b742da5ffb536f08d45fc2ac33f2f50ee7f58589e85788fc52a601aba1"
+    },
+    {
+      "asset": "assets/audio/rumble.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/rumble.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "41e2b990b6a91ebf5a7fdccc689c3c811044b801ec6963de3022f15761bf6ba9"
+    },
+    {
+      "asset": "assets/audio/skid.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/skid.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "024fcbe8f1d5297105b3d6fe1fa6fffea32d89e80a7d7aff668e4739e3871051"
+    },
+    {
+      "asset": "assets/audio/spindash.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/spindash.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "185b4e407109f5b19e490013c709aacc3938a6cead8b4fba5657824ffe9ca81e"
+    },
+    {
+      "asset": "assets/audio/super.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/super.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "e73f594ec3aba5a92577625e24b2ca900cdbe9f6b75b70e903d8560555723145"
+    },
+    {
+      "asset": "assets/audio/switch.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/sfx/switch.wav",
+      "kind": "editorial ROM SFX",
+      "origin": "Flappy Tails promo,2026-10-08; stings cut from native ROM audio",
+      "sha256": "b43b4efe43a9cbe9971638fcbf3e25e7fa52dad3492433521a73c644502fc7de"
+    },
+    {
+      "asset": "assets/audio/data-select.wav",
+      "source": "/home/farrell/scratch/flappy-tails-20261008/promo/soundboard/music-2F/music.wav",
+      "kind": "editorial ROM music",
+      "origin": "Flappy Tails promo,2026-10-08; S3K mus_DataSelect ID0x2F rendered by engine SMPS",
+      "sha256": "63a93782d7a4fa2e5f7e599ba02f661d47d921d477e7a1df71a73d5f94e2a6d4"
+    },
+    {
+      "asset": "assets/aiz-background.png",
+      "source": "/home/farrell/scratch/agent-tmp/codex/sonic3k-chaos-implementation-20261013/captures/title-interactive-3/output/still-02750.png",
+      "kind": "editorial still background",
+      "origin": "Chaos Mode native title-to-AIZ launch,2026-10-13,5f724050b; presentation2750,320x224",
+      "sha256": "e8e5b4b56fe16f8ab10a75c3b5f51f037520ac96abd488f0b29d4e7bf8db62dc"
+    }
+  ]
+}

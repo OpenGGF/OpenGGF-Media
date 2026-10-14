@@ -1,0 +1,10 @@
+# jump: knuckles:7:fight:aiz:monkey_pair
+# ticks: 760
+# The fight's end and its rewards: the badniks explode and free their animals, rings fly to
+# the counter, and a picked card flies into the deck.
+150:enter +30:enter
++60:jump=kill
++170:enter         # rings
++50:enter          # card reward
++60:right +30:enter   # pick the second card
++60:enter          # proceed

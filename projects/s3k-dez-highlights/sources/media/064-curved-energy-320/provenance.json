@@ -1,0 +1,20 @@
+{
+  "source_head": "33e6b66d5",
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "x": 2112,
+    "y": 2320,
+    "rings": 7,
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "neutral"
+  },
+  "stepped_frames": 360,
+  "death_frames": 0,
+  "hurt_frames": 0,
+  "scope": "Stationary activation/expiry; not traversal. Positioned engine evidence, not cold route or native parity."
+}

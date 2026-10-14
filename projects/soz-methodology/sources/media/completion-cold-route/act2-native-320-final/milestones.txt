@@ -1,0 +1,14 @@
+hit 1: 30265
+hit 2: 30469
+hit 3: 30517
+hit 4: 30562
+hit 5: 30836
+hit 6: 30868
+hit 7: 31092
+hit 8: 31141
+results: 31420
+capsule: 31465
+results finished: 32007
+LRZ load frame: 32252
+Controller frames: 32432
+Cold Sonic+Tails native320; intro enabled.

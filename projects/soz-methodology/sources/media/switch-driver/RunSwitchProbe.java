@@ -1,0 +1,1 @@
+package com.openggf.tests; public class RunSwitchProbe { public static void main(String[] args) throws Exception { var rom=new com.openggf.data.Rom(); rom.open(System.getProperty("s3k.rom.path")); TestEnvironment.configureRomFixture(rom); new TestSozSwitchPassageProbe().search(); } }

@@ -1,0 +1,242 @@
+{
+ "final-ghz-hero": {
+  "head": "964d8210ba374c0e8ce43692ce68bb937f8d6794",
+  "dirty": [],
+  "jar": "9e5cdddab1ac04fa",
+  "exit": 0,
+  "frames": 1174,
+  "events": [
+   [
+    203,
+    "policy",
+    {
+     "gravity_pct": "100",
+     "ringfall_full": "1",
+     "rebound_pct": "100",
+     "rebound_cap": "3072"
+    }
+   ],
+   [
+    711,
+    "hurt",
+    173,
+    173,
+    141
+   ]
+  ],
+  "max_rings": 173,
+  "head_scale_range": [
+   100,
+   200
+  ],
+  "final_rings": 57
+ },
+ "final-ghz-native": {
+  "head": "964d8210ba374c0e8ce43692ce68bb937f8d6794",
+  "dirty": [],
+  "jar": "9e5cdddab1ac04fa",
+  "exit": 0,
+  "frames": 990,
+  "events": [
+   [
+    527,
+    "hurt",
+    173,
+    32,
+    0
+   ]
+  ],
+  "max_rings": 173,
+  "head_scale_range": [
+   100,
+   200
+  ],
+  "final_rings": 13
+ },
+ "final-syz-chain": {
+  "head": "964d8210ba374c0e8ce43692ce68bb937f8d6794",
+  "dirty": [],
+  "jar": "9e5cdddab1ac04fa",
+  "exit": 0,
+  "frames": 1120,
+  "events": [
+   [
+    246,
+    "policy",
+    {
+     "gravity_pct": "100",
+     "ringfall_full": "0",
+     "rebound_pct": "300",
+     "rebound_cap": "4096"
+    }
+   ],
+   [
+    383,
+    "kill",
+    1416,
+    -4096,
+    233,
+    100
+   ],
+   [
+    526,
+    "kill",
+    3856,
+    -4096,
+    362,
+    300
+   ],
+   [
+    678,
+    "kill",
+    4360,
+    -4096,
+    441,
+    800
+   ],
+   [
+    819,
+    "kill",
+    3744,
+    -4096,
+    305,
+    1800
+   ],
+   [
+    972,
+    "kill",
+    4416,
+    -4096,
+    363,
+    2800
+   ]
+  ],
+  "max_rings": 0,
+  "head_scale_range": [
+   170,
+   170
+  ],
+  "final_rings": 0
+ },
+ "final-syz-native": {
+  "head": "964d8210ba374c0e8ce43692ce68bb937f8d6794",
+  "dirty": [],
+  "jar": "9e5cdddab1ac04fa",
+  "exit": 0,
+  "frames": 873,
+  "events": [
+   [
+    136,
+    "kill",
+    1416,
+    -1472,
+    233,
+    100
+   ],
+   [
+    656,
+    "dead"
+   ],
+   [
+    828,
+    "mode",
+    "TITLE_CARD"
+   ]
+  ],
+  "max_rings": 0,
+  "head_scale_range": [
+   170,
+   170
+  ],
+  "final_rings": 0
+ },
+ "final-s2-live": {
+  "head": "964d8210ba374c0e8ce43692ce68bb937f8d6794",
+  "dirty": [],
+  "jar": "9e5cdddab1ac04fa",
+  "exit": 0,
+  "frames": 822,
+  "events": [
+   [
+    346,
+    "policy",
+    {
+     "gravity_pct": "25",
+     "ringfall_full": "0",
+     "rebound_pct": "100",
+     "rebound_cap": "3072"
+    }
+   ],
+   [
+    391,
+    "kill",
+    -1426,
+    -1156,
+    770,
+    100
+   ],
+   [
+    694,
+    "policy",
+    {
+     "gravity_pct": "100",
+     "ringfall_full": "0",
+     "rebound_pct": "100",
+     "rebound_cap": "3072"
+    }
+   ]
+  ],
+  "max_rings": 3,
+  "head_scale_range": [
+   160,
+   160
+  ],
+  "final_rings": 3
+ },
+ "final-aiz-norings": {
+  "head": "964d8210ba374c0e8ce43692ce68bb937f8d6794",
+  "dirty": [],
+  "jar": "9e5cdddab1ac04fa",
+  "exit": 0,
+  "frames": 1770,
+  "events": [
+   [
+    1364,
+    "dead"
+   ],
+   [
+    1520,
+    "restart",
+    5024
+   ]
+  ],
+  "max_rings": 11,
+  "head_scale_range": [
+   100,
+   111
+  ],
+  "final_rings": 0
+ },
+ "final-aiz-allon": {
+  "head": "964d8210ba374c0e8ce43692ce68bb937f8d6794",
+  "dirty": [],
+  "jar": "9e5cdddab1ac04fa",
+  "exit": 0,
+  "frames": 1034,
+  "events": [
+   [
+    752,
+    "hurt",
+    211,
+    211,
+    179
+   ]
+  ],
+  "max_rings": 211,
+  "head_scale_range": [
+   100,
+   200
+  ],
+  "final_rings": 26
+ }
+}

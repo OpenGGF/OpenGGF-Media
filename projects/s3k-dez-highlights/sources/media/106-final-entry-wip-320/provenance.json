@@ -1,0 +1,17 @@
+{
+  "commit": "ddf517a5468dc2e9b72752ca4394534df3607466",
+  "scope": "Production entry work in progress; retained planes and complete encounter not validated",
+  "frames": 180,
+  "width": 320,
+  "zone": 23,
+  "act": 0,
+  "main": "sonic",
+  "sidekick": "",
+  "input": "neutral for all 180 steps",
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "files": {
+    "capture.mp4": "df030b48b65ca8b58db403891f804c0b52817497a6a25c49c365e9382192b236",
+    "state.csv": "9507cc413a7b112827fbaab9f193c8955b8cbaf39344e1c7ffca0f156fd8ed43",
+    "still-00090.png": "f82e4983f76ed4158a42ef0190bb67299c9170d6c1e2884df760cc2dabf9515b"
+  }
+}

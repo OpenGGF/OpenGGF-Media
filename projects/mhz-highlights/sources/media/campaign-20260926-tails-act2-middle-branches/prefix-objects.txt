@@ -1,0 +1,6 @@
+Sonic3kPathSwapObjectInstance 3976,992 spawn=ObjectSpawn[x=3976, y=992, objectId=2, subtype=8, renderFlags=0, respawnTracked=false, rawYWord=992, layoutIndex=117, ownerModId=null, objectKey=null]
+MhzMushroomPlatformObjectInstance 3872,1040 spawn=ObjectSpawn[x=3872, y=1040, objectId=17, subtype=0, renderFlags=1, respawnTracked=false, rawYWord=9232, layoutIndex=113, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 3888,1096 spawn=ObjectSpawn[x=3888, y=1096, objectId=7, subtype=3, renderFlags=0, respawnTracked=false, rawYWord=1096, layoutIndex=114, ownerModId=null, objectKey=null]
+MhzCurledVineObjectInstance 4416,1032 spawn=ObjectSpawn[x=4416, y=1032, objectId=9, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=1032, layoutIndex=130, ownerModId=null, objectKey=null]
+Sonic3kSpikeObjectInstance 4416,1076 spawn=ObjectSpawn[x=4416, y=1076, objectId=8, subtype=48, renderFlags=0, respawnTracked=false, rawYWord=1076, layoutIndex=131, ownerModId=null, objectKey=null]
+StillSpriteInstance 4476,1040 spawn=ObjectSpawn[x=4476, y=1040, objectId=47, subtype=24, renderFlags=1, respawnTracked=false, rawYWord=9232, layoutIndex=136, ownerModId=null, objectKey=null]

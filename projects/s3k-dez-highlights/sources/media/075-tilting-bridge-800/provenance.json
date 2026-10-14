@@ -1,0 +1,25 @@
+{
+  "source_head": "6b7055cea",
+  "source_sha256": {
+    "S3kDezTiltingBridgeObjectInstance.java": "968f7a13e7db46ce89f875c5d40c3a5c742c20bc36f3920ef6c02131518bd6bd"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "x": 1040,
+    "y": 2352,
+    "rings": 7,
+    "width": 800,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "neutral"
+  },
+  "stepped_frames": 480,
+  "hurt_frames": 0,
+  "death_frames": 0,
+  "scope": "Positioned landing, tilt, collapse and floor release. Not cold route or native parity. All 480 player position/velocity rows agree across widths.",
+  "verification": "Full ffmpeg decode passed; CSV and frame 280 inspected; 320 floor-release frame 420 inspected.",
+  "validated_commit": "30ab1b14f"
+}

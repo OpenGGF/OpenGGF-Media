@@ -1,0 +1,43 @@
+{
+  "source_head": "33e6b66d5",
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "x": 1792,
+    "y": 2320,
+    "rings": 7,
+    "width": 800,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "../inputs/067-curved-energy-approach.txt"
+  },
+  "stepped_frames": 504,
+  "death_frames": 0,
+  "hurt_frames": 0,
+  "scope": "After viewport retirement fix: successful curve to carrier; 504 player position/velocity rows equal native-width clip 067. Positioned engine evidence, not cold route or native parity.",
+  "source_sha256": {
+    "S3kDezBumperWallObjectInstance.java": "d547f318e92957046c8e268427ac74a5a65ac00f9fd68ba90ad6f9dbb49140ef",
+    "S3kDezEnergyBridgeObjectInstance.java": "3e855f94bc349f4d01c976908e6ab4355352ea8b7e28ca40063560dc658f2170",
+    "S3kDezGravityHubObjectInstance.java": "0da3b3c45ba60bdc5db6923c36d9abc39375cf8af8b8fe6f4ae5edb780e97dd9",
+    "S3kDezGravityPuzzleObjectInstance.java": "60bd0597ef4f5a389589f09e5b12b51bf42972c656287f7e73af0b4f7bc6a715",
+    "S3kDezGravityRoomObjectInstance.java": "16247c13fd30f55a9ba64614ffac546d430dca904fa0b0b9b6824be27c58843f",
+    "S3kDezGravitySwapObjectInstance.java": "28123b4f65d8ee7d4503fe9796bea22a603340546d1428820d0be25d5e340b20",
+    "S3kDezGravitySwitchObjectInstance.java": "acd84e3c4cebfc39cf0719ca3ebe5b95204f1c7f94ad9564f5d2b77e737e41cb",
+    "S3kDezGravityTubeObjectInstance.java": "25acb281614dd8a297bc43b7269695a6774ad3e1180050830344e40f3d597e30",
+    "S3kDezRetractingSpringObjectInstance.java": "336911afb445667a5135d5d7a31732322823652e2ab38f613e4043a1b9d3be34",
+    "S3kDezTeleporterObjectInstance.java": "700f7cd5d8ca2393d2d5ca93218bacd74813219eb2f03d4b7ccb97734f4aa774",
+    "S3kDezLightningObjectInstance.java": "069d9be2cb5fc3ca0e6162151fbc380587c39f4be76a15e2f59baf6835d66939",
+    "S3kDezConveyorBeltObjectInstance.java": "b27c3afe9af92ae515c736db2288a847eab527a215a2ea92c72e734f36a950b3",
+    "S3kDezTorpedoLauncherObjectInstance.java": "36daf97a209f50ccb28157d303fc97c296b3d176423a8286e14e540f40d45913",
+    "S3kDezTorpedoObjectInstance.java": "73e1519b7c36dfbf9abada25bee399f2e7f65085127022f2c0ba773510c8a276",
+    "S3kDezStaircaseObjectInstance.java": "d736e274426ec409c15ed07f5773256b94888a17d21d039db508f784c5707497",
+    "S3kDezHoverMachineObjectInstance.java": "1f12ba884bab4aa2b0a69d1f0ac20a87abdb274bdac0e80c302e7c73ae3d37ce",
+    "S3kDezHoverRotorObjectInstance.java": "ee84787026d9e2a89e8bceef3f831334e7920664f48283164aaa8693b8a70d84",
+    "S3kDezHangCarrierObjectInstance.java": "f31a7211ee597c9ff772bea6d4004b8ec95d405d7832ad6ed7852fd141f05160",
+    "S3kDezCurvedEnergyBridgeObjectInstance.java": "c37e6e574a6c433b4cfd5b7b8ad1a896702f0689300453794254150204b6743b"
+  },
+  "verification": "Full ffmpeg decode passed; state CSV and frame 310 inspected.",
+  "validated_commit": "8a58aafbc"
+}

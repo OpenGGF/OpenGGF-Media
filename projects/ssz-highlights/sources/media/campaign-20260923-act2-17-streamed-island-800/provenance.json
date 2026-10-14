@@ -1,0 +1,22 @@
+{
+  "game": "s3k",
+  "zone": "ssz",
+  "act": 2,
+  "width": 800,
+  "main": "knuckles",
+  "sidekick": "",
+  "donor": "off",
+  "emeralds": "0000000",
+  "vint_run_count": 410766,
+  "settle_frames": 300,
+  "frames": 2626,
+  "capture_from": 1400,
+  "setup": "Seeded presentation only: debug player; endingRunning true, screen stage8, EventsFg4 FF00, specialVInt4, scroll lock; at stage10 declare EventsFg4 FF from omitted ending owner. Neutral input throughout. No cold-route claim.",
+  "verification": "1226 PNGs; terminal stage18 camera804; inspected final2625; full ffmpeg decode passed. Four native arithmetic samples separately verified; whole-scene pixel parity open.",
+  "class_sha256": {
+    "events/Sonic3kSSZEvents": "7eaf49741cf798016fbf4b40bafeab00613828bcf56c916b4a249a276128f250",
+    "runtime/SszEndingPlaneState": "0d5460b420efce206eb76d211dbd398b42281b1ceaf5023217e33e0cbb602ba9",
+    "scroll/SszAct2Deformation": "5f908b6ce5bb9e2198a56c00646f22abbf47b8b9a85b7764dfe9f56cfd01fba5",
+    "scroll/SwScrlSsz": "141b4a45388a202894e734b2a9b4610545f48cb4dd8bbbd96494fce1d10db054"
+  }
+}

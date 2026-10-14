@@ -1,0 +1,33 @@
+# S1 GHZ1 act start: break the ten-ring monitor and the invincibility monitor; Lab: No Powerups on, check only
+# Invincibility, Restart from act start; same route: the ten-ring monitor remains, the invincibility monitor is gone.
+20 -
+repeat 6 { 30 R; 1 R+A; 18 R+A }
+48 R
+1 R+A
+30 R+A
+150 R
+40 -
+1 S
+24 -
+repeat 4 { 1 D; 8 - }
+20 -
+1 A
+30 -
+1 R
+24 -
+repeat 4 { 1 D; 10 - }
+20 -
+1 R
+50 -
+1 C
+20 -
+repeat 8 { 1 D; 6 - }
+24 -
+1 A
+120 -
+20 -
+repeat 6 { 30 R; 1 R+A; 18 R+A }
+48 R
+1 R+A
+30 R+A
+150 R

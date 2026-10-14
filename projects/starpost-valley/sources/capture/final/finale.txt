@@ -1,0 +1,7 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+20:jump=card_A_YEAR_/_IN_THE_VALLEY
+145:jump=restore
+150:jump=yearend
+510:enter

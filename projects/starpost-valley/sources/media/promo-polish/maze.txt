@@ -1,0 +1,14 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=music_off
+40:jump=festival_start_scrap_brain_night
+250:hold=right
+330:release=right
+331:hold=down
+380:release=down
+381:hold=right
+460:release=right
+500:jump=festival_exit
+520:hold=right
+560:release=right

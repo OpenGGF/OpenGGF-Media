@@ -1,0 +1,4 @@
+# jump: tails:7:fight:lbz:beam_rocket@3:14:2
+# ticks: 420
+200:enter +30:enter
++70:enter +30:enter

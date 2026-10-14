@@ -1,0 +1,21 @@
+{
+ "capture": "online-host",
+ "shot_row": 1912,
+ "request_row": 1982,
+ "rewind_rows": [
+  1988,
+  2029
+ ],
+ "rewind_level_dbfs": -32.3,
+ "reversed": {
+  "corr": 0.28,
+  "rate": 0.95,
+  "offset_hops": 66
+ },
+ "unreversed": {
+  "corr": 0.523,
+  "rate": 0.75,
+  "offset_hops": 94
+ },
+ "reverse_evident": false
+}

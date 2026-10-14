@@ -1,0 +1,22 @@
+{
+  "base_commit": "ddf517a5468dc2e9b72752ca4394534df3607466",
+  "uncommitted_production_sources": {
+    "src/main/java/com/openggf/game/sonic3k/events/DezFinalScreenEvents.java": "4c032095a70b422e6b53bf092d48065b7cf9d861df3a523d0da39bcedb87e223",
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kLevelEventManager.java": "1d6873324fa952bbe2b67420b3b26244a73a1028fe3f099f3fc4b612db4dcb61"
+  },
+  "scope": "WIP controller-driven final arena entry through hand phase; retained boss plane is not connected to renderer",
+  "zone": 23,
+  "act": 0,
+  "width": 320,
+  "frames": 420,
+  "main": "sonic",
+  "sidekick": "",
+  "input": "../inputs/dez-final-entry-right.txt",
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "files": {
+    "capture.mp4": "632bcf826feb10e0a9c7a1c077d3d0bf804359c9022fef917d659973a5be1e5e",
+    "state.csv": "d598086c92d66e1dfe6afa375c1938da49387ff27d1fa67e2338b4074a46ad7d",
+    "still-00380.png": "ff5d6aa20f78eb363b862bc1dafe43bf3ededa05e0d16cc44d01e338904a5399"
+  },
+  "input_sha256": "24a9d20af852c2d3549ccef3ef058c775e96f1a447d37531e6d41573ef01782d"
+}

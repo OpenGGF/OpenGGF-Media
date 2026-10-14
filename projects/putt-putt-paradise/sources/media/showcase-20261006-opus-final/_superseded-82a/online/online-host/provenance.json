@@ -1,0 +1,37 @@
+{
+  "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+  "mod_jar_sha256": "55c6e3fc6f04ed58f53cb7abd6113c502b6d874a44fce6b44f8b90391607296a",
+  "mod_source_sha256": "79df24f6b7a0db713cf2acb2b7cbec19f93bc25152efebb2f9349e84dc201893",
+  "engine_java_sha256": "3476c95109a03872bc313c07b27ed24bddeaecfde2d3cc5d2ba267592ab3ceb7",
+  "golf_main_java_sha256": "73d3ddc77f914eadcd6a80fd04be809381b98c12c4efb1fc79140fed5d228407",
+  "engine_classes_snapshot_sha256": "69c81a673476c27aa24a67815676fb2c0fc760324ef2744c43d7bd8d1929cf92",
+  "jar_source_check": {
+    "classes_compared": 123,
+    "jar_classes": 123,
+    "mismatched": [],
+    "manifest_identical": true,
+    "jar_sha256": "55c6e3fc6f04ed58f53cb7abd6113c502b6d874a44fce6b44f8b90391607296a",
+    "ok": true
+  },
+  "title_path": "production GameLoop TITLE_SCREEN -> fade -> TITLE_CARD -> LEVEL (capture.title=loop)",
+  "baseline": "82a6854b1913ce6589f06d29f4b1b53878a70d88",
+  "integration_base": "eaceceda440328f0fc7864deca4cd4134811d373",
+  "working_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "untracked": [
+    "launch-putt-putt-paradise.sh"
+  ],
+  "native_hz": 60,
+  "png_fps": 60,
+  "dimensions": [
+    320,
+    224
+  ],
+  "viewport": "NATIVE_4_3",
+  "audio": "real HeadlessSmpsAudioBackend; one Engine.presentOuterAudioFrame + one LiveCaptureAudioHandle drain per row",
+  "audio_format": "48 kHz 16-bit stereo PCM, 800 frames per 60 Hz row",
+  "rewind_vhs_effect": true,
+  "rewind_vhs_tear_bands": true,
+  "entry": "explicit SDK-validated ModContext capture wrapper (source/GolfPromoCapture.java)",
+  "scenario": "online-host",
+  "transport": "real direct TCP room on 127.0.0.1:20502 between two JVMs"
+}

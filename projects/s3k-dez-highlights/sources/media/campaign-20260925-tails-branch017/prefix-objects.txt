@@ -1,0 +1,7 @@
+S3kDezGravityTubeObjectInstance 9088,832 spawn=ObjectSpawn[x=9088, y=832, objectId=90, subtype=16, renderFlags=0, respawnTracked=false, rawYWord=832, layoutIndex=283, ownerModId=null, objectKey=null]
+S3kDezGravityTubeObjectInstance 9152,1024 spawn=ObjectSpawn[x=9152, y=1024, objectId=90, subtype=72, renderFlags=0, respawnTracked=false, rawYWord=1024, layoutIndex=285, ownerModId=null, objectKey=null]
+DoorObjectInstance 9248,576 spawn=ObjectSpawn[x=9248, y=576, objectId=60, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=576, layoutIndex=291, ownerModId=null, objectKey=null]
+S3kDezGravityTubeObjectInstance 9280,768 spawn=ObjectSpawn[x=9280, y=768, objectId=90, subtype=72, renderFlags=0, respawnTracked=false, rawYWord=768, layoutIndex=292, ownerModId=null, objectKey=null]
+S3kDezGravityTubeObjectInstance 9344,576 spawn=ObjectSpawn[x=9344, y=576, objectId=90, subtype=16, renderFlags=0, respawnTracked=false, rawYWord=576, layoutIndex=297, ownerModId=null, objectKey=null]
+S3kDezGravityTubeObjectInstance 9408,704 spawn=ObjectSpawn[x=9408, y=704, objectId=90, subtype=8, renderFlags=0, respawnTracked=false, rawYWord=704, layoutIndex=302, ownerModId=null, objectKey=null]
+S3kDezGravityTubeObjectInstance 9536,640 spawn=ObjectSpawn[x=9536, y=640, objectId=90, subtype=72, renderFlags=0, respawnTracked=false, rawYWord=640, layoutIndex=303, ownerModId=null, objectKey=null]

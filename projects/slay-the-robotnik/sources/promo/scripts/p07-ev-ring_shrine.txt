@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:ring_shrine@2:10:1
+# ticks: 560
+90:enter
++330:enter

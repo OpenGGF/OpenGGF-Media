@@ -1,0 +1,887 @@
+{
+ "duration_s": 52.217,
+ "segments": [
+  {
+   "id": "open-ghz-storm",
+   "start_s": 0.0,
+   "end_s": 1.1,
+   "frames": 66,
+   "sources": [
+    {
+     "take": "final-ghz-hero",
+     "frames": [
+      708,
+      774
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "173 rings"
+   ],
+   "chips": []
+  },
+  {
+   "id": "open-syz-launch",
+   "start_s": 1.1,
+   "end_s": 2.233,
+   "frames": 68,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      372,
+      440
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "300% stomp"
+   ],
+   "chips": []
+  },
+  {
+   "id": "open-aiz-storm",
+   "start_s": 2.233,
+   "end_s": 3.533,
+   "frames": 78,
+   "sources": [
+    {
+     "take": "final-aiz-allon",
+     "frames": [
+      750,
+      828
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "211 rings"
+   ],
+   "chips": []
+  },
+  {
+   "id": "title",
+   "start_s": 3.533,
+   "end_s": 5.533,
+   "frames": 120,
+   "sources": [
+    {
+     "take": "final-aiz-allon",
+     "frames": [
+      540,
+      660
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [],
+   "chips": []
+  },
+  {
+   "id": "hero-menu-option",
+   "start_s": 5.533,
+   "end_s": 6.467,
+   "frames": 56,
+   "sources": [
+    {
+     "take": "final-ghz-hero",
+     "frames": [
+      84,
+      140
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Ringfall: drop your WHOLE inventory"
+   ],
+   "chips": [
+    "RINGFALL native 32-ring cap",
+    "BIG HEAD scales with rings"
+   ]
+  },
+  {
+   "id": "hero-menu-resume",
+   "start_s": 6.467,
+   "end_s": 6.833,
+   "frames": 22,
+   "sources": [
+    {
+     "take": "final-ghz-hero",
+     "frames": [
+      186,
+      208
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Resume"
+   ],
+   "chips": [
+    "RINGFALL full inventory",
+    "BIG HEAD scales with rings"
+   ]
+  },
+  {
+   "id": "hero-bank",
+   "start_s": 6.833,
+   "end_s": 10.033,
+   "frames": 192,
+   "sources": [
+    {
+     "take": "final-ghz-hero",
+     "frames": [
+      440,
+      632
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Bank 173 rings"
+   ],
+   "chips": [
+    "RINGFALL full inventory",
+    "BIG HEAD scales with rings"
+   ]
+  },
+  {
+   "id": "hero-hit",
+   "start_s": 10.033,
+   "end_s": 12.667,
+   "frames": 158,
+   "sources": [
+    {
+     "take": "final-ghz-hero",
+     "frames": [
+      632,
+      790
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "One hit…",
+    "…every ring comes out"
+   ],
+   "chips": [
+    "RINGFALL full inventory",
+    "BIG HEAD scales with rings"
+   ]
+  },
+  {
+   "id": "hero-regrow",
+   "start_s": 12.667,
+   "end_s": 15.5,
+   "frames": 170,
+   "sources": [
+    {
+     "take": "final-ghz-hero",
+     "frames": [
+      790,
+      960
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Grab them back — the head regrows"
+   ],
+   "chips": [
+    "RINGFALL full inventory",
+    "BIG HEAD scales with rings"
+   ]
+  },
+  {
+   "id": "hero-contrast",
+   "start_s": 15.5,
+   "end_s": 17.533,
+   "frames": 122,
+   "sources": [
+    {
+     "take": "final-ghz-native",
+     "frames": [
+      518,
+      640
+     ]
+    },
+    {
+     "take": "final-ghz-hero",
+     "frames": [
+      702,
+      824
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Same hit, same input"
+   ],
+   "chips": []
+  },
+  {
+   "id": "chain-menu-pct",
+   "start_s": 17.533,
+   "end_s": 18.267,
+   "frames": 44,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      84,
+      128
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Violent Explosions: 300% rebound"
+   ],
+   "chips": [
+    "VIOLENT EXPLOSIONS 150% · cap 12 px/tick",
+    "BIG HEAD 170%"
+   ]
+  },
+  {
+   "id": "chain-menu-cap",
+   "start_s": 18.267,
+   "end_s": 19.2,
+   "frames": 56,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      150,
+      206
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "…and a 16 px/tick speed cap"
+   ],
+   "chips": [
+    "VIOLENT EXPLOSIONS 150% · cap 12 px/tick",
+    "BIG HEAD 170%"
+   ]
+  },
+  {
+   "id": "chain-menu-resume",
+   "start_s": 19.2,
+   "end_s": 19.433,
+   "frames": 14,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      236,
+      250
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [],
+   "chips": [
+    "VIOLENT EXPLOSIONS 300% · cap 16 px/tick",
+    "BIG HEAD 170%"
+   ]
+  },
+  {
+   "id": "chain-1",
+   "start_s": 19.433,
+   "end_s": 23.133,
+   "frames": 222,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      250,
+      472
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Badniks become launch pads"
+   ],
+   "chips": [
+    "VIOLENT EXPLOSIONS 300% · cap 16 px/tick",
+    "BIG HEAD 170%"
+   ]
+  },
+  {
+   "id": "chain-2",
+   "start_s": 23.133,
+   "end_s": 24.167,
+   "frames": 62,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      500,
+      562
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "×2"
+   ],
+   "chips": [
+    "VIOLENT EXPLOSIONS 300% · cap 16 px/tick",
+    "BIG HEAD 170%"
+   ]
+  },
+  {
+   "id": "chain-3",
+   "start_s": 24.167,
+   "end_s": 25.2,
+   "frames": 62,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      650,
+      712
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "×3"
+   ],
+   "chips": [
+    "VIOLENT EXPLOSIONS 300% · cap 16 px/tick",
+    "BIG HEAD 170%"
+   ]
+  },
+  {
+   "id": "chain-4",
+   "start_s": 25.2,
+   "end_s": 26.15,
+   "frames": 57,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      795,
+      852
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "×4"
+   ],
+   "chips": [
+    "VIOLENT EXPLOSIONS 300% · cap 16 px/tick",
+    "BIG HEAD 170%"
+   ]
+  },
+  {
+   "id": "chain-5",
+   "start_s": 26.15,
+   "end_s": 27.483,
+   "frames": 80,
+   "sources": [
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      950,
+      1030
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "×5 — 2,800 points"
+   ],
+   "chips": [
+    "VIOLENT EXPLOSIONS 300% · cap 16 px/tick",
+    "BIG HEAD 170%"
+   ]
+  },
+  {
+   "id": "chain-contrast",
+   "start_s": 27.483,
+   "end_s": 29.483,
+   "frames": 120,
+   "sources": [
+    {
+     "take": "final-syz-native",
+     "frames": [
+      112,
+      232
+     ]
+    },
+    {
+     "take": "final-syz-chain",
+     "frames": [
+      359,
+      479
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Same stomp"
+   ],
+   "chips": []
+  },
+  {
+   "id": "live-native",
+   "start_s": 29.483,
+   "end_s": 30.617,
+   "frames": 68,
+   "sources": [
+    {
+     "take": "final-s2-live",
+     "frames": [
+      62,
+      130
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Normal jump"
+   ],
+   "chips": [
+    "GRAVITY off"
+   ]
+  },
+  {
+   "id": "live-menu-on",
+   "start_s": 30.617,
+   "end_s": 30.85,
+   "frames": 14,
+   "sources": [
+    {
+     "take": "final-s2-live",
+     "frames": [
+      186,
+      200
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Gravity on…"
+   ],
+   "chips": [
+    "GRAVITY off"
+   ]
+  },
+  {
+   "id": "live-menu-slide",
+   "start_s": 30.85,
+   "end_s": 32.283,
+   "frames": 86,
+   "sources": [
+    {
+     "take": "final-s2-live",
+     "frames": [
+      206,
+      292
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "…slide it to 25%"
+   ],
+   "chips": [
+    "GRAVITY off"
+   ]
+  },
+  {
+   "id": "live-menu-resume",
+   "start_s": 32.283,
+   "end_s": 32.583,
+   "frames": 18,
+   "sources": [
+    {
+     "take": "final-s2-live",
+     "frames": [
+      330,
+      348
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Resume"
+   ],
+   "chips": [
+    "GRAVITY 25%"
+   ]
+  },
+  {
+   "id": "live-moon",
+   "start_s": 32.583,
+   "end_s": 35.783,
+   "frames": 192,
+   "sources": [
+    {
+     "take": "final-s2-live",
+     "frames": [
+      348,
+      540
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Moon jump — mid-run, no restart"
+   ],
+   "chips": [
+    "GRAVITY 25%"
+   ]
+  },
+  {
+   "id": "live-menu-off",
+   "start_s": 35.783,
+   "end_s": 36.383,
+   "frames": 36,
+   "sources": [
+    {
+     "take": "final-s2-live",
+     "frames": [
+      606,
+      642
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Switch it off"
+   ],
+   "chips": [
+    "GRAVITY 25%"
+   ]
+  },
+  {
+   "id": "live-menu-resume2",
+   "start_s": 36.383,
+   "end_s": 36.55,
+   "frames": 10,
+   "sources": [
+    {
+     "take": "final-s2-live",
+     "frames": [
+      686,
+      696
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [],
+   "chips": [
+    "GRAVITY off"
+   ]
+  },
+  {
+   "id": "live-back",
+   "start_s": 36.55,
+   "end_s": 37.783,
+   "frames": 74,
+   "sources": [
+    {
+     "take": "final-s2-live",
+     "frames": [
+      696,
+      770
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Back to normal"
+   ],
+   "chips": [
+    "GRAVITY off"
+   ]
+  },
+  {
+   "id": "norings-before",
+   "start_s": 37.783,
+   "end_s": 38.917,
+   "frames": 68,
+   "sources": [
+    {
+     "take": "final-aiz-norings",
+     "frames": [
+      250,
+      318
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Rings on the hill…"
+   ],
+   "chips": [
+    "BIG HEAD scales with rings"
+   ]
+  },
+  {
+   "id": "norings-menu",
+   "start_s": 38.917,
+   "end_s": 39.55,
+   "frames": 38,
+   "sources": [
+    {
+     "take": "final-aiz-norings",
+     "frames": [
+      410,
+      448
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "No Rings: applies on restart"
+   ],
+   "chips": [
+    "BIG HEAD scales with rings"
+   ]
+  },
+  {
+   "id": "norings-restart",
+   "start_s": 39.55,
+   "end_s": 40.717,
+   "frames": 70,
+   "sources": [
+    {
+     "take": "final-aiz-norings",
+     "frames": [
+      490,
+      560
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Restart from act start"
+   ],
+   "chips": [
+    "NO RINGS pending restart"
+   ]
+  },
+  {
+   "id": "norings-after",
+   "start_s": 40.717,
+   "end_s": 41.583,
+   "frames": 52,
+   "sources": [
+    {
+     "take": "final-aiz-norings",
+     "frames": [
+      1150,
+      1202
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "…gone"
+   ],
+   "chips": [
+    "NO RINGS on"
+   ]
+  },
+  {
+   "id": "norings-death",
+   "start_s": 41.583,
+   "end_s": 43.417,
+   "frames": 110,
+   "sources": [
+    {
+     "take": "final-aiz-norings",
+     "frames": [
+      1330,
+      1440
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "No rings. One hit is fatal."
+   ],
+   "chips": [
+    "NO RINGS on"
+   ]
+  },
+  {
+   "id": "finale-menu",
+   "start_s": 43.417,
+   "end_s": 43.95,
+   "frames": 32,
+   "sources": [
+    {
+     "take": "final-aiz-allon",
+     "frames": [
+      96,
+      128
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Stack them"
+   ],
+   "chips": [
+    "GRAVITY 25%",
+    "VIOLENT EXPLOSIONS 300% · cap 32 px/tick",
+    "BIG HEAD scales with rings",
+    "RINGFALL full inventory"
+   ]
+  },
+  {
+   "id": "finale-menu-active",
+   "start_s": 43.95,
+   "end_s": 44.217,
+   "frames": 16,
+   "sources": [
+    {
+     "take": "final-aiz-allon",
+     "frames": [
+      190,
+      206
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Resume"
+   ],
+   "chips": [
+    "GRAVITY 25%",
+    "VIOLENT EXPLOSIONS 300% · cap 32 px/tick",
+    "BIG HEAD scales with rings",
+    "RINGFALL full inventory"
+   ]
+  },
+  {
+   "id": "finale-soar",
+   "start_s": 44.217,
+   "end_s": 45.383,
+   "frames": 70,
+   "sources": [
+    {
+     "take": "final-aiz-allon",
+     "frames": [
+      470,
+      540
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "25% gravity, giant head"
+   ],
+   "chips": [
+    "GRAVITY 25%",
+    "VIOLENT EXPLOSIONS 300% · cap 32 px/tick",
+    "BIG HEAD scales with rings",
+    "RINGFALL full inventory"
+   ]
+  },
+  {
+   "id": "finale-approach",
+   "start_s": 45.383,
+   "end_s": 46.417,
+   "frames": 62,
+   "sources": [
+    {
+     "take": "final-aiz-allon",
+     "frames": [
+      690,
+      752
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "211 rings in the bank…"
+   ],
+   "chips": [
+    "GRAVITY 25%",
+    "VIOLENT EXPLOSIONS 300% · cap 32 px/tick",
+    "BIG HEAD scales with rings",
+    "RINGFALL full inventory"
+   ]
+  },
+  {
+   "id": "finale-storm",
+   "start_s": 46.417,
+   "end_s": 48.217,
+   "frames": 108,
+   "sources": [
+    {
+     "take": "final-aiz-allon",
+     "frames": [
+      752,
+      860
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "…one Rhinobot later"
+   ],
+   "chips": [
+    "GRAVITY 25%",
+    "VIOLENT EXPLOSIONS 300% · cap 32 px/tick",
+    "BIG HEAD scales with rings",
+    "RINGFALL full inventory"
+   ]
+  },
+  {
+   "id": "finale-scramble",
+   "start_s": 48.217,
+   "end_s": 49.883,
+   "frames": 100,
+   "sources": [
+    {
+     "take": "final-aiz-allon",
+     "frames": [
+      860,
+      960
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [
+    "Scramble!"
+   ],
+   "chips": [
+    "GRAVITY 25%",
+    "VIOLENT EXPLOSIONS 300% · cap 32 px/tick",
+    "BIG HEAD scales with rings",
+    "RINGFALL full inventory"
+   ]
+  },
+  {
+   "id": "outro",
+   "start_s": 49.883,
+   "end_s": 52.217,
+   "frames": 140,
+   "sources": [
+    {
+     "take": "final-ghz-hero",
+     "frames": [
+      960,
+      1100
+     ],
+     "audio": true
+    }
+   ],
+   "captions": [],
+   "chips": []
+  }
+ ]
+}

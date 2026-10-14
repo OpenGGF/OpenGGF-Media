@@ -1,0 +1,3 @@
+Act2 ready frame: 16626
+Controller frames: 16901
+Cold tails; followers=; width=320; donor=off; intro enabled.

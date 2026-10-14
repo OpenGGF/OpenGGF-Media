@@ -1,0 +1,21 @@
+{
+  "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+  "mod_jar_sha256": "8e1f038f79ed074e6bac14cc3121302e5b31cbfd4fc638f7be6f373dcdc6b569",
+  "mod_source_sha256": "35977401ed3b8da59d165f779058a1b99184fb803f69ff740c72611ce5f89ace",
+  "engine_java_sha256": "d99d0c4133939a180260faf8325b98c3a1373ac061ee3295ecf403aa0c448bc8",
+  "baseline": "b2faa748f84b83f1d9d8b76dda0e6047c1e64ea4",
+  "working_diff_sha256": "218eacf5aa3c78d846ca8ee34a39d71dd006998f38150cd294bb6d36075941b0",
+  "native_hz": 60,
+  "png_fps": 60,
+  "dimensions": [
+    320,
+    224
+  ],
+  "viewport": "NATIVE_4_3",
+  "audio": "real HeadlessSmpsAudioBackend; one Engine.presentOuterAudioFrame + one LiveCaptureAudioHandle drain per row",
+  "audio_format": "48 kHz 16-bit stereo PCM, 800 frames per 60 Hz row",
+  "rewind_vhs_effect": true,
+  "rewind_vhs_tear_bands": true,
+  "entry": "explicit SDK-validated ModContext capture wrapper (source/GolfPromoCapture.java)",
+  "scenario": "local-match"
+}

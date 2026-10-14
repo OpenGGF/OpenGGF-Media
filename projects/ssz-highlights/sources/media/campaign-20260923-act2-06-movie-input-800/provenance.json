@@ -1,0 +1,29 @@
+{
+  "base_commit": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty": true,
+  "source_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaSonicObjectInstance.java": "17aa67dd473c1fc1a3c8c2c3069ef15929bf50b23fde8f7d2c683c75350cd6b8",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaDefeatRumble.java": "bdc1e9243473d285da308300005c5ec264145020d63cce8cc8f503982a883985",
+    "src/main/java/com/openggf/game/sonic3k/scroll/SwScrlSsz.java": "04e5db82d83daefb63c3bc211be3008701a03d46411fe4a2df4e59547d6840b9"
+  },
+  "compiled_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaSonicObjectInstance.java": "4d6798157e827e012e5b66b89229034bbba12fa93c8279263351df3b3ebfb577",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaDefeatRumble.java": "70b26ebd0832975d0f5f752075651c91db1f108d3af403c91e40555b9a73edaf",
+    "src/main/java/com/openggf/game/sonic3k/scroll/SwScrlSsz.java": "dfbd2df53ab66a631622d672c22fa4ee45c3dfb09e8bfe9d12a7d80f27dd87f9"
+  },
+  "rom_sha1": "cfbf98c36c776677290a872547ac47c53d2761d6",
+  "input_movie": "/home/farrell/code/projects/OpenGGF/docs/BizHawk-2.11-linux-x64/Movies/s3k-knuckles-complete-superemeralds.bk2",
+  "input_sha256": "aa892856df22b7bb1fe5accb48db10b90dc26845d1dccee90352da30349f53cc",
+  "input_start": 412501,
+  "zone": 10,
+  "act": 2,
+  "main": "knuckles",
+  "sidekick": "none",
+  "width": 800,
+  "emeralds": "3333333",
+  "capture_from": 1200,
+  "stepped_frames": 2087,
+  "death_frame": 2026,
+  "capture_frames": 887,
+  "presentation_status": "Inspected frame1500 and complete MP4 decoded with ffmpeg; first-phase fight only. Movie input failed to clear the fight; no transformation or shake evidence. No native frame parity claim."
+}

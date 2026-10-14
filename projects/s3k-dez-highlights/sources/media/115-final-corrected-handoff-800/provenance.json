@@ -1,0 +1,16 @@
+{
+  "base_commit": "37cba17bc13b05df454549d1eb8b28a2a2faf1ad",
+  "production_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kZoneFeatureProvider.java": "d991beb844064bc1a76bfad3a2a6dcd5dc7e398e2cde174882a35210a389e2c8",
+    "src/main/java/com/openggf/tools/DezFinalRouteAuthorTool.java": "146bfd9684a63e488a9216cfcf0c177d415e7c63d990bfb14a4b6faf5bb4ea31"
+  },
+  "input": "/home/farrell/Videos/OGGF/s3k-dez-bring-up/inputs/dez-final-zero-carry-800.txt",
+  "input_sha256": "05b1ce7404d610ee9003262fdb490c73022cfc5e3f723731757b44dc03bff034",
+  "width": 800,
+  "frames": 14200,
+  "capture_from": 13400,
+  "rings": 200,
+  "emeralds": "3333333",
+  "scope": "Corrected final DEZ solo Sonic fight to actual DDZ load; not complete DDZ route",
+  "verification": "No deaths; all 14035 overlapping author rows match replay except input text; MP4 full decode; stills 13750/13870/14130 inspected"
+}

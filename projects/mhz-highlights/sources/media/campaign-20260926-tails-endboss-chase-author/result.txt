@@ -1,0 +1,8 @@
+Result[stop=DEFEATED, frames=33146]
+ROM=/home/farrell/code/projects/OpenGGF/s3k.gen
+settings=Settings[width=320, mainCharacter=tails, sidekickCharacter=, donor=off, donorRom=null, startX=null, startY=null, emeraldStates=null, showTitleCard=false, completeSpecialStage=false, vIntRunCount=null, cameraXSub=null, starPost=false, rings=null, reverseGravity=false]
+input=/home/farrell/Videos/OGGF/mhz-bring-up/campaign-20260926-tails-chase-inspect/input.bk2
+prefix=32700
+encounter=MHZ
+maxNewInputs=3000
+Fresh uninterrupted replay required.

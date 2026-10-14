@@ -1,0 +1,1 @@
+return {windows={{label="entry",first=441813,last=442261,every=2},{label="teleporter",first=443029,last=443605,every=1},{label="seam",first=444181,last=444437,every=1},{label="fight",first=444437,last=445845,every=4},{label="altar_ending",first=445845,last=448821,every=4}}}

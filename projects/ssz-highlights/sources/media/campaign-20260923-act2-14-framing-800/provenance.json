@@ -1,0 +1,21 @@
+{
+  "game": "s3k",
+  "zone": "ssz",
+  "act": 2,
+  "width": 800,
+  "main": "knuckles",
+  "sidekick": "",
+  "donor": "off",
+  "emeralds": "3333333",
+  "vint_run_count": 410766,
+  "stepped_frames": 4101,
+  "capture_from": 3600,
+  "input_sha256": "493b4249cd864fc6b799d804cf1c55a8c80a4a9299940dcd65d2b99c6f20e4ab",
+  "classes_sha256": {
+    "com/openggf/game/sonic3k/objects/bosses/SszMechaSonicObjectInstance.class": "f6e38bc1d18e1b1a635d098f99652b051cc4f2c51843bf92bfe223b27348e2bd",
+    "com/openggf/game/sonic3k/objects/bosses/SszMechaArenaPan.class": "c7e9f52bdc25463d957621c71d0048433c3aa71820d45241a408015e97b8d797",
+    "com/openggf/game/sonic3k/render/SszMasterEmeraldPreview.class": "9f8a857294eb1acdfa014c5f22e225ac5734f86cbdd3f82ca42a544a8be446a2",
+    "com/openggf/game/sonic3k/objects/SszCraneCameraPan.class": "a5e5ab498c2456d197001f592980471568ea07e1cd8babfbef98662c7f27aa9d"
+  },
+  "verification": "Full ffmpeg decode passed; zero dead rows in state.csv. Gameplay route, not native parity."
+}

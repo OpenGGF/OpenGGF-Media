@@ -1,0 +1,4 @@
+# First promo's reproducible editorial/signal-analysis environment, 2026-10-10.
+Pillow==12.3.0
+numpy==2.5.3
+scipy==1.18.1

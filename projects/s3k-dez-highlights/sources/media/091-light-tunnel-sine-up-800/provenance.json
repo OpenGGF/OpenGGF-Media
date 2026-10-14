@@ -1,0 +1,11 @@
+{
+  "base_commit": "408b95256",
+  "frames": 600,
+  "hurt_rows": 23,
+  "death_rows": 0,
+  "first_hurt": 539,
+  "source_sha256": "5d2169c2a29e9285ce99f7e61149b4738afcb823b978456caf2a4aedfb136c8d",
+  "scope": "Positioned DEZ1 component capture; Sonic solo, seven initial rings, neutral input. Not a cold route or native cadence comparison.",
+  "verification": "Full decode and sine stills inspected. First damage after release at frame 539. Eight-second traversal-excerpt.mp4 retains frames 0-479, no hurt/death; fully decoded.",
+  "validated_commit": "a427d8a03"
+}

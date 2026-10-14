@@ -1,0 +1,24 @@
+{
+  "base_commit": "7542bd6b1",
+  "source_state": "uncommitted platform implementation before art registration correction and render-flag correction",
+  "game": "s3k",
+  "zone": 22,
+  "act": 1,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "tails",
+  "donor": "off",
+  "entry": "positioned fresh load selecting native checkpoint branch",
+  "setup": {
+    "x": "0x480",
+    "y": "0x400",
+    "rings": 37
+  },
+  "input": "original s3k-sonic-tails-complete-emeralds.bk2",
+  "input_start_zero_based": 434069,
+  "frames": 394,
+  "fps": 60,
+  "audio": false,
+  "first_death_frame": 333,
+  "limits": "Incomplete route. Native camera arithmetic matches; player trajectory is not certified. Preserve death in full source. Raw 61 had invisible platforms and is superseded by raw 62."
+}

@@ -1,0 +1,63 @@
+;FFMETADATA1
+title=Putt Putt Paradise — Sonic 2 Mini Golf
+comment=Authentic ROM-backed gameplay, normal speed, silent; see source archive and edit list.
+[CHAPTER]
+TIMEBASE=1/30
+START=0
+END=90
+title=Putt Putt Paradise | Sonic 2 Mini Golf
+[CHAPTER]
+TIMEBASE=1/30
+START=90
+END=230
+title=Emerald Hill 1 | Whole-shot rewind with VHS effects
+[CHAPTER]
+TIMEBASE=1/30
+START=230
+END=410
+title=Sonic | Time the putt, then let it roll
+[CHAPTER]
+TIMEBASE=1/30
+START=410
+END=652
+title=Chip | Choose loft, then time backspin or topspin
+[CHAPTER]
+TIMEBASE=1/30
+START=652
+END=810
+title=Native slopes, loops and rolling momentum
+[CHAPTER]
+TIMEBASE=1/30
+START=810
+END=1056
+title=Emerald Hill 1 | Roll through the finish
+[CHAPTER]
+TIMEBASE=1/30
+START=1056
+END=1256
+title=Local two-player | Sonic takes the first shot
+[CHAPTER]
+TIMEBASE=1/30
+START=1256
+END=1476
+title=Local two-player | Tails plays the same course
+[CHAPTER]
+TIMEBASE=1/30
+START=1476
+END=1520
+title=Turns pass automatically when the shot settles
+[CHAPTER]
+TIMEBASE=1/30
+START=1520
+END=1835
+title=Emerald Hill 2 | Tails takes on the full act
+[CHAPTER]
+TIMEBASE=1/30
+START=1835
+END=2053
+title=Higher loft | Chip through the terrain
+[CHAPTER]
+TIMEBASE=1/30
+START=2053
+END=2415
+title=Emerald Hill 2 | The final approach

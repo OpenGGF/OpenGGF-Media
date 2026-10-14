@@ -1,0 +1,19 @@
+{
+  "revision": "b6c1147a2 plus uncommitted campaign edits",
+  "game": "s3k",
+  "zone": "ddz",
+  "act": 1,
+  "width": 800,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "emeralds": "1111111",
+  "setup": "Fresh level select; no inherited clock, camera fraction, position, rings or health seed. Controller-only authored input.",
+  "frames": 9923,
+  "capture_from": 8250,
+  "last_frame": 9922,
+  "final_rings": 20,
+  "verification": "State CSV byte-identical to original fresh route (9923 rows, no deaths/followers, final20rings). Full ffmpeg decode passes. Viewed8400/9000/9681/9922; corrected cloud seams. Production repeated-render regression and two shader pixel tests pass, no skips. Completion/presentation evidence, not native whole-scene parity.",
+  "input_sha256": "bc89c58e0bf9c52ebc588df21fbe76a285fc292ce83a42905f4a394cfe52e7b4",
+  "shader_sha256": "8356bc4e88e8d9fcab0854eac0db67153ed082274014122320639d4c04e5c1b2"
+}

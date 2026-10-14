@@ -1,0 +1,16 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=orchard_clear
+4:jump=people_hold_moto_110_4
+5:jump=demo
+6:jump=music_off
+30:jump=farm_264_22
+40:hold=left
+44:release=left
+55:x
+100:x
+140:jump=demo
+141:jump=farm_264_22
+142:charges=0
+150:x

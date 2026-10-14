@@ -1,0 +1,7 @@
+# LRZ cold widescreen Act 2 clear — 2026-09-28
+
+Runtime develop f46863ed002e359137cbe268bea819d204de9dc7. Cold LRZ1 start, native Sonic+Tails, 800px, donor off, no seeds. All41,348 ordinary inputs independently replay with zero deaths and every state.csv field matches the authoring probe. Full load into boss zone22 act0 occurs at41127; the destination counter bank restores9 rings on41128, and the approach collects one more at41228. Final296/1196,10 rings,Tails present.
+
+Movie: inputs37965–41347,3,383frames,60fps,1600x448,56.383333s. Full ffmpeg decode passes. Inspected38580 ceiling run,40900 boulder descent,41125 fade and41300 boss-act arrival. This is engine presentation and cold reachability evidence, not native pixel parity. The Act2 whole-world regression passes104 two-cycle checkpoints plus full-load history isolation. Source074dafe84; merge46666b019. Destination114 tests pass, zero failures/errors/skips. Pushed develop c901b9a0f (delivery record), source074dafe84, integration46666b019.
+
+The complete controller inputs are beside this README. Earlier traversal footage is in campaign-20260928-wide-cold-act2-door-eight-800. The new route uses the upper path past the optional giant-ring corridor, then joins the lower corridor and opens door6. Late platform and collapsing-bridge timing is authored from actual contact states. No forward runtime changes were needed for the Act2 continuation.

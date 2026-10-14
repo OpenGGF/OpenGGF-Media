@@ -1,0 +1,17 @@
+{
+  "baseCommit": "5ff400010e288acaeeb33005edb4da8960a46c3a",
+  "source": "feature/ai-mhz-wide-route plus uncommitted native-camera projection fixes",
+  "setup": "cold Sonic solo,800px,donor off,no position/health/rings seeds",
+  "inputFrames": 10330,
+  "captureFrom": 8100,
+  "movieFrames": 2230,
+  "fps": 60,
+  "audio": false,
+  "deaths": 0,
+  "authorComparisonRows": 8830,
+  "authorComparisonFields": 20,
+  "authorComparisonDifferences": 0,
+  "stateComparisonExclusion": "input textual representation only",
+  "coldRewindTest": "TestS3kMhzWideAuthoredRoute,1 pass,0failures/errors/skips,16 full-world replay spots",
+  "status": "candidate complete Act1; full delivery pending"
+}

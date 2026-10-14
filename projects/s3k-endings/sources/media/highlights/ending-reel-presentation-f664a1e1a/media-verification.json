@@ -1,0 +1,387 @@
+{
+  "status": "PROVISIONAL; changed presentation owners and affected lifecycle/restore/pixels qualified; root composed integration smoke/guards pending",
+  "output": "s3k-ending-highlights-presentation-repair-provisional.mp4",
+  "output_sha256": "5f5cef9fabe730b58091c0f3b2b94a233b640edc902a27a6f783d3749ec2ecde",
+  "edl_sha256": "07a111f193107fd3262f4cd9c5cdd89bd587e02a7923c08c9c9381b4ee7b422d",
+  "assembly_script_sha256": "c11656deae19667b2b81c3fb70f300e9dca84f4d9623bb3508ba45fe3dfce2eb",
+  "duration_seconds": 61.0,
+  "dimensions": [
+    1600,
+    520
+  ],
+  "fps": "15/1",
+  "audio": false,
+  "chapters": [
+    {
+      "id": 0,
+      "time_base": "1/1000",
+      "start": 0,
+      "start_time": "0.000000",
+      "end": 6000,
+      "end_time": "6.000000",
+      "tags": {
+        "title": "Sonic - Tornado rescue / Master Emerald"
+      }
+    },
+    {
+      "id": 1,
+      "time_base": "1/1000",
+      "start": 6000,
+      "start_time": "6.000000",
+      "end": 13000,
+      "end_time": "13.000000",
+      "tags": {
+        "title": "Sonic - IslandLift departure"
+      }
+    },
+    {
+      "id": 2,
+      "time_base": "1/1000",
+      "start": 13000,
+      "start_time": "13.000000",
+      "end": 17000,
+      "end_time": "17.000000",
+      "tags": {
+        "title": "Tails - IslandLift departure"
+      }
+    },
+    {
+      "id": 3,
+      "time_base": "1/1000",
+      "start": 17000,
+      "start_time": "17.000000",
+      "end": 23000,
+      "end_time": "23.000000",
+      "tags": {
+        "title": "Tails - AIZ Master Emerald restoration"
+      }
+    },
+    {
+      "id": 4,
+      "time_base": "1/1000",
+      "start": 23000,
+      "start_time": "23.000000",
+      "end": 27000,
+      "end_time": "27.000000",
+      "tags": {
+        "title": "Tails - AIZ restoration hold / palette cycles"
+      }
+    },
+    {
+      "id": 5,
+      "time_base": "1/1000",
+      "start": 27000,
+      "start_time": "27.000000",
+      "end": 31000,
+      "end_time": "31.000000",
+      "tags": {
+        "title": "Tails - Super reunion"
+      }
+    },
+    {
+      "id": 6,
+      "time_base": "1/1000",
+      "start": 31000,
+      "start_time": "31.000000",
+      "end": 37000,
+      "end_time": "37.000000",
+      "tags": {
+        "title": "ROM credits"
+      }
+    },
+    {
+      "id": 7,
+      "time_base": "1/1000",
+      "start": 37000,
+      "start_time": "37.000000",
+      "end": 41000,
+      "end_time": "41.000000",
+      "tags": {
+        "title": "Sonic - post-credit banner"
+      }
+    },
+    {
+      "id": 8,
+      "time_base": "1/1000",
+      "start": 41000,
+      "start_time": "41.000000",
+      "end": 45000,
+      "end_time": "45.000000",
+      "tags": {
+        "title": "Knuckles - powered flight with Master Emerald"
+      }
+    },
+    {
+      "id": 9,
+      "time_base": "1/1000",
+      "start": 45000,
+      "start_time": "45.000000",
+      "end": 49000,
+      "end_time": "49.000000",
+      "tags": {
+        "title": "Knuckles - turning plane and departure"
+      }
+    },
+    {
+      "id": 10,
+      "time_base": "1/1000",
+      "start": 49000,
+      "start_time": "49.000000",
+      "end": 57000,
+      "end_time": "57.000000",
+      "tags": {
+        "title": "Knuckles - Mecha and Master Emerald terminal"
+      }
+    },
+    {
+      "id": 11,
+      "time_base": "1/1000",
+      "start": 57000,
+      "start_time": "57.000000",
+      "end": 61000,
+      "end_time": "61.000000",
+      "tags": {
+        "title": "Return to the title screen"
+      }
+    }
+  ],
+  "full_xerror_decode_exit": 0,
+  "limits": "Editorial excerpts do not demonstrate a continuous cold campaign or native pixel parity.",
+  "motion_by_chapter": [
+    {
+      "chapter": 1,
+      "unique_decoded_frames": 88,
+      "output_frames": 90,
+      "native_window_unique_decoded_frames": 88
+    },
+    {
+      "chapter": 2,
+      "unique_decoded_frames": 105,
+      "output_frames": 105,
+      "native_window_unique_decoded_frames": 105
+    },
+    {
+      "chapter": 3,
+      "unique_decoded_frames": 60,
+      "output_frames": 60,
+      "native_window_unique_decoded_frames": 60
+    },
+    {
+      "chapter": 4,
+      "unique_decoded_frames": 90,
+      "output_frames": 90,
+      "native_window_unique_decoded_frames": 90
+    },
+    {
+      "chapter": 5,
+      "unique_decoded_frames": 60,
+      "output_frames": 60,
+      "native_window_unique_decoded_frames": 60
+    },
+    {
+      "chapter": 6,
+      "unique_decoded_frames": 60,
+      "output_frames": 60,
+      "native_window_unique_decoded_frames": 60
+    },
+    {
+      "chapter": 7,
+      "unique_decoded_frames": 90,
+      "output_frames": 90,
+      "native_window_unique_decoded_frames": 90
+    },
+    {
+      "chapter": 8,
+      "unique_decoded_frames": 60,
+      "output_frames": 60,
+      "native_window_unique_decoded_frames": 60
+    },
+    {
+      "chapter": 9,
+      "unique_decoded_frames": 60,
+      "output_frames": 60,
+      "native_window_unique_decoded_frames": 60
+    },
+    {
+      "chapter": 10,
+      "unique_decoded_frames": 60,
+      "output_frames": 60,
+      "native_window_unique_decoded_frames": 60
+    },
+    {
+      "chapter": 11,
+      "unique_decoded_frames": 120,
+      "output_frames": 120,
+      "native_window_unique_decoded_frames": 120
+    },
+    {
+      "chapter": 12,
+      "unique_decoded_frames": 59,
+      "output_frames": 60,
+      "native_window_unique_decoded_frames": 59
+    }
+  ],
+  "temporal_samples": [
+    {
+      "chapter": 1,
+      "sample_output_frames": [
+        9,
+        44,
+        80
+      ]
+    },
+    {
+      "chapter": 2,
+      "sample_output_frames": [
+        100,
+        142,
+        184
+      ]
+    },
+    {
+      "chapter": 3,
+      "sample_output_frames": [
+        201,
+        225,
+        248
+      ]
+    },
+    {
+      "chapter": 4,
+      "sample_output_frames": [
+        264,
+        299,
+        335
+      ]
+    },
+    {
+      "chapter": 5,
+      "sample_output_frames": [
+        351,
+        375,
+        398
+      ]
+    },
+    {
+      "chapter": 6,
+      "sample_output_frames": [
+        411,
+        435,
+        458
+      ]
+    },
+    {
+      "chapter": 7,
+      "sample_output_frames": [
+        474,
+        509,
+        545
+      ]
+    },
+    {
+      "chapter": 8,
+      "sample_output_frames": [
+        561,
+        585,
+        608
+      ]
+    },
+    {
+      "chapter": 9,
+      "sample_output_frames": [
+        621,
+        645,
+        668
+      ]
+    },
+    {
+      "chapter": 10,
+      "sample_output_frames": [
+        681,
+        705,
+        728
+      ]
+    },
+    {
+      "chapter": 11,
+      "sample_output_frames": [
+        747,
+        795,
+        842
+      ]
+    },
+    {
+      "chapter": 12,
+      "sample_output_frames": [
+        861,
+        885,
+        908
+      ]
+    }
+  ],
+  "cut_samples": [
+    {
+      "boundary_output_frame": 90,
+      "before_frame": 89,
+      "after_frame": 90
+    },
+    {
+      "boundary_output_frame": 195,
+      "before_frame": 194,
+      "after_frame": 195
+    },
+    {
+      "boundary_output_frame": 255,
+      "before_frame": 254,
+      "after_frame": 255
+    },
+    {
+      "boundary_output_frame": 345,
+      "before_frame": 344,
+      "after_frame": 345
+    },
+    {
+      "boundary_output_frame": 405,
+      "before_frame": 404,
+      "after_frame": 405
+    },
+    {
+      "boundary_output_frame": 465,
+      "before_frame": 464,
+      "after_frame": 465
+    },
+    {
+      "boundary_output_frame": 555,
+      "before_frame": 554,
+      "after_frame": 555
+    },
+    {
+      "boundary_output_frame": 615,
+      "before_frame": 614,
+      "after_frame": 615
+    },
+    {
+      "boundary_output_frame": 675,
+      "before_frame": 674,
+      "after_frame": 675
+    },
+    {
+      "boundary_output_frame": 735,
+      "before_frame": 734,
+      "after_frame": 735
+    },
+    {
+      "boundary_output_frame": 855,
+      "before_frame": 854,
+      "after_frame": 855
+    }
+  ],
+  "visual_inspection": "36 temporal samples (10/50/90% of all 12 chapters) and both sides of all 11 cuts inspected; readable labels, native aspect/padding, changed IslandLift/AIZ effects and retained Mecha/title sequence visible. Native gameplay-window frame variation also checked separately from labels/flanks.",
+  "inspection_sheets": [
+    "temporal-review-1.png",
+    "temporal-review-2.png",
+    "temporal-review-3.png",
+    "cut-review-1.png",
+    "cut-review-2.png"
+  ]
+}

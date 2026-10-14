@@ -1,0 +1,11 @@
+{
+  "validated_commit": "e76abdb1b05b83d8f84ee5e670602a366af72ec6",
+  "frames": 600,
+  "setup": "LRZ1 ($2B70,$750), 355 rings, Sonic solo, 800px; same gameplay CSV as 320, camera X minus 240",
+  "scope": "Positioned engine presentation; not cold-route or native parity certification",
+  "sha256": {
+    "/home/farrell/Videos/OGGF/lrz-bring-up/miniboss-centered-20260923-800-v2/capture.mp4": "394c761c5a2ea915d915f7dae994eeeba63453e27907895277334423555c13fa",
+    "/home/farrell/Videos/OGGF/lrz-bring-up/miniboss-centered-20260923-800-v2/state.csv": "8c61e4046f1a13cf920607375579ae3487bb5ef459e2f3c1a1a687d2cac67423",
+    "/home/farrell/Videos/OGGF/lrz-bring-up/inputs/lrz1-miniboss-arrival-v1.txt": "4666f587f8f496fc44a58468b77cb5921859b0ee11d8a7b1ec52684cf9e63260"
+  }
+}

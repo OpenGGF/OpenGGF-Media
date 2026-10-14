@@ -1,0 +1,305 @@
+{
+  "instruction": "Root approves qualified flags after actual-frame review. in values apply to arrival/default shots; recap intervals remain disjoint. Changed rain/leak/bumper/ghost MUST point to revision2 masters.",
+  "sources": {
+    "afterimages": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 11.2,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "rainbow": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.333333333333334,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "upsidedown": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "fastforward": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 11,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "slowmo": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 11,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "hudorbit": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.333333333333334,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "hudshuffle": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 9.833333333333334,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "hudscale": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.333333333333334,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "shield": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.033333333333333,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "superstar": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.033333333333333,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "blueprint": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "squashy": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "giant": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "spinning": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.333333333333334,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "tiny": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "jelly": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "breakout": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.2,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "chat": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.5,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "snake": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10.05,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "dvd": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "heads": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "bobble": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "moon": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "gravity": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "negative": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "mirror": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "wind": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "magnet": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "flood": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "scenery": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "overdrive": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "pong-play": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "stack": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "menu": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "rain": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "leak": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "bumper": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Root must record actual new contact_frame to align contact with first-triple beat61; obsolete master prohibited.",
+      "contact_frame": null
+    },
+    "ghosts": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "ghost-close": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "Pending root source lock; see SHOT_REVIEW.md for reviewed windows"
+    },
+    "ringorbit": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "zoom": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "quake": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "defence": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "sonicsays": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "landmark": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "rampage": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "buddy": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "springlegs": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    },
+    "bunny": {
+      "qualified": false,
+      "arrival": 10,
+      "in": 10,
+      "notes": "New optional capture; actual-frame review required. No effect count from labels alone."
+    }
+  },
+  "stinger": {
+    "source": "ghost-close",
+    "in": 11,
+    "caption": "SANDOPOLIS SENDS ITS REGARDS."
+  }
+}

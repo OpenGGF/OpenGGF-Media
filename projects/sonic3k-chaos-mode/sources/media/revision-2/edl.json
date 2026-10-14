@@ -1,0 +1,1024 @@
+{
+ "meta": {
+  "bpm": 171.107,
+  "beat_s": 0.350658,
+  "first_beat_s": 0.316,
+  "beat_time": "t(b)=0.316+b*0.350664 (b=0 -> 0.0)",
+  "total_s": 78.96,
+  "bed": "/home/farrell/Videos/OGGF/slay-the-robotnik-promo/audio/m-hcz2.wav"
+ },
+ "shots": [
+  {
+   "b": [
+    0,
+    12
+   ],
+   "act": "0 cold open",
+   "layout": "FULL",
+   "effects": [
+    "bobble-head"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/bobble/source.mkv",
+     "in": "arrival-2.805",
+     "tier": "reuse"
+    }
+   ],
+   "caption": "ANGEL ISLAND, 10:00 AM. NOTHING TO REPORT.",
+   "note": "Native idle + diegetic CHAOS countdown; head pops exactly on b8 (arrival frame placed at bt(8)). Caption b0-b7 only.",
+   "t": [
+    0.0,
+    4.524
+   ],
+   "dur": 4.524
+  },
+  {
+   "b": [
+    12,
+    14
+   ],
+   "act": "0",
+   "layout": "CARD",
+   "card": "ONE HEDGEHOG",
+   "sfx": "boom",
+   "t": [
+    4.524,
+    5.225
+   ],
+   "dur": 0.701
+  },
+  {
+   "b": [
+    14,
+    16
+   ],
+   "act": "0",
+   "layout": "CARD",
+   "card": "NO RULES",
+   "sfx": "skid",
+   "t": [
+    5.225,
+    5.927
+   ],
+   "dur": 0.701
+  },
+  {
+   "b": [
+    16,
+    20
+   ],
+   "act": "0",
+   "layout": "CARD",
+   "card": "CHAOS MODE",
+   "sub": "SONIC 3 & KNUCKLES  (plate font)",
+   "sfx": "dash",
+   "t": [
+    5.927,
+    7.329
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    20,
+    24
+   ],
+   "act": "1 player",
+   "layout": "FULL",
+   "effects": [
+    "afterimages"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/afterimages/source.mkv",
+     "in": "arrival",
+     "tier": "A-new",
+     "condition": "re-capture after the stronger Too Many Sonics change"
+    }
+   ],
+   "t": [
+    7.329,
+    8.732
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    24,
+    26
+   ],
+   "act": "1",
+   "layout": "FULL",
+   "effects": [
+    "rainbow-player"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/rainbow/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "t": [
+    8.732,
+    9.433
+   ],
+   "dur": 0.701
+  },
+  {
+   "b": [
+    26,
+    28
+   ],
+   "act": "1",
+   "layout": "FULL",
+   "effects": [
+    "pulse-head"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/heads/source.mkv",
+     "in": 15.0,
+     "tier": "reuse"
+    }
+   ],
+   "t": [
+    9.433,
+    10.134
+   ],
+   "dur": 0.701
+  },
+  {
+   "b": [
+    28,
+    30
+   ],
+   "act": "1",
+   "layout": "FULL",
+   "effects": [
+    "invisible-player"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/invisible/source.mkv",
+     "in": 10.0,
+     "tier": "reuse"
+    }
+   ],
+   "t": [
+    10.134,
+    10.836
+   ],
+   "dur": 0.701
+  },
+  {
+   "b": [
+    30,
+    32
+   ],
+   "act": "1",
+   "layout": "SLICE-2",
+   "effects": [
+    "negative-world",
+    "mirror-view"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/negative/source.mkv",
+     "in": 10.0,
+     "tier": "reuse"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/mirror/source.mkv",
+     "in": 10.0,
+     "tier": "reuse"
+    }
+   ],
+   "note": "diagonal 12deg slice sweeps L->R across the 2 beats",
+   "t": [
+    10.836,
+    11.537
+   ],
+   "dur": 0.701
+  },
+  {
+   "b": [
+    32,
+    36
+   ],
+   "act": "1",
+   "layout": "FULL",
+   "effects": [
+    "upside-down-view"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/upsidedown/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "t": [
+    11.537,
+    12.94
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    36,
+    44
+   ],
+   "act": "1",
+   "layout": "PAIR",
+   "effects": [
+    "moon-gravity",
+    "gravity-hiccup"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/moon/source.mkv",
+     "in": 10.0,
+     "tier": "reuse"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/gravity/source.mkv",
+     "in": 9.75,
+     "tier": "reuse"
+    }
+   ],
+   "note": "payoff 2.8s; right panel lands on b38",
+   "t": [
+    12.94,
+    15.745
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    44,
+    48
+   ],
+   "act": "1",
+   "layout": "PAIR",
+   "effects": [
+    "fast-forward",
+    "slow-motion"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/fastforward/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/slowmo/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "t": [
+    15.745,
+    17.148
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    48,
+    56
+   ],
+   "act": "1",
+   "layout": "FULL->QUAD",
+   "effects": [
+    "dvd-hud",
+    "hud-orbit",
+    "hud-shuffle",
+    "hud-scale|shy-hud (B)"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/dvd/source.mkv",
+     "in": 9.75,
+     "tier": "reuse"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/hudorbit/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/hudshuffle/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/hudscale/source.mkv",
+     "in": "arrival",
+     "tier": "B",
+     "fallback": "drop to 3 panels; keep TR empty navy with caption"
+    }
+   ],
+   "caption": "THE HUD HAS UNIONISED.",
+   "note": "dvd plays FULL b48-52 then shrinks into TL on b52; TR/BL/BR drop in on b53/b54/b55. Caption from b53.",
+   "t": [
+    17.148,
+    19.953
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    56,
+    58
+   ],
+   "act": "2 economy",
+   "layout": "FULL",
+   "effects": [
+    "shield-surprise"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/shield/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "note": "instant: shield appearance frame on b56",
+   "t": [
+    19.953,
+    20.654
+   ],
+   "dur": 0.701
+  },
+  {
+   "b": [
+    58,
+    60
+   ],
+   "act": "2",
+   "layout": "FULL",
+   "effects": [
+    "ten-second-superstar"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/superstar/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "t": [
+    20.654,
+    21.355
+   ],
+   "dur": 0.701
+  },
+  {
+   "b": [
+    60,
+    64
+   ],
+   "act": "2",
+   "layout": "TRIPLE",
+   "effects": [
+    "bumper-ahead",
+    "windy-day",
+    "soz-ghost-party"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/bumper/source.mkv",
+     "in": 9.75,
+     "tier": "reuse",
+     "condition": "donor colour verdict"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/wind/source.mkv",
+     "in": 9.75,
+     "tier": "reuse"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/ghosts/source.mkv",
+     "in": "arrival",
+     "tier": "reuse",
+     "condition": "donor colour verdict"
+    }
+   ],
+   "note": "bumper contact frame on b61; slices drop in b60/b61/b62",
+   "fallback": "if donor colours wrong and not fixed: replace bumper+ghosts with spring-legs (B) / moon later in-point, or PAIR wind|flood",
+   "t": [
+    21.355,
+    22.758
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    64,
+    72
+   ],
+   "act": "2",
+   "layout": "FULL",
+   "effects": [
+    "ring-rain"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/rain/source.mkv",
+     "in": "arrival",
+     "tier": "A-new",
+     "condition": "re-capture after full-viewport diagonal rain change"
+    }
+   ],
+   "caption": "THE ECONOMY IS DOING GREAT.",
+   "note": "payoff 2.8s; idle under the rain then run through it",
+   "t": [
+    22.758,
+    25.563
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    72,
+    76
+   ],
+   "act": "2",
+   "layout": "PAIR",
+   "effects": [
+    "ring-magnet",
+    "ring-orbit (B)"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/magnet/source.mkv",
+     "in": 12.0,
+     "tier": "reuse"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/ringorbit/source.mkv",
+     "in": "arrival",
+     "tier": "B"
+    }
+   ],
+   "fallback": "FULL magnet 12.0",
+   "t": [
+    25.563,
+    26.966
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    76,
+    84
+   ],
+   "act": "2",
+   "layout": "FULL",
+   "effects": [
+    "ring-leak"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/leak/source.mkv",
+     "in": "arrival",
+     "tier": "A-new",
+     "condition": "real lost rings left behind; rings counter falls"
+    }
+   ],
+   "caption": "...PLEASE MIND YOUR BELONGINGS.",
+   "note": "hard cut from rain = the joke; caption from b77",
+   "t": [
+    26.966,
+    29.771
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    84,
+    88
+   ],
+   "act": "2",
+   "layout": "FULL",
+   "effects": [
+    "flash-flood"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/flood/source.mkv",
+     "in": 9.85,
+     "tier": "reuse"
+    }
+   ],
+   "t": [
+    29.771,
+    31.174
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    88,
+    92
+   ],
+   "act": "3 world",
+   "layout": "SLICE-2",
+   "effects": [
+    "blueprint-zone",
+    "wrong-zone-scenery"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/blueprint/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/scenery/source.mkv",
+     "in": 12.8,
+     "tier": "reuse"
+    }
+   ],
+   "note": "slice line travels across 4 beats, revealing scenery under blueprint",
+   "t": [
+    31.174,
+    32.577
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    92,
+    96
+   ],
+   "act": "3",
+   "layout": "FULL",
+   "effects": [
+    "squashy-view"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/squashy/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "t": [
+    32.577,
+    33.979
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    96,
+    108
+   ],
+   "act": "3",
+   "layout": "FULL->QUAD",
+   "effects": [
+    "projectile-overdrive",
+    "giant-badniks",
+    "spinning-badniks",
+    "tiny-badniks|jelly-objects (B)"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/overdrive/source.mkv",
+     "in": 10.0,
+     "tier": "reuse"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/giant/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/spinning/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/tiny/source.mkv",
+     "in": "arrival",
+     "tier": "B",
+     "fallback": "3 panels"
+    }
+   ],
+   "caption": "THE BADNIKS ARE GOING THROUGH SOMETHING.",
+   "note": "overdrive FULL b96-100, shrinks TL on b100; others drop b101/b102/b103; caption from b101",
+   "t": [
+    33.979,
+    38.187
+   ],
+   "dur": 4.208
+  },
+  {
+   "b": [
+    108,
+    112
+   ],
+   "act": "3",
+   "layout": "FULL",
+   "effects": [
+    "monitor-breakout"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/breakout/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "note": "cage appears ~b108, spindash escape before b112",
+   "t": [
+    38.187,
+    39.59
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    112,
+    116
+   ],
+   "act": "3",
+   "layout": "FULL",
+   "effects": [
+    "vine-time"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/vine/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "t": [
+    39.59,
+    40.992
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    116,
+    120
+   ],
+   "act": "3",
+   "layout": "PAIR",
+   "effects": [
+    "zoom-pulse (B)",
+    "quake-camera (B)"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/zoom/source.mkv",
+     "in": "arrival",
+     "tier": "B"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/quake/source.mkv",
+     "in": "arrival",
+     "tier": "B"
+    }
+   ],
+   "fallback": "FULL wind 11.0 (Windy Day already counted) or blink-step (B)",
+   "t": [
+    40.992,
+    42.395
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    120,
+    124
+   ],
+   "act": "3",
+   "layout": "FULL",
+   "effects": [
+    "soz-ghost-party"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/ghosts/source.mkv",
+     "in": "arrival+0.5",
+     "tier": "reuse",
+     "condition": "donor colour verdict"
+    }
+   ],
+   "fallback": "bunny-hop (B) or rainbow later in-point",
+   "t": [
+    42.395,
+    43.798
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    124,
+    128
+   ],
+   "act": "3 breather",
+   "layout": "FULL",
+   "effects": [],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/menu/source.mkv",
+     "in": 11.1,
+     "tier": "reuse"
+    }
+   ],
+   "caption": "CHOOSE YOUR PROBLEMS.",
+   "t": [
+    43.798,
+    45.2
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    128,
+    132
+   ],
+   "act": "3",
+   "layout": "FULL",
+   "effects": [],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/menu/source.mkv",
+     "in": 19.8,
+     "tier": "reuse"
+    }
+   ],
+   "caption": "THEN PLAY THE ACTUAL GAME.",
+   "t": [
+    45.2,
+    46.603
+   ],
+   "dur": 1.403
+  },
+  {
+   "b": [
+    132,
+    140
+   ],
+   "act": "4 sidegames",
+   "layout": "QUAD",
+   "effects": [
+    "ring-pong",
+    "monitor-stack",
+    "ring-snake",
+    "badnik-defence|shield-beat (B)"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/pong-play/source.mkv",
+     "in": 10.0,
+     "tier": "reuse"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/captures/stack/source.mkv",
+     "in": 10.0,
+     "tier": "reuse"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/snake/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/defence/source.mkv",
+     "in": "arrival",
+     "tier": "B",
+     "fallback": "3 panels"
+    }
+   ],
+   "caption": "WE INTERRUPT THIS PLATFORMER.",
+   "note": "panels drop b132/133/134/135",
+   "t": [
+    46.603,
+    49.408
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    140,
+    148
+   ],
+   "act": "4",
+   "layout": "FULL",
+   "effects": [
+    "imaginary-chat"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/chat/source.mkv",
+     "in": "arrival",
+     "tier": "A-new"
+    }
+   ],
+   "note": "no editorial caption; its own simulated-chat text is the joke",
+   "t": [
+    49.408,
+    52.213
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    148,
+    156
+   ],
+   "act": "4",
+   "layout": "CARD",
+   "card": "FICTIONAL CRITICS",
+   "reviews": true,
+   "note": "3 reviews slam on b148/b150/b152, hold to b156",
+   "t": [
+    52.213,
+    55.019
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    156,
+    164
+   ],
+   "act": "5 crescendo",
+   "layout": "FULL x4 (2 beats each)",
+   "effects": [
+    "sonic-says (B)",
+    "landmark-hunt (B)",
+    "rolling-rampage (B)",
+    "rescue-buddy (B)"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/sonicsays/source.mkv",
+     "in": "arrival",
+     "tier": "B"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/landmark/source.mkv",
+     "in": "arrival",
+     "tier": "B"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/rampage/source.mkv",
+     "in": "arrival",
+     "tier": "B"
+    },
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/buddy/source.mkv",
+     "in": "arrival",
+     "tier": "B"
+    }
+   ],
+   "fallback": "any uncaptured slot uses a recap: rainbow 12.0, negative 11.0, upside-down later, mirror 11.0",
+   "t": [
+    55.019,
+    57.824
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    164,
+    172
+   ],
+   "act": "5",
+   "layout": "SLICE-2 x4 (2 beats each)",
+   "effects": [
+    "recaps"
+   ],
+   "panels": [
+    "bumper|rain",
+    "afterimages|dvd",
+    "giant|moon",
+    "scenery|invisible"
+   ],
+   "note": "later in-points than first use; never repeat an identical source interval",
+   "t": [
+    57.824,
+    60.629
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    172,
+    180
+   ],
+   "act": "5",
+   "layout": "QUAD",
+   "effects": [
+    "recaps"
+   ],
+   "panels": [
+    "afterimages",
+    "rain",
+    "overdrive",
+    "ghosts (or leak)"
+   ],
+   "note": "panels drop b172/173/174/175; no caption",
+   "t": [
+    60.629,
+    63.434
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    180,
+    188
+   ],
+   "act": "5",
+   "layout": "FULL",
+   "effects": [
+    "afterimages"
+   ],
+   "panels": [
+    {
+     "src": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/revision-2/captures/afterimages/source.mkv",
+     "in": "arrival+3.0",
+     "tier": "A-new"
+    }
+   ],
+   "note": "HERO payoff 2.8s: the crowded bright echo run, ideally mid-jump across b184",
+   "t": [
+    63.434,
+    66.24
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    188,
+    196
+   ],
+   "act": "5",
+   "layout": "SLICE-4",
+   "effects": [
+    "recaps"
+   ],
+   "panels": [
+    "rain",
+    "leak",
+    "trails",
+    "ghost/overdrive"
+   ],
+   "note": "four diagonal strips, one added per 2 beats; white 2-frame flash at b196",
+   "t": [
+    66.24,
+    69.045
+   ],
+   "dur": 2.805
+  },
+  {
+   "b": [
+    196,
+    212
+   ],
+   "act": "end",
+   "layout": "CARD",
+   "card": "CHAOS MODE",
+   "sub": [
+    "105 EFFECTS. CHOOSE YOUR POOL.",
+    "AN OPENGGF MOD. YOUR OWN SONIC 3 & KNUCKLES ROM."
+   ],
+   "note": "HCZ2 bed fades over b204-b212",
+   "t": [
+    69.045,
+    74.655
+   ],
+   "dur": 5.611
+  }
+ ],
+ "stinger": {
+  "t": [
+   74.655,
+   78.955
+  ],
+  "act": "stinger",
+  "layout": "FULL",
+  "effects": [
+   "soz-ghost-party"
+  ],
+  "segments": [
+   "0.5s black, silence",
+   "ghost-close 11.0->14.3 (death at source frame 840 = 14.00s)",
+   "hold 0.3s after death on last frame, then black"
+  ],
+  "caption": "SANDOPOLIS SENDS ITS REGARDS.",
+  "sfx": "death.wav at death frame",
+  "cond": "donor colour verdict",
+  "fallback": "leak: lone ring drops, ringloss.wav, caption \"WE DID WARN YOU.\" or first-reel bumper stinger"
+ }
+}

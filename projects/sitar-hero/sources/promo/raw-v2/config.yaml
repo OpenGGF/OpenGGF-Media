@@ -1,0 +1,7 @@
+# Capture-only configuration: absolute paths to verified user ROM dumps; running game S3K.
+configFormat: 2
+roms:
+  sonic1: "/home/farrell/code/projects/OpenGGF/s1.gen"
+  sonic2: "/home/farrell/code/projects/OpenGGF/s2.gen"
+  sonic3k: "/home/farrell/code/projects/OpenGGF/s3k.gen"
+  default: "s3k"

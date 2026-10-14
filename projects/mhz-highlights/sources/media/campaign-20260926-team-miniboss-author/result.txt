@@ -1,0 +1,8 @@
+Result[stop=DEFEATED, frames=25585]
+ROM=/home/farrell/code/projects/OpenGGF/s3k.gen
+settings=Settings[width=320, mainCharacter=sonic, sidekickCharacter=tails, donor=off, donorRom=null, startX=null, startY=null, emeraldStates=null, showTitleCard=false, completeSpecialStage=false, vIntRunCount=null, cameraXSub=null, starPost=false, rings=null, reverseGravity=false]
+input=/home/farrell/Videos/OGGF/mhz-bring-up/campaign-20260926-team-act1-boss-approach/variant-0.bk2
+prefix=25000
+encounter=MINI
+maxNewInputs=4000
+Fresh uninterrupted replay required.

@@ -1,0 +1,9 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=rings_500
+40:jump=ruins_33
+160:hold=right
+205:z
+235:x
+280:release=right

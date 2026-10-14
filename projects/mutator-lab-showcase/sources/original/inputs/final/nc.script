@@ -1,0 +1,23 @@
+# S3K AIZ1 starpost ledge (positioned 0x2740,0x250, 0 carried rings): post, drop onto a Monkey Dude (fatal), respawn at the post;
+# Lab: No Checkpoints on (pending death), Resume, the same drop, the death reload returns to the act start.
+10 -
+60 R
+70 L
+20 -
+30 R
+170 -
+1 S
+24 -
+repeat 5 { 1 D; 8 - }
+20 -
+1 R
+40 -
+repeat 6 { 1 D; 6 - }
+20 -
+1 A
+10 -
+60 L
+20 -
+30 R
+400 -
+150 R

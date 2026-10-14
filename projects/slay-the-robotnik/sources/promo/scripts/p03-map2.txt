@@ -1,0 +1,5 @@
+# jump: sonic:7:map:2
+# ticks: 420
+90:right
++40:right
++40:enter

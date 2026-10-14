@@ -1,0 +1,18 @@
+{
+  "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+  "mod_sha256": "64790eb5dbd93fbf1638b71a959033673dbf84b67ff9d4fe574fd51f3db3ad3f",
+  "act": 1,
+  "character": "tails",
+  "mode": "practice",
+  "native_hz": 60,
+  "capture_fps": 30,
+  "dimensions": [
+    320,
+    224
+  ],
+  "audio": "silent",
+  "entry": "explicit SDK-validated ModContext capture wrapper",
+  "baseline": "6da29127a9a744ccea703561e6f0ddc52c70936b",
+  "engine_java_sha256": "35841b00adf1e9b1ad0e3406bf9a3110fcbb30e5df8039cce0986a444816ff49",
+  "working_diff_sha256": "b4eea3c05d3e100f9dce3d84a05cbf7cb19fc60e2f149b00fde4dd31cd73e82e"
+}

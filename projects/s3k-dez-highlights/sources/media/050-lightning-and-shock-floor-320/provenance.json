@@ -1,0 +1,26 @@
+{
+  "source_head": "de73bead8",
+  "source_sha256": {
+    "S3kDezLightningObjectInstance.java": "989d604cc6348560d92bb31215b4069370d82438d046d1f28351a75ccb896f5f"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "start": [
+      1792,
+      1952
+    ],
+    "rings": 7,
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "neutral"
+  },
+  "stepped_frames": 300,
+  "deaths": 0,
+  "scope": "Positioned visual demonstration of ROM lightning emitters; not cold route or native pixel parity. Damage checked separately.",
+  "verification": "Full ffmpeg decode passed; state CSV and frame 90 inspected.",
+  "validated_commit": "bdfd129ff"
+}

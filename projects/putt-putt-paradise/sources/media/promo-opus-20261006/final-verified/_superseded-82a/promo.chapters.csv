@@ -1,0 +1,13 @@
+start_s,end_s,chapter
+0.000,5.400,"OpenGGF: the open-source engine for classic Sonic"
+5.400,10.800,"What if Sonic was the golf ball?"
+10.800,17.600,"Putt Putt Paradise: Sonic 2 Mini Golf"
+17.600,25.033,"One button: aim, hit point, power"
+25.033,36.033,"Real Sonic 2 physics: loops, springs, badniks"
+36.033,41.100,"Rewind a whole shot"
+41.100,43.400,"Two holes, two golfers, three ways to play"
+43.400,52.633,"Local two-player"
+52.633,63.700,"Online play over direct IP"
+63.700,68.800,"Make your own with the OpenGGF Mod API"
+68.800,79.800,"The final putt: Hole Complete"
+79.800,88.800,"Learn more"

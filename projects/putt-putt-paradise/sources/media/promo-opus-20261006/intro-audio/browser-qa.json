@@ -1,0 +1,23 @@
+{
+  "video": "promo-opus-intro-audio.mp4",
+  "sha256": "a33343fb3a439cfacd8a56fecc7691807bc95f46727c01021f292e222b067e4f",
+  "browser": "T3 collaborative preview",
+  "playback_rate": 1,
+  "duration": 96.133333,
+  "played_to_end": true,
+  "playback": "Entire timeline in resumable chunks, then a second intro inspection.",
+  "frame_callbacks": 1593,
+  "first_media_time": 0,
+  "last_media_time": 96.1,
+  "sampled_frame_hashes": 309,
+  "distinct_sampled_hashes": 309,
+  "decoded_audio_bytes": 3603479,
+  "media_error": null,
+  "browser_quality": {
+    "total_video_frames": 3280,
+    "dropped_video_frames": 20,
+    "corrupted_video_frames": 0
+  },
+  "limits": "Browser counters are cumulative for the element under load and include seeks/preload; they do not measure encoded file cadence. Audio decoding and numeric levels checked; no listening review.",
+  "inspected": "Intro fade and text build, native VHS rewind, loft, physics, local turn handoff, online menu disclaimer, hole finish, staged engine bullets, CTA and fade-out."
+}

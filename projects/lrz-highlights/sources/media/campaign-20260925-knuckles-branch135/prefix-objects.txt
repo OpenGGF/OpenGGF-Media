@@ -1,0 +1,7 @@
+LrzSolidMovingPlatformObjectInstance 11008,416 spawn=ObjectSpawn[x=11008, y=416, objectId=45, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=416, layoutIndex=347, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 11184,574 spawn=ObjectSpawn[x=11184, y=574, objectId=7, subtype=0, renderFlags=0, respawnTracked=true, rawYWord=33342, layoutIndex=352, ownerModId=null, objectKey=null]
+LrzSwingingSpikeBallObjectInstance 10971,632 spawn=ObjectSpawn[x=10971, y=632, objectId=32, subtype=3, renderFlags=0, respawnTracked=false, rawYWord=608, layoutIndex=345, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 11376,888 spawn=ObjectSpawn[x=11376, y=888, objectId=41, subtype=148, renderFlags=1, respawnTracked=false, rawYWord=9080, layoutIndex=357, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 11464,687 spawn=ObjectSpawn[x=11464, y=687, objectId=41, subtype=19, renderFlags=0, respawnTracked=false, rawYWord=687, layoutIndex=358, ownerModId=null, objectKey=null]
+LrzSolidMovingPlatformObjectInstance 10838,480 spawn=ObjectSpawn[x=10838, y=480, objectId=45, subtype=2, renderFlags=1, respawnTracked=false, rawYWord=8672, layoutIndex=340, ownerModId=null, objectKey=null]
+Sonic3kInvisibleBlockObjectInstance 10832,413 spawn=ObjectSpawn[x=10832, y=413, objectId=40, subtype=19, renderFlags=1, respawnTracked=false, rawYWord=8605, layoutIndex=344, ownerModId=null, objectKey=null]

@@ -1,0 +1,10 @@
+# mod: hello-scene
+# ticks: 600
+30:hold=right
++80:space
++60:space
++70:space
++60:release=right
++20:hold=left
++60:space
++80:release=left

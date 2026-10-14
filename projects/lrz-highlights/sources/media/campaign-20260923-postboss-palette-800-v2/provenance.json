@@ -1,0 +1,28 @@
+{
+  "revision": "b6c1147a2 plus campaign changes, 2026-09-23",
+  "game": "s3k",
+  "zone": "lrz",
+  "act": 1,
+  "width": 800,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "setup": "Positioned ($2B70,$750), 355 rings and seven Chaos Emeralds at boot. Walk through placed priority switch; real miniboss/results/act change, no later gameplay writes.",
+  "frames": 4200,
+  "capture_from": 3000,
+  "viewed_stills": [
+    3280,
+    3320,
+    3500
+  ],
+  "deaths": 0,
+  "hurt_rows": 0,
+  "full_ffmpeg_decode": "passed",
+  "input_sha256": "8046cb498a745416424b2ccff3bb109f4c180a528c82ce544288b788555e5038",
+  "compiled_class_sha256": {
+    "com/openggf/game/sonic3k/objects/LrzPostDefeatCameraReleaseInstance.class": "b5de4317139f716063714412b9adbf8e0db6b71702f151385b54df315a5df29e",
+    "com/openggf/game/sonic3k/Sonic3kPaletteCycler$Lrz2Cycle.class": "ba7fd4b06ffed94063bd02e16c0db3a8359840191f39f694a08bcba13906be2b",
+    "com/openggf/game/sonic3k/runtime/LrzZoneRuntimeState.class": "3a93e28e7891d469b3a232c6c53c10b2785a8a3aa5bb6d5da67996ead0477769"
+  },
+  "verification": "Final post-AnPal timer ordering. All4200CSV rows and1200PNGs byte-identical to preceding wide capture; full video decode passes. Both320/800 actual-route full-registry mid-ramp restore/45-input replay pass. Corrected focused selection77pass/no skips;24S3K palette-consumer classes128pass/no skips. Native111-frame capture corroborates13colors/durations, callback68 and94sharedtimer rows, with CRAM one frame later. Native scene/team/controller differs; full-scene parity is not claimed. Negative wide camera still exposes scenery left of the Act2 start."
+}

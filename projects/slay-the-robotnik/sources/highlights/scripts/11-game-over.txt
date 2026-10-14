@@ -1,0 +1,4 @@
+# jump: knuckles:7:fight:lbz:beam_rocket
+# ticks: 560
+# Losing: the hero is knocked away and falls, and GAME OVER slides in as in Sonic 3.
+170:jump=die

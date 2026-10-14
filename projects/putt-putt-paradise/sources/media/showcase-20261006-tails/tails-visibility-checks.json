@@ -1,0 +1,24 @@
+[
+  {
+    "native_frame": 480,
+    "before_after_changed_bounds": [
+      76,
+      85,
+      108,
+      116
+    ],
+    "visible_player_and_appendage_inspected": true,
+    "physics_and_score_rows_equal": true
+  },
+  {
+    "native_frame": 540,
+    "before_after_changed_bounds": [
+      72,
+      85,
+      108,
+      116
+    ],
+    "visible_player_and_appendage_inspected": true,
+    "physics_and_score_rows_equal": true
+  }
+]

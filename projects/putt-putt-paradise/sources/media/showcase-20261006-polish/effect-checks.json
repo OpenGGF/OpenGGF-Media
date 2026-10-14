@@ -1,0 +1,19 @@
+{
+  "effect": "production RewindVhsEffectPass",
+  "first_native_frame": 290,
+  "last_native_frame": 359,
+  "native_frames": 70,
+  "intensity_range": [
+    1.0,
+    1.0
+  ],
+  "speed_range": [
+    1.0,
+    1.0
+  ],
+  "different_pixels_same_native_frame": 69558,
+  "mean_absolute_rgb_difference": 28.212220982142856,
+  "raw_image": "ehz1-sonic-rewind-final-v4/rewind-raw.png",
+  "effect_image": "ehz1-sonic-rewind-final-v4/rewind-vhs.png",
+  "effect_clears_after_restore": true
+}

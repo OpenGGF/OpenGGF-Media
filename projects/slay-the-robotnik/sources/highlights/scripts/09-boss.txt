@@ -1,0 +1,6 @@
+# jump: sonic:7:fight:hcz:big_shaker
+# ticks: 820
+170:enter +30:enter
++70:enter +30:enter
++70:enter +30:enter
++80:e

@@ -1,0 +1,37 @@
+{
+  "head": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty": true,
+  "setup": {
+    "width": 800,
+    "main": "knuckles",
+    "sidekick": "",
+    "donor": "off",
+    "emeralds": "3333333",
+    "vint": 410766
+  },
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "stepped": 6201,
+  "captured": 1501,
+  "capture_from": 4700,
+  "super_hit_frames": [
+    4815,
+    4847,
+    4993,
+    5953
+  ],
+  "inspection": "state CSV: no death through6200; still5953 inspected; full ffmpeg decode passes",
+  "scope": "Partial Super fight, four hits. Seeded ending sky extension source awaits compilation and is not exercised here. Inputs only; no gameplay state hydration.",
+  "files": {
+    "route.script": "361d1c8391eaeb6858af652fc6aa1745182c5d1be86191f1ead816854eb0381f",
+    "route.bk2": "7f56c6ee2eb23845325871910e621c7da62cc8106812e8fb30a47ea32e55a45a",
+    "capture.mp4": "e41d1b72f14000d42377567604c3cf4cbaa5244a27ce5fa8b8cf4abd5c8c360d",
+    "state.csv": "d2f92e0c25a790954732f31d717e840b8e1d22da9efeb8f8f80c75396624b684"
+  },
+  "classes": {
+    "Sonic3kGameModule": "c5a06e932e8979d8045209c534fc97e727a46448e05d0152b105d4d51ebcf848",
+    "Sonic3kLevelEventManager": "39b97be74f93c43195c8533de7b027bdde10f031504fc5c3ef0d63b862ba71ab",
+    "Sonic3kZoneFeatureProvider": "307b1bf1f36dc224936d76853baf3ff959f6a4210d5d79e52566a7b88ee6f935",
+    "objects/bosses/SszMechaSonicObjectInstance": "26ca04b82cab5e0cda7df45429c3d474f80fd3101f0bca25c36d04fcc0c185ba",
+    "objects/bosses/SszMechaProjectile": "b2c6f5d530d2b4cf3c798b10ad277809b87fa4548c5d74972a3f2cc06e86ce63"
+  }
+}

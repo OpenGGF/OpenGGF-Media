@@ -1,0 +1,12 @@
+# From the title screen: the logo over the zone fly-through, a new run as Knuckles,
+# ticks: 1500
+# the spin-dash embark, Angel Island's title card, the cargo hold, landing on the map.
+# jump:
+640:enter          # NEW RUN
++70:right          # Tails
++45:right          # Knuckles
++45:enter          # pick Knuckles
++40:enter          # EMBARK
++260:enter         # cargo hold: first option
++60:enter          # LAND!
++120:enter         # first map node

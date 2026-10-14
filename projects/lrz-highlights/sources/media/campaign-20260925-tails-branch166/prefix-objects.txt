@@ -1,0 +1,7 @@
+Sonic3kSpringObjectInstance 11184,574 spawn=ObjectSpawn[x=11184, y=574, objectId=7, subtype=0, renderFlags=0, respawnTracked=true, rawYWord=33342, layoutIndex=352, ownerModId=null, objectKey=null]
+Sonic3kPathSwapObjectInstance 11032,1152 spawn=ObjectSpawn[x=11032, y=1152, objectId=2, subtype=65, renderFlags=0, respawnTracked=false, rawYWord=1152, layoutIndex=348, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 11600,1277 spawn=ObjectSpawn[x=11600, y=1277, objectId=7, subtype=2, renderFlags=0, respawnTracked=true, rawYWord=34045, layoutIndex=362, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 11200,952 spawn=ObjectSpawn[x=11200, y=952, objectId=41, subtype=147, renderFlags=1, respawnTracked=false, rawYWord=9144, layoutIndex=354, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 11072,952 spawn=ObjectSpawn[x=11072, y=952, objectId=41, subtype=147, renderFlags=1, respawnTracked=false, rawYWord=9144, layoutIndex=349, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 11104,1096 spawn=ObjectSpawn[x=11104, y=1096, objectId=41, subtype=150, renderFlags=0, respawnTracked=false, rawYWord=1096, layoutIndex=351, ownerModId=null, objectKey=null]
+LrzDoorObjectInstance 11600,1760 spawn=ObjectSpawn[x=11600, y=1760, objectId=25, subtype=6, renderFlags=0, respawnTracked=true, rawYWord=34528, layoutIndex=363, ownerModId=null, objectKey=null]

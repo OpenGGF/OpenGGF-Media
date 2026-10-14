@@ -1,0 +1,22 @@
+# chapter source start end; each chapter begins with its in-game card.
+story 0 17.5
+grow 0 24.3
+seasons 0 18
+neighbours 0 7.6
+neighbours 8.7 16
+festivals:hunt 0 2.5
+festivals:hunt 10.5 13.5
+festivals:race 11.2 14.2
+festivals:parade 5.7 8.6
+festivals:flickies 4.6 8.6
+festivals:snowboard 9.2 12.2
+adventure:marble 0 2.5
+adventure:marble 4.8 6.8
+adventure:labyrinth 2.6 4.6
+adventure:scrap 3 5
+adventure:lake 4.7 6.7
+adventure:lake 11.4 14.4
+adventure:orchard-museum 1 3.2
+adventure:orchard-museum 4.3 7.5
+finale 0 8.4
+finale 13 18

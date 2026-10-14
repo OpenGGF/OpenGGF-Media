@@ -1,0 +1,601 @@
+{
+  "title": "Putt Putt Paradise — Sonic 2 Mini Golf | promo",
+  "notes": "Edit decision list for render_promo.py. Gameplay clip ranges are NATIVE 60 Hz frames (state.csv 'frame'); the FFV1 gameplay.mkv holds every second native frame at 30 fps, so mkv frame = native / 2 and every output frame advances exactly one source frame (normal speed). Title ranges are title.mkv frame indices. Starts must be even, ends exclusive.",
+  "fps": 30,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "game_scale": 4,
+  "default_tag": "v4",
+  "fonts": {
+    "heavy": "/usr/share/fonts/TTF/FiraSansCompressed-Heavy.ttf",
+    "xbold": "/usr/share/fonts/TTF/FiraSansCompressed-ExtraBold.ttf",
+    "semi": "/usr/share/fonts/TTF/FiraSansCondensed-SemiBold.ttf",
+    "book": "/usr/share/fonts/TTF/FiraSansCondensed-Book.ttf",
+    "medium": "/usr/share/fonts/TTF/FiraSansCondensed-Medium.ttf"
+  },
+  "sources": {
+    "ehz1": {
+      "dir": "ehz1-sonic-rewind-final-{tag}",
+      "video": "gameplay.mkv",
+      "title": "title.mkv",
+      "native_frames": 4564,
+      "title_frames": 120
+    },
+    "local": {
+      "dir": "local-two-player-final-{tag}",
+      "video": "gameplay.mkv",
+      "title": "title.mkv",
+      "native_frames": 1438,
+      "title_frames": 120
+    },
+    "ehz2": {
+      "dir": "ehz2-tails-final-{tag}",
+      "video": "gameplay.mkv",
+      "title": "title.mkv",
+      "native_frames": 7486,
+      "title_frames": 120
+    }
+  },
+  "features": [
+    [
+      "putt",
+      "PUTT"
+    ],
+    [
+      "rewind",
+      "REWIND"
+    ],
+    [
+      "chip",
+      "CHIP"
+    ],
+    [
+      "spin",
+      "SPIN"
+    ],
+    [
+      "physics",
+      "REAL PHYSICS"
+    ],
+    [
+      "heroes",
+      "SONIC & TAILS"
+    ],
+    [
+      "local",
+      "2 PLAYERS"
+    ],
+    [
+      "online",
+      "ONLINE"
+    ],
+    [
+      "course",
+      "FULL COURSE"
+    ]
+  ],
+  "segments": [
+    {
+      "id": "hook-sonic",
+      "chapter": "Hook: Sonic is the ball",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        1714,
+        1900
+      ],
+      "tracker": false,
+      "captions": [
+        {
+          "native": [
+            1720,
+            1900
+          ],
+          "headline": "What if *Sonic* was the golf ball?",
+          "size": 78
+        }
+      ]
+    },
+    {
+      "id": "hook-tails",
+      "chapter": "Hook: or Tails",
+      "kind": "game",
+      "src": "ehz2",
+      "native": [
+        316,
+        446
+      ],
+      "transition": {
+        "type": "flash",
+        "frames": 6
+      },
+      "tracker": false,
+      "captions": [
+        {
+          "native": [
+            320,
+            446
+          ],
+          "headline": "…or *Tails*?",
+          "size": 78
+        }
+      ]
+    },
+    {
+      "id": "title",
+      "chapter": "Title",
+      "kind": "title",
+      "src": "ehz1",
+      "frames": [
+        0,
+        96
+      ],
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "tracker": false,
+      "captions": [
+        {
+          "frames": [
+            4,
+            96
+          ],
+          "headline": "*PUTT PUTT PARADISE*",
+          "sub": "Sonic 2 Mini Golf  ·  a mod for the OpenGGF engine",
+          "size": 74
+        }
+      ]
+    },
+    {
+      "id": "putt-rewind",
+      "chapter": "Putt, roll and rewind",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        120,
+        394
+      ],
+      "transition": {
+        "type": "iris",
+        "frames": 10
+      },
+      "captions": [
+        {
+          "native": [
+            120,
+            214
+          ],
+          "headline": "*Aim*, then *time* the power meter",
+          "feature": "putt",
+          "card": {
+            "num": "01",
+            "title": "PUTT",
+            "body": "Press A, then stop the meter at the right moment. It rises and falls once."
+          }
+        },
+        {
+          "native": [
+            214,
+            285
+          ],
+          "headline": "…and let it *roll*.",
+          "feature": "putt",
+          "card_hold": true
+        },
+        {
+          "native": [
+            285,
+            360
+          ],
+          "headline": "Bad shot? *Rewind* it.",
+          "feature": "rewind",
+          "card": {
+            "num": "02",
+            "title": "REWIND",
+            "body": "Wind back the whole shot, even while it is still rolling."
+          }
+        },
+        {
+          "native": [
+            360,
+            394
+          ],
+          "headline": "Back on the tee. *Try again.*",
+          "feature": "rewind",
+          "card_hold": true
+        }
+      ]
+    },
+    {
+      "id": "chip-spin",
+      "chapter": "Chip, loft and spin",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        776,
+        1110
+      ],
+      "transition": {
+        "type": "push",
+        "frames": 8
+      },
+      "captions": [
+        {
+          "native": [
+            776,
+            803
+          ],
+          "headline": "*Chip* it: pick your loft",
+          "feature": "chip",
+          "card": {
+            "num": "03",
+            "title": "CHIP",
+            "body": "Raise the angle to send the shot up and over the terrain."
+          }
+        },
+        {
+          "native": [
+            803,
+            864
+          ],
+          "headline": "Add *topspin* or *backspin*",
+          "feature": "spin",
+          "card": {
+            "num": "04",
+            "title": "SPIN",
+            "body": "Choose where to strike the ball: top for topspin, back for backspin."
+          }
+        },
+        {
+          "native": [
+            864,
+            955
+          ],
+          "headline": "Then *time* the power",
+          "feature": "spin",
+          "card_hold": true
+        },
+        {
+          "native": [
+            955,
+            1110
+          ],
+          "headline": "…and *launch* it.",
+          "feature": "spin",
+          "card_hold": true
+        }
+      ]
+    },
+    {
+      "id": "physics-1",
+      "chapter": "Real Sonic 2 physics",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        2694,
+        2810
+      ],
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "captions": [
+        {
+          "native": [
+            2694,
+            2810
+          ],
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "card": {
+            "num": "05",
+            "title": "REAL PHYSICS",
+            "body": "Slopes, loops and momentum come straight from the engine's Sonic 2 movement."
+          }
+        }
+      ]
+    },
+    {
+      "id": "physics-2",
+      "chapter": "Real Sonic 2 physics (Tails, EHZ2)",
+      "kind": "game",
+      "src": "ehz2",
+      "native": [
+        844,
+        948
+      ],
+      "transition": {
+        "type": "push",
+        "frames": 8
+      },
+      "captions": [
+        {
+          "native": [
+            844,
+            948
+          ],
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "hold": true,
+          "card_hold": true
+        }
+      ]
+    },
+    {
+      "id": "physics-3",
+      "chapter": "Real Sonic 2 physics (arch)",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        2846,
+        2930
+      ],
+      "transition": {
+        "type": "flash",
+        "frames": 6
+      },
+      "captions": [
+        {
+          "native": [
+            2846,
+            2930
+          ],
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "hold": true,
+          "card_hold": true
+        }
+      ]
+    },
+    {
+      "id": "physics-4",
+      "chapter": "Real Sonic 2 physics (EHZ2 corkscrew)",
+      "kind": "game",
+      "src": "ehz2",
+      "native": [
+        7176,
+        7330
+      ],
+      "transition": {
+        "type": "iris",
+        "frames": 10
+      },
+      "captions": [
+        {
+          "native": [
+            7176,
+            7330
+          ],
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "hold": true,
+          "card_hold": true
+        }
+      ]
+    },
+    {
+      "id": "heroes",
+      "chapter": "Sonic or Tails",
+      "kind": "split",
+      "left": {
+        "src": "ehz1",
+        "native": [
+          2376,
+          2526
+        ],
+        "label": "SONIC"
+      },
+      "right": {
+        "src": "ehz2",
+        "native": [
+          3296,
+          3446
+        ],
+        "label": "TAILS"
+      },
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "tracker": false,
+      "captions": [
+        {
+          "frames": [
+            2,
+            75
+          ],
+          "headline": "Play as *Sonic* or *Tails*",
+          "feature": "heroes"
+        }
+      ]
+    },
+    {
+      "id": "local-sonic",
+      "chapter": "Local two-player: Sonic",
+      "kind": "game",
+      "src": "local",
+      "native": [
+        140,
+        300
+      ],
+      "transition": {
+        "type": "push",
+        "frames": 8
+      },
+      "captions": [
+        {
+          "native": [
+            140,
+            300
+          ],
+          "headline": "*Two players*, one screen",
+          "feature": "local",
+          "card": {
+            "num": "06",
+            "title": "2 PLAYERS",
+            "body": "Take turns on one screen. Play passes on once each shot settles."
+          }
+        }
+      ]
+    },
+    {
+      "id": "local-tails",
+      "chapter": "Local two-player: Tails",
+      "kind": "game",
+      "src": "local",
+      "native": [
+        600,
+        880
+      ],
+      "transition": {
+        "type": "push",
+        "frames": 8
+      },
+      "captions": [
+        {
+          "native": [
+            600,
+            880
+          ],
+          "headline": "Sonic shoots, then *Tails*",
+          "feature": "local",
+          "card_hold": true
+        }
+      ]
+    },
+    {
+      "id": "online",
+      "chapter": "Online play (menu)",
+      "kind": "online",
+      "src": "ehz1",
+      "frames": [
+        0,
+        105
+      ],
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "tracker": false,
+      "menu_box_native": [
+        [
+          22,
+          156,
+          236,
+          194
+        ]
+      ],
+      "text": {
+        "kicker": "07  ·  ONLINE",
+        "headline": "Or play *online*",
+        "body": "Host or join a direct-connect match straight from the title menu.",
+        "note": "Supported feature. The gameplay in this video is practice and local play."
+      },
+      "captions": [
+        {
+          "frames": [
+            0,
+            105
+          ],
+          "feature": "online"
+        }
+      ]
+    },
+    {
+      "id": "finale",
+      "chapter": "Finale: Emerald Hill 1 finish",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        4288,
+        4530
+      ],
+      "transition": {
+        "type": "iris",
+        "frames": 10
+      },
+      "captions": [
+        {
+          "native": [
+            4288,
+            4442
+          ],
+          "headline": "All of *Emerald Hill*, Acts 1 & 2",
+          "feature": "course",
+          "card": {
+            "num": "08",
+            "title": "FULL COURSE",
+            "body": "The complete Emerald Hill Act 1 and Act 2 terrain, start to flag."
+          }
+        },
+        {
+          "native": [
+            4442,
+            4530
+          ],
+          "headline": "*Hole* complete!",
+          "feature": "course",
+          "card_hold": true
+        }
+      ]
+    },
+    {
+      "id": "engine",
+      "chapter": "Built on OpenGGF",
+      "kind": "engine",
+      "frames": [
+        0,
+        170
+      ],
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "tracker": false,
+      "mini": {
+        "src": "ehz1",
+        "native": [
+          1324,
+          1664
+        ]
+      },
+      "text": {
+        "kicker": "UNDER THE HOOD",
+        "headline": "Built on *OpenGGF*",
+        "bullets": [
+          "A free, open-source fan engine recreating Sonic 1, 2 and 3&K",
+          "Your own Sonic 2 ROM supplies the levels, art and characters. None are included.",
+          "The mod's code is separate: a standalone example built with the OpenGGF mod SDK",
+          "Alpha software. The mod API is still a pre-release candidate."
+        ]
+      },
+      "captions": []
+    },
+    {
+      "id": "end",
+      "chapter": "Learn more",
+      "kind": "end",
+      "frames": [
+        0,
+        165
+      ],
+      "transition": {
+        "type": "iris",
+        "frames": 10
+      },
+      "tracker": false,
+      "fade_out": 15,
+      "text": {
+        "wordmark": "PUTT PUTT PARADISE",
+        "sub": "Sonic 2 Mini Golf  ·  an example mod for the OpenGGF engine",
+        "cta": "Source & more:  github.com/OpenGGF/OpenGGF",
+        "status": "Mod preview  ·  candidate API  ·  source available",
+        "disclaimer": "Unofficial fan project, not affiliated with or endorsed by SEGA. Sonic the Hedgehog is a trademark of SEGA. Requires your own Sonic 2 ROM."
+      },
+      "captions": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+LrzDashElevatorObjectInstance 10720,1364 spawn=ObjectSpawn[x=10720, y=1364, objectId=30, subtype=32, renderFlags=0, respawnTracked=true, rawYWord=34132, layoutIndex=592, ownerModId=null, objectKey=null]
+FirewormBadnikInstance 10336,2536 spawn=ObjectSpawn[x=10336, y=2536, objectId=153, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=2536, layoutIndex=571, ownerModId=null, objectKey=null]
+AizLrzRockObjectInstance 10127,2322 spawn=ObjectSpawn[x=10127, y=2322, objectId=5, subtype=68, renderFlags=0, respawnTracked=false, rawYWord=2322, layoutIndex=558, ownerModId=null, objectKey=null]
+LrzFallingSpikeObjectInstance 10208,2188 spawn=ObjectSpawn[x=10208, y=2188, objectId=24, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=2188, layoutIndex=566, ownerModId=null, objectKey=null]
+LrzFireballLauncherObjectInstance 10331,2257 spawn=ObjectSpawn[x=10331, y=2257, objectId=27, subtype=24, renderFlags=1, respawnTracked=false, rawYWord=10449, layoutIndex=570, ownerModId=null, objectKey=null]
+Sonic3kMonitorObjectInstance 10421,2226 spawn=ObjectSpawn[x=10421, y=2226, objectId=1, subtype=8, renderFlags=0, respawnTracked=false, rawYWord=2226, layoutIndex=575, ownerModId=null, objectKey=null]

@@ -1,0 +1,20 @@
+{
+  "source_head": "8a58aafbc",
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 2,
+    "x": 5488,
+    "y": 1936,
+    "rings": 7,
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "neutral"
+  },
+  "stepped_frames": 240,
+  "hurt_frames": 85,
+  "death_frames": 0,
+  "scope": "Rejected entry: misses moving platform and falls into hazard; captured before oscillator correction."
+}

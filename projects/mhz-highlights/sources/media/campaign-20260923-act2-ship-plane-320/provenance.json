@@ -1,0 +1,29 @@
+{
+  "head": "b6c1147a2",
+  "working_tree": "Uncommitted campaign fixes, including foreground VScroll split. Captured before spike subtype rewind correction.",
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "start": "Fresh MHZ1, ordinary controller inputs through MHZ2 to actual FBZ1",
+  "gameplay_seeds": [],
+  "frames": 23775,
+  "capture_from": 22900,
+  "captured_frames": 875,
+  "deaths": 0,
+  "stills_reviewed": [
+    23550,
+    23650,
+    23774
+  ],
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "native_reference": "../native-act2-20260923/ship-corrected-zone",
+  "acceptance": "Visible ship body and propellers, cold completion and full MP4 decode. Different native/engine inputs and states; not matched-frame pixel parity.",
+  "compiled_classes_sha256": {
+    "com/openggf/graphics/TilemapGpuRenderer.class": "48821793f799851e126b36bac1a80696741dd24f791c3a80a1195b7b0bd87239",
+    "com/openggf/level/LevelRenderer.class": "eef6d0ae601c6690542028158e4590f3ebce6a9cfbd4a0ae674d6e4bcf4e0bec",
+    "com/openggf/game/sonic3k/Sonic3kZoneFeatureProvider.class": "b5631e3dd5c2faae552c0a18d98cae90f892e22e5a59c7fee35f8608789c2a77",
+    "com/openggf/game/sonic3k/scroll/SwScrlMhz.class": "ffc235e8683e0bd9af6a16558f2ae9de8234332d2ef9e565823f3f851497ead0"
+  },
+  "input_bk2_sha256": "df0f52d4d34620022ff027059a2cc90911a3e1b039feb884d1bf8597d63a351f"
+}

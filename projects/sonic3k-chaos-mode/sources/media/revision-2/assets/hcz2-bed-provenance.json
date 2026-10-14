@@ -1,0 +1,9 @@
+{
+  "source": "existing ROM-native SMPS HCZ2 render from slay-the-robotnik-promo/audio/m-hcz2.wav",
+  "purpose": "one continuous editorial bed; source capture mixed music/SFX tracks muted",
+  "sha256": "9dbef59c539916e0d74bc8a99b781c3c59f9c3ad1665d9ab8f175421ee445b52",
+  "tempoBpm": 171.107,
+  "firstBeatSeconds": 0.316,
+  "beatEvidence": "beat-evidence.txt",
+  "romIdentity": "S3K locked-on SHA1 CFBF98C36C776677290A872547AC47C53D2761D6"
+}

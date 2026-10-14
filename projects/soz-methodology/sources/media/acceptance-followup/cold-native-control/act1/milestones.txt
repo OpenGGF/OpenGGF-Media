@@ -1,0 +1,3 @@
+Act2 ready frame: 26535
+Controller frames: 26716
+Cold Sonic+Tails native320; intro enabled.

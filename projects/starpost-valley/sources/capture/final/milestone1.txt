@@ -1,0 +1,15 @@
+feat(starpost): colour outdoor acts by season and day clock
+
+Reuse Tone on the re-encoded ROM palette claims, inject the admitted director's
+palette registry, and share weather presentation with the farm scene. Verify
+live claim ownership, all seasonal light maps and calendar rewind.
+
+Changelog: n/a: Starpost Valley in progress; the finished mod adds its entry
+Guide: n/a
+Known-Discrepancies: n/a
+S3K-Known-Discrepancies: n/a
+Agent-Docs: n/a
+Configuration-Docs: n/a
+Skills: n/a
+
+Co-Authored-By: GPT-6.1-Sol <noreply@openai.com>

@@ -1,0 +1,22 @@
+{
+  "source_head": "bf7e5175c",
+  "changed_source_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/objects/S3kDezGravityRoomObjectInstance.java": "49a36e1e8c04a6b69c7e334cbac56ce7fabf1e9de8779acdbf0af0f34a08bcac"
+  },
+  "setup": {
+    "zone": "dez",
+    "act": 1,
+    "x": 9472,
+    "y": 2112,
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "600 neutral frames"
+  },
+  "frames": 600,
+  "deaths": 0,
+  "max_x": 10667,
+  "verification": "full ffmpeg decode; inspected frames 50 and 100",
+  "limit": "Lifetime-only intermediate capture. Subsequent test exposed incorrect bypass of closed gate while object-controlled. Not room completion or native parity."
+}

@@ -1,0 +1,6 @@
+Sonic3kSpringObjectInstance 4544,3144 spawn=ObjectSpawn[x=4544, y=3144, objectId=7, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=3144, layoutIndex=139, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 4725,3116 spawn=ObjectSpawn[x=4725, y=3116, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 4485,3163 spawn=ObjectSpawn[x=4485, y=3163, objectId=0, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 4613,2964 spawn=ObjectSpawn[x=4613, y=2964, objectId=0, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 4405,3014 spawn=ObjectSpawn[x=4405, y=3014, objectId=0, subtype=3, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 4517,3055 spawn=ObjectSpawn[x=4517, y=3055, objectId=0, subtype=4, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]

@@ -1,0 +1,241 @@
+{
+ "placements": [
+  {
+   "segment": "cold-open",
+   "kind": "editorial",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/final-verified/audio/s2-music-96.wav",
+   "source_frame": 0,
+   "out_frame": 0,
+   "frames": 340,
+   "gain": 1.0267
+  },
+  {
+   "segment": "hook-sonic",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz1-practice",
+   "source_frame": 584,
+   "out_frame": 324,
+   "frames": 196,
+   "gain": 0.8755
+  },
+  {
+   "segment": "hook-tails",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz2-practice",
+   "source_frame": 844,
+   "out_frame": 508,
+   "frames": 176,
+   "gain": 0.922
+  },
+  {
+   "segment": "title",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz1-practice",
+   "source_frame": 58,
+   "out_frame": 648,
+   "frames": 94,
+   "gain": 1.0949
+  },
+  {
+   "segment": "title",
+   "kind": "editorial-transition",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/final-verified/audio/s2-sfx-bc.wav",
+   "source_frame": 0,
+   "out_frame": 650,
+   "frames": 102,
+   "gain": 1.1558
+  },
+  {
+   "segment": "title-start",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz1-practice",
+   "source_frame": 262,
+   "out_frame": 730,
+   "frames": 338,
+   "gain": 1.0788
+  },
+  {
+   "segment": "how-to",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz1-practice",
+   "source_frame": 1236,
+   "out_frame": 1056,
+   "frames": 470,
+   "gain": 0.865
+  },
+  {
+   "segment": "loops",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz1-practice",
+   "source_frame": 3186,
+   "out_frame": 1502,
+   "frames": 220,
+   "gain": 0.9632
+  },
+  {
+   "segment": "springs",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz2-practice",
+   "source_frame": 851,
+   "out_frame": 1710,
+   "frames": 330,
+   "gain": 1.0402
+  },
+  {
+   "segment": "arch",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz1-practice",
+   "source_frame": 2550,
+   "out_frame": 2028,
+   "frames": 170,
+   "gain": 1.071
+  },
+  {
+   "segment": "rewind",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz1-practice",
+   "source_frame": 713,
+   "out_frame": 2162,
+   "frames": 340,
+   "gain": 1.0075
+  },
+  {
+   "segment": "rewind",
+   "kind": "editorial-transition",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/final-verified/audio/s2-sfx-bc.wav",
+   "source_frame": 0,
+   "out_frame": 2164,
+   "frames": 102,
+   "gain": 1.1558
+  },
+  {
+   "segment": "numbers",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/local-match",
+   "source_frame": 736,
+   "out_frame": 2466,
+   "frames": 150,
+   "gain": 1.2894
+  },
+  {
+   "segment": "numbers",
+   "kind": "editorial-transition",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/final-verified/audio/s2-sfx-bc.wav",
+   "source_frame": 0,
+   "out_frame": 2468,
+   "frames": 102,
+   "gain": 1.1558
+  },
+  {
+   "segment": "local",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/local-match",
+   "source_frame": 926,
+   "out_frame": 2604,
+   "frames": 420,
+   "gain": 0.9926
+  },
+  {
+   "segment": "local-2",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/local-match",
+   "source_frame": 1424,
+   "out_frame": 3024,
+   "frames": 170,
+   "gain": 1.1245
+  },
+  {
+   "segment": "online",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/online/online-host",
+   "source_frame": 424,
+   "out_frame": 3158,
+   "frames": 300,
+   "gain": 0.9171
+  },
+  {
+   "segment": "online",
+   "kind": "editorial-transition",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/final-verified/audio/s2-sfx-bc.wav",
+   "source_frame": 0,
+   "out_frame": 3160,
+   "frames": 102,
+   "gain": 1.1558
+  },
+  {
+   "segment": "online-2",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/online/online-host",
+   "source_frame": 2060,
+   "out_frame": 3446,
+   "frames": 412,
+   "gain": 1.0218
+  },
+  {
+   "segment": "mod-api",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/local-match",
+   "source_frame": 3829,
+   "out_frame": 3822,
+   "frames": 330,
+   "gain": 0.7689
+  },
+  {
+   "segment": "mod-api",
+   "kind": "editorial-transition",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/final-verified/audio/s2-sfx-bc.wav",
+   "source_frame": 0,
+   "out_frame": 3824,
+   "frames": 102,
+   "gain": 1.1558
+  },
+  {
+   "segment": "finale",
+   "kind": "game",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/ehz2-practice",
+   "source_frame": 7566,
+   "out_frame": 4128,
+   "frames": 690,
+   "gain": 0.8672
+  },
+  {
+   "segment": "end",
+   "kind": "editorial",
+   "source": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/final-verified/audio/s2-music-89.wav",
+   "source_frame": 0,
+   "out_frame": 4812,
+   "frames": 516,
+   "gain": 1.0035
+  }
+ ],
+ "segment_ac_dbfs": {
+  "hook-sonic": -28.27,
+  "hook-tails": -28.72,
+  "title": -30.21,
+  "title-start": -30.08,
+  "how-to": -28.17,
+  "loops": -29.1,
+  "springs": -29.77,
+  "arch": -30.02,
+  "rewind": -29.49,
+  "numbers": -31.63,
+  "local": -29.36,
+  "local-2": -30.44,
+  "online": -28.67,
+  "online-2": -29.61,
+  "mod-api": -28.55,
+  "finale": -28.19
+ },
+ "loudnorm_first_pass": {
+  "input_i": "-24.96",
+  "input_tp": "-11.94",
+  "input_lra": "5.10",
+  "input_thresh": "-34.97",
+  "output_i": "-14.93",
+  "output_tp": "-1.67",
+  "output_lra": "5.10",
+  "output_thresh": "-24.94",
+  "normalization_type": "dynamic",
+  "target_offset": "-0.07"
+ }
+}

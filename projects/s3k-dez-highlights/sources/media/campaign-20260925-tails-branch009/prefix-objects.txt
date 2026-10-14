@@ -1,0 +1,5 @@
+S3kDezGravityTubeObjectInstance 2368,1600 spawn=ObjectSpawn[x=2368, y=1600, objectId=90, subtype=8, renderFlags=0, respawnTracked=false, rawYWord=1600, layoutIndex=39, ownerModId=null, objectKey=null]
+DoorObjectInstance 2448,1600 spawn=ObjectSpawn[x=2448, y=1600, objectId=60, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=1600, layoutIndex=40, ownerModId=null, objectKey=null]
+Sonic3kMonitorObjectInstance 2624,1900 spawn=ObjectSpawn[x=2624, y=1900, objectId=1, subtype=6, renderFlags=0, respawnTracked=false, rawYWord=1900, layoutIndex=43, ownerModId=null, objectKey=null]
+Sonic3kSpikeObjectInstance 2732,1586 spawn=ObjectSpawn[x=2732, y=1586, objectId=8, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=1586, layoutIndex=44, ownerModId=null, objectKey=null]
+Sonic3kSpikeObjectInstance 2895,1664 spawn=ObjectSpawn[x=2895, y=1664, objectId=8, subtype=80, renderFlags=1, respawnTracked=false, rawYWord=9856, layoutIndex=48, ownerModId=null, objectKey=null]

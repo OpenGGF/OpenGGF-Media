@@ -1,0 +1,770 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "segment": "intro",
+      "out_frame": 32,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 632,
+      "scale": 4,
+      "mad_expected": 1.284,
+      "mad_neighbours": {
+        "-2": 1.704,
+        "-1": 1.62,
+        "1": 1.672,
+        "2": 1.715
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "intro",
+      "out_frame": 121,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 721,
+      "scale": 4,
+      "mad_expected": 1.391,
+      "mad_neighbours": {
+        "-2": 59.692,
+        "-1": 42.2,
+        "1": 41.793,
+        "2": 55.432
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "intro",
+      "out_frame": 228,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 828,
+      "scale": 4,
+      "mad_expected": 1.262,
+      "mad_neighbours": {
+        "-2": 35.313,
+        "-1": 22.409,
+        "1": 18.714,
+        "2": 23.574
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-sonic",
+      "out_frame": 244,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 844,
+      "scale": 4,
+      "mad_expected": 1.413,
+      "mad_neighbours": {
+        "-2": 23.42,
+        "-1": 18.939,
+        "1": 17.446,
+        "2": 28.517
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-sonic",
+      "out_frame": 301,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 901,
+      "scale": 4,
+      "mad_expected": 1.57,
+      "mad_neighbours": {
+        "-2": 102.062,
+        "-1": 63.664,
+        "1": 55.306,
+        "2": 94.606
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-sonic",
+      "out_frame": 346,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 946,
+      "scale": 4,
+      "mad_expected": 1.546,
+      "mad_neighbours": {
+        "-2": 36.439,
+        "-1": 25.356,
+        "1": 30.03,
+        "2": 35.419
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-tails",
+      "out_frame": 362,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 173,
+      "scale": 4,
+      "mad_expected": 1.778,
+      "mad_neighbours": {
+        "-2": 16.904,
+        "-1": 17.18,
+        "1": 16.061,
+        "2": 13.336
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-tails",
+      "out_frame": 427,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 238,
+      "scale": 4,
+      "mad_expected": 1.666,
+      "mad_neighbours": {
+        "-2": 16.068,
+        "-1": 16.292,
+        "1": 14.976,
+        "2": 14.656
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-tails",
+      "out_frame": 480,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 291,
+      "scale": 4,
+      "mad_expected": 1.641,
+      "mad_neighbours": {
+        "-2": 13.301,
+        "-1": 11.395,
+        "1": 11.998,
+        "2": 12.78
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "title",
+      "out_frame": 496,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "title.mkv",
+      "mkv_frame": 14,
+      "scale": 4,
+      "mad_expected": 1.311,
+      "mad_neighbours": {
+        "-2": 1.311,
+        "-1": 1.311,
+        "1": 1.311,
+        "2": 1.456
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "title",
+      "out_frame": 548,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "title.mkv",
+      "mkv_frame": 66,
+      "scale": 4,
+      "mad_expected": 1.325,
+      "mad_neighbours": {
+        "-2": 1.325,
+        "-1": 1.325,
+        "1": 1.325,
+        "2": 1.71
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "title",
+      "out_frame": 588,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "title.mkv",
+      "mkv_frame": 106,
+      "scale": 4,
+      "mad_expected": 1.335,
+      "mad_neighbours": {
+        "-2": 1.335,
+        "-1": 1.335,
+        "1": 1.335,
+        "2": 1.596
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "putt-rewind",
+      "out_frame": 604,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 24,
+      "scale": 4,
+      "mad_expected": 1.223,
+      "mad_neighbours": {
+        "-2": 1.223,
+        "-1": 1.223,
+        "1": 1.223,
+        "2": 1.223
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "putt-rewind",
+      "out_frame": 753,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 173,
+      "scale": 4,
+      "mad_expected": 2.236,
+      "mad_neighbours": {
+        "-2": 35.142,
+        "-1": 31.219,
+        "1": 17.338,
+        "2": 33.912
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "putt-rewind",
+      "out_frame": 891,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 311,
+      "scale": 4,
+      "mad_expected": 1.398,
+      "mad_neighbours": {
+        "-2": 18.083,
+        "-1": 17.87,
+        "1": 17.686,
+        "2": 17.51
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "chip-spin",
+      "out_frame": 907,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1608,
+      "scale": 4,
+      "mad_expected": 1.459,
+      "mad_neighbours": {
+        "-2": 10.465,
+        "-1": 1.981,
+        "1": 1.505,
+        "2": 1.541
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "chip-spin",
+      "out_frame": 1007,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1708,
+      "scale": 4,
+      "mad_expected": 1.381,
+      "mad_neighbours": {
+        "-2": 1.579,
+        "-1": 1.533,
+        "1": 1.578,
+        "2": 1.617
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "chip-spin",
+      "out_frame": 1095,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1796,
+      "scale": 4,
+      "mad_expected": 1.319,
+      "mad_neighbours": {
+        "-2": 25.38,
+        "-1": 17.996,
+        "1": 14.719,
+        "2": 20.855
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-1",
+      "out_frame": 1111,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1364,
+      "scale": 4,
+      "mad_expected": 1.437,
+      "mad_neighbours": {
+        "-2": 35.371,
+        "-1": 29.172,
+        "1": 30.131,
+        "2": 37.697
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-1",
+      "out_frame": 1164,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1417,
+      "scale": 4,
+      "mad_expected": 1.59,
+      "mad_neighbours": {
+        "-2": 38.944,
+        "-1": 24.153,
+        "1": 25.418,
+        "2": 29.983
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-1",
+      "out_frame": 1205,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1458,
+      "scale": 4,
+      "mad_expected": 1.425,
+      "mad_neighbours": {
+        "-2": 4.034,
+        "-1": 3.718,
+        "1": 2.831,
+        "2": 19.183
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-2",
+      "out_frame": 1221,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 3568,
+      "scale": 4,
+      "mad_expected": 1.352,
+      "mad_neighbours": {
+        "-2": 24.176,
+        "-1": 19.508,
+        "1": 19.243,
+        "2": 29.07
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-2",
+      "out_frame": 1275,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 3622,
+      "scale": 4,
+      "mad_expected": 1.649,
+      "mad_neighbours": {
+        "-2": 20.168,
+        "-1": 18.452,
+        "1": 17.767,
+        "2": 19.377
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-2",
+      "out_frame": 1317,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 3664,
+      "scale": 4,
+      "mad_expected": 1.416,
+      "mad_neighbours": {
+        "-2": 34.618,
+        "-1": 30.991,
+        "1": 29.499,
+        "2": 32.207
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-3",
+      "out_frame": 1333,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1013,
+      "scale": 4,
+      "mad_expected": 1.321,
+      "mad_neighbours": {
+        "-2": 11.105,
+        "-1": 20.325,
+        "1": 19.733,
+        "2": 11.103
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-3",
+      "out_frame": 1388,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1068,
+      "scale": 4,
+      "mad_expected": 1.574,
+      "mad_neighbours": {
+        "-2": 19.938,
+        "-1": 14.497,
+        "1": 16.249,
+        "2": 17.826
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-3",
+      "out_frame": 1431,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1111,
+      "scale": 4,
+      "mad_expected": 1.366,
+      "mad_neighbours": {
+        "-2": 17.969,
+        "-1": 15.372,
+        "1": 14.118,
+        "2": 19.065
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 1447,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1163,
+      "scale": 3,
+      "mad_expected": 1.476,
+      "mad_neighbours": {
+        "-2": 1.877,
+        "-1": 1.754,
+        "1": 1.835,
+        "2": 1.89
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 1514,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1230,
+      "scale": 3,
+      "mad_expected": 1.833,
+      "mad_neighbours": {
+        "-2": 19.836,
+        "-1": 15.146,
+        "1": 15.973,
+        "2": 20.206
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 1569,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1285,
+      "scale": 3,
+      "mad_expected": 1.994,
+      "mad_neighbours": {
+        "-2": 21.026,
+        "-1": 17.046,
+        "1": 14.853,
+        "2": 20.041
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 1447,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1591,
+      "scale": 3,
+      "mad_expected": 1.695,
+      "mad_neighbours": {
+        "-2": 1.973,
+        "-1": 1.918,
+        "1": 2.218,
+        "2": 2.286
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 1514,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1658,
+      "scale": 3,
+      "mad_expected": 2.127,
+      "mad_neighbours": {
+        "-2": 19.596,
+        "-1": 17.972,
+        "1": 16.658,
+        "2": 18.017
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 1569,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1713,
+      "scale": 3,
+      "mad_expected": 2.012,
+      "mad_neighbours": {
+        "-2": 38.138,
+        "-1": 31.837,
+        "1": 17.803,
+        "2": 17.849
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "local",
+      "out_frame": 1585,
+      "src": "local-two-player-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 85,
+      "scale": 4,
+      "mad_expected": 1.31,
+      "mad_neighbours": {
+        "-2": 1.658,
+        "-1": 1.536,
+        "1": 1.519,
+        "2": 1.657
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "local",
+      "out_frame": 1766,
+      "src": "local-two-player-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 266,
+      "scale": 4,
+      "mad_expected": 1.231,
+      "mad_neighbours": {
+        "-2": 1.231,
+        "-1": 1.231,
+        "1": 1.231,
+        "2": 1.525
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "local",
+      "out_frame": 1936,
+      "src": "local-two-player-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 436,
+      "scale": 4,
+      "mad_expected": 1.466,
+      "mad_neighbours": {
+        "-2": 31.695,
+        "-1": 34.045,
+        "1": 33.959,
+        "2": 28.692
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "online",
+      "out_frame": 2025,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "title.mkv",
+      "mkv_frame": 12,
+      "scale": 3,
+      "mad_expected": 4.105,
+      "mad_neighbours": {
+        "-2": 4.246,
+        "-1": 4.246,
+        "1": 4.105,
+        "2": 4.105
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "online",
+      "out_frame": 2078,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "title.mkv",
+      "mkv_frame": 65,
+      "scale": 3,
+      "mad_expected": 4.198,
+      "mad_neighbours": {
+        "-2": 4.506,
+        "-1": 4.198,
+        "1": 4.198,
+        "2": 4.198
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "online",
+      "out_frame": 2119,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "title.mkv",
+      "mkv_frame": 106,
+      "scale": 3,
+      "mad_expected": 4.111,
+      "mad_neighbours": {
+        "-2": 4.111,
+        "-1": 4.111,
+        "1": 4.111,
+        "2": 4.371
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "finale",
+      "out_frame": 2135,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 2080,
+      "scale": 4,
+      "mad_expected": 1.352,
+      "mad_neighbours": {
+        "-2": 1.604,
+        "-1": 1.578,
+        "1": 1.517,
+        "2": 1.607
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "finale",
+      "out_frame": 2234,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 2179,
+      "scale": 4,
+      "mad_expected": 1.563,
+      "mad_neighbours": {
+        "-2": 14.746,
+        "-1": 12.953,
+        "1": 11.234,
+        "2": 14.827
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "finale",
+      "out_frame": 2322,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 2267,
+      "scale": 4,
+      "mad_expected": 1.307,
+      "mad_neighbours": {
+        "-2": 1.307,
+        "-1": 1.307,
+        "1": 1.307,
+        "2": 1.307
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "engine",
+      "out_frame": 2338,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 714,
+      "scale": 2,
+      "mad_expected": 2.484,
+      "mad_neighbours": {
+        "-2": 39.379,
+        "-1": 36.174,
+        "1": 37.169,
+        "2": 41.729
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "engine",
+      "out_frame": 2487,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 863,
+      "scale": 2,
+      "mad_expected": 1.69,
+      "mad_neighbours": {
+        "-2": 2.283,
+        "-1": 1.889,
+        "1": 1.914,
+        "2": 1.968
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "engine",
+      "out_frame": 2625,
+      "src": "ehz2-tails-final-v5",
+      "file": "gameplay.mkv",
+      "mkv_frame": 1001,
+      "scale": 2,
+      "mad_expected": 1.916,
+      "mad_neighbours": {
+        "-2": 2.204,
+        "-1": 2.136,
+        "1": 2.475,
+        "2": 2.528
+      },
+      "static_tie": false,
+      "ok": true
+    }
+  ]
+}

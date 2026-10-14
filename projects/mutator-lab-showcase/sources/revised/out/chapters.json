@@ -1,0 +1,1437 @@
+{
+  "frames": 6990,
+  "duration_s": 116.5,
+  "shots": 29,
+  "segments": [
+    {
+      "id": "open-ringstorm",
+      "kind": "full",
+      "frames": 142,
+      "output_frames": [
+        0,
+        142
+      ],
+      "start_s": 0.0,
+      "end_s": 2.3666666666666667,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+          "frames": [
+            708,
+            850
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.3,
+          "173 rings. One hit."
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "title",
+      "kind": "full",
+      "frames": 150,
+      "output_frames": [
+        142,
+        292
+      ],
+      "start_s": 2.3666666666666667,
+      "end_s": 4.866666666666666,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-allon",
+          "frames": [
+            540,
+            690
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "hero-config",
+      "kind": "full",
+      "frames": 124,
+      "output_frames": [
+        292,
+        416
+      ],
+      "start_s": 4.866666666666666,
+      "end_s": 6.933333333333334,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+          "frames": [
+            84,
+            208
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          1.9,
+          "Drop the whole inventory"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          118
+        ]
+      ]
+    },
+    {
+      "id": "hero-run",
+      "kind": "full",
+      "frames": 530,
+      "output_frames": [
+        416,
+        946
+      ],
+      "start_s": 6.933333333333334,
+      "end_s": 15.766666666666667,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+          "frames": [
+            470,
+            1000
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.3,
+          2.65,
+          "Bank 173 rings"
+        ],
+        [
+          3.8,
+          5.3,
+          "One hit: every ring comes out"
+        ],
+        [
+          5.4,
+          8.7,
+          "Grab them back \u2014 the head regrows"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "hero-compare",
+      "kind": "pair",
+      "frames": 122,
+      "output_frames": [
+        946,
+        1068
+      ],
+      "start_s": 15.766666666666667,
+      "end_s": 17.8,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-native",
+          "frames": [
+            518,
+            640
+          ],
+          "crop": [
+            0,
+            150,
+            960,
+            672
+          ],
+          "audio": false
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+          "frames": [
+            702,
+            824
+          ],
+          "crop": [
+            960,
+            150,
+            960,
+            672
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          1.95,
+          "Same hit, same input"
+        ]
+      ],
+      "labels": [
+        "NATIVE: 32 DROP",
+        "FULL INVENTORY: 173 DROP"
+      ],
+      "note": "Both: positioned start, 140 rings carried in",
+      "configuration_local_frames": []
+    },
+    {
+      "id": "chain-config",
+      "kind": "full",
+      "frames": 166,
+      "output_frames": [
+        1068,
+        1234
+      ],
+      "start_s": 17.8,
+      "end_s": 20.566666666666666,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-syz-chain",
+          "frames": [
+            84,
+            250
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.65,
+          "300% rebound \u00b7 choose a speed cap"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          156
+        ]
+      ]
+    },
+    {
+      "id": "chain-run",
+      "kind": "full",
+      "frames": 740,
+      "output_frames": [
+        1234,
+        1974
+      ],
+      "start_s": 20.566666666666666,
+      "end_s": 32.9,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-syz-chain",
+          "frames": [
+            290,
+            1030
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.3,
+          3.1,
+          "Badniks become launch pads"
+        ],
+        [
+          3.75,
+          5.6,
+          "\u00d72"
+        ],
+        [
+          6.3,
+          8.0,
+          "\u00d73"
+        ],
+        [
+          8.65,
+          10.4,
+          "\u00d74"
+        ],
+        [
+          11.2,
+          12.3,
+          "\u00d75 \u2014 2,800 points"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "grav-normal",
+      "kind": "full",
+      "frames": 110,
+      "output_frames": [
+        1974,
+        2084
+      ],
+      "start_s": 32.9,
+      "end_s": 34.733333333333334,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-s2-live",
+          "frames": [
+            50,
+            160
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          1.7,
+          "Normal gravity"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "grav-on",
+      "kind": "full",
+      "frames": 354,
+      "output_frames": [
+        2084,
+        2438
+      ],
+      "start_s": 34.733333333333334,
+      "end_s": 40.63333333333333,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-s2-live",
+          "frames": [
+            186,
+            540
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.65,
+          "Slide gravity down to 25%"
+        ],
+        [
+          2.85,
+          5.8,
+          "Moon jump \u2014 no restart"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          156
+        ]
+      ]
+    },
+    {
+      "id": "grav-off",
+      "kind": "full",
+      "frames": 214,
+      "output_frames": [
+        2438,
+        2652
+      ],
+      "start_s": 40.63333333333333,
+      "end_s": 44.2,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-s2-live",
+          "frames": [
+            606,
+            820
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          1.65,
+          "Toggle it off"
+        ],
+        [
+          1.8,
+          3.45,
+          "Back to normal"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          80
+        ]
+      ]
+    },
+    {
+      "id": "speed-normal",
+      "kind": "full",
+      "frames": 130,
+      "output_frames": [
+        2652,
+        2782
+      ],
+      "start_s": 44.2,
+      "end_s": 46.36666666666667,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-speed-live",
+          "frames": [
+            110,
+            240
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.05,
+          "Game Speed: 100%"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "speed-on",
+      "kind": "full",
+      "frames": 408,
+      "output_frames": [
+        2782,
+        3190
+      ],
+      "start_s": 46.36666666666667,
+      "end_s": 53.166666666666664,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-speed-live",
+          "frames": [
+            352,
+            760
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          3.85,
+          "Choose 200% \u2014 and audio follows"
+        ],
+        [
+          4.55,
+          6.7,
+          "Two native ticks per frame \u2014 music too"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          258
+        ]
+      ]
+    },
+    {
+      "id": "speed-compare",
+      "kind": "trio",
+      "frames": 280,
+      "output_frames": [
+        3190,
+        3470
+      ],
+      "start_s": 53.166666666666664,
+      "end_s": 57.833333333333336,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-speed50",
+          "frames": [
+            20,
+            300
+          ],
+          "crop": [
+            0,
+            220,
+            640,
+            448
+          ],
+          "audio": false
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-speed100",
+          "frames": [
+            20,
+            300
+          ],
+          "crop": [
+            640,
+            220,
+            640,
+            448
+          ],
+          "audio": true
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-speed200",
+          "frames": [
+            20,
+            300
+          ],
+          "crop": [
+            1280,
+            220,
+            640,
+            448
+          ],
+          "audio": false
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          4.5,
+          "Same input. Same time on screen."
+        ]
+      ],
+      "labels": [
+        "50%",
+        "100%",
+        "200%"
+      ],
+      "note": "Act start \u00b7 audio at normal rate in all three",
+      "configuration_local_frames": []
+    },
+    {
+      "id": "stealth-before",
+      "kind": "full",
+      "frames": 70,
+      "output_frames": [
+        3470,
+        3540
+      ],
+      "start_s": 57.833333333333336,
+      "end_s": 59.0,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-stealth",
+          "frames": [
+            30,
+            100
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.1,
+          1.1,
+          "Big Head: fixed 200%"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "stealth-on",
+      "kind": "full",
+      "frames": 454,
+      "output_frames": [
+        3540,
+        3994
+      ],
+      "start_s": 59.0,
+      "end_s": 66.56666666666666,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-stealth",
+          "frames": [
+            146,
+            600
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          1.9,
+          "Stealth on"
+        ],
+        [
+          2.3,
+          4.8,
+          "Invisible \u2014 still playing"
+        ],
+        [
+          5.0,
+          6.4,
+          "Still collecting rings\u2026"
+        ],
+        [
+          6.45,
+          7.5,
+          "\u2026still defeating Mashers"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          117
+        ]
+      ]
+    },
+    {
+      "id": "stealth-off",
+      "kind": "full",
+      "frames": 193,
+      "output_frames": [
+        3994,
+        4187
+      ],
+      "start_s": 66.56666666666666,
+      "end_s": 69.78333333333333,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-stealth",
+          "frames": [
+            742,
+            935
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          1.9,
+          "Stealth off"
+        ],
+        [
+          2.15,
+          3.1,
+          "Back \u2014 head and all"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          114
+        ]
+      ]
+    },
+    {
+      "id": "np-before",
+      "kind": "full",
+      "frames": 275,
+      "output_frames": [
+        4187,
+        4462
+      ],
+      "start_s": 69.78333333333333,
+      "end_s": 74.36666666666666,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-np",
+          "frames": [
+            165,
+            440
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.1,
+          1.25,
+          "Ten-ring monitor"
+        ],
+        [
+          3.45,
+          4.5,
+          "Invincibility monitor"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "np-config",
+      "kind": "full",
+      "frames": 76,
+      "output_frames": [
+        4462,
+        4538
+      ],
+      "start_s": 74.36666666666666,
+      "end_s": 75.63333333333334,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-np",
+          "frames": [
+            776,
+            852
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.05,
+          1.2,
+          "Remove only Invincibility"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          76
+        ]
+      ]
+    },
+    {
+      "id": "np-compare",
+      "kind": "pair",
+      "frames": 290,
+      "output_frames": [
+        4538,
+        4828
+      ],
+      "start_s": 75.63333333333334,
+      "end_s": 80.46666666666667,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-np",
+          "frames": [
+            165,
+            455
+          ],
+          "crop": [
+            0,
+            150,
+            960,
+            672
+          ],
+          "audio": false
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-np",
+          "frames": [
+            1222,
+            1512
+          ],
+          "crop": [
+            960,
+            150,
+            960,
+            672
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.6,
+          "Ten-ring monitor stays"
+        ],
+        [
+          3.1,
+          4.7,
+          "Invincibility monitor is gone"
+        ]
+      ],
+      "labels": [
+        "BEFORE",
+        "AFTER FULL RESTART"
+      ],
+      "note": "Same take \u00b7 selective removal applies on a full restart",
+      "configuration_local_frames": []
+    },
+    {
+      "id": "norings-before",
+      "kind": "full",
+      "frames": 120,
+      "output_frames": [
+        4828,
+        4948
+      ],
+      "start_s": 80.46666666666667,
+      "end_s": 82.46666666666667,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-norings",
+          "frames": [
+            250,
+            370
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          1.85,
+          "Rings on the hill\u2026"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "norings-config",
+      "kind": "full",
+      "frames": 150,
+      "output_frames": [
+        4948,
+        5098
+      ],
+      "start_s": 82.46666666666667,
+      "end_s": 84.96666666666667,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-norings",
+          "frames": [
+            410,
+            560
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.35,
+          "No Rings \u2014 restart the act"
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": [
+        [
+          0,
+          150
+        ]
+      ]
+    },
+    {
+      "id": "norings-after",
+      "kind": "full",
+      "frames": 290,
+      "output_frames": [
+        5098,
+        5388
+      ],
+      "start_s": 84.96666666666667,
+      "end_s": 89.8,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-norings",
+          "frames": [
+            1150,
+            1440
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.75,
+          "\u2026gone"
+        ],
+        [
+          3.15,
+          4.7,
+          "No rings. One hit is fatal."
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "nc-hit",
+      "kind": "pair",
+      "frames": 146,
+      "output_frames": [
+        5388,
+        5534
+      ],
+      "start_s": 89.8,
+      "end_s": 92.23333333333333,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-nc",
+          "frames": [
+            74,
+            220
+          ],
+          "crop": [
+            0,
+            150,
+            960,
+            672
+          ],
+          "audio": false
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-nc",
+          "frames": [
+            554,
+            700
+          ],
+          "crop": [
+            960,
+            150,
+            960,
+            672
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.1,
+          2.3,
+          "Same fatal hit"
+        ]
+      ],
+      "labels": [
+        "WITH CHECKPOINT",
+        "NO CHECKPOINTS ON LOAD"
+      ],
+      "note": "Two deaths in one take \u00b7 setting applies on the next load",
+      "configuration_local_frames": []
+    },
+    {
+      "id": "nc-result",
+      "kind": "pair",
+      "frames": 90,
+      "output_frames": [
+        5534,
+        5624
+      ],
+      "start_s": 92.23333333333333,
+      "end_s": 93.73333333333333,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-nc",
+          "frames": [
+            553,
+            643
+          ],
+          "crop": [
+            0,
+            150,
+            960,
+            672
+          ],
+          "audio": false
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-nc",
+          "frames": [
+            812,
+            902
+          ],
+          "crop": [
+            960,
+            150,
+            960,
+            672
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.05,
+          1.4,
+          "Post respawn vs act start"
+        ]
+      ],
+      "labels": [
+        "RESPAWN AT POST",
+        "RESPAWN AT ACT START"
+      ],
+      "note": "Two actual respawns \u00b7 loading and settings cut",
+      "configuration_local_frames": []
+    },
+    {
+      "id": "ss-touch",
+      "kind": "pair",
+      "frames": 140,
+      "output_frames": [
+        5624,
+        5764
+      ],
+      "start_s": 93.73333333333333,
+      "end_s": 96.06666666666666,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-ss-stock",
+          "frames": [
+            240,
+            380
+          ],
+          "crop": [
+            0,
+            150,
+            960,
+            672
+          ],
+          "audio": true
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-ss-deny",
+          "frames": [
+            424,
+            564
+          ],
+          "crop": [
+            960,
+            150,
+            960,
+            672
+          ],
+          "audio": false
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.2,
+          "Same jump into the giant ring"
+        ]
+      ],
+      "labels": [
+        "STOCK",
+        "NO SPECIAL STAGES"
+      ],
+      "note": "Both: positioned near the goal, 50 rings carried in",
+      "configuration_local_frames": []
+    },
+    {
+      "id": "ss-outcome",
+      "kind": "pair",
+      "frames": 150,
+      "output_frames": [
+        5764,
+        5914
+      ],
+      "start_s": 96.06666666666666,
+      "end_s": 98.56666666666666,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-ss-stock",
+          "frames": [
+            1386,
+            1536
+          ],
+          "crop": [
+            0,
+            150,
+            960,
+            672
+          ],
+          "audio": true
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-ss-deny",
+          "frames": [
+            1712,
+            1862
+          ],
+          "crop": [
+            960,
+            150,
+            960,
+            672
+          ],
+          "audio": false
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          2.35,
+          "After the native act transition"
+        ]
+      ],
+      "labels": [
+        "SPECIAL STAGE",
+        "STRAIGHT INTO ACT 2"
+      ],
+      "note": "Both: positioned near the goal, 50 rings carried in \u00b7 loading cut",
+      "configuration_local_frames": []
+    },
+    {
+      "id": "bon-compare",
+      "kind": "pair",
+      "frames": 332,
+      "output_frames": [
+        5914,
+        6246
+      ],
+      "start_s": 98.56666666666666,
+      "end_s": 104.1,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-bonus-stock",
+          "frames": [
+            112,
+            444
+          ],
+          "crop": [
+            0,
+            150,
+            960,
+            672
+          ],
+          "audio": true
+        },
+        {
+          "take": "/home/farrell/scratch/agent-tmp/claude/mutator-complete-showcase-20261010/captures/final-bonus-deny",
+          "frames": [
+            296,
+            628
+          ],
+          "crop": [
+            960,
+            150,
+            960,
+            672
+          ],
+          "audio": false
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          3.0,
+          "Enter a bonus stage\u2026"
+        ],
+        [
+          3.45,
+          5.4,
+          "\u2026or keep the run moving"
+        ]
+      ],
+      "labels": [
+        "STOCK: BONUS STARS",
+        "NO BONUS STAGES"
+      ],
+      "note": "Sonic 3 & Knuckles only \u00b7 positioned at starpost, 25 rings carried in",
+      "configuration_local_frames": []
+    },
+    {
+      "id": "finale-run",
+      "kind": "full",
+      "frames": 564,
+      "output_frames": [
+        6246,
+        6810
+      ],
+      "start_s": 104.1,
+      "end_s": 113.5,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-aiz-allon",
+          "frames": [
+            470,
+            1034
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [
+        [
+          0.15,
+          3.4,
+          "Stack them: low gravity, giant head"
+        ],
+        [
+          3.65,
+          4.9,
+          "211 rings in the bank\u2026"
+        ],
+        [
+          5.0,
+          6.55,
+          "\u2026one Rhinobot later"
+        ],
+        [
+          6.75,
+          9.3,
+          "Grab them back. Do it again."
+        ]
+      ],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    },
+    {
+      "id": "outro",
+      "kind": "full",
+      "frames": 180,
+      "output_frames": [
+        6810,
+        6990
+      ],
+      "start_s": 113.5,
+      "end_s": 116.5,
+      "sources": [
+        {
+          "take": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/captures/final-ghz-hero",
+          "frames": [
+            960,
+            1140
+          ],
+          "crop": [
+            320,
+            40,
+            1280,
+            896
+          ],
+          "audio": true
+        }
+      ],
+      "captions": [],
+      "labels": [],
+      "note": null,
+      "configuration_local_frames": []
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Cold open",
+      "start_s": 0.0,
+      "end_s": 2.3666666666666667
+    },
+    {
+      "title": "Title",
+      "start_s": 2.3666666666666667,
+      "end_s": 4.866666666666666
+    },
+    {
+      "title": "Ringfall + Big Head",
+      "start_s": 4.866666666666666,
+      "end_s": 17.8
+    },
+    {
+      "title": "Violent Explosions",
+      "start_s": 17.8,
+      "end_s": 32.9
+    },
+    {
+      "title": "Gravity",
+      "start_s": 32.9,
+      "end_s": 44.2
+    },
+    {
+      "title": "Game Speed",
+      "start_s": 44.2,
+      "end_s": 57.833333333333336
+    },
+    {
+      "title": "Stealth",
+      "start_s": 57.833333333333336,
+      "end_s": 69.78333333333333
+    },
+    {
+      "title": "No Powerups",
+      "start_s": 69.78333333333333,
+      "end_s": 80.46666666666667
+    },
+    {
+      "title": "No Rings",
+      "start_s": 80.46666666666667,
+      "end_s": 89.8
+    },
+    {
+      "title": "No Checkpoints",
+      "start_s": 89.8,
+      "end_s": 93.73333333333333
+    },
+    {
+      "title": "No Special Stages",
+      "start_s": 93.73333333333333,
+      "end_s": 98.56666666666666
+    },
+    {
+      "title": "No Bonus Stages",
+      "start_s": 98.56666666666666,
+      "end_s": 104.1
+    },
+    {
+      "title": "Stack everything",
+      "start_s": 104.1,
+      "end_s": 113.5
+    },
+    {
+      "title": "Outro",
+      "start_s": 113.5,
+      "end_s": 116.5
+    }
+  ],
+  "speed": "native source frames1:1, no editorial retiming"
+}

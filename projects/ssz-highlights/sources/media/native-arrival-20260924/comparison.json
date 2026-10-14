@@ -1,0 +1,18 @@
+{
+  "bg_formula_discrepancies": [],
+  "palette_nonzero_patch_matches": true,
+  "knuckles_landing": {
+    "frame": 450214,
+    "x": 928,
+    "y": 3172
+  },
+  "cloud_phase_change": {
+    "frame": 449512,
+    "timer": 384,
+    "velocity40": 16
+  },
+  "limitations": "Read-only native observation from AD40 movie; engine videos use 82EA movie, so no frame-aligned parity claim.",
+  "source": "run2 (corrected y_vel accumulator offset $1A)",
+  "bg_formula_rows": 3654,
+  "palette_restore_matches_backup": true
+}

@@ -1,0 +1,17 @@
+chapter,out_start_s,out_end_s,source,native_start,native_end,mkv_start_s,mkv_end_s,transition_in
+"Cold open: Sonic 2, a whole new way to play",0.000,8.067,ehz1-sonic-rewind-final-v5/gameplay.mkv,1200,1684,20.000,28.067,
+Hook: Sonic is the ball,7.667,12.000,ehz1-sonic-rewind-final-v5/gameplay.mkv,1660,1920,27.667,32.000,build
+Hook: or Tails,11.800,16.467,ehz2-tails-final-v5/gameplay.mkv,330,610,5.500,10.167,flash
+Title,16.067,20.067,ehz1-sonic-rewind-final-v5/title.mkv,,,0.000,4.000,stripes
+"Putt, roll and rewind",19.733,30.167,ehz1-sonic-rewind-final-v5/gameplay.mkv,24,650,0.400,10.833,iris
+"Chip, loft and spin",29.900,36.967,ehz1-sonic-rewind-final-v5/gameplay.mkv,3196,3620,53.267,60.333,push
+Real Sonic 2 physics (arch),36.567,40.633,ehz1-sonic-rewind-final-v5/gameplay.mkv,2700,2944,45.000,49.067,stripes
+"Real Sonic 2 physics (EHZ2 corkscrew, Tails)",40.367,44.367,ehz2-tails-final-v5/gameplay.mkv,7116,7356,118.600,122.600,push
+Real Sonic 2 physics (EHZ1 bridges and corkscrew),44.167,48.167,ehz1-sonic-rewind-final-v5/gameplay.mkv,2010,2250,33.500,37.500,flash
+Sonic or Tails (left),47.767,52.767,ehz1-sonic-rewind-final-v5/gameplay.mkv,2298,2598,38.300,43.300,stripes
+Sonic or Tails (right),47.767,52.767,ehz2-tails-final-v5/gameplay.mkv,3154,3454,52.567,57.567,stripes
+"Local two-player: Sonic, then Tails",52.500,65.000,local-two-player-final-v5/gameplay.mkv,150,900,2.500,15.000,push
+Online play (menu),64.600,71.100,ehz1-sonic-rewind-final-v5/title.mkv,,,0.000,4.000,stripes
+Finale: Emerald Hill 1 finish,70.767,77.867,ehz1-sonic-rewind-final-v5/gameplay.mkv,4136,4562,68.933,76.033,iris
+Built on OpenGGF (mini),77.467,87.967,ehz2-tails-final-v5/gameplay.mkv,1400,2030,23.333,33.833,stripes
+Learn more,87.633,96.133,card (original graphics),,,,,iris

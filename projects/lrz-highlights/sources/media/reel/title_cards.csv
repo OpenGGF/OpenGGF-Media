@@ -1,0 +1,19 @@
+kind,chapter,title,sub,tags,theme,source,caption,source_start_seconds,source_end_seconds
+intro,LAVA REEF ZONE,THE LAVA REEF BRING-UP,Sonic 3 & Knuckles · zone 06 · from the act-1 route through the seamless miniboss handoff into act 2,OPENGGF|SONIC 3 & KNUCKLES,finale,,,,
+clip,1 · ACT 1,COLD ROUTE,The cold route reaches the door and opens it from the recorded entry,NEW,lava,13-lrz1-cold-route-door-opened.mp4,Cold route: the door opens,0,3.016667
+clip,1 · ACT 1,SMASHING SPIKES,"The spike platform drops, smashes and releases the route",NEW,lava,21-lrz1-smashing-spike-platform.mp4,The smashing spike platform,0,3.416667
+clip,1 · ACT 1,THE SPIKE BALL BREAKS LOOSE,The spike ball leaves its track and continues down the route,NEW,lava,23-lrz1-spike-ball-breaks-loose.mp4,The spike ball breaks loose,0,3.333333
+clip,1 · ACT 1,THE ROCK CRUSHER,The crusher cycles through its full movement while Sonic passes beneath it,NEW,lava,24-lrz1-rock-crusher.mp4,The rock crusher,0,11.666667
+clip,1 · ACT 1,IWAMODOKI,"Iwamodoki wakes, throws its rocks and returns to its ROM timing",NEW,lava,25-lrz1-iwamodoki.mp4,Iwamodoki,0,7.666667
+clip,1 · ACT 1,TOXOMISTER,Toxomister patrols its position and keeps its act-1 behavior,NEW,lava,26-lrz1-toxomister.mp4,Toxomister,0,8.333333
+clip,1 · ACT 1,FIREWORM,Fireworm's moving body and fire stay attached through the route,NEW,lava,27-lrz1-fireworm.mp4,Fireworm,0,3.850000
+clip,1 · ACT 1,MIST CATCHES SONIC,Toxomister's mist reaches Sonic and produces the recorded consequence,NEW,lava,28-lrz1-toxomister-mist-catches.mp4,Toxomister mist catches Sonic,0,3.683008
+clip,1 · MINIBOSS,THE DRILL ARRIVES,The camera locks and the miniboss's two arms unroll link by link from the floor,NEW,boss,29-lrz1-miniboss-arrival-and-arms.mp4,Miniboss arrival and arms,0,7.183333
+clip,1 · MINIBOSS,THE DRILL TAKES A HIT,The insta-shield pass reaches the drill's touch box and opens the flash window,NEW,boss,30-lrz1-miniboss-takes-a-hit.mp4,The miniboss takes a hit,0,2.683333
+clip,1 · MINIBOSS,THE ARM PEELS AWAY,The hand takes its fourth hit and the whole right arm breaks away,NEW,boss,31-lrz1-miniboss-hand-destroyed-and-arm-peels.mp4,The hand breaks and the arm peels away,0,2.683333
+clip,1 · MINIBOSS,THE DRILL IS DEFEATED,The final hits end the fight and hand over to the end-of-act sign,NEW,boss,32-lrz1-miniboss-defeated.mp4,Miniboss defeated,0,3.850000
+clip,1 · THE HANDOFF,ACT CHANGE WITHOUT A CARD,The results screen stays up while the floor and act change underneath it,NEW,lava,33-lrz1-results-and-the-act-change.mp4,Results and the act change,0,3.100000
+clip,2 · ACT 2,ACT 2 OPENS,Control returns and Sonic runs into act 2 across the crystal floor,NEW,space,34-lrz-act-change-walks-into-act-2.mp4,Act 2 opens into its route,0,12.516667
+clip,2 · ACT 2,THE PALETTE CHANGES AT $2C0,Act 2 takes its own colors at the ROM's camera threshold,NEW,space,35-lrz-act-2-takes-its-palette-at-2c0.mp4,Act 2 takes its palette,0,6.350000
+clip,2 · ACT 2,THE FIRST FLAME THROWER,The native controller route reaches the first act-2 flame thrower,NEW,space,36-lrz2-native-route-flame-thrower.mp4,Native route: the first flame thrower,0,7.016667
+outro,THE RESULT,LAVA REEF IS MOVING,"Objects, miniboss flow, seamless act change and the first native act-2 route now have filmed evidence",LRZ|S3K,finale,,,,

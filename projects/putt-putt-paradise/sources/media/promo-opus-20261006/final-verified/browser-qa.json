@@ -1,0 +1,27 @@
+{
+ "video": "putt-putt-paradise-promo.mp4",
+ "browser": "T3 collaborative preview (Chromium), loopback HTTP with Range",
+ "playback_rate": 1,
+ "muted": false,
+ "duration": 88.8,
+ "ended": true,
+ "played_from_s": 0,
+ "sampler_from_media_s": 20.846,
+ "samples_while_playing": 272,
+ "measured_rate_min": 0.9985,
+ "measured_rate_max": 1.0025,
+ "stalls_while_playing": 0,
+ "distinct_sampled_frame_hashes": 246,
+ "total_video_frames": 5328,
+ "dropped_video_frames": 0,
+ "corrupted_video_frames": 0,
+ "decoded_audio_bytes": 2904880,
+ "decoded_video_bytes": 91183784,
+ "media_error": null,
+ "size": [
+  1920,
+  1080
+ ],
+ "sha256": "5bb6b99d0437ff023710e5671ca3ed2f96b0eaea11d77c133b3182de2c5579e3",
+ "limits": "Whole film played once at 1x, unmuted, from 0 to the end in a background preview tab; a 250 ms canvas sampler ran from 20.8 s (rates measured 0.9985-1.0025 over 2 s windows). Browser counters show presentation health, not encoded cadence (verify.json covers that). Audio decoding confirmed by byte counters only; no human listening."
+}

@@ -1,0 +1,19 @@
+{
+ "note": "First 22 state columns (all v5 columns) compared row by row over the rows both captures contain; new captures run 360 rows longer for the Stage Clear jingle and scorecard.",
+ "ehz1-practice": {
+  "v5": "ehz1-sonic-rewind-final-v5",
+  "rows_new": 4923,
+  "rows_v5": 4563,
+  "compared_rows": 4563,
+  "mismatched_rows": 0,
+  "events_identical_to_v5": true
+ },
+ "ehz2-practice": {
+  "v5": "ehz2-tails-final-v5",
+  "rows_new": 7845,
+  "rows_v5": 7485,
+  "compared_rows": 7485,
+  "mismatched_rows": 0,
+  "events_identical_to_v5": true
+ }
+}

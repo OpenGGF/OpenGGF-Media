@@ -1,0 +1,8 @@
+Gameplay clock: 60 Hz
+PNG stride: 4 gameplay frames
+Encoded video rate: 15 fps (preserves gameplay duration)
+First sampled frame: 0
+Last sampled frame: 26712
+PNG count: 6679
+Scale: 3x nearest neighbour (960x672)
+Original PNGs retained. This is an ordinary engine capture, not native parity evidence.

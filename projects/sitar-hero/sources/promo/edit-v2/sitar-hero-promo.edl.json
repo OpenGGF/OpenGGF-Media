@@ -1,0 +1,160 @@
+{
+  "segments": [
+    {
+      "chapter": "Sitar Hero",
+      "source": "../raw-v2/career/career.mp4",
+      "start": 0.0,
+      "end": 6.0,
+      "caption": "SITAR HERO",
+      "sub": "AN OPENGGF EXAMPLE MOD / YOUR ROMS, YOUR BAND",
+      "clip": "/tmp/opus-promo-work-v2/seg-00.mkv",
+      "length": 6.0,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/career/career.mp4"
+    },
+    {
+      "chapter": "Tour every world",
+      "source": "../raw-v2/career/career.mp4",
+      "start": 5.983333333333333,
+      "end": 11.6,
+      "caption": "TOUR EVERY WORLD",
+      "sub": "PICK A PERFORMER, AN INSTRUMENT AND A LEVEL",
+      "fade": 0.016666666666666666,
+      "clip": "/tmp/opus-promo-work-v2/seg-01.mkv",
+      "length": 5.616666666666666,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/career/career.mp4"
+    },
+    {
+      "chapter": "A satirical career",
+      "source": "../raw-v2/career/career.mp4",
+      "start": 11.583333333333332,
+      "end": 19.6667,
+      "caption": "A SATIRICAL WORLD TOUR",
+      "sub": "ROBOTNIK'S SCHEME WITH THE WHOLE CAST ON STAGE",
+      "fade": 0.016666666666666666,
+      "clip": "/tmp/opus-promo-work-v2/seg-02.mkv",
+      "length": 8.083366666666667,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/career/career.mp4"
+    },
+    {
+      "chapter": "Full songs from your ROMs",
+      "source": "../raw-v2/career/career.mp4",
+      "start": 21.6,
+      "end": 24.0,
+      "caption": "FULL SONGS FROM YOUR OWN ROMS",
+      "sub": "SONIC 3 & KNUCKLES TITLE CARDS INCLUDED",
+      "fade": 0.4,
+      "clip": "/tmp/opus-promo-work-v2/seg-03.mkv",
+      "length": 2.3999999999999986,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/career/career.mp4"
+    },
+    {
+      "chapter": "Count-in",
+      "source": "../raw-v2/career/career.mp4",
+      "start": 194.0,
+      "end": 201.0,
+      "caption": "FULL SONGS FROM YOUR OWN ROMS",
+      "sub": "AUTOPLAY DEMO / REAL ENGINE CAPTURE",
+      "fade": 0.3,
+      "clip": "/tmp/opus-promo-work-v2/seg-04.mkv",
+      "length": 7.0,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/career/career.mp4"
+    },
+    {
+      "chapter": "Bongos: Sonic 1",
+      "source": "../raw-v2/gh-bongos/gh-bongos.mp4",
+      "start": 138.3333,
+      "end": 143.3333,
+      "caption": "FOUR INSTRUMENTS, SEVEN PERFORMERS",
+      "sub": "SONIC 1 GREEN HILL / KNUCKLES ON BONGOS",
+      "fade": 0.4,
+      "clip": "/tmp/opus-promo-work-v2/seg-05.mkv",
+      "length": 5.0,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/gh-bongos/gh-bongos.mp4"
+    },
+    {
+      "chapter": "Synth: Sonic 2",
+      "source": "../raw-v2/cpz-synth/cpz-synth.mp4",
+      "start": 158.3333,
+      "end": 163.3333,
+      "caption": "FOUR INSTRUMENTS, SEVEN PERFORMERS",
+      "sub": "SONIC 2 CHEMICAL PLANT / TAILS ON SYNTH",
+      "fade": 0.4,
+      "clip": "/tmp/opus-promo-work-v2/seg-06.mkv",
+      "length": 5.0,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/cpz-synth/cpz-synth.mp4"
+    },
+    {
+      "chapter": "Harp: Sonic 3 & Knuckles",
+      "source": "../raw-v2/lbz-harp/lbz-harp.mp4",
+      "start": 169.1667,
+      "end": 174.1667,
+      "caption": "FOUR INSTRUMENTS, SEVEN PERFORMERS",
+      "sub": "SONIC 3 & KNUCKLES LAUNCH BASE / ROBOTNIK ON HARP",
+      "fade": 0.4,
+      "clip": "/tmp/opus-promo-work-v2/seg-07.mkv",
+      "length": 5.0,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/lbz-harp/lbz-harp.mp4"
+    },
+    {
+      "chapter": "Local score duel",
+      "source": "../raw-v2/duel/duel.mp4",
+      "start": 132.5,
+      "end": 140.0,
+      "caption": "LOCAL CO-OP AND SCORE DUELS",
+      "sub": "TWO PLAYERS, TWO HIGHWAYS, ONE SONG",
+      "fade": 0.4,
+      "clip": "/tmp/opus-promo-work-v2/seg-08.mkv",
+      "length": 7.5,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/duel/duel.mp4"
+    },
+    {
+      "chapter": "Streaks and Star Power",
+      "source": "../raw-v2/finale/finale.mp4",
+      "start": 152.5,
+      "end": 161.6667,
+      "caption": "STREAKS AND STAR POWER",
+      "sub": "CHARGE IT ON BRIGHT PHRASES, THEN DOUBLE THE MULTIPLIER",
+      "fade": 0.4,
+      "clip": "/tmp/opus-promo-work-v2/seg-09.mkv",
+      "length": 9.166699999999992,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/finale/finale.mp4"
+    },
+    {
+      "chapter": "Results",
+      "source": "../raw-v2/finale/finale.mp4",
+      "start": 251.8333,
+      "end": 258.3333,
+      "caption": "TALLIED LIKE AN ACT CLEAR",
+      "sub": "STARS, GRADES AND BEST SCORES",
+      "fade": 0.4,
+      "clip": "/tmp/opus-promo-work-v2/seg-10.mkv",
+      "length": 6.5,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/finale/finale.mp4"
+    },
+    {
+      "chapter": "Play it",
+      "source": "../raw-v2/outro/outro.mp4",
+      "start": 2.0,
+      "end": 9.5,
+      "caption": "./LAUNCH-SITAR-HERO.SH",
+      "sub": "BUILD IT IN AN OPENGGF CHECKOUT WITH YOUR OWN ROMS",
+      "fade": 0.5,
+      "clip": "/tmp/opus-promo-work-v2/seg-11.mkv",
+      "length": 7.5,
+      "resolved": "/home/farrell/scratch/agent-tmp/codex/sitar-hero-polish/promo/raw-v2/outro/outro.mp4"
+    }
+  ],
+  "loudness_first_pass": {
+    "input_i": "-26.95",
+    "input_tp": "-12.11",
+    "input_lra": "5.20",
+    "input_thresh": "-37.07",
+    "output_i": "-15.80",
+    "output_tp": "-1.50",
+    "output_lra": "4.10",
+    "output_thresh": "-25.90",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.20"
+  },
+  "output_duration_expected": 71.1334
+}

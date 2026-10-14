@@ -1,0 +1,80 @@
+{
+ "note": "Compare the r5 real-menu-route captures with the r4 direct-entry captures (Opus, 2026-10-06).",
+ "ehz1-practice": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 4923,
+  "rows_old": 4923,
+  "compared_rows": 4803,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "0"
+  ]
+ },
+ "ehz2-practice": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 7851,
+  "rows_old": 7851,
+  "compared_rows": 7731,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "1"
+  ]
+ },
+ "local-match": {
+  "anchor": "course-ready",
+  "anchor_row_new": 120,
+  "anchor_row_old": 120,
+  "shift_rows": 0,
+  "rows_new": 31771,
+  "rows_old": 31771,
+  "compared_rows": 31651,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "0",
+   "1"
+  ]
+ },
+ "online/online-host": {
+  "anchor": "handoff-0",
+  "anchor_row_new": 56,
+  "anchor_row_old": 56,
+  "shift_rows": 0,
+  "rows_new": 4985,
+  "rows_old": 4985,
+  "compared_rows": 4929,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "0"
+  ]
+ },
+ "online/online-guest": {
+  "anchor": "handoff-0",
+  "anchor_row_new": 56,
+  "anchor_row_old": 56,
+  "shift_rows": 0,
+  "rows_new": 4985,
+  "rows_old": 4985,
+  "compared_rows": 4929,
+  "mismatched_rows": 0,
+  "first_mismatch": null,
+  "events_after_anchor_identical": true,
+  "acts_new": [
+   "0"
+  ]
+ },
+ "reference": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-final/_superseded-82a"
+}

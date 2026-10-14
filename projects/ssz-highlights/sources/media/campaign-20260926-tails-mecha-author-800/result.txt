@@ -1,0 +1,8 @@
+Result[stop=DEFEATED, frames=14587]
+ROM=/home/farrell/code/projects/OpenGGF/s3k.gen
+settings=Settings[width=800, mainCharacter=tails, sidekickCharacter=, donor=off, donorRom=null, startX=null, startY=null, emeraldStates=null, showTitleCard=false, completeSpecialStage=false, vIntRunCount=null, cameraXSub=null, starPost=false, rings=null, reverseGravity=false]
+input=src/test/resources/routes/s3k/ssz1-tails-solo-cold-mecha-entry-800.bk2
+prefix=13558
+encounter=MECHA
+maxNewInputs=3000
+Fresh uninterrupted replay required.

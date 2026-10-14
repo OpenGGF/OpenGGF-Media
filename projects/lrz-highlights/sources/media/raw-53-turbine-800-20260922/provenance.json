@@ -1,0 +1,25 @@
+{
+  "base_commit": "715b46176",
+  "source_state": "base plus uncommitted turbine registration, ROM art and logical press fix; 2026-09-22",
+  "game": "s3k",
+  "zone": 9,
+  "act": 2,
+  "width": 800,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "entry": "positioned",
+  "setup": {
+    "x": "0xF80",
+    "y": "0x3F8"
+  },
+  "input": "inputs/lrz2-turbine-20260922-v1.txt",
+  "frames": 300,
+  "fps": 60,
+  "stride": 1,
+  "audio": false,
+  "jump_frame": 180,
+  "jump_y_velocity": -2928,
+  "dead_frames": 0,
+  "limits": "Engine demonstration; no cold-route or native visual parity claim."
+}

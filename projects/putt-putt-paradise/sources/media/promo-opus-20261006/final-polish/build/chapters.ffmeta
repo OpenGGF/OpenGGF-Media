@@ -1,0 +1,58 @@
+;FFMETADATA1
+title=Putt Putt Paradise - Sonic 2 Mini Golf (OpenGGF example mod)
+comment=Gameplay is real OpenGGF engine footage at normal speed with its own captured game audio. Opener uses OpenGGF 0.6 Sonic 2 footage; Title/Option themes rendered from the Sonic 2 ROM in editing.
+[CHAPTER]
+TIMEBASE=1/60
+START=0
+END=320
+title=OpenGGF: the open-source engine for classic Sonic
+[CHAPTER]
+TIMEBASE=1/60
+START=320
+END=650
+title=What if Sonic was the golf ball?
+[CHAPTER]
+TIMEBASE=1/60
+START=650
+END=1028
+title=Putt Putt Paradise: Sonic 2 Mini Golf
+[CHAPTER]
+TIMEBASE=1/60
+START=1028
+END=1474
+title=One button: aim, hit point, power
+[CHAPTER]
+TIMEBASE=1/60
+START=1474
+END=2140
+title=Real Sonic 2 physics: loops, springs, badniks
+[CHAPTER]
+TIMEBASE=1/60
+START=2140
+END=2468
+title=Rewind a whole shot
+[CHAPTER]
+TIMEBASE=1/60
+START=2468
+END=3034
+title=Local two-player
+[CHAPTER]
+TIMEBASE=1/60
+START=3034
+END=3712
+title=Online play over direct IP
+[CHAPTER]
+TIMEBASE=1/60
+START=3712
+END=4018
+title=Make your own with the OpenGGF Mod API
+[CHAPTER]
+TIMEBASE=1/60
+START=4018
+END=4678
+title=The final putt: Hole Complete
+[CHAPTER]
+TIMEBASE=1/60
+START=4678
+END=5218
+title=Learn more

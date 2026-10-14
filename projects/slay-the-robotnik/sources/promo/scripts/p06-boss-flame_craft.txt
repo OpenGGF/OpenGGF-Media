@@ -1,0 +1,4 @@
+# jump: sonic:7:fight:aiz:flame_craft@1:15:0
+# ticks: 420
+200:enter +30:enter
++70:enter +30:enter

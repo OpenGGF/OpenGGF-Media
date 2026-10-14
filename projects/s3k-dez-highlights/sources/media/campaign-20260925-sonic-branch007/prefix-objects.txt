@@ -1,0 +1,6 @@
+DoorObjectInstance 11408,1984 spawn=ObjectSpawn[x=11408, y=1984, objectId=60, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=1984, layoutIndex=349, ownerModId=null, objectKey=null]
+S3kDezGravityTubeObjectInstance 11264,1984 spawn=ObjectSpawn[x=11264, y=1984, objectId=90, subtype=16, renderFlags=0, respawnTracked=false, rawYWord=1984, layoutIndex=348, ownerModId=null, objectKey=null]
+S3kDezTunnelLauncherObjectInstance 11264,1712 spawn=ObjectSpawn[x=11264, y=1712, objectId=87, subtype=6, renderFlags=1, respawnTracked=false, rawYWord=9904, layoutIndex=347, ownerModId=null, objectKey=null]
+StillSpriteInstance 11208,1692 spawn=ObjectSpawn[x=11208, y=1692, objectId=47, subtype=50, renderFlags=1, respawnTracked=false, rawYWord=9884, layoutIndex=345, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 11184,1850 spawn=ObjectSpawn[x=11184, y=1850, objectId=7, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=1850, layoutIndex=343, ownerModId=null, objectKey=null]
+S3kDezGravityTubeObjectInstance 11072,2048 spawn=ObjectSpawn[x=11072, y=2048, objectId=90, subtype=72, renderFlags=0, respawnTracked=false, rawYWord=2048, layoutIndex=341, ownerModId=null, objectKey=null]

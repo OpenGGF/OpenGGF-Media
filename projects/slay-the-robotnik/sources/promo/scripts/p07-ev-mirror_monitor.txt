@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:mirror_monitor@3:6:1
+# ticks: 560
+90:enter
++330:enter

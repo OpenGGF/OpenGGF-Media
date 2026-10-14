@@ -1,0 +1,1 @@
+Sonic3kMonitorObjectInstance 14960,817 spawn=ObjectSpawn[x=14960, y=817, objectId=1, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=817, layoutIndex=438, ownerModId=null, objectKey=null]

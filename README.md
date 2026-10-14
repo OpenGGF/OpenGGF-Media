@@ -1,0 +1,71 @@
+# OpenGGF-Media
+
+Production sources for OpenGGF promotional reels, development highlights and mod
+showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
+provenance and original DaVinci Resolve editing projects.
+
+**25 production groups · 6,322 preserved source files · approximately 155 GiB of
+external material catalogued.** The videos and raw captures remain external;
+this repository contains their production sources and location catalog.
+
+## Browse the productions
+
+| Production | Sources | External asset/sequence entries |
+| --- | ---: | ---: |
+| [Hidden Palace highlights and capture sources](projects/hpz-highlights/) | 55 | 236 |
+| [Doomsday highlights and capture sources](projects/ddz-highlights/) | 86 | 228 |
+| [Lava Reef highlights and capture sources](projects/lrz-highlights/) | 1,772 | 5,106 |
+| [Sky Sanctuary highlights and capture sources](projects/ssz-highlights/) | 515 | 1,646 |
+| [Death Egg highlights and capture sources](projects/s3k-dez-highlights/) | 796 | 2,092 |
+| [Mushroom Hill highlights and capture sources](projects/mhz-highlights/) | 158 | 408 |
+| [Sandopolis highlights and capture sources](projects/soz-highlights/) | 62 | 138 |
+| [Death Egg campaign follow-ups highlights and capture sources](projects/dez-highlights/) | 39 | 142 |
+| [Flying Battery highlights and capture sources](projects/fbz-highlights/) | 4 | 21 |
+| [Original Sonic 1 / Sonic 2 / Sonic 3&K release reels](projects/release-reels/) | 11 | 75 |
+| [Seamless act presentation](projects/seamless-presentation/) | 5 | 15 |
+| [Sky Sanctuary arena demo revisions](projects/ssz-arena-demos/) | 8 | 24 |
+| [Slay the Robotnik highlights and promo](projects/slay-the-robotnik/) | 263 | 109 |
+| [Starpost Valley promo and follow-ups](projects/starpost-valley/) | 92 | 206 |
+| [Sonic 3&K ending reel revisions](projects/s3k-endings/) | 16 | 155 |
+| [Putt-Putt Paradise highlights and promo revisions](projects/putt-putt-paradise/) | 350 | 357 |
+| [Flappy Tails promo](projects/flappy-tails/) | 7 | 56 |
+| [Typing of the Hedgehog promo](projects/typing-of-the-hedgehog/) | 23 | 44 |
+| [Sitar Hero promo](projects/sitar-hero/) | 25 | 15 |
+| [Mutator Lab expansion promo](projects/mutator-lab-expansion/) | 5 | 2 |
+| [Mutator Lab gameplay promo](projects/mutator-lab-gameplay/) | 678 | 335 |
+| [Mutator Lab complete showcase and audio revision](projects/mutator-lab-showcase/) | 480 | 403 |
+| [Sandopolis earlier work highlights](projects/soz-methodology/) | 609 | 2,120 |
+| [Sonic 3&K Chaos Mode demo and second-revision blueprint](projects/sonic3k-chaos-mode/) | 258 | 298 |
+| [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
+
+The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later
+collections cover zone bring-ups, ending sequences, Slay the Robotnik, Putt-Putt
+Paradise, Flappy Tails, Typing of the Hedgehog, Sitar Hero, Starpost Valley,
+Mutator Lab and Chaos Mode. Retained drafts and revisions remain identifiable;
+Chaos Mode revision 2 includes work in progress.
+
+## Use the archive
+
+- [Rebuild and relink an edit](docs/rebuilding.md)
+- [Production/engine references](docs/source-references.md)
+- [Scope, maintenance and rights](docs/archive-policy.md)
+- [External footage and asset catalog](catalog/assets.csv)
+- [Original root locations](catalog/roots.json)
+- [Preserved source hashes and provenance](catalog/sources.json)
+- [Resolve media references](catalog/resolve-references.json)
+- [Initial import scope and measurements](catalog/import.json)
+
+```sh
+python3 tools/catalog.py projects
+python3 tools/catalog.py assets slay-the-robotnik --limit 20
+python3 tools/catalog.py verify
+```
+
+Original scripts preserve their historical paths and dependencies. Consult each
+production's plan before rebuilding; the archive is not a promise that every
+historical edit runs unchanged on the current engine. The source catalog verifies
+included file hashes, not external footage availability or a fresh render.
+
+[OpenGGF](https://github.com/OpenGGF/OpenGGF) is an independent fan project, with no
+Sega affiliation. ROMs and extracted game assets are not included. Engine-derived
+code retains its GPL-3.0 terms; see [rights](docs/archive-policy.md#rights).

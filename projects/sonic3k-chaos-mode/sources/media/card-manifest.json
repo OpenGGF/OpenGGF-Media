@@ -1,0 +1,126 @@
+{
+  "background": "/home/farrell/scratch/sonic3k-chaos-demo-20261014/assets/aiz-background.png",
+  "native_size": [
+    400,
+    224
+  ],
+  "fps": 60,
+  "reviews": [
+    [
+      [
+        "I PREFERRED",
+        "THE PILLARS."
+      ],
+      "KNUCKLES"
+    ],
+    [
+      [
+        "FINALLY",
+        "SOME HELP."
+      ],
+      "ROBOTNIK"
+    ],
+    [
+      [
+        "WHERE DID",
+        "THE FLOOR GO?"
+      ],
+      "SONIC"
+    ]
+  ],
+  "cards": [
+    {
+      "name": "one",
+      "frames": 72,
+      "fps": 60,
+      "duration_seconds": 1.2,
+      "pattern": "cards/one/f%04d.png",
+      "lines": [
+        "ONE",
+        "HEDGEHOG"
+      ],
+      "editorial": true
+    },
+    {
+      "name": "no",
+      "frames": 72,
+      "fps": 60,
+      "duration_seconds": 1.2,
+      "pattern": "cards/no/f%04d.png",
+      "lines": [
+        "NO",
+        "RULES"
+      ],
+      "editorial": true
+    },
+    {
+      "name": "chaos",
+      "frames": 120,
+      "fps": 60,
+      "duration_seconds": 2.0,
+      "pattern": "cards/chaos/f%04d.png",
+      "lines": [
+        "CHAOS",
+        "MODE"
+      ],
+      "editorial": true
+    },
+    {
+      "name": "side",
+      "frames": 72,
+      "fps": 60,
+      "duration_seconds": 1.2,
+      "pattern": "cards/side/f%04d.png",
+      "lines": [
+        "SIDE",
+        "EFFECTS"
+      ],
+      "editorial": true
+    },
+    {
+      "name": "optional",
+      "frames": 90,
+      "fps": 60,
+      "duration_seconds": 1.5,
+      "pattern": "cards/optional/f%04d.png",
+      "lines": [
+        "OPTIONAL",
+        "SIDEGAMES"
+      ],
+      "editorial": true
+    },
+    {
+      "name": "reviews",
+      "frames": 270,
+      "fps": 60,
+      "duration_seconds": 4.5,
+      "pattern": "cards/reviews/f%04d.png",
+      "lines": [],
+      "editorial": true
+    },
+    {
+      "name": "end",
+      "frames": 300,
+      "fps": 60,
+      "duration_seconds": 5.0,
+      "pattern": "cards/end/f%04d.png",
+      "lines": [
+        "CHAOS",
+        "MODE"
+      ],
+      "editorial": true
+    },
+    {
+      "name": "post",
+      "frames": 120,
+      "fps": 60,
+      "duration_seconds": 2.0,
+      "pattern": "cards/post/f%04d.png",
+      "lines": [
+        "GOOD",
+        "LUCK"
+      ],
+      "editorial": true
+    }
+  ]
+}

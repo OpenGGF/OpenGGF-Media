@@ -1,0 +1,5 @@
+# jump: compendium:0
+# ticks: 600
+60:down +20:down +20:down +20:down +20:right +20:right +20:right
++40:tab +60:down +20:down +20:right +20:right
++40:tab +60:down +20:right

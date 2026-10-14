@@ -1,0 +1,14 @@
+fix: connect Starpost town to the real valley terrain
+
+Share sky-row and admission mapping, reproject daily pickups, and retain
+S1 HUD and scene donor soundtrack across the act bridge.
+
+Changelog: n/a: Starpost Valley in progress; the finished mod adds its entry
+Guide: n/a
+Known-Discrepancies: n/a
+S3K-Known-Discrepancies: n/a
+Agent-Docs: n/a
+Configuration-Docs: n/a
+Skills: n/a
+
+Co-Authored-By: GPT-6.1-Sol <noreply@openai.com>

@@ -1,0 +1,17 @@
+{
+  "revision": "b6c1147a2 plus campaign edits and exact-SST registration fix",
+  "game": "s3k",
+  "zone": "mhz",
+  "act": 1,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "setup": "Fresh locked-on level select. No position, clock, emerald, ring or health seed. Controller-only input.",
+  "frames": 9301,
+  "capture_from": 7240,
+  "last_frame": 9300,
+  "verification": "9301 rows, zero deaths/followers; full ffmpeg decode passed. TestS3kMhzAuthoredRoute completes MHZ1 with six live restore/replay spots, including released MHZ2. Focused shared transition selection passes26 cases, zero skips. Not native frame/pixel parity or full breadth certification.",
+  "input_sha256": "b56e810e5759a89964efd501cf77e34f16a48700caab6d0b1e856ee513114a89",
+  "class_sha256": "6b663b54df15be731bc941cfcc6bd05f1588d2479f4c182f03b9812a79855782"
+}

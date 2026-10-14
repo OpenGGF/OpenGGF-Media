@@ -1,0 +1,1 @@
+return {state_frame=415400,first=421500,last=425000,screenshots={[421800]=true,[422200]=true,[422600]=true,[423000]=true,[423400]=true,[423800]=true,[424200]=true,[424600]=true,[425000]=true},background=true}

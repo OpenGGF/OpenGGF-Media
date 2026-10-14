@@ -1,0 +1,14 @@
+# The run's flow in one take: Hydrocity's map, landing on a badnik node, the dip into the fight,
+# three cards played, the badniks defeated (debug kill), victory, rings and a card reward.
+# jump: knuckles:7:map:2
+# ticks: 1000
+90:right
++40:right
++40:enter          # land on a badnik node
++150:enter +30:enter
++60:enter +30:enter
++60:enter +30:enter
++70:jump=kill
++170:enter         # rings
++50:enter          # card reward
++60:right +30:enter

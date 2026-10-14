@@ -1,0 +1,14 @@
+formatVersion: 1
+id: flappy-promo-soundboard
+name: Flappy promo soundboard
+version: 0.0.1
+authors:
+  - task tool
+description: Plays S3K sound effects one a second with no music, for promo stingers.
+engineApiRange: ">=0.7.0 <0.8.0"
+type: patch
+baseGame: s3k
+entrypoint: board.BoardMod
+dependencies: []
+audioOverrides: {}
+artOverrides: {}

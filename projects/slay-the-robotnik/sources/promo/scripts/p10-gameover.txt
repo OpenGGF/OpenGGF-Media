@@ -1,0 +1,3 @@
+# jump: knuckles:7:fight:lbz:beam_rocket
+# ticks: 560
+170:jump=die

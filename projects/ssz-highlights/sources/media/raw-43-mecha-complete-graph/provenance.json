@@ -1,0 +1,29 @@
+{
+  "source_head": "d094005bba5effde19e3a1926c90e3a4e945f438",
+  "source_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/constants/Sonic3kConstants.java": "5f248a5d32fde2520a9fb563fadaa56321e2c0e761eef07fd695995ee5b8b142",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaSonicObjectInstance.java": "e182ab84a0c5a237396b52be8b3e4e593d8289c65ae6a90596a4e6265e378150",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMechaSonicCollisionChild.java": "0bbffcf43d2b8ddb69fd1cf11d2af36b28e158f62c9a14202efb8c18c2dcf22e"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "ssz",
+    "act": 1,
+    "star_post": [
+      6720,
+      1648
+    ],
+    "rings": 355,
+    "emeralds": "3333333",
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off"
+  },
+  "input": "../raw-40-mecha-launch-hyper/InputLog.txt",
+  "stepped_frames": 4800,
+  "destination_camera_row": 4223,
+  "deaths": 0,
+  "verification": "full 80-second video decoded without error; frame 4700 inspected in DEZ1; controller route with declared Hyper checkpoint setup, not cold-route/native parity",
+  "validated_commit": "7dc253667"
+}

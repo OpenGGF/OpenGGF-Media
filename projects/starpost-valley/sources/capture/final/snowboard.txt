@@ -1,0 +1,11 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+40:jump=festival_start_ice_cap
+110:enter
+180:down
+220:enter
+570:hold=right
+650:z
+780:z
+920:release=right

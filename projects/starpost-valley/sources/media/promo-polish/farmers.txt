@@ -1,0 +1,4 @@
+0:jump=music_off
+160:enter
+300:right
+410:right

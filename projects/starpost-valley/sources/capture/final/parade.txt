@@ -1,0 +1,10 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+40:jump=festival_start_sunflower_parade
+210:hold=right
+240:z
+280:z
+320:z
+360:z
+390:release=right

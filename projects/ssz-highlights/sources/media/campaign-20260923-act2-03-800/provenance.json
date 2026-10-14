@@ -1,0 +1,29 @@
+{
+  "base_commit": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty_worktree": true,
+  "class_sha256": {
+    "game/sonic3k/render/HczBgHighPriorityTileRenderer": "64bf70c41af384ec16fcdf8c46d2d1e5719ac7dc93c41018571afb2d6211c765",
+    "game/sonic3k/render/SszAct2BackgroundPriorityEffect": "1a3e93adfb5b120c6c519e5ba7651693220a0d09d8d1d495176f609190b56d60",
+    "game/sonic3k/scroll/SszAct2Deformation": "e3843fcb69b767abef94f9aaf883721eda70c069a2bad9edf37c9702a0d282ca",
+    "game/sonic3k/scroll/SwScrlSsz": "542b98199583fb02cfad518e323abb788252127ab83e410a7304e63dd7f968da"
+  },
+  "game": "s3k",
+  "zone": 10,
+  "act": 2,
+  "main": "knuckles",
+  "sidekick": "none",
+  "width": 800,
+  "frames": 720,
+  "input": "neutral",
+  "verification": {
+    "full_mp4_decode": true,
+    "state_rows": 720,
+    "width_state_rows_identical": true,
+    "world_crop_0_52_320_190_identical": {
+      "70": true,
+      "300": true,
+      "600": true
+    }
+  },
+  "presentation_status": "Floating island visible after high-priority BG replay. Crane placeholder, palette and complete encounter remain unfinished; this is not complete-act or native trajectory parity evidence."
+}

@@ -1,0 +1,4 @@
+S3kDezRetractingSpringObjectInstance 7632,1216 spawn=ObjectSpawn[x=7632, y=1216, objectId=93, subtype=2, renderFlags=3, respawnTracked=false, rawYWord=25792, layoutIndex=332, ownerModId=null, objectKey=null]
+S3kDezRetractingSpringObjectInstance 7472,1408 spawn=ObjectSpawn[x=7472, y=1408, objectId=93, subtype=2, renderFlags=2, respawnTracked=false, rawYWord=17792, layoutIndex=327, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 7342,829 spawn=ObjectSpawn[x=7342, y=829, objectId=7, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=829, layoutIndex=323, ownerModId=null, objectKey=null]
+S3kDezGravityTubeObjectInstance 7232,1152 spawn=ObjectSpawn[x=7232, y=1152, objectId=90, subtype=164, renderFlags=0, respawnTracked=false, rawYWord=1152, layoutIndex=316, ownerModId=null, objectKey=null]

@@ -1,0 +1,302 @@
+{
+ "capture": "online-host",
+ "shot_row": 1912,
+ "request_row": 1982,
+ "rewind_rows": [
+  1988,
+  2030
+ ],
+ "rewind_level_dbfs": -29.9,
+ "reversed": {
+  "corr": 0.719,
+  "rate": 0.9,
+  "offset_hops": 104
+ },
+ "unreversed": {
+  "corr": 0.231,
+  "rate": 0.75,
+  "offset_hops": 126
+ },
+ "packets": {
+  "voiced": 43,
+  "sample_exact_reversed": 41,
+  "min_corr": 0.6499,
+  "rates": [
+   1
+  ],
+  "forward_rows_first_last": [
+   1981.0,
+   1941.0
+  ],
+  "steps_per_row": [
+   -1.0
+  ],
+  "unmatched_rows": [
+   1988,
+   1989
+  ],
+  "stereo_int16_identical_reversed": 41
+ },
+ "per_packet": [
+  {
+   "row": 1988,
+   "corr": 0.6913,
+   "rate": 1,
+   "forward_row": 1980.451
+  },
+  {
+   "row": 1989,
+   "corr": 0.6499,
+   "rate": 1,
+   "forward_row": 1980.901
+  },
+  {
+   "row": 1990,
+   "corr": 1.0002,
+   "rate": 1,
+   "forward_row": 1981.0
+  },
+  {
+   "row": 1991,
+   "corr": 1.0002,
+   "rate": 1,
+   "forward_row": 1980.0
+  },
+  {
+   "row": 1992,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1979.0
+  },
+  {
+   "row": 1993,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1978.0
+  },
+  {
+   "row": 1994,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1977.0
+  },
+  {
+   "row": 1995,
+   "corr": 0.9998,
+   "rate": 1,
+   "forward_row": 1976.0
+  },
+  {
+   "row": 1996,
+   "corr": 1.0004,
+   "rate": 1,
+   "forward_row": 1975.0
+  },
+  {
+   "row": 1997,
+   "corr": 1.0005,
+   "rate": 1,
+   "forward_row": 1974.0
+  },
+  {
+   "row": 1998,
+   "corr": 1.0002,
+   "rate": 1,
+   "forward_row": 1973.0
+  },
+  {
+   "row": 1999,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1972.0
+  },
+  {
+   "row": 2000,
+   "corr": 1.0001,
+   "rate": 1,
+   "forward_row": 1971.0
+  },
+  {
+   "row": 2001,
+   "corr": 1.0001,
+   "rate": 1,
+   "forward_row": 1970.0
+  },
+  {
+   "row": 2002,
+   "corr": 1.0003,
+   "rate": 1,
+   "forward_row": 1969.0
+  },
+  {
+   "row": 2003,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1968.0
+  },
+  {
+   "row": 2004,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1967.0
+  },
+  {
+   "row": 2005,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1966.0
+  },
+  {
+   "row": 2006,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1965.0
+  },
+  {
+   "row": 2007,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1964.0
+  },
+  {
+   "row": 2008,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1963.0
+  },
+  {
+   "row": 2009,
+   "corr": 1.0002,
+   "rate": 1,
+   "forward_row": 1962.0
+  },
+  {
+   "row": 2010,
+   "corr": 1.0004,
+   "rate": 1,
+   "forward_row": 1961.0
+  },
+  {
+   "row": 2011,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1960.0
+  },
+  {
+   "row": 2012,
+   "corr": 1.0003,
+   "rate": 1,
+   "forward_row": 1959.0
+  },
+  {
+   "row": 2013,
+   "corr": 1.0001,
+   "rate": 1,
+   "forward_row": 1958.0
+  },
+  {
+   "row": 2014,
+   "corr": 1.0001,
+   "rate": 1,
+   "forward_row": 1957.0
+  },
+  {
+   "row": 2015,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1956.0
+  },
+  {
+   "row": 2016,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1955.0
+  },
+  {
+   "row": 2017,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1954.0
+  },
+  {
+   "row": 2018,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1953.0
+  },
+  {
+   "row": 2019,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1952.0
+  },
+  {
+   "row": 2020,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1951.0
+  },
+  {
+   "row": 2021,
+   "corr": 1.0001,
+   "rate": 1,
+   "forward_row": 1950.0
+  },
+  {
+   "row": 2022,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1949.0
+  },
+  {
+   "row": 2023,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1948.0
+  },
+  {
+   "row": 2024,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1947.0
+  },
+  {
+   "row": 2025,
+   "corr": 0.9999,
+   "rate": 1,
+   "forward_row": 1946.0
+  },
+  {
+   "row": 2026,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1945.0
+  },
+  {
+   "row": 2027,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1944.0
+  },
+  {
+   "row": 2028,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1943.0
+  },
+  {
+   "row": 2029,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1942.0
+  },
+  {
+   "row": 2030,
+   "corr": 1.0,
+   "rate": 1,
+   "forward_row": 1941.0
+  }
+ ],
+ "reverse_evident": true,
+ "waveform_reverse_match": true
+}

@@ -1,0 +1,29 @@
+{
+  "native_first_write": 416397,
+  "row_offsets": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60
+  ],
+  "callback_offset": 68,
+  "matched_state_rows": 94,
+  "palette_words_per_row": 5,
+  "shared_timer": "32767 minus elapsed frame",
+  "cram_lag_frames": 1,
+  "viewed_native_frames": [
+    416398,
+    416430,
+    416458
+  ],
+  "conclusion": "Exact ROM-table colors, delays, finite callback and post-AnPal timer write corroborated. Native scene/team/controller differs from positioned engine movie; no full-scene pixel parity claim."
+}

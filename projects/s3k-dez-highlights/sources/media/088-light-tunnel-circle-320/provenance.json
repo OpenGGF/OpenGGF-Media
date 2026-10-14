@@ -1,0 +1,11 @@
+{
+  "base_commit": "408b95256",
+  "frames": 900,
+  "hurt_rows": 0,
+  "death_rows": 0,
+  "first_hurt": null,
+  "source_sha256": "5d2169c2a29e9285ce99f7e61149b4738afcb823b978456caf2a4aedfb136c8d",
+  "scope": "Positioned DEZ1 component capture; Sonic solo, seven initial rings, neutral input. Not a cold route or native cadence comparison.",
+  "verification": "First 900 frames of circular route; native/wide player rows agree. Stops just short of release; superseded by 090.",
+  "validated_commit": "a427d8a03"
+}

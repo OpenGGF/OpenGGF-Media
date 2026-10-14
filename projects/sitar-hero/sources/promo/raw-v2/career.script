@@ -1,0 +1,8 @@
+# Title tableau (Angel Island), cursor glide, career into Angel Island's intermission, then the show.
+# Autoplay is armed before the gig starts; it is labelled DEMO on screen and saves nothing.
+270:down 300:down 330:up 360:up
+400:enter 440:enter 480:enter 520:enter
+560:down 590:down 640:enter
+700:enter
+880:enter 1060:enter 1240:escape
+1290:jump=autoplay 1300:enter

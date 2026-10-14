@@ -1,0 +1,97 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "avg_frame_rate": "30/1",
+  "codec": "h264",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 1499,
+  "decoded_frames": 1499,
+  "duration": 49.967,
+  "audio_streams": 0,
+  "chapters": [
+    [
+      0.0,
+      2.9,
+      "Hook: Sonic is the ball"
+    ],
+    [
+      2.9,
+      4.667,
+      "Hook: or Tails"
+    ],
+    [
+      4.667,
+      7.533,
+      "Title"
+    ],
+    [
+      7.533,
+      11.833,
+      "Putt, roll and rewind"
+    ],
+    [
+      11.833,
+      17.0,
+      "Chip, loft and spin"
+    ],
+    [
+      17.0,
+      18.667,
+      "Real Sonic 2 physics"
+    ],
+    [
+      18.667,
+      20.2,
+      "Real Sonic 2 physics (Tails, EHZ2)"
+    ],
+    [
+      20.2,
+      21.267,
+      "Real Sonic 2 physics (arch)"
+    ],
+    [
+      21.267,
+      23.433,
+      "Real Sonic 2 physics (EHZ2 corkscrew)"
+    ],
+    [
+      23.433,
+      25.667,
+      "Sonic or Tails"
+    ],
+    [
+      25.667,
+      28.067,
+      "Local two-player: Sonic"
+    ],
+    [
+      28.067,
+      32.333,
+      "Local two-player: Tails"
+    ],
+    [
+      32.333,
+      35.5,
+      "Online play (menu)"
+    ],
+    [
+      35.5,
+      39.133,
+      "Finale: Emerald Hill 1 finish"
+    ],
+    [
+      39.133,
+      44.467,
+      "Built on OpenGGF"
+    ],
+    [
+      44.467,
+      49.967,
+      "Learn more"
+    ]
+  ],
+  "pts_delta_min": 0.03333299999999895,
+  "pts_delta_max": 0.03333400000000353,
+  "full_decode_ok": true,
+  "ok": true
+}

@@ -1,0 +1,16 @@
+start_seconds,end_seconds,chapter,source (clip and frames)
+0.00,1.72,Cold open: the OpenGGF badge,OpenGGF 0.6 promo master: S1 Green Hill
+1.72,5.93,"Sonic 1, 2 and 3 & Knuckles side by side (three-way split)","0.6 promo masters: S1 Star Light, S2 Emerald Hill, S3K Angel Island"
+5.93,7.33,"Now, something new",0.6 promo master: S3K Angel Island boss
+7.33,12.93,Title drop: Slay the Robotnik,p01-title 760-1095
+12.93,19.95,"Choose your hero, the spin-dash off and Angel Island's title card (one take)",p02-select 110-530
+19.95,31.17,"Chart your path and play your cards: map, fight, victory (one take)",p13-journey 95-768
+31.17,36.43,"Bosses drop in (2x2 grid): Flame Craft, Big Shaker, Big Arm, Beam Rocket",p06-boss-* from frame 2
+36.43,40.63,22 events: the slot machine's real reels,p07-ev-slot_machine 118-369
+40.63,46.60,Eight more events at once,p07-ev-* picture panels
+46.60,52.57,"Relics, items and upgrades (three rooms at once), then the numbers","p08-capsule, p08-starpost, p08-shop"
+52.57,56.77,"Every sprite, every sound, every stage: read from your ROM","slices of p01-title, p06-boss-big_arm, p07-ev-special_stage"
+56.77,59.58,Make your own: the Mod API and hello-scene,p12-hello beside HelloSceneMod's code
+59.58,69.40,"The final fight: Mecha Sonic, the Master Emerald, Super Mecha Sonic",p09-final 2-253 and 372-708
+69.40,79.22,"The final blow, then victory over the Act Clear jingle (one take)",p09-final 1380-1968
+79.22,86.22,End card,"p01-title from 1300, blurred"

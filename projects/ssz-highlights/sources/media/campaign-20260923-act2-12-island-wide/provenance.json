@@ -1,0 +1,23 @@
+{
+  "head": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty": true,
+  "width": 800,
+  "main": "knuckles",
+  "sidekick": "",
+  "donor": "off",
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "video_sha256": "ba2494857c0134c6e040015eeb6c06512879d995f3d504c1ae113491f9ca8768",
+  "video_decode": "ffmpeg -v error -f null: exit0",
+  "scope": "Seeded island presentation, not cold ending. Debug player suppresses crane entry.",
+  "seed": "after300 passes: endingRunning=true, foreground8, EventsFg4=FF00, specialVInt4, scrollLocked=true; emeralds3333333, initialVInt410766",
+  "captured": 217,
+  "capture_from": 1400,
+  "capture_to": 1616,
+  "inspection": "01615 inspected; native320 viewport identical to pre-extension; zero3-bit RGB mismatch in40320-pixel island/native-sky region against native01629 cropped14,8",
+  "classes": {
+    "Sonic3kZoneFeatureProvider": "759390cb76a5612d476bc9fd91bef63c79fdf19ee8f12afed4e4b9236e2f5339",
+    "events/Sonic3kSSZEvents": "9e6f7aa4c755a2e093122f69a8dd08b99aef5db2978c82f2ede1ddc92a1e170f",
+    "objects/bosses/SszMechaSonicObjectInstance": "26ca04b82cab5e0cda7df45429c3d474f80fd3101f0bca25c36d04fcc0c185ba",
+    "objects/SszAct2CameraController": "fb91029f46c6cce2cba58b5c9c377c2163581004d8bb0f8decd2b1af7289818d"
+  }
+}

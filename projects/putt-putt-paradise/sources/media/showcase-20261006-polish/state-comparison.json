@@ -1,0 +1,23 @@
+[
+  {
+    "capture": "ehz1-sonic-rewind-final-v4",
+    "native_rows": 4563,
+    "all_preexisting_state_columns_identical": true,
+    "previous_state_sha256": "ab51e746bfd523e5b77344768aeaff9f75f4589e29c3905770f46beb6f351fcb",
+    "current_state_sha256": "6062eed4042e4b4b648c8ba9b480603f018366980c5e659c5b0a4257843d0498"
+  },
+  {
+    "capture": "ehz2-tails-final-v4",
+    "native_rows": 7485,
+    "all_preexisting_state_columns_identical": true,
+    "previous_state_sha256": "ee98c934ec4a2c1cc17c8ca479daefee61202a2308ae71b8a4419f65564e4c19",
+    "current_state_sha256": "e8c810a36c1cd705da394b5dc4cde316c5c81d7992415f4188a8914bdcb747b5"
+  },
+  {
+    "capture": "local-two-player-final-v4",
+    "native_rows": 1437,
+    "all_preexisting_state_columns_identical": true,
+    "previous_state_sha256": "667ca92ae9c916150987ff6ea9a7e20944063587f868fece0c26945f273063eb",
+    "current_state_sha256": "2311a697812d0f40a81e5aab9b5d4a4828a3434b4325e27787c8ebed7bea50d6"
+  }
+]

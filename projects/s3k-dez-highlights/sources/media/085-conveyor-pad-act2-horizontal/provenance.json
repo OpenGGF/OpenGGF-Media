@@ -1,0 +1,11 @@
+{
+  "validated_commit": "ffe39535a",
+  "frames": 300,
+  "hurt_rows": 43,
+  "death_rows": 0,
+  "first_hurt": 160,
+  "first_death": null,
+  "source_sha256": "eb87c70e5f328db91b173cebe3f8dd5d72b51839dbfdbba42018f16d57c4e714",
+  "scope": "Positioned component capture; nearby hazards remain active. Not a cold route or native comparison.",
+  "verification": "Full decode passed; frames 120/240 visually inspected; torpedo damage is part of this video."
+}

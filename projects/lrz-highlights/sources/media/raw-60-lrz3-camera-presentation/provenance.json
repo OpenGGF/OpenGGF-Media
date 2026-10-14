@@ -1,0 +1,24 @@
+{
+  "base_commit": "c5c002865",
+  "source_state": "uncommitted boss presentation, before lava solid",
+  "game": "s3k",
+  "zone": 22,
+  "act": 1,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "tails",
+  "donor": "off",
+  "entry": "positioned fresh load selecting native checkpoint branch",
+  "setup": {
+    "x": "0x480",
+    "y": "0x400",
+    "rings": 37
+  },
+  "input": "original s3k-sonic-tails-complete-emeralds.bk2",
+  "input_start_zero_based": 434069,
+  "frames": 247,
+  "fps": 60,
+  "audio": false,
+  "first_death_frame": 186,
+  "limits": "Incomplete route. Native camera arithmetic matches; player trajectory is not certified. Preserve death in full source. Raw 61 had invisible platforms and is superseded by raw 62."
+}

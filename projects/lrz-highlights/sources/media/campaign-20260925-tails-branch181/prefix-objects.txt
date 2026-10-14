@@ -1,0 +1,1 @@
+LrzDoorObjectInstance 13136,224 spawn=ObjectSpawn[x=13136, y=224, objectId=25, subtype=10, renderFlags=0, respawnTracked=true, rawYWord=32992, layoutIndex=421, ownerModId=null, objectKey=null]

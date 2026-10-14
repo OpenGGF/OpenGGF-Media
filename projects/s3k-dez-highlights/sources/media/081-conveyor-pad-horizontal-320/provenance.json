@@ -1,0 +1,10 @@
+{
+  "validated_commit": "ffe39535a",
+  "frames": 388,
+  "hurt_rows": 84,
+  "death_rows": 61,
+  "first_hurt": 123,
+  "first_death": 327,
+  "source_sha256": "eb87c70e5f328db91b173cebe3f8dd5d72b51839dbfdbba42018f16d57c4e714",
+  "scope": "Positioned component capture; nearby hazards remain active. Not a cold route or native comparison."
+}

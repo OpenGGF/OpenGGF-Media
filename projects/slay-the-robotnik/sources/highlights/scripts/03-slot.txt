@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:slot_machine
+# ticks: 560
+# Pull the lever: the bonus stage's own reels spin and stop, and the prize drops out.
+90:enter

@@ -1,0 +1,8 @@
+LrzDoorObjectInstance 10160,1576 spawn=ObjectSpawn[x=10160, y=1576, objectId=25, subtype=5, renderFlags=0, respawnTracked=true, rawYWord=34344, layoutIndex=323, ownerModId=null, objectKey=null]
+IwamodokiBadnikInstance 10128,1173 spawn=ObjectSpawn[x=10128, y=1173, objectId=154, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=1173, layoutIndex=322, ownerModId=null, objectKey=null]
+LrzSpikeBallLauncherObjectInstance 10383,1532 spawn=ObjectSpawn[x=10383, y=1532, objectId=55, subtype=96, renderFlags=0, respawnTracked=false, rawYWord=1532, layoutIndex=330, ownerModId=null, objectKey=null]
+LrzButtonHorizontalObjectInstance 10296,1552 spawn=ObjectSpawn[x=10296, y=1552, objectId=28, subtype=5, renderFlags=1, respawnTracked=false, rawYWord=9744, layoutIndex=327, ownerModId=null, objectKey=null]
+LrzSpikeBallLauncherBallInstance 10383,1524 spawn=ObjectSpawn[x=10383, y=1524, objectId=55, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 10260,1648 spawn=ObjectSpawn[x=10260, y=1648, objectId=41, subtype=19, renderFlags=0, respawnTracked=false, rawYWord=1648, layoutIndex=326, ownerModId=null, objectKey=null]
+LrzSpikeBallLauncherBallInstance 10383,1524 spawn=ObjectSpawn[x=10383, y=1524, objectId=55, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 10828,1391 spawn=ObjectSpawn[x=10828, y=1391, objectId=41, subtype=22, renderFlags=0, respawnTracked=false, rawYWord=1391, layoutIndex=343, ownerModId=null, objectKey=null]

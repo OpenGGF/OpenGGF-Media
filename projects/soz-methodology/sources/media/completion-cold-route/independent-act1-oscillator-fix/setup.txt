@@ -1,0 +1,1 @@
+Cold SOZ1 Sonic+Tails native320; intro enabled; initial Process_Sprites consumed. Movie offset282195. No post-boot position/physics/phase writes. Tail=null start=0 bossDriver=false

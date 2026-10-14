@@ -1,0 +1,22 @@
+{
+  "base_commit": "ab873c917",
+  "source_state": "plus uncommitted B3 exit implementation, 2026-09-22",
+  "game": "s3k",
+  "zone": 9,
+  "act": 2,
+  "width": 320,
+  "main": "knuckles",
+  "sidekick": "none",
+  "donor": "off",
+  "entry": "positioned",
+  "setup": {
+    "x": "0x3FC8",
+    "y": "0xD0"
+  },
+  "input": "inputs/lrz2-knuckles-exit-20260922-v1.txt: 60 right, 300 neutral",
+  "frames": 360,
+  "fps": 60,
+  "stride": 1,
+  "audio": false,
+  "limits": "Positioned approach through B3 into HPZ, zero hurt/dead frames. Initial title card omitted by tool. Not a cold-route completion."
+}

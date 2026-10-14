@@ -1,0 +1,32 @@
+{
+  "base": "b6c1147a2 plus campaign edits",
+  "entry": "fresh MHZ1, native Sonic solo, donor off, width 320",
+  "seeds": [],
+  "frames": 21000,
+  "film": [
+    19500,
+    20999
+  ],
+  "deaths": 0,
+  "claim": "Actual MHZ1 incoming and MHZ2 traversal through boss admission and chase; not full MHZ2 completion",
+  "input_sha256": "16f3558c5897063d32323a948ae8ef3304527cdfdffab114ddce5b48906951ae",
+  "rom_sha1": "cfbf98c36c776677290a872547ac47c53d2761d6",
+  "compiled_classes": {
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossPaletteFadeController.class": "786ab995334d288ece9d9aaf7e1bfe174c94103a7d3ba83c290bf0a6049f6a94",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossVisualChild.class": "20ae53f632ccf8338701bb5abd1561e4538a1b2b753712fffbf179841b6ea292",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossInstance$MhzEndBossSidekickLockChild.class": "9d0758290adf51e034a0309cae16caa2f0569a3eff6c446bb06f042ad9feee96",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossInstance$MhzEndBossWalkoffPrepChild.class": "b5a59ee8304fcf06e6756212671eee97f08ed11836e06d5780d203aee0083fa6",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossInstance$MhzEndBossPlayerTwoCarryChild.class": "0b1eed2f6bc1021755066564912863aa1f6dfb5abd6032baa60ecbe54344f8e5",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossInstance.class": "9f60822c8c59fd57eea62b75172f2a9051bbebd810322d94a1b16cabe8210cf3",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossWeatherMachineChild.class": "3099cd44b6043431933c25827cbfa1ef2990e0bf50d4b9a065dd931dbe705c75",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossDefeatFragmentChild.class": "b3c0484af00a742b23970fae13091e511365e57996d4ab9c09c6f1fd919887f0",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossEggCapsuleInstance.class": "03d2620bb5db08f83d13c3bd87342e171f3e25a69430e9ef3010d030d67231da",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossHitProxyChild.class": "5e5ea5e977c88a983e9ea8da6e4316da254bec9214ffab36940851d6b0bb8b64",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossArenaHelperInstance$Role.class": "23538dbb4e8aedababdc67aaa9c2b1000ce82ed51bfff3eb51acf8d362bbe154",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossArenaHelperInstance.class": "f41d945151b76ee50f9a4889951949fc8b444bd8607b1652054f8bfdf83c3f1a",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossRobotnikHeadChild.class": "b47feb976cb98151aab1543fa694cd0e2de1522a3d9e8d1eae52888bf1a23c5e",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossSpikeChild.class": "a60a6d6ce648223daaaec65e0916d1144c64fa8c523f7f5d6626bf6cb25045f4",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossWeatherVisualChild.class": "4e269c7e982945fc6f05b2e945ddcf31caf60eff16d472e4e97464a27a6ef5fc",
+    "target/classes/com/openggf/game/sonic3k/objects/bosses/MhzEndBossRobotnikShipFlameInstance.class": "d86bc47f7f35854d20cd6b0e2168440eafe3d508643afc52462fc3973d12d32b"
+  }
+}

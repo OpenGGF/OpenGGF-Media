@@ -1,0 +1,15 @@
+test: walk and rewind the real Starpost town round trip
+
+Cover all three farmers at 320/400px, inn purchases, retained clock and
+wallet/items, native health rings, and S1 donor music on both sides.
+Install the production creator resolver before testing object rewind.
+
+Changelog: n/a: Starpost Valley in progress; the finished mod adds its entry
+Guide: n/a
+Known-Discrepancies: n/a
+S3K-Known-Discrepancies: n/a
+Agent-Docs: n/a
+Configuration-Docs: n/a
+Skills: n/a
+
+Co-Authored-By: GPT-6.1-Sol <noreply@openai.com>

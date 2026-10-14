@@ -1,0 +1,22 @@
+{
+  "source_head": "33e6b66d5",
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "x": 1792,
+    "y": 2320,
+    "rings": 7,
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "../inputs/067-curved-energy-approach.txt"
+  },
+  "stepped_frames": 504,
+  "death_frames": 0,
+  "hurt_frames": 0,
+  "scope": "Successful controller-driven lit curve to hanging carrier; before viewport retirement fix, native behavior unchanged. Positioned engine evidence, not cold route or native parity.",
+  "verification": "Full ffmpeg decode passed; state CSV and frame 305 inspected.",
+  "validated_commit": "8a58aafbc"
+}

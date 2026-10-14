@@ -1,0 +1,17 @@
+{
+  "revision": "b6c1147a2 plus campaign edits, September23",
+  "width": 800,
+  "game": "s3k",
+  "zone": "lrz",
+  "act": 1,
+  "setup": "Positioned(0x2B70,0x750),355rings,7Chaos emeralds,Sonic solo,donor off; real miniboss/results/seamless Act2 handoff.",
+  "frames": 4200,
+  "capture_from": 3000,
+  "png_frames": 1200,
+  "deaths": 0,
+  "hurt_rows": 0,
+  "full_ffmpeg_decode": "passed",
+  "input_sha256": "8046cb498a745416424b2ccff3bb109f4c180a528c82ce544288b788555e5038",
+  "change": "Finite widescreen foreground clipping only; rendered before internal-access-only bridge refactor.",
+  "verification": "70 focused checks and5 real-GL/sampling checks passed; see comparison.json. Combined campaign suite pending."
+}

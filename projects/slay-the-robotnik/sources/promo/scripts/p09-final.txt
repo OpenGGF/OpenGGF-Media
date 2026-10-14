@@ -1,0 +1,11 @@
+# jump: sonic:7:fight:ssz:mecha_sonic
+# ticks: 2400
+170:enter +30:enter
++70:enter +30:enter
++80:jump=kill
++200:e
++400:jump=kill
++60:e
++400:jump=kill
++60:e
++400:jump=kill

@@ -1,0 +1,40 @@
+{
+  "head": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty": true,
+  "width": 800,
+  "main": "knuckles",
+  "sidekick": "",
+  "donor": "off",
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "video_sha256": "c8cf53f04fd0e7d6b618a884b0ac4e16bf4ff6e5da79d93045e2da1cd824f975",
+  "video_decode": "ffmpeg -v error -f null: exit0",
+  "emeralds": "3333333",
+  "initial_vint": 410766,
+  "stepped": 8704,
+  "captured": 2004,
+  "capture_from": 6700,
+  "super_hits": [
+    4815,
+    4847,
+    4993,
+    5953,
+    6878,
+    7023,
+    7661,
+    8156
+  ],
+  "cold_stop": 8703,
+  "inspection": "zero deaths in8704 CSV rows; still8156 and8430 inspected",
+  "scope": "Both fights reach the accepted pre-ending stop. No actual ending/credits. Ordinary authored-route evidence, not strict native parity.",
+  "files": {
+    "route.script": "d7544fa98d5d52b361d7dc83ee528c7eb6cc97d40500f22f4f7eb80e8720de52",
+    "route.bk2": "493b4249cd864fc6b799d804cf1c55a8c80a4a9299940dcd65d2b99c6f20e4ab",
+    "state.csv": "d1f2198e4ff3ccd9a90ffea1d45b73405cddf9f4742de2a15a83205da99704b1"
+  },
+  "classes": {
+    "Sonic3kZoneFeatureProvider": "759390cb76a5612d476bc9fd91bef63c79fdf19ee8f12afed4e4b9236e2f5339",
+    "events/Sonic3kSSZEvents": "9e6f7aa4c755a2e093122f69a8dd08b99aef5db2978c82f2ede1ddc92a1e170f",
+    "objects/bosses/SszMechaSonicObjectInstance": "26ca04b82cab5e0cda7df45429c3d474f80fd3101f0bca25c36d04fcc0c185ba",
+    "objects/SszAct2CameraController": "fb91029f46c6cce2cba58b5c9c377c2163581004d8bb0f8decd2b1af7289818d"
+  }
+}

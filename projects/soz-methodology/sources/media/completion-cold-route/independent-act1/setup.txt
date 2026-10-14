@@ -1,0 +1,1 @@
+Cold SOZ1, Sonic+Tails, native320, donoroff, intro enabled. Initial Process_Sprites consumed before first supplied controller frame. BK2offset=282195. No post-boot player/level state writes. Source=/home/farrell/code/projects/OpenGGF/src/test/resources/traces/s3k/_movies/s3k-complete-sonic-tails.bk2

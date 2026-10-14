@@ -1,0 +1,26 @@
+{
+  "validated_commit": "f759da908",
+  "source_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/render/DezPlanetBackground.java": "a2d3331d70451e0775495dc840bfeffb83848ccf85c5a09e8adbd54c83c928c5",
+    "src/main/java/com/openggf/game/sonic3k/Sonic3kZoneFeatureProvider.java": "b8c15c0ab4d18e0185c3a7d478a2563fe714abb69ccedefdd8c1623a2f2405a4",
+    "src/main/java/com/openggf/level/render/BackgroundRenderer.java": "88a16a799175589177a9fb96dbcd6a9ad97564532c4a7a7ac9539b800cfd9802",
+    "src/main/resources/shaders/shader_parallax_bg.glsl": "242b93bfde2b02ab9e3fd1b318792a823e6c0b6dc92d10b18e993df16020aa45"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "x": 1040,
+    "y": 2352,
+    "width": 800,
+    "rings": 7,
+    "input": "neutral",
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off"
+  },
+  "frames": 360,
+  "hurt_frames": 0,
+  "death_frames": 0,
+  "verification": "Full ffmpeg decode; frame 120/280 equal earlier visually inspected candidate. Width study 080 inspected; native PNG equals prior committed engine capture. Positioned presentation evidence, not native parity or a cold route."
+}

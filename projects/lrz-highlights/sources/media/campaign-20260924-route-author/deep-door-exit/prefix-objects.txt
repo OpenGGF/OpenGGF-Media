@@ -1,0 +1,3 @@
+Sonic3kSSEntryRingObjectInstance 9792,1600 spawn=ObjectSpawn[x=9792, y=1600, objectId=133, subtype=9, renderFlags=0, respawnTracked=false, rawYWord=1600, layoutIndex=318, ownerModId=null, objectKey=null]
+Sonic3kButtonObjectInstance 9816,1656 spawn=ObjectSpawn[x=9816, y=1652, objectId=51, subtype=5, renderFlags=0, respawnTracked=false, rawYWord=1652, layoutIndex=319, ownerModId=null, objectKey=null]
+LrzDoorObjectInstance 10160,1572 spawn=ObjectSpawn[x=10160, y=1572, objectId=25, subtype=5, renderFlags=0, respawnTracked=true, rawYWord=34344, layoutIndex=323, ownerModId=null, objectKey=null]

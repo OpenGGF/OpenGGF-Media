@@ -1,0 +1,144 @@
+{
+ "placements": [
+  {
+   "segment": "cold-open",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-music-96.wav",
+   "source_frame": 0,
+   "out_frame": 0,
+   "frames": 346,
+   "gain": 1.7
+  },
+  {
+   "segment": "hook-sonic",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+   "source_frame": 96,
+   "out_frame": 320,
+   "frames": 196,
+   "gain": 1.0
+  },
+  {
+   "segment": "hook-tails",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz2-practice/gameplay.wav",
+   "source_frame": 306,
+   "out_frame": 504,
+   "frames": 176,
+   "gain": 1.0
+  },
+  {
+   "segment": "title",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/title.wav",
+   "source_frame": 0,
+   "out_frame": 650,
+   "frames": 390,
+   "gain": 0.95
+  },
+  {
+   "segment": "how-to",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+   "source_frame": 744,
+   "out_frame": 1028,
+   "frames": 470,
+   "gain": 1.0
+  },
+  {
+   "segment": "loops",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+   "source_frame": 2694,
+   "out_frame": 1474,
+   "frames": 220,
+   "gain": 1.0
+  },
+  {
+   "segment": "springs",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz2-practice/gameplay.wav",
+   "source_frame": 309,
+   "out_frame": 1682,
+   "frames": 330,
+   "gain": 1.0
+  },
+  {
+   "segment": "arch",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+   "source_frame": 2062,
+   "out_frame": 2000,
+   "frames": 170,
+   "gain": 1.0
+  },
+  {
+   "segment": "rewind",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz1-practice/gameplay.wav",
+   "source_frame": 231,
+   "out_frame": 2140,
+   "frames": 340,
+   "gain": 1.0
+  },
+  {
+   "segment": "local",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/local-match/gameplay.wav",
+   "source_frame": 559,
+   "out_frame": 2468,
+   "frames": 420,
+   "gain": 1.0
+  },
+  {
+   "segment": "local-2",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/local-match/gameplay.wav",
+   "source_frame": 1057,
+   "out_frame": 2888,
+   "frames": 170,
+   "gain": 1.0
+  },
+  {
+   "segment": "online",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/online/online-host/gameplay.wav",
+   "source_frame": 12,
+   "out_frame": 3034,
+   "frames": 300,
+   "gain": 1.0
+  },
+  {
+   "segment": "online-2",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/online/online-host/gameplay.wav",
+   "source_frame": 1571,
+   "out_frame": 3322,
+   "frames": 420,
+   "gain": 1.0
+  },
+  {
+   "segment": "mod-api",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/local-match/gameplay.wav",
+   "source_frame": 3463,
+   "out_frame": 3712,
+   "frames": 330,
+   "gain": 0.9
+  },
+  {
+   "segment": "finale",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-opus-polish/ehz2-practice/gameplay.wav",
+   "source_frame": 7034,
+   "out_frame": 4018,
+   "frames": 690,
+   "gain": 1.9
+  },
+  {
+   "segment": "end",
+   "wav": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/intro-audio/audio/s2-music-89.wav",
+   "source_frame": 0,
+   "out_frame": 4702,
+   "frames": 516,
+   "gain": 2.1
+  }
+ ],
+ "loudnorm_first_pass": {
+  "input_i": "-20.61",
+  "input_tp": "-6.83",
+  "input_lra": "12.70",
+  "input_thresh": "-32.13",
+  "output_i": "-15.07",
+  "output_tp": "-1.50",
+  "output_lra": "8.80",
+  "output_thresh": "-26.48",
+  "normalization_type": "dynamic",
+  "target_offset": "-0.93"
+ }
+}

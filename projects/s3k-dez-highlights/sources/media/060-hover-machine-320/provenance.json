@@ -1,0 +1,25 @@
+{
+  "source_head": "46be7745e",
+  "source_sha256": {
+    "S3kDezHoverMachineObjectInstance.java": "f87bb0afa9e2290e1e6c1491433d3c5c51ca52649078dd31f7f31f16d2501a7e",
+    "S3kDezHoverRotorObjectInstance.java": "ab2b1d52af3e05f5c8f320478cf0d10a5418ace52098e0d5296f4d396c860a86"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "x": 1464,
+    "y": 2192,
+    "width": 320,
+    "rings": 7,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "neutral"
+  },
+  "stepped_frames": 360,
+  "deaths": 0,
+  "scope": "Positioned hover-machine lift; not cold route or native parity.",
+  "verification": "Full ffmpeg decode passed; state CSV and frame 90 inspected.",
+  "validated_commit": "b1c767647"
+}

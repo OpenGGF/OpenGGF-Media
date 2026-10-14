@@ -1,0 +1,7 @@
+DdzEndBossObjectInstance 21653,192 spawn=ObjectSpawn[x=21488, y=128, objectId=182, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=128, layoutIndex=371, ownerModId=null, objectKey=null]
+DdzEndBossShipPartObjectInstance 21753,268 spawn=ObjectSpawn[x=21071, y=408, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossShipPartObjectInstance 21669,224 spawn=ObjectSpawn[x=21071, y=408, objectId=0, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossShipPartObjectInstance 21681,332 spawn=ObjectSpawn[x=21071, y=408, objectId=0, subtype=4, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossPartObjectInstance 21621,228 spawn=ObjectSpawn[x=21071, y=408, objectId=0, subtype=16, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossPartObjectInstance 21637,260 spawn=ObjectSpawn[x=21071, y=408, objectId=0, subtype=18, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzBossMasterEmeraldObjectInstance 21781,264 spawn=ObjectSpawn[x=21099, y=404, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]

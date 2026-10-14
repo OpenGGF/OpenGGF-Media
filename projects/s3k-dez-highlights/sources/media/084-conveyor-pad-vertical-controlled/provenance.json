@@ -1,0 +1,19 @@
+{
+  "validated_commit": "ffe39535a",
+  "frames": 420,
+  "hurt_rows": 23,
+  "death_rows": 36,
+  "first_hurt": 209,
+  "first_death": 384,
+  "source_sha256": "eb87c70e5f328db91b173cebe3f8dd5d72b51839dbfdbba42018f16d57c4e714",
+  "scope": "Positioned component capture; nearby hazards remain active. Not a cold route or native comparison.",
+  "shared_excerpt": "ride-excerpt.mp4",
+  "excerpt_frames": [
+    0,
+    179
+  ],
+  "excerpt_hurt_rows": 0,
+  "excerpt_death_rows": 0,
+  "input_script": "17 -; 43 R; repeat 180 { 1 R; 1 - }",
+  "verification": "Full excerpt decode passed; frame 120 visually inspected; later source damage/death excluded from excerpt explicitly."
+}

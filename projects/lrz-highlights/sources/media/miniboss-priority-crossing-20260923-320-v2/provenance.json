@@ -1,0 +1,18 @@
+{
+  "validated_commit": "c4cf93390e5df9e418269418a0bd440b2f3377b7",
+  "start": {
+    "x": "0x2B70",
+    "y": "0x750",
+    "rings": 355,
+    "character": "sonic",
+    "sidekick": "none"
+  },
+  "frames": 600,
+  "priority_transition_frame": 32,
+  "claim": "positioned priority-switch approach; 800px run does not reach the existing camera gate",
+  "sha256": {
+    "/home/farrell/Videos/OGGF/lrz-bring-up/miniboss-priority-crossing-20260923-320-v2/capture.mp4": "2f0ba77835293d2065010a66cd3ec35f7283381aab7db02c6b47aed664f92774",
+    "/home/farrell/Videos/OGGF/lrz-bring-up/miniboss-priority-crossing-20260923-320-v2/state.csv": "d07c18bd020e23ebde7458cbd392a9ffc4d1896af6109d9a2c3239873be6578f",
+    "/home/farrell/Videos/OGGF/lrz-bring-up/inputs/lrz1-miniboss-arrival-v1.txt": "4666f587f8f496fc44a58468b77cb5921859b0ee11d8a7b1ec52684cf9e63260"
+  }
+}

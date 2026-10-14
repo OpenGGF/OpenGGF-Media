@@ -1,0 +1,27 @@
+{
+  "revision": "b6c1147a2 plus campaign edits",
+  "width": 320,
+  "game": "s3k",
+  "zone": "dez",
+  "act": 2,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "setup": "Positioned ($34B0,$300); boot-only 200 rings and seven Super Emeralds. No reseeding at either outgoing load.",
+  "frames": 7350,
+  "capture_from": 6300,
+  "viewed_stills": [
+    6820,
+    6850,
+    7200
+  ],
+  "full_ffmpeg_decode": "passed",
+  "deaths": 0,
+  "input_sha256": "6bdf7b41ae134e7bab87081f586fd3455562cad32ac7159800edfb55babd5c0f",
+  "compiled_class_sha256": {
+    "com/openggf/tools/GameplayCaptureTool.class": "59043ad02267d8e4c319a7b93336e4241a12ecb77154a022ed3079b2c128c956",
+    "com/openggf/tools/GameplayCaptureSession.class": "c60091a12af64b77ce03651e06c69e9b8d8474b667ecc00df781f3e260f0601e",
+    "com/openggf/tools/DezFinalRouteAuthorTool.class": "595b8248cdefba762970718947e0c77e9b445a8d0397f718700ce1b01831f5ac"
+  },
+  "verification": "Independent native replay matches all non-input CSV fields of the 20862-row authoring run. Eight full-registry restore and 45-input replay checkpoints pass (1 test, zero skips, 22:29:25 BST). Positioned continuity, not cold act traversal or native parity."
+}

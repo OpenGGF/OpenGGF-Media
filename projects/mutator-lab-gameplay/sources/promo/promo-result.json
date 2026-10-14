@@ -1,0 +1,151 @@
+{
+  "agent": "opus_gameplay_promo_r1",
+  "run": "e0603654-55a0-4717-897c-3d93d1137ff3",
+  "status": "accepted_pushed_pr215",
+  "video": {
+    "path": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/out/mutator-lab-gameplay-promo.mp4",
+    "sha256": "4a6eef10d51dd6e0412c9e2bc2c2f470dde4b05b7b02e33db45dd94082a17a97",
+    "bytes": 46156939,
+    "duration_s": 52.217,
+    "frames": 3133,
+    "fps": "60/1 CFR",
+    "video": "H.264 High 1920x1080 yuv420p crf16",
+    "audio": "AAC-LC 48k stereo 192k",
+    "faststart": true,
+    "chapters": 8,
+    "integrated_lufs": -16.8
+  },
+  "thumbnail": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/out/mutator-lab-gameplay-promo-thumb.png",
+  "edit_map": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-gameplay-promo-e0603654-55a0-4717-897c-3d93d1137ff3/out/chapters.json",
+  "runtime": {
+    "menu_s": 7.37,
+    "menu_pct": 14.1,
+    "gameplay_pct_incl_cards_over_play": 85.2,
+    "gameplay_pct_excl_cards": 76.9
+  },
+  "games": [
+    "Sonic 1 Green Hill 1",
+    "Sonic 1 Spring Yard 1",
+    "Sonic 2 Emerald Hill 1",
+    "Sonic 3 & Knuckles Angel Island 1"
+  ],
+  "beats": {
+    "ringfall_bighead": {
+      "take": "final-ghz-hero",
+      "policy_admitted_frame": 203,
+      "hit_frame": 711,
+      "held": 173,
+      "spilled": 173,
+      "slotless": 141,
+      "head_pct": [
+        200,
+        100,
+        157
+      ],
+      "recollected_final": 57,
+      "carried_in": 140,
+      "collected_on_camera": 33,
+      "positioned_start": "0x1180,0x300"
+    },
+    "native_ring_control": {
+      "take": "final-ghz-native",
+      "hit_frame": 527,
+      "spilled": 32,
+      "recollected_final": 13
+    },
+    "violent_explosions": {
+      "take": "final-syz-chain",
+      "policy": "300%, cap 16 px/tick (0x1000)",
+      "admitted_frame": 246,
+      "kills": [
+        383,
+        526,
+        678,
+        819,
+        972
+      ],
+      "score": 2800,
+      "rebound": "y_vel +1416..+4416 -> -4096"
+    },
+    "native_bounce_control": {
+      "take": "final-syz-native",
+      "kill_frame": 136,
+      "rebound": "+1416 -> -1472"
+    },
+    "live_toggle": {
+      "take": "final-s2-live",
+      "gravity_25_admitted": 346,
+      "gravity_100_admitted": 694
+    },
+    "load_scope_no_rings": {
+      "take": "final-aiz-norings",
+      "restart": "Restart from act start",
+      "death_frame": 1364
+    },
+    "stack_finale": {
+      "take": "final-aiz-allon",
+      "active": [
+        "Gravity 25%",
+        "Ringfall full inventory",
+        "Big Head scales with rings",
+        "Violent Explosions 300%/32"
+      ],
+      "hit_frame": 752,
+      "spilled": 211,
+      "slotless": 179,
+      "carried_in": 200
+    }
+  },
+  "source": {
+    "worktree": "/home/farrell/code/projects/OpenGGF/.worktrees/ai-mutators-gameplay-promo",
+    "branch": "feature/ai-mutators-gameplay-promo",
+    "head": "964d8210ba374c0e8ce43692ce68bb937f8d6794",
+    "dirty": false,
+    "commits": [
+      "f5650a144 feat(mutators): let Ringfall drop the full inventory",
+      "964d8210b feat(tools): render offscreen captures without a display connection"
+    ],
+    "jar_sha256": "9e5cdddab1ac04fa96cc9d3f494a4240c5e2936f8ffa3d20b2db7318d1075fb3",
+    "base": "3d0a47bdcc82b118d6d6987c4cf5de1a54010a64"
+  },
+  "validation": {
+    "kind": "focused",
+    "tests_green": 118,
+    "skips": 0,
+    "mandatory_s3k": "green",
+    "broad_run": "not launched (parent decides)"
+  },
+  "verification": {
+    "decode": "ok",
+    "cadence_checks": 117,
+    "cadence_mismatches": 0,
+    "av_lag_ms": 0,
+    "cut_boundaries_inspected": 78
+  },
+  "limits": [
+    "one ring collected per frame (native)",
+    "S3K 63-entry collision-response list bounds touchable spilled objects",
+    "carried-in ring budgets disclosed on screen (140 GHZ, 200 AIZ)",
+    "Game Speed not depicted",
+    "GameplayCaptureTool S1 --zone names map to ROM ids (lz->Marble, mz->Spring Yard, slz->Labyrinth, syz->Star Light)",
+    "surfaceless EGL path is Linux/Mesa only"
+  ],
+  "processes": "117 registered capture JVMs, all terminal; no owned process running",
+  "parent_review": {
+    "kind": "editorial correction only",
+    "caption": "No rings. One hit is fatal.",
+    "original_video_sha256": "cc9a3fb694118ad484a8b5a0cacdf5a92ba7f3a2c462a2a16f55047732f2f1a6",
+    "original_preserved": "out/review-r1/mutator-lab-gameplay-promo.mp4",
+    "revised_full_decode": "exit 0; 3133 frames, 60/1, 1920x1080; 48k stereo; 8 chapters",
+    "gameplay_verified": "original contacts, native CSV, original 117 cadence checks; caption-only edit retains identical source ranges",
+    "focused_root": "43 tests passed, 0 failures/errors/skips; SDK verify exit 0",
+    "broad": "completed at8108/base3418:26991 ordinary cases,26 inherited failures,0 errors,63 matched skips;675 fresh guards pass without skips",
+    "final_head": "379b6641323853f61851943fb7aadd5e7a389e01",
+    "pushed_branch": "feature/ai-mutators-prototype",
+    "pr": "https://github.com/OpenGGF/OpenGGF/pull/215",
+    "trace": "3 pass,3 inherited S3K failures; full assertions and reports match clean actual3418 controls",
+    "eggman": "original published PR3d0 and new8108 pass exact isolated method; clean3418 retains old failure. Passing behavior predates promo update; no new donor fix claimed",
+    "cleanup": "owned control and promo worktrees and promo local branch removed; durable artifacts and open PR source retained",
+    "ci": "pending when last inspected; no all-green claim"
+  }
+}

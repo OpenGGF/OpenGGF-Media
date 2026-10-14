@@ -1,0 +1,1247 @@
+{
+  "output": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/promo-opus-v4-draft.mp4",
+  "draft_label": "DRAFT  \u00b7  v4 footage",
+  "fps": 30,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "total_frames": 1499,
+  "segments": [
+    {
+      "id": "hook-sonic",
+      "chapter": "Hook: Sonic is the ball",
+      "kind": "game",
+      "out_frames": [
+        0,
+        93
+      ],
+      "out_seconds": [
+        0.0,
+        3.1
+      ],
+      "transition_in": null,
+      "source": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          1714,
+          1900
+        ],
+        "mkv_frames": [
+          857,
+          950
+        ],
+        "mkv_seconds": [
+          28.566666666666666,
+          31.666666666666668
+        ]
+      },
+      "captions": [
+        {
+          "headline": "What if *Sonic* was the golf ball?",
+          "out_frames": [
+            3,
+            93
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hook-tails",
+      "chapter": "Hook: or Tails",
+      "kind": "game",
+      "out_frames": [
+        87,
+        152
+      ],
+      "out_seconds": [
+        2.9,
+        5.066666666666666
+      ],
+      "transition_in": {
+        "type": "flash",
+        "frames": 6
+      },
+      "source": {
+        "src": "ehz2",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz2-tails-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          316,
+          446
+        ],
+        "mkv_frames": [
+          158,
+          223
+        ],
+        "mkv_seconds": [
+          5.266666666666667,
+          7.433333333333334
+        ]
+      },
+      "captions": [
+        {
+          "headline": "\u2026or *Tails*?",
+          "out_frames": [
+            89,
+            152
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title",
+      "chapter": "Title",
+      "kind": "title",
+      "out_frames": [
+        140,
+        236
+      ],
+      "out_seconds": [
+        4.666666666666667,
+        7.866666666666666
+      ],
+      "transition_in": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "source": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "title.mkv",
+        "frames": [
+          0,
+          96
+        ],
+        "seconds": [
+          0.0,
+          3.2
+        ]
+      },
+      "captions": [
+        {
+          "headline": "*PUTT PUTT PARADISE*",
+          "sub": "Sonic 2 Mini Golf  \u00b7  a mod for the OpenGGF engine",
+          "out_frames": [
+            144,
+            236
+          ]
+        }
+      ]
+    },
+    {
+      "id": "putt-rewind",
+      "chapter": "Putt, roll and rewind",
+      "kind": "game",
+      "out_frames": [
+        226,
+        363
+      ],
+      "out_seconds": [
+        7.533333333333333,
+        12.1
+      ],
+      "transition_in": {
+        "type": "iris",
+        "frames": 10
+      },
+      "source": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          120,
+          394
+        ],
+        "mkv_frames": [
+          60,
+          197
+        ],
+        "mkv_seconds": [
+          2.0,
+          6.566666666666666
+        ]
+      },
+      "captions": [
+        {
+          "headline": "*Aim*, then *time* the power meter",
+          "feature": "putt",
+          "out_frames": [
+            226,
+            273
+          ]
+        },
+        {
+          "headline": "\u2026and let it *roll*.",
+          "feature": "putt",
+          "out_frames": [
+            273,
+            308
+          ]
+        },
+        {
+          "headline": "Bad shot? *Rewind* it.",
+          "feature": "rewind",
+          "out_frames": [
+            308,
+            346
+          ]
+        },
+        {
+          "headline": "Back on the tee. *Try again.*",
+          "feature": "rewind",
+          "out_frames": [
+            346,
+            363
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chip-spin",
+      "chapter": "Chip, loft and spin",
+      "kind": "game",
+      "out_frames": [
+        355,
+        522
+      ],
+      "out_seconds": [
+        11.833333333333334,
+        17.4
+      ],
+      "transition_in": {
+        "type": "push",
+        "frames": 8
+      },
+      "source": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          776,
+          1110
+        ],
+        "mkv_frames": [
+          388,
+          555
+        ],
+        "mkv_seconds": [
+          12.933333333333334,
+          18.5
+        ]
+      },
+      "captions": [
+        {
+          "headline": "*Chip* it: pick your loft",
+          "feature": "chip",
+          "out_frames": [
+            355,
+            368
+          ]
+        },
+        {
+          "headline": "Add *topspin* or *backspin*",
+          "feature": "spin",
+          "out_frames": [
+            368,
+            399
+          ]
+        },
+        {
+          "headline": "Then *time* the power",
+          "feature": "spin",
+          "out_frames": [
+            399,
+            444
+          ]
+        },
+        {
+          "headline": "\u2026and *launch* it.",
+          "feature": "spin",
+          "out_frames": [
+            444,
+            522
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-1",
+      "chapter": "Real Sonic 2 physics",
+      "kind": "game",
+      "out_frames": [
+        510,
+        568
+      ],
+      "out_seconds": [
+        17.0,
+        18.933333333333334
+      ],
+      "transition_in": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "source": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          2694,
+          2810
+        ],
+        "mkv_frames": [
+          1347,
+          1405
+        ],
+        "mkv_seconds": [
+          44.9,
+          46.833333333333336
+        ]
+      },
+      "captions": [
+        {
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "out_frames": [
+            510,
+            568
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2",
+      "chapter": "Real Sonic 2 physics (Tails, EHZ2)",
+      "kind": "game",
+      "out_frames": [
+        560,
+        612
+      ],
+      "out_seconds": [
+        18.666666666666668,
+        20.4
+      ],
+      "transition_in": {
+        "type": "push",
+        "frames": 8
+      },
+      "source": {
+        "src": "ehz2",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz2-tails-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          844,
+          948
+        ],
+        "mkv_frames": [
+          422,
+          474
+        ],
+        "mkv_seconds": [
+          14.066666666666666,
+          15.8
+        ]
+      },
+      "captions": [
+        {
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "out_frames": [
+            560,
+            612
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-3",
+      "chapter": "Real Sonic 2 physics (arch)",
+      "kind": "game",
+      "out_frames": [
+        606,
+        648
+      ],
+      "out_seconds": [
+        20.2,
+        21.6
+      ],
+      "transition_in": {
+        "type": "flash",
+        "frames": 6
+      },
+      "source": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          2846,
+          2930
+        ],
+        "mkv_frames": [
+          1423,
+          1465
+        ],
+        "mkv_seconds": [
+          47.43333333333333,
+          48.833333333333336
+        ]
+      },
+      "captions": [
+        {
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "out_frames": [
+            606,
+            648
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-4",
+      "chapter": "Real Sonic 2 physics (EHZ2 corkscrew)",
+      "kind": "game",
+      "out_frames": [
+        638,
+        715
+      ],
+      "out_seconds": [
+        21.266666666666666,
+        23.833333333333332
+      ],
+      "transition_in": {
+        "type": "iris",
+        "frames": 10
+      },
+      "source": {
+        "src": "ehz2",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz2-tails-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          7176,
+          7330
+        ],
+        "mkv_frames": [
+          3588,
+          3665
+        ],
+        "mkv_seconds": [
+          119.6,
+          122.16666666666667
+        ]
+      },
+      "captions": [
+        {
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "out_frames": [
+            638,
+            715
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heroes",
+      "chapter": "Sonic or Tails",
+      "kind": "split",
+      "out_frames": [
+        703,
+        778
+      ],
+      "out_seconds": [
+        23.433333333333334,
+        25.933333333333334
+      ],
+      "transition_in": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "source_left": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          2376,
+          2526
+        ],
+        "mkv_frames": [
+          1188,
+          1263
+        ],
+        "mkv_seconds": [
+          39.6,
+          42.1
+        ]
+      },
+      "source_right": {
+        "src": "ehz2",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz2-tails-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          3296,
+          3446
+        ],
+        "mkv_frames": [
+          1648,
+          1723
+        ],
+        "mkv_seconds": [
+          54.93333333333333,
+          57.43333333333333
+        ]
+      },
+      "captions": [
+        {
+          "headline": "Play as *Sonic* or *Tails*",
+          "feature": "heroes",
+          "out_frames": [
+            705,
+            778
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local-sonic",
+      "chapter": "Local two-player: Sonic",
+      "kind": "game",
+      "out_frames": [
+        770,
+        850
+      ],
+      "out_seconds": [
+        25.666666666666668,
+        28.333333333333332
+      ],
+      "transition_in": {
+        "type": "push",
+        "frames": 8
+      },
+      "source": {
+        "src": "local",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/local-two-player-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          140,
+          300
+        ],
+        "mkv_frames": [
+          70,
+          150
+        ],
+        "mkv_seconds": [
+          2.3333333333333335,
+          5.0
+        ]
+      },
+      "captions": [
+        {
+          "headline": "*Two players*, one screen",
+          "feature": "local",
+          "out_frames": [
+            770,
+            850
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local-tails",
+      "chapter": "Local two-player: Tails",
+      "kind": "game",
+      "out_frames": [
+        842,
+        982
+      ],
+      "out_seconds": [
+        28.066666666666666,
+        32.733333333333334
+      ],
+      "transition_in": {
+        "type": "push",
+        "frames": 8
+      },
+      "source": {
+        "src": "local",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/local-two-player-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          600,
+          880
+        ],
+        "mkv_frames": [
+          300,
+          440
+        ],
+        "mkv_seconds": [
+          10.0,
+          14.666666666666666
+        ]
+      },
+      "captions": [
+        {
+          "headline": "Sonic shoots, then *Tails*",
+          "feature": "local",
+          "out_frames": [
+            842,
+            982
+          ]
+        }
+      ]
+    },
+    {
+      "id": "online",
+      "chapter": "Online play (menu)",
+      "kind": "online",
+      "out_frames": [
+        970,
+        1075
+      ],
+      "out_seconds": [
+        32.333333333333336,
+        35.833333333333336
+      ],
+      "transition_in": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "source": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "title.mkv",
+        "frames": [
+          0,
+          105
+        ],
+        "seconds": [
+          0.0,
+          3.5
+        ]
+      },
+      "captions": [
+        {
+          "feature": "online",
+          "out_frames": [
+            970,
+            1075
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finale",
+      "chapter": "Finale: Emerald Hill 1 finish",
+      "kind": "game",
+      "out_frames": [
+        1065,
+        1186
+      ],
+      "out_seconds": [
+        35.5,
+        39.53333333333333
+      ],
+      "transition_in": {
+        "type": "iris",
+        "frames": 10
+      },
+      "source": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          4288,
+          4530
+        ],
+        "mkv_frames": [
+          2144,
+          2265
+        ],
+        "mkv_seconds": [
+          71.46666666666667,
+          75.5
+        ]
+      },
+      "captions": [
+        {
+          "headline": "All of *Emerald Hill*, Acts 1 & 2",
+          "feature": "course",
+          "out_frames": [
+            1065,
+            1142
+          ]
+        },
+        {
+          "headline": "*Hole* complete!",
+          "feature": "course",
+          "out_frames": [
+            1142,
+            1186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "engine",
+      "chapter": "Built on OpenGGF",
+      "kind": "engine",
+      "out_frames": [
+        1174,
+        1344
+      ],
+      "out_seconds": [
+        39.13333333333333,
+        44.8
+      ],
+      "transition_in": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "source_mini": {
+        "src": "ehz1",
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "file": "gameplay.mkv",
+        "native_frames": [
+          1324,
+          1664
+        ],
+        "mkv_frames": [
+          662,
+          832
+        ],
+        "mkv_seconds": [
+          22.066666666666666,
+          27.733333333333334
+        ]
+      },
+      "captions": []
+    },
+    {
+      "id": "end",
+      "chapter": "Learn more",
+      "kind": "end",
+      "out_frames": [
+        1334,
+        1499
+      ],
+      "out_seconds": [
+        44.46666666666667,
+        49.96666666666667
+      ],
+      "transition_in": {
+        "type": "iris",
+        "frames": 10
+      },
+      "captions": []
+    }
+  ],
+  "source_check": {
+    "sources": {
+      "ehz1": {
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz1-sonic-rewind-final-v4",
+        "video_frames": 2282,
+        "title_frames": 120,
+        "state_rows": 4563,
+        "events_sha256": "b7970be94c1a6f1b76106f496df05951631b9ebb28f8a373a1d5435880f7b5cd",
+        "provenance": {
+          "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+          "mod_sha256": "ec83061d88e33c85d238256bf68617c2dcb2c2ca8796ec4b4a42fd8eb9acb74c",
+          "act": 0,
+          "character": "sonic",
+          "mode": "practice",
+          "native_hz": 60,
+          "capture_fps": 30,
+          "dimensions": [
+            320,
+            224
+          ],
+          "audio": "silent",
+          "rewind_vhs_effect": true,
+          "rewind_vhs_tear_bands": true,
+          "entry": "explicit SDK-validated ModContext capture wrapper",
+          "baseline": "b2faa748f84b83f1d9d8b76dda0e6047c1e64ea4",
+          "engine_java_sha256": "fd02bbccbb741c643782476e7155cfaa0c895f39c9f01fc8ddfac0e49c88336a",
+          "working_diff_sha256": "29d03db34f8330e0b9756bfe80ed035a8c166c325e2da8fef1b4a442059f537c"
+        }
+      },
+      "local": {
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/local-two-player-final-v4",
+        "video_frames": 719,
+        "title_frames": 120,
+        "state_rows": 1437,
+        "events_sha256": "8fcdd66b2c90b3fa49251ffe5a5a9c522c52600077e6e916c04acf368b958da4",
+        "provenance": {
+          "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+          "mod_sha256": "ec83061d88e33c85d238256bf68617c2dcb2c2ca8796ec4b4a42fd8eb9acb74c",
+          "act": 0,
+          "character": "sonic",
+          "mode": "local",
+          "native_hz": 60,
+          "capture_fps": 30,
+          "dimensions": [
+            320,
+            224
+          ],
+          "audio": "silent",
+          "rewind_vhs_effect": true,
+          "rewind_vhs_tear_bands": true,
+          "entry": "explicit SDK-validated ModContext capture wrapper",
+          "baseline": "b2faa748f84b83f1d9d8b76dda0e6047c1e64ea4",
+          "engine_java_sha256": "fd02bbccbb741c643782476e7155cfaa0c895f39c9f01fc8ddfac0e49c88336a",
+          "working_diff_sha256": "29d03db34f8330e0b9756bfe80ed035a8c166c325e2da8fef1b4a442059f537c"
+        }
+      },
+      "ehz2": {
+        "dir": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/showcase-20261006-polish/ehz2-tails-final-v4",
+        "video_frames": 3743,
+        "title_frames": 120,
+        "state_rows": 7485,
+        "events_sha256": "98c5b783dcdc43bbec9caab2211a149c42e309e85b593f709725b7ad413b93c6",
+        "provenance": {
+          "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+          "mod_sha256": "ec83061d88e33c85d238256bf68617c2dcb2c2ca8796ec4b4a42fd8eb9acb74c",
+          "act": 1,
+          "character": "tails",
+          "mode": "practice",
+          "native_hz": 60,
+          "capture_fps": 30,
+          "dimensions": [
+            320,
+            224
+          ],
+          "audio": "silent",
+          "rewind_vhs_effect": true,
+          "rewind_vhs_tear_bands": true,
+          "entry": "explicit SDK-validated ModContext capture wrapper",
+          "baseline": "b2faa748f84b83f1d9d8b76dda0e6047c1e64ea4",
+          "engine_java_sha256": "fd02bbccbb741c643782476e7155cfaa0c895f39c9f01fc8ddfac0e49c88336a",
+          "working_diff_sha256": "29d03db34f8330e0b9756bfe80ed035a8c166c325e2da8fef1b4a442059f537c"
+        }
+      }
+    },
+    "ranges": [
+      {
+        "segment": "hook-sonic",
+        "role": "main",
+        "src": "ehz1",
+        "native": [
+          1714,
+          1900
+        ],
+        "mkv_frames": [
+          857,
+          950
+        ],
+        "seconds": [
+          28.566666666666666,
+          31.666666666666668
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            1714
+          ]
+        ],
+        "state_sha256": "231edc73eca90152401bb2b77bb95bcea654aa0af361e9c81232e2bb13acf9ad",
+        "matches_lock": true
+      },
+      {
+        "segment": "hook-tails",
+        "role": "main",
+        "src": "ehz2",
+        "native": [
+          316,
+          446
+        ],
+        "mkv_frames": [
+          158,
+          223
+        ],
+        "seconds": [
+          5.266666666666667,
+          7.433333333333334
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            316
+          ]
+        ],
+        "state_sha256": "a0aaa4acbb43d425337a0895098c9f909187489bd4a2603b185867d83102bda7",
+        "matches_lock": true
+      },
+      {
+        "segment": "putt-rewind",
+        "role": "main",
+        "src": "ehz1",
+        "native": [
+          120,
+          394
+        ],
+        "mkv_frames": [
+          60,
+          197
+        ],
+        "seconds": [
+          2.0,
+          6.566666666666666
+        ],
+        "stage_changes": [
+          [
+            "AIM",
+            120
+          ],
+          [
+            "POWER",
+            123
+          ],
+          [
+            "FEEDBACK",
+            184
+          ],
+          [
+            "PRE_RELEASE",
+            196
+          ],
+          [
+            "WATCH",
+            214
+          ],
+          [
+            "AIM",
+            360
+          ]
+        ],
+        "state_sha256": "c0081daa5795b79cf36e7bf8a348110690427329f7e84dee66ccd899a4a2dfa0",
+        "matches_lock": true
+      },
+      {
+        "segment": "chip-spin",
+        "role": "main",
+        "src": "ehz1",
+        "native": [
+          776,
+          1110
+        ],
+        "mkv_frames": [
+          388,
+          555
+        ],
+        "seconds": [
+          12.933333333333334,
+          18.5
+        ],
+        "stage_changes": [
+          [
+            "AIM",
+            776
+          ],
+          [
+            "SPIN",
+            803
+          ],
+          [
+            "POWER",
+            864
+          ],
+          [
+            "FEEDBACK",
+            925
+          ],
+          [
+            "PRE_RELEASE",
+            937
+          ],
+          [
+            "WATCH",
+            955
+          ]
+        ],
+        "state_sha256": "c672ae1bef5f6e73354b7f65bd4580e226e47c97351da1a07963ed6f095594ea",
+        "matches_lock": true
+      },
+      {
+        "segment": "physics-1",
+        "role": "main",
+        "src": "ehz1",
+        "native": [
+          2694,
+          2810
+        ],
+        "mkv_frames": [
+          1347,
+          1405
+        ],
+        "seconds": [
+          44.9,
+          46.833333333333336
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            2694
+          ]
+        ],
+        "state_sha256": "ad3372e3b2f3ae027149164fb1b1e9ed8eb1e61a39c2b08083956bcb5aa9cb24",
+        "matches_lock": true
+      },
+      {
+        "segment": "physics-2",
+        "role": "main",
+        "src": "ehz2",
+        "native": [
+          844,
+          948
+        ],
+        "mkv_frames": [
+          422,
+          474
+        ],
+        "seconds": [
+          14.066666666666666,
+          15.8
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            844
+          ]
+        ],
+        "state_sha256": "a43f6f80bb47c6364d6c1c9e0a533a3763e789e604b1c501c84d8ed9e5befd66",
+        "matches_lock": true
+      },
+      {
+        "segment": "physics-3",
+        "role": "main",
+        "src": "ehz1",
+        "native": [
+          2846,
+          2930
+        ],
+        "mkv_frames": [
+          1423,
+          1465
+        ],
+        "seconds": [
+          47.43333333333333,
+          48.833333333333336
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            2846
+          ]
+        ],
+        "state_sha256": "2423127f9a27e08c56e8214c45c187c6e5a671aaa98daa40d3e372bdbd557889",
+        "matches_lock": true
+      },
+      {
+        "segment": "physics-4",
+        "role": "main",
+        "src": "ehz2",
+        "native": [
+          7176,
+          7330
+        ],
+        "mkv_frames": [
+          3588,
+          3665
+        ],
+        "seconds": [
+          119.6,
+          122.16666666666667
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            7176
+          ]
+        ],
+        "state_sha256": "2bfd3f6a0f4bfa334d8a01a4afd776daea040a9387b1becac9f32c32f85c8f4c",
+        "matches_lock": true
+      },
+      {
+        "segment": "heroes",
+        "role": "left",
+        "src": "ehz1",
+        "native": [
+          2376,
+          2526
+        ],
+        "mkv_frames": [
+          1188,
+          1263
+        ],
+        "seconds": [
+          39.6,
+          42.1
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            2376
+          ]
+        ],
+        "state_sha256": "de1ffc3f5554481384e62d0bc7a2ec99241473467fe009840ecc57810badc5b4",
+        "matches_lock": true
+      },
+      {
+        "segment": "heroes",
+        "role": "right",
+        "src": "ehz2",
+        "native": [
+          3296,
+          3446
+        ],
+        "mkv_frames": [
+          1648,
+          1723
+        ],
+        "seconds": [
+          54.93333333333333,
+          57.43333333333333
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            3296
+          ]
+        ],
+        "state_sha256": "317fbc03bc754ef366f524a7f10cb769c5c8fe6ad6e88ed3947cceac872179a3",
+        "matches_lock": true
+      },
+      {
+        "segment": "local-sonic",
+        "role": "main",
+        "src": "local",
+        "native": [
+          140,
+          300
+        ],
+        "mkv_frames": [
+          70,
+          150
+        ],
+        "seconds": [
+          2.3333333333333335,
+          5.0
+        ],
+        "stage_changes": [
+          [
+            "POWER",
+            140
+          ],
+          [
+            "FEEDBACK",
+            154
+          ],
+          [
+            "PRE_RELEASE",
+            166
+          ],
+          [
+            "WATCH",
+            184
+          ]
+        ],
+        "state_sha256": "e9859f50766699a360e88fbe3b4f0f785b7a95e78711cd7d592a6d5bc1b640e7",
+        "matches_lock": true
+      },
+      {
+        "segment": "local-tails",
+        "role": "main",
+        "src": "local",
+        "native": [
+          600,
+          880
+        ],
+        "mkv_frames": [
+          300,
+          440
+        ],
+        "seconds": [
+          10.0,
+          14.666666666666666
+        ],
+        "stage_changes": [
+          [
+            "SPIN",
+            600
+          ],
+          [
+            "POWER",
+            644
+          ],
+          [
+            "FEEDBACK",
+            705
+          ],
+          [
+            "PRE_RELEASE",
+            717
+          ],
+          [
+            "WATCH",
+            735
+          ]
+        ],
+        "state_sha256": "0a00a5a03834b56109f6362ddde1386a7776c76b13c15bec8d1438798d7ba057",
+        "matches_lock": true
+      },
+      {
+        "segment": "finale",
+        "role": "main",
+        "src": "ehz1",
+        "native": [
+          4288,
+          4530
+        ],
+        "mkv_frames": [
+          2144,
+          2265
+        ],
+        "seconds": [
+          71.46666666666667,
+          75.5
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            4288
+          ]
+        ],
+        "state_sha256": "6ca3ad7b4ac64deec16fe9bad543f6c45caea79051cb75e053218b7f3e0c67aa",
+        "matches_lock": true
+      },
+      {
+        "segment": "engine",
+        "role": "mini",
+        "src": "ehz1",
+        "native": [
+          1324,
+          1664
+        ],
+        "mkv_frames": [
+          662,
+          832
+        ],
+        "seconds": [
+          22.066666666666666,
+          27.733333333333334
+        ],
+        "stage_changes": [
+          [
+            "WATCH",
+            1324
+          ]
+        ],
+        "state_sha256": "a1e6361428fe07bf35b39ca65be5784021878747e9d160dcb0640436ff19b774",
+        "matches_lock": true
+      }
+    ],
+    "lock": "/home/farrell/scratch/gameplay-captures/putt-putt-paradise-20261005/promo-opus-20261006/source-lock.json",
+    "problems": []
+  }
+}

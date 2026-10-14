@@ -1,0 +1,39 @@
+000.00-001.20 one
+001.20-002.40 keyboard
+002.40-004.40 survive
+004.40-007.40 Title logo and announcer
+007.40-011.10 Sonic 2 spindash: 3-2-1 START
+011.10-014.70 Sonic 1 run and roll launch
+014.70-016.90 GET READY while travelling
+016.90-020.90 Closing badniks and typed homing strikes
+020.90-024.10 Keyboard lights and chained bounces
+024.10-026.90 Keyboard impact: labelled half speed
+026.90-028.20 letters
+028.20-031.40 Letter rings to recover
+031.40-034.40 Monitors and animal rescue
+034.40-036.40 WAVE CLEAR
+036.40-037.40 school
+037.40-038.60 Sonic 1 Story chapter map
+038.60-039.80 Sonic 2 Story chapter map
+039.80-041.00 Sonic 3 and Knuckles Story map
+041.00-044.00 Tails welcomes you to Typing School
+044.00-047.30 Boss Training drill
+047.30-049.30 Records: per-key heat map
+049.30-050.90 Boss Rush selection
+050.90-053.90 reviews
+053.90-055.00 back
+055.00-059.50 Robotnik voiced taunt typed back
+059.50-063.60 Robotnik trivia window
+063.60-064.80 boss
+064.80-068.60 Green Hill wrecking-ball dodge
+068.60-071.90 Emerald Hill drill car charge
+071.90-075.40 HIT ROBOTNIK S PILLAR: four words
+075.40-077.80 Final Zone crushers and plasma
+077.80-078.80 climax
+078.80-081.50 Death Egg rocket fist
+081.50-084.50 Death Egg targeting-sensor slam
+084.50-087.00 Death Egg bombs
+087.00-090.00 Twelfth hit and BOSS DEFEATED
+090.00-093.20 Rank tally
+093.20-094.90 Rank A and record reward
+094.90-099.90 end

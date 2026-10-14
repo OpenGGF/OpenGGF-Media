@@ -1,0 +1,9 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=music_off
+40:jump=town_enter
+160:native=1150
+165:state=season_3
+166:state=time_1000
+167:state=weather_3

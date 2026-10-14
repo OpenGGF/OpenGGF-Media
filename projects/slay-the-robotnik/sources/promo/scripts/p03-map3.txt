@@ -1,0 +1,4 @@
+# jump: tails:7:map:3
+# ticks: 420
+90:right
++40:enter

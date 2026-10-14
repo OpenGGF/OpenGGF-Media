@@ -1,0 +1,4 @@
+# jump: knuckles:7:room:Treasure:2@2:6:1
+# ticks: 360
+60:enter
++140:enter

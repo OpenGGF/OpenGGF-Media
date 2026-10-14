@@ -1,0 +1,673 @@
+{
+  "title": "Putt Putt Paradise — Sonic 2 Mini Golf | promo (paced cut with cold open and ROM-rendered soundtrack)",
+  "notes": "Edit decision list for render_promo.py. Gameplay clip ranges are NATIVE 60 Hz frames (state.csv 'frame'); the FFV1 gameplay.mkv holds every second native frame at 30 fps, so mkv frame = native / 2 and every output frame advances exactly one source frame (normal speed). Title ranges are title.mkv frame indices. Starts must be even, ends exclusive. PACED CUT (2026-10-06): fewer, longer contiguous ranges; captions >=3 s where the ROM stage allows; online card adds an original lead-in graphic before the 120-frame title clip (no footage holds). INTRO-AUDIO REVISION (2026-10-06): a cold-open 'intro' segment is prepended. It is real contiguous EHZ1 footage (native 1200-1684) that ends on exactly the frames the hook shot begins with (native 1660), so the 12-frame 'build' crossfade only changes the surround and the paced edit after it is unchanged (every later segment shifted by the same whole number of frames). 'audio' describes an editorial soundtrack rendered from the Sonic 2 ROM by OpenGGF's SMPS driver; the footage itself was captured silent.",
+  "fps": 30,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "game_scale": 4,
+  "default_tag": "v5",
+  "fonts": {
+    "heavy": "/usr/share/fonts/TTF/FiraSansCompressed-Heavy.ttf",
+    "xbold": "/usr/share/fonts/TTF/FiraSansCompressed-ExtraBold.ttf",
+    "semi": "/usr/share/fonts/TTF/FiraSansCondensed-SemiBold.ttf",
+    "book": "/usr/share/fonts/TTF/FiraSansCondensed-Book.ttf",
+    "medium": "/usr/share/fonts/TTF/FiraSansCondensed-Medium.ttf"
+  },
+  "sources": {
+    "ehz1": {
+      "dir": "ehz1-sonic-rewind-final-{tag}",
+      "video": "gameplay.mkv",
+      "title": "title.mkv",
+      "native_frames": 4564,
+      "title_frames": 120
+    },
+    "local": {
+      "dir": "local-two-player-final-{tag}",
+      "video": "gameplay.mkv",
+      "title": "title.mkv",
+      "native_frames": 1438,
+      "title_frames": 120
+    },
+    "ehz2": {
+      "dir": "ehz2-tails-final-{tag}",
+      "video": "gameplay.mkv",
+      "title": "title.mkv",
+      "native_frames": 7486,
+      "title_frames": 120
+    }
+  },
+  "features": [
+    [
+      "putt",
+      "PUTT"
+    ],
+    [
+      "rewind",
+      "REWIND"
+    ],
+    [
+      "chip",
+      "CHIP & SPIN"
+    ],
+    [
+      "physics",
+      "REAL PHYSICS"
+    ],
+    [
+      "heroes",
+      "SONIC & TAILS"
+    ],
+    [
+      "local",
+      "2 PLAYERS"
+    ],
+    [
+      "online",
+      "ONLINE"
+    ],
+    [
+      "course",
+      "FULL COURSE"
+    ]
+  ],
+  "segments": [
+    {
+      "id": "intro",
+      "chapter": "Cold open: Sonic 2, a whole new way to play",
+      "kind": "intro",
+      "src": "ehz1",
+      "native": [
+        1200,
+        1684
+      ],
+      "fade_in": 30,
+      "tracker": false,
+      "intro_text": {
+        "parts": [
+          {
+            "text": "*Sonic 2.*",
+            "at": 58
+          },
+          {
+            "text": "  A whole new way to play.",
+            "at": 103
+          }
+        ],
+        "size": 80,
+        "out": [
+          206,
+          222
+        ],
+        "kicker": {
+          "text": "Recorded in the OpenGGF engine  ·  music from the Sonic 2 ROM, added in editing",
+          "at": 24
+        }
+      }
+    },
+    {
+      "id": "hook-sonic",
+      "chapter": "Hook: Sonic is the ball",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        1660,
+        1920
+      ],
+      "captions": [
+        {
+          "native": [
+            1666,
+            1920
+          ],
+          "headline": "What if *Sonic* was the golf ball?",
+          "size": 78
+        }
+      ],
+      "tracker": false,
+      "transition": {
+        "type": "build",
+        "frames": 12
+      }
+    },
+    {
+      "id": "hook-tails",
+      "chapter": "Hook: or Tails",
+      "kind": "game",
+      "src": "ehz2",
+      "native": [
+        330,
+        610
+      ],
+      "captions": [
+        {
+          "native": [
+            336,
+            610
+          ],
+          "headline": "…or *Tails*?",
+          "size": 78
+        }
+      ],
+      "transition": {
+        "type": "flash",
+        "frames": 6
+      },
+      "tracker": false
+    },
+    {
+      "id": "title",
+      "chapter": "Title",
+      "kind": "title",
+      "src": "ehz1",
+      "frames": [
+        0,
+        120
+      ],
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "tracker": false,
+      "captions": [
+        {
+          "frames": [
+            4,
+            120
+          ],
+          "headline": "*PUTT PUTT PARADISE*",
+          "sub": "Sonic 2 Mini Golf  ·  a mod for the OpenGGF engine",
+          "size": 74
+        }
+      ]
+    },
+    {
+      "id": "putt-rewind",
+      "chapter": "Putt, roll and rewind",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        24,
+        650
+      ],
+      "captions": [
+        {
+          "native": [
+            24,
+            290
+          ],
+          "headline": "*Aim*, *time* the power meter, and *putt*",
+          "feature": "putt",
+          "card": {
+            "num": "01",
+            "title": "PUTT",
+            "body": "Press A, then stop the meter at the right moment. It rises and falls once."
+          }
+        },
+        {
+          "native": [
+            290,
+            470
+          ],
+          "headline": "Bad shot? *Rewind* it.",
+          "feature": "rewind",
+          "card": {
+            "num": "02",
+            "title": "REWIND",
+            "body": "Wind back the whole shot, even while it is still rolling."
+          }
+        },
+        {
+          "native": [
+            470,
+            650
+          ],
+          "headline": "Back on the tee. *Try again.*",
+          "feature": "rewind",
+          "card_hold": true
+        }
+      ],
+      "transition": {
+        "type": "iris",
+        "frames": 10
+      }
+    },
+    {
+      "id": "chip-spin",
+      "chapter": "Chip, loft and spin",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        3196,
+        3620
+      ],
+      "captions": [
+        {
+          "native": [
+            3196,
+            3392
+          ],
+          "headline": "Set the *loft*, then strike *top* or *back* for spin",
+          "feature": "chip",
+          "card": {
+            "num": "03",
+            "title": "CHIP & SPIN",
+            "body": "Raise the loft to clear walls, then pick a hit point for topspin or backspin."
+          }
+        },
+        {
+          "native": [
+            3392,
+            3620
+          ],
+          "headline": "…and *chip* it up and over!",
+          "feature": "chip",
+          "card_hold": true
+        }
+      ],
+      "transition": {
+        "type": "push",
+        "frames": 8
+      }
+    },
+    {
+      "id": "physics-1",
+      "chapter": "Real Sonic 2 physics (arch)",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        2700,
+        2944
+      ],
+      "captions": [
+        {
+          "native": [
+            2700,
+            2944
+          ],
+          "headline": "Every *slope* and *loop* is in play",
+          "feature": "physics",
+          "card": {
+            "num": "04",
+            "title": "REAL PHYSICS",
+            "body": "Slopes, loops and momentum come straight from the engine's Sonic 2 movement."
+          }
+        }
+      ],
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      }
+    },
+    {
+      "id": "physics-2",
+      "chapter": "Real Sonic 2 physics (EHZ2 corkscrew, Tails)",
+      "kind": "game",
+      "src": "ehz2",
+      "native": [
+        7116,
+        7356
+      ],
+      "captions": [
+        {
+          "native": [
+            7116,
+            7356
+          ],
+          "headline": "Momentum from the *Sonic 2* engine",
+          "feature": "physics",
+          "card_hold": true
+        }
+      ],
+      "transition": {
+        "type": "push",
+        "frames": 8
+      }
+    },
+    {
+      "id": "physics-3",
+      "chapter": "Real Sonic 2 physics (EHZ1 bridges and corkscrew)",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        2010,
+        2250
+      ],
+      "captions": [
+        {
+          "native": [
+            2010,
+            2250
+          ],
+          "headline": "Bridges, ramps and *corkscrews*",
+          "feature": "physics",
+          "card_hold": true
+        }
+      ],
+      "transition": {
+        "type": "flash",
+        "frames": 6
+      }
+    },
+    {
+      "id": "heroes",
+      "chapter": "Sonic or Tails",
+      "kind": "split",
+      "left": {
+        "src": "ehz1",
+        "native": [
+          2298,
+          2598
+        ],
+        "label": "SONIC"
+      },
+      "right": {
+        "src": "ehz2",
+        "native": [
+          3154,
+          3454
+        ],
+        "label": "TAILS"
+      },
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "tracker": false,
+      "captions": [
+        {
+          "frames": [
+            2,
+            150
+          ],
+          "headline": "Play as *Sonic* or *Tails*",
+          "feature": "heroes"
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "chapter": "Local two-player: Sonic, then Tails",
+      "kind": "game",
+      "src": "local",
+      "native": [
+        150,
+        900
+      ],
+      "captions": [
+        {
+          "native": [
+            150,
+            480
+          ],
+          "headline": "*Two players*, one screen",
+          "feature": "local",
+          "card": {
+            "num": "05",
+            "title": "2 PLAYERS",
+            "body": "Take turns on one screen. Play passes on once each shot settles."
+          }
+        },
+        {
+          "native": [
+            480,
+            700
+          ],
+          "headline": "Next turn: *Tails* steps up",
+          "feature": "local",
+          "card_hold": true
+        },
+        {
+          "native": [
+            700,
+            900
+          ],
+          "headline": "Turns *alternate* automatically",
+          "feature": "local",
+          "card_hold": true
+        }
+      ],
+      "transition": {
+        "type": "push",
+        "frames": 8
+      }
+    },
+    {
+      "id": "online",
+      "chapter": "Online play (menu)",
+      "kind": "online",
+      "src": "ehz1",
+      "frames": [
+        0,
+        120
+      ],
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "tracker": false,
+      "menu_box_native": [
+        [
+          22,
+          156,
+          236,
+          194
+        ]
+      ],
+      "text": {
+        "kicker": "06  ·  ONLINE",
+        "headline": "Or play *online*",
+        "body": "Host or join a direct-connect match straight from the title menu.",
+        "note": "Supported feature. The gameplay in this video is practice and local play."
+      },
+      "captions": [
+        {
+          "frames": [
+            0,
+            195
+          ],
+          "feature": "online"
+        }
+      ],
+      "lead_graphic": 75
+    },
+    {
+      "id": "finale",
+      "chapter": "Finale: Emerald Hill 1 finish",
+      "kind": "game",
+      "src": "ehz1",
+      "native": [
+        4136,
+        4562
+      ],
+      "captions": [
+        {
+          "native": [
+            4136,
+            4380
+          ],
+          "headline": "All of *Emerald Hill*, Acts 1 & 2",
+          "feature": "course",
+          "card": {
+            "num": "07",
+            "title": "FULL COURSE",
+            "body": "The complete Emerald Hill Act 1 and Act 2 terrain, start to flag."
+          }
+        },
+        {
+          "native": [
+            4380,
+            4562
+          ],
+          "headline": "Into the cup: *hole complete!*",
+          "feature": "course",
+          "card_hold": true
+        }
+      ],
+      "transition": {
+        "type": "iris",
+        "frames": 10
+      }
+    },
+    {
+      "id": "engine",
+      "chapter": "Built on OpenGGF",
+      "kind": "engine",
+      "frames": [
+        0,
+        315
+      ],
+      "transition": {
+        "type": "stripes",
+        "frames": 12
+      },
+      "tracker": false,
+      "mini": {
+        "src": "ehz2",
+        "native": [
+          1400,
+          2030
+        ]
+      },
+      "text": {
+        "kicker": "UNDER THE HOOD",
+        "headline": "Built on *OpenGGF*",
+        "bullets": [
+          "A free, open-source fan engine recreating Sonic 1, 2 and 3&K",
+          "Your own Sonic 2 ROM supplies the levels, art and characters. None are included.",
+          "The mod's code is separate: a standalone example built with the OpenGGF mod SDK",
+          "Alpha software. The mod API is still a pre-release candidate."
+        ]
+      },
+      "captions": [],
+      "bullet_start": 20,
+      "bullet_step": 45
+    },
+    {
+      "id": "end",
+      "chapter": "Learn more",
+      "kind": "end",
+      "frames": [
+        0,
+        255
+      ],
+      "transition": {
+        "type": "iris",
+        "frames": 10
+      },
+      "tracker": false,
+      "fade_out": 18,
+      "text": {
+        "wordmark": "PUTT PUTT PARADISE",
+        "sub": "Sonic 2 Mini Golf  ·  an example mod for the OpenGGF engine",
+        "cta": "Source & more:  github.com/OpenGGF/OpenGGF",
+        "status": "Mod preview  ·  candidate API  ·  source available",
+        "disclaimer": "Unofficial fan project, not affiliated with or endorsed by SEGA. Sonic the Hedgehog is a trademark of SEGA. Requires your own Sonic 2 ROM.",
+        "audio_credit": "Soundtrack added in editing: Sonic 2 music and effects rendered from the ROM by OpenGGF's sound driver. Gameplay was recorded silent."
+      },
+      "captions": [],
+      "roll_frames": 110,
+      "cta_delay": 20
+    }
+  ],
+  "audio": {
+    "notes": "Editorial soundtrack. Stems are rendered by tools/S2PromoAudioRender.java from the user's Sonic 2 REV01 ROM through OpenGGF's SMPS driver (Sonic2SmpsLoader, NTSC, accurate FM core, 48 kHz). Anchors are segment ids plus a local segment frame, resolved against the rendered timeline. Times are seconds within the stem.",
+    "sample_rate": 48000,
+    "loudness": {
+      "integrated_lufs": -16.0,
+      "true_peak_dbtp": -1.5,
+      "lra": 11
+    },
+    "stems": {
+      "title": "s2-music-96.wav",
+      "ehz": "s2-music-81.wav",
+      "actclear": "s2-music-97.wav",
+      "options": "s2-music-89.wav",
+      "spindash": "s2-sfx-bc.wav",
+      "ring": "s2-sfx-b5.wav"
+    },
+    "stem_ids": {
+      "title": "music 0x96 Title Screen",
+      "ehz": "music 0x81 Emerald Hill Zone",
+      "actclear": "music 0x97 Stage Clear",
+      "options": "music 0x89 Option Screen",
+      "spindash": "sfx 0xBC Spindash Release",
+      "ring": "sfx 0xB5 Ring"
+    },
+    "events": [
+      {
+        "stem": "title",
+        "why": "cold-open fanfare; its closing hit (stem 6.75 s) is replaced by the EHZ downbeat at the hook",
+        "align_stem_s": 6.75,
+        "anchor": [
+          "hook-sonic",
+          0
+        ],
+        "stem_end_s": 6.75,
+        "fade_in_s": 1.0,
+        "fade_out_s": 0.05,
+        "gain": 1.0
+      },
+      {
+        "stem": "ehz",
+        "why": "main bed from the hook to the finale's hole-complete",
+        "align_stem_s": 0.0,
+        "anchor": [
+          "hook-sonic",
+          0
+        ],
+        "until_anchor": [
+          "finale",
+          154
+        ],
+        "fade_out_s": 0.4,
+        "gain": 1.0
+      },
+      {
+        "stem": "actclear",
+        "why": "Stage Clear jingle on hole-complete (state.csv native 4444 = finale local frame 154)",
+        "align_stem_s": 0.0,
+        "anchor": [
+          "finale",
+          154
+        ],
+        "gain": 1.0
+      },
+      {
+        "stem": "options",
+        "why": "calm bed under the engine and end cards after the jingle",
+        "align_stem_s": 0.0,
+        "anchor": [
+          "engine",
+          138
+        ],
+        "until_end": true,
+        "fade_in_s": 1.5,
+        "fade_out_s": 4.0,
+        "end_pad_s": 0.3,
+        "gain": 0.9
+      },
+      {
+        "stem": "spindash",
+        "why": "title-drop stripe wipe",
+        "align_stem_s": 0.0,
+        "anchor": [
+          "title",
+          4
+        ],
+        "gain": 0.85
+      },
+      {
+        "stem": "ring",
+        "why": "end-card ball drops into the cup (roll_frames)",
+        "align_stem_s": 0.0,
+        "anchor": [
+          "end",
+          112
+        ],
+        "gain": 0.85
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+ "classes_compared": 123,
+ "jar_classes": 123,
+ "mismatched": [],
+ "manifest_identical": true,
+ "jar_sha256": "55c6e3fc6f04ed58f53cb7abd6113c502b6d874a44fce6b44f8b90391607296a",
+ "ok": true
+}

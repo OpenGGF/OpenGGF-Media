@@ -1,0 +1,8 @@
+# jump: knuckles:7:fight:hcz:pointdexter_pair@2:4:1
+# ticks: 760
+150:enter +30:enter
++60:jump=kill
++170:enter         # rings
++50:enter          # card reward
++60:right +30:enter   # pick the second card
++60:enter          # proceed

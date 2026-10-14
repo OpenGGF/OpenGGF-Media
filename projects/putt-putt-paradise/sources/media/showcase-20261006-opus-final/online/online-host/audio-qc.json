@@ -1,0 +1,46 @@
+{
+ "capture": "online-host",
+ "title": {
+  "wav": "title.wav",
+  "rows": 370,
+  "first_music_row": 303,
+  "music_requests": [
+   [
+    303,
+    "0x81"
+   ]
+  ],
+  "ac_dbfs_all": -29.51,
+  "dc_all": 0.006029,
+  "ac_dbfs_after_music": -31.71,
+  "max_row_abs_dc": 0.01964,
+  "rows_with_abs_dc_over_0p02": 0,
+  "flat_runs": [
+   {
+    "from": 292,
+    "to": 309,
+    "rows": 18,
+    "dc": 0.0,
+    "before_first_music": false
+   }
+  ],
+  "flat_rows_after_first_music": 18,
+  "jumps_over_half_fs": [],
+  "peak_dbfs": -12.56
+ },
+ "gameplay": {
+  "wav": "gameplay.wav",
+  "rows": 4985,
+  "first_music_row": null,
+  "music_requests": [],
+  "ac_dbfs_all": -29.12,
+  "dc_all": 0.002531,
+  "ac_dbfs_after_music": null,
+  "max_row_abs_dc": 0.06422,
+  "rows_with_abs_dc_over_0p02": 38,
+  "flat_runs": [],
+  "flat_rows_after_first_music": 0,
+  "jumps_over_half_fs": [],
+  "peak_dbfs": -11.45
+ }
+}

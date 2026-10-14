@@ -1,0 +1,5 @@
+# jump: knuckles:7:room:Treasure
+# ticks: 340
+# Press the Egg Capsule's button, then claim the relic inside.
+60:enter
++140:enter

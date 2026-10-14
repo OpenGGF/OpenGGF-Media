@@ -1,0 +1,14 @@
+hit 1: 28653
+hit 2: 28845
+hit 3: 29325
+hit 4: 29773
+hit 5: 30064
+hit 6: 30108
+hit 7: 30286
+hit 8: 30331
+results: 30569
+capsule: 30743
+results finished: 31331
+LRZ load frame: 31576
+Controller frames: 31797
+Cold Sonic; followers=; width=320; donor=off; intro enabled.

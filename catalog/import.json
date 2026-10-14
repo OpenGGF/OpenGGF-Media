@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-14",
+  "engine_repository": "https://github.com/OpenGGF/OpenGGF",
+  "engine_reference": "485e89fbea5a2587b763052f0db115986ca681ce",
+  "projects": 25,
+  "source_files": 6322,
+  "source_bytes": 172249619,
+  "external_entries": 14231,
+  "external_bytes": 166642998427,
+  "excluded_counts": {
+    "media dependency": 7852,
+    "generated state/diagnostic data": 4540,
+    "non-production format": 2790,
+    "machine-local emulator configuration": 142,
+    "machine-local or coordination metadata": 12,
+    "environment or save data": 195
+  },
+  "asset_hash_policy": "Catalog is a path/size inventory, not a content hash verification. Included production sources have SHA-256 hashes; video bytes were not read or uploaded."
+}

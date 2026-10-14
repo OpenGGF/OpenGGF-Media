@@ -1,0 +1,2 @@
+# The title screen untouched: the logo over the four-zone fly-through and the Tornado chase.
+# ticks: 1500

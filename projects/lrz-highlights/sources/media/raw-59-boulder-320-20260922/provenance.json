@@ -1,0 +1,22 @@
+{
+  "base_commit": "5b86353e7",
+  "source_state": "plus uncommitted LRZ boulder and continuation implementation, before final motion-holder rewind correction",
+  "game": "s3k",
+  "zone": 9,
+  "act": 2,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "tails",
+  "donor": "off",
+  "entry": "positioned",
+  "setup": {
+    "x": "0x3880",
+    "y": "0x1C0",
+    "rings": 37
+  },
+  "input": "inputs/lrz2-boulder-approach-20260922-v1.txt: right held, jump 20 of every 60 frames",
+  "frames": 1000,
+  "fps": 60,
+  "audio": false,
+  "limits": "Actual boulder cutscene and receiving LRZ3 load, destination first appears at frame 693 and counter bank restores on its first screen event. Clip ends at frame 719, before later boss-act hazards. No cold-route or matched native trajectory claim."
+}

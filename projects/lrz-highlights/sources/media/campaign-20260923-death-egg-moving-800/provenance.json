@@ -1,0 +1,24 @@
+{
+  "revision": "b6c1147a2 plus campaign edits, 2026-09-23",
+  "game": "s3k",
+  "zone": "lrz",
+  "act": 2,
+  "width": 800,
+  "setup": "Positioned x12900,y500; Sonic solo, donor off,99 rings; ordinary authored controller input thereafter. Presentation slice, not cold-route certification.",
+  "frames": 240,
+  "deaths": 0,
+  "hurt_rows": 0,
+  "input_sha256": "2381daab6a71495999ad32669685ec69dd94690f1d0ab16080f594493ed7574c",
+  "compiled_class_sha256": {
+    "objects/LrzDeathEggBackgroundInstance": "b074606c61547c83472c5ce89d24a4927afa0a202869440af5fc8bf2bd2a71bd",
+    "runtime/LrzZoneRuntimeState": "7f033460bc1c4452a4cecc51a2a7cfa69a0dc61034c75aedbfb04a5a2fdef69d",
+    "scroll/SwScrlLrz": "3df58a2eea7d7d0658a2552c20e0e2b72f955a8f44ac3dc17130ecd2ebeda404",
+    "events/Sonic3kLRZEvents": "a049c7f151a96b58a51df14d309d0e4335b6a85c4568caccdc21cbea020f5993",
+    "Sonic3kPlcArtRegistry": "a259a93d0978a0dbc90da7f2eb2502724b0c1467c14da50688e4a430925d1b1d"
+  },
+  "full_ffmpeg_decode": "passed",
+  "reviewed_stills": [
+    120
+  ],
+  "verification": "68 focused/component/route/required-S3K tests and18 selected structural guards pass, no skips. Inventory sweep separately fails on campaign count and three SSZ crane graph classifications; combined campaign checks pending."
+}

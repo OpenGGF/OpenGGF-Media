@@ -1,0 +1,26 @@
+{
+  "task": "S&K bring-up MHZ2 leaf span and controller lifetime",
+  "date": "2026-09-23",
+  "base_commit": "b6c1147a2",
+  "working_tree_changes": true,
+  "width": 800,
+  "entry": "fresh MHZ2 level select",
+  "leader": "sonic",
+  "sidekick": null,
+  "donor": "off",
+  "gameplay_seeds": null,
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "input_sha256": "eebcd35c3bf264a5510abf8ae13705e80a590fd6e7dd0000ece73d392a6bc2cb",
+  "class_sha256": {
+    "com/openggf/game/sonic3k/objects/CutsceneKnucklesMhz2Instance$LeafParticleSpec.class": "7b962298e8917b36dfc025b15a7c5d2e6d157805e55a0316b67fae5588b42f1a",
+    "com/openggf/game/sonic3k/objects/CutsceneKnucklesMhz2Instance$Mhz2KnucklesLeafParticle.class": "5a693b03b965453ef39fa5367314ad6d0b287be321de88ed940a26a3c5aa1c29",
+    "com/openggf/game/sonic3k/objects/CutsceneKnucklesMhz2Instance$Mhz2KnucklesLiftChild.class": "d4340e0434b0861bad40b6cdca6a06e93fb5a75b3595f0e3c01c2d257b106931",
+    "com/openggf/game/sonic3k/objects/CutsceneKnucklesMhz2Instance$Mhz2KnucklesRouteSwitchChild.class": "8a76e6b2a2c9cd46c7934b9f472793cb1aa7cec693c3656cc0969f2b2d0092e8",
+    "com/openggf/game/sonic3k/objects/CutsceneKnucklesMhz2Instance.class": "8572bc449a4af6a6cb2657aeeccb992c8668d82555f6198e8ad73f213471168f",
+    "com/openggf/game/sonic3k/events/Sonic3kMHZEvents.class": "6ee6f5fab4afed157a5c9e007bd267267a8a69a5fc37116bfd12f3c8118ec0ba"
+  },
+  "rows": 850,
+  "capture_from": 350,
+  "pngs": 500,
+  "limits": "Entry/cutscene and continued play only; no full Act2 completion or strict native parity."
+}

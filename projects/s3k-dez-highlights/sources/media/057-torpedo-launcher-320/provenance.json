@@ -1,0 +1,28 @@
+{
+  "source_head": "222473083",
+  "source_sha256": {
+    "S3kDezTorpedoLauncherObjectInstance.java": "a35268e32fc5ff470dbe58dc1ea7742ad349bd2a19111afcf06bfe07ee64f4f4",
+    "S3kDezTorpedoObjectInstance.java": "73e1519b7c36dfbf9abada25bee399f2e7f65085127022f2c0ba773510c8a276"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "start": [
+      1168,
+      1932
+    ],
+    "rings": 7,
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "../inputs/057-torpedo-jumps.txt"
+  },
+  "input_sha256": "cb9393bd7382a14973885a4b0cd9b7ff58d73f3245ff165e84044e75ae464ae8",
+  "stepped_frames": 420,
+  "deaths": 0,
+  "scope": "Positioned first torpedo launcher with jump input bringing it into view; not cold route or native parity. Direct damage checked separately.",
+  "verification": "Full ffmpeg decode passed; state CSV and frames 125,135,260 inspected.",
+  "validated_commit": "35390ba3c"
+}

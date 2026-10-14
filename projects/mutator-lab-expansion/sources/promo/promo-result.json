@@ -1,0 +1,114 @@
+{
+ "agent": "opus_expansion_promo_r1",
+ "model": "claude-opus-5-5",
+ "completed_at": "2026-10-09T22:28Z",
+ "provider_limit": "none encountered",
+ "video": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-expansion-5c24f4a5-76e8-47c7-bc47-4173173d5caa/opus-expansion-promo/out/mutator-lab-expanded-promo.mp4",
+ "video_sha256": "2d10f2598d5481118954909459aa66f19a5c9463521896a3405c78cbc47d6e34",
+ "thumbnail": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-expansion-5c24f4a5-76e8-47c7-bc47-4173173d5caa/opus-expansion-promo/out/mutator-lab-expanded-promo-thumb.png",
+ "chapters_manifest": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-expansion-5c24f4a5-76e8-47c7-bc47-4173173d5caa/opus-expansion-promo/out/chapters.json",
+ "recipe": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-expansion-5c24f4a5-76e8-47c7-bc47-4173173d5caa/opus-expansion-promo/recipe/build_promo.py",
+ "recipe_sha256": "56512410593fd8650133e8d34a80bcef45465b4f2dd2afe9990a514621396875",
+ "reproduce": "python3 -I recipe/build_promo.py  (from the promo dir; ffmpeg+fonts only, ~80 s)",
+ "ffprobe": {
+  "container": "mp4 faststart",
+  "duration_s": 81.406,
+  "size_bytes": 26623711,
+  "video": "h264 High 1920x1080 60fps yuv420p, 4882 frames",
+  "audio": "aac LC 48 kHz stereo 192k",
+  "full_decode": "ffmpeg -xerror -f null exit 0",
+  "loudness": "-15.4 LUFS integrated, LRA 8.5, peak -1.4 dBFS (edit-level loudnorm only)"
+ },
+ "frames_inspected": [
+  "first 0.05s (fade-in of title card)",
+  "middle 40.7s (S1 resumed with Stealth: Sonic hidden, HUD/rings continue)",
+  "last -0.6s (outro card)",
+  "every segment midpoint (pre-fix render) plus post-fix S2 ring-head grid 66.4s and S3K earned-rings 75.5s"
+ ],
+ "source": {
+  "composed_final": "1136bf343f57c2ed8006963714272386ebda86dc (verified HEAD, clean, read-only)",
+  "compiled_build_tree": "ai-mutators-expansion-opus-polish HEAD 345ec13b2 (read-only, not rebuilt)",
+  "creator_jar_sha256": "a77d49b22447f6330781285c414aab89b52b77e3023d1877bf85121b428f9d56 (re-hashed read-only)"
+ },
+ "footage_attribution": {
+  "ringhead_0_25_50_100_150_stock0_and_ringhead_title": "Opus R3 captures, creator jar a77d49b2 (final), engine target/classes from working tree 7655c0d8 + 27 dirty files during polish (pre-commit of 345ec); not relabelled as compiled 1136",
+  "play_03_and_explore_04": "Opus R3 captures, jar eadb858e (earlier polish working source, 7655c0d8 + 14 dirty files); used for hub, catalogue pages, LIVE/LOAD and Stealth/Big Head play",
+  "rejected": "s2-explore-01-badnav; all *-window-* desktop captures (historical, not used); cue-* clips not cut in (used only as SFX evidence)",
+  "new_captures": "none; no JVM, display, audio device or Maven run in this stage"
+ },
+ "demonstrated_on_screen": [
+  "three native games' title-screen hub (S1/S2/S3K)",
+  "catalogue: all 11 native option pages (S1) with live Gravity slider edit",
+  "Big Head fixed 150% in S1 GHZ, S2 EHZ, S3K AIZ",
+  "stock fallback on S3K curled/ball art",
+  "LIVE pause edit + Resume (Stealth, Game Speed toggled)",
+  "Stealth result in all three games (S3K: leader hidden, Tails visible)",
+  "LOAD: Restart rebuilding act",
+  "ring-scaled head at starting inventory 0/25/50/100/150 vs mutator off, all three games",
+  "S3K rings earned in play 0->11 with LIVE menu '111% at 11 rings'"
+ ],
+ "described_not_demonstrated": [
+  "Gravity percent effect in play (play captures used 100%)",
+  "Ringfall Manipulator",
+  "No Powerups monitor filtering after LOAD",
+  "No Checkpoints",
+  "No Rings",
+  "Game Speed (capture tool runs one native tick per frame)",
+  "No Special Stages",
+  "No Bonus Stages (S1 Unavailable page shown)",
+  "Violent Explosions",
+  "head shrinking on ring loss (no ring-loss capture)"
+ ],
+ "audio": {
+  "source": "native PCM written by each capture run, cut in sync with its frames; held UI pages continue the same capture's audio; cards use S3K AIZ level music from s3k-play-03",
+  "sfx_evidence": "menu SFX contribution established by polish-stage authored-vs-neutral PCM controls (review/s1|s2|s3k-cue.json, first difference at the first authored cue); in the promo they sit under music, one clear confirm transient measured (s1-play-03 frame 1367 AC RMS 252->1907, work/s1-live-press-rms.json); not every nav press is separable from the music bed",
+  "per_segment_rms": "in chapters.json"
+ },
+ "chapters": [
+  {
+   "title": "Intro",
+   "start": 0.0
+  },
+  {
+   "title": "Three games",
+   "start": 3.5
+  },
+  {
+   "title": "Catalogue",
+   "start": 10.95
+  },
+  {
+   "title": "Native play",
+   "start": 29.95
+  },
+  {
+   "title": "LIVE vs LOAD",
+   "start": 34.617
+  },
+  {
+   "title": "Sonic 2",
+   "start": 47.933
+  },
+  {
+   "title": "Sonic 3 & Knuckles",
+   "start": 54.917
+  },
+  {
+   "title": "Ring-scaled head",
+   "start": 61.867
+  },
+  {
+   "title": "Outro",
+   "start": 76.867
+  }
+ ],
+ "limitations": [
+  "footage is from polish working source, not an exact-1136 execution; production bytes of 1136 equal 345ec per root, but capture-time engine classes predate that commit",
+  "no speaker, hardware input, compositor or window claims",
+  "Game Speed and several LOAD/stage effects shown only as native UI pages + captions",
+  "ring-head grid uses capture-tool starting inventory, labelled as such"
+ ],
+ "processes": "all ffmpeg/magick runs were foreground children of this shell and exited; pgrep shows no ffmpeg/GameplayCapture processes; no sinks, displays or watchers created",
+ "cleanup": "intermediate segments, text files and pre-fix sheets deleted; kept recipe, outputs, inspection sheets (work/sheets, 17 MB) and press-RMS json; no cleanup blocker",
+ "not_done_by_design": "no PR/push/source edits/tests/main changes; root owns PR215 update"
+}

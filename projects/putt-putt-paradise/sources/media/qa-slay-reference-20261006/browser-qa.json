@@ -1,0 +1,13 @@
+{
+  "reference": "/home/farrell/Videos/OGGF/slay-the-robotnik-promo/promo.mp4",
+  "duration": 86.216667,
+  "browser": "T3 collaborative preview",
+  "played_at_rate": 1,
+  "completed": true,
+  "first_frame_time": 0,
+  "last_frame_time": 86.2,
+  "frame_callbacks_before_repeat": 5153,
+  "decoded_audio_bytes": 2807341,
+  "media_error": null,
+  "review": "Complete browser playback; representative chapter snapshots and contact sheet inspected. Audio decoding verified, no claim of a human listening review."
+}

@@ -1,0 +1,8 @@
+Sonic3kInvisibleHurtBlockVObjectInstance 5840,2720 spawn=ObjectSpawn[x=5840, y=2720, objectId=107, subtype=129, renderFlags=0, respawnTracked=false, rawYWord=2720, layoutIndex=289, ownerModId=null, objectKey=null]
+LrzSmashingSpikePlatformObjectInstance 5504,1618 spawn=ObjectSpawn[x=5504, y=1618, objectId=33, subtype=20, renderFlags=0, respawnTracked=true, rawYWord=34320, layoutIndex=269, ownerModId=null, objectKey=null]
+LrzFireballLauncherObjectInstance 5532,2961 spawn=ObjectSpawn[x=5532, y=2961, objectId=27, subtype=26, renderFlags=1, respawnTracked=false, rawYWord=11153, layoutIndex=271, ownerModId=null, objectKey=null]
+LrzFireballLauncherObjectInstance 5595,2897 spawn=ObjectSpawn[x=5595, y=2897, objectId=27, subtype=26, renderFlags=1, respawnTracked=false, rawYWord=11089, layoutIndex=273, ownerModId=null, objectKey=null]
+AizLrzRockObjectInstance 5737,2900 spawn=ObjectSpawn[x=5737, y=2900, objectId=5, subtype=64, renderFlags=1, respawnTracked=false, rawYWord=11092, layoutIndex=284, ownerModId=null, objectKey=null]
+LrzSmashingSpikePlatformObjectInstance 5840,2839 spawn=ObjectSpawn[x=5840, y=2839, objectId=33, subtype=9, renderFlags=0, respawnTracked=true, rawYWord=35552, layoutIndex=290, ownerModId=null, objectKey=null]
+Sonic3kInvisibleHurtBlockVObjectInstance 5840,2908 spawn=ObjectSpawn[x=5840, y=2908, objectId=107, subtype=161, renderFlags=0, respawnTracked=false, rawYWord=2908, layoutIndex=291, ownerModId=null, objectKey=null]
+LrzSmashingSpikePlatformObjectInstance 5872,827 spawn=ObjectSpawn[x=5872, y=827, objectId=33, subtype=20, renderFlags=0, respawnTracked=true, rawYWord=33480, layoutIndex=292, ownerModId=null, objectKey=null]

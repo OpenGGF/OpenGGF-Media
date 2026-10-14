@@ -1,0 +1,5 @@
+# jump: knuckles:7:room:Shop
+# ticks: 520
+90:right +30:enter
++60:right +30:right +30:enter
++120:enter

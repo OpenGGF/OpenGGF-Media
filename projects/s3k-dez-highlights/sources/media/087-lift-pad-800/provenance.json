@@ -1,0 +1,10 @@
+{
+  "base_commit": "ffe39535a",
+  "frames": 420,
+  "hurt_rows": 0,
+  "death_rows": 0,
+  "source_sha256": "342e8f0afbae5d39a6f684ff21cbf49149540a57fd5ff5ddd45bc9531d2ded67",
+  "scope": "Positioned DEZ1 lift ride, pause, jump release and return. Sonic solo, seven rings, $498,$708. Not a cold route or native comparison.",
+  "verification": "Both videos fully decoded; frames 120/170/300 inspected. Capture predates only the null-arm allocation-failure correction; normal arm path unchanged.",
+  "validated_commit": "408b95256"
+}

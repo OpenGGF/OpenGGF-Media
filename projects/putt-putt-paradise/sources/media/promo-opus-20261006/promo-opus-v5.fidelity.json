@@ -1,0 +1,677 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "segment": "hook-sonic",
+      "out_frame": 2,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 859,
+      "scale": 4,
+      "mad_expected": 1.359,
+      "mad_neighbours": {
+        "-2": 38.035,
+        "-1": 24.62,
+        "1": 26.869,
+        "2": 37.822
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-sonic",
+      "out_frame": 46,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 903,
+      "scale": 4,
+      "mad_expected": 1.493,
+      "mad_neighbours": {
+        "-2": 94.69,
+        "-1": 50.882,
+        "1": 47.595,
+        "2": 81.741
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-sonic",
+      "out_frame": 79,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 936,
+      "scale": 4,
+      "mad_expected": 1.978,
+      "mad_neighbours": {
+        "-2": 37.742,
+        "-1": 31.544,
+        "1": 33.706,
+        "2": 42.857
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-tails",
+      "out_frame": 95,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 166,
+      "scale": 4,
+      "mad_expected": 1.724,
+      "mad_neighbours": {
+        "-2": 23.296,
+        "-1": 21.53,
+        "1": 19.163,
+        "2": 21.721
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-tails",
+      "out_frame": 122,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 193,
+      "scale": 4,
+      "mad_expected": 1.548,
+      "mad_neighbours": {
+        "-2": 25.248,
+        "-1": 23.587,
+        "1": 24.106,
+        "2": 28.47
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "hook-tails",
+      "out_frame": 138,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 209,
+      "scale": 4,
+      "mad_expected": 1.557,
+      "mad_neighbours": {
+        "-2": 19.572,
+        "-1": 18.028,
+        "1": 13.589,
+        "2": 14.848
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "putt-rewind",
+      "out_frame": 238,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 72,
+      "scale": 4,
+      "mad_expected": 1.207,
+      "mad_neighbours": {
+        "-2": 1.653,
+        "-1": 1.612,
+        "1": 1.567,
+        "2": 1.682
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "putt-rewind",
+      "out_frame": 299,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 133,
+      "scale": 4,
+      "mad_expected": 1.387,
+      "mad_neighbours": {
+        "-2": 30.98,
+        "-1": 30.389,
+        "1": 27.386,
+        "2": 31.69
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "putt-rewind",
+      "out_frame": 349,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 183,
+      "scale": 4,
+      "mad_expected": 1.302,
+      "mad_neighbours": {
+        "-2": 1.302,
+        "-1": 1.302,
+        "1": 1.302,
+        "2": 1.302
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "chip-spin",
+      "out_frame": 365,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 398,
+      "scale": 4,
+      "mad_expected": 1.279,
+      "mad_neighbours": {
+        "-2": 1.503,
+        "-1": 1.439,
+        "1": 1.445,
+        "2": 1.46
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "chip-spin",
+      "out_frame": 442,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 475,
+      "scale": 4,
+      "mad_expected": 1.218,
+      "mad_neighbours": {
+        "-2": 1.583,
+        "-1": 1.463,
+        "1": 1.438,
+        "2": 1.579
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "chip-spin",
+      "out_frame": 508,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 541,
+      "scale": 4,
+      "mad_expected": 1.471,
+      "mad_neighbours": {
+        "-2": 27.489,
+        "-1": 24.265,
+        "1": 23.852,
+        "2": 28.937
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-1",
+      "out_frame": 524,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1361,
+      "scale": 4,
+      "mad_expected": 1.402,
+      "mad_neighbours": {
+        "-2": 36.449,
+        "-1": 28.412,
+        "1": 27.291,
+        "2": 33.342
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-1",
+      "out_frame": 545,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1382,
+      "scale": 4,
+      "mad_expected": 1.632,
+      "mad_neighbours": {
+        "-2": 26.047,
+        "-1": 19.288,
+        "1": 15.385,
+        "2": 24.96
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-1",
+      "out_frame": 554,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1391,
+      "scale": 4,
+      "mad_expected": 1.834,
+      "mad_neighbours": {
+        "-2": 42.532,
+        "-1": 34.279,
+        "1": 33.506,
+        "2": 36.797
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-2",
+      "out_frame": 570,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 432,
+      "scale": 4,
+      "mad_expected": 1.605,
+      "mad_neighbours": {
+        "-2": 26.581,
+        "-1": 23.665,
+        "1": 17.874,
+        "2": 20.563
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-2",
+      "out_frame": 590,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 452,
+      "scale": 4,
+      "mad_expected": 1.497,
+      "mad_neighbours": {
+        "-2": 31.228,
+        "-1": 25.156,
+        "1": 25.36,
+        "2": 29.26
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-2",
+      "out_frame": 598,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 460,
+      "scale": 4,
+      "mad_expected": 1.595,
+      "mad_neighbours": {
+        "-2": 28.026,
+        "-1": 26.274,
+        "1": 27.564,
+        "2": 30.144
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-3",
+      "out_frame": 614,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1431,
+      "scale": 4,
+      "mad_expected": 1.426,
+      "mad_neighbours": {
+        "-2": 52.143,
+        "-1": 44.49,
+        "1": 42.189,
+        "2": 46.655
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-3",
+      "out_frame": 630,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1447,
+      "scale": 4,
+      "mad_expected": 1.681,
+      "mad_neighbours": {
+        "-2": 32.388,
+        "-1": 25.861,
+        "1": 19.872,
+        "2": 24.582
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-3",
+      "out_frame": 634,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1451,
+      "scale": 4,
+      "mad_expected": 1.517,
+      "mad_neighbours": {
+        "-2": 25.728,
+        "-1": 20.36,
+        "1": 19.719,
+        "2": 19.848
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-4",
+      "out_frame": 650,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 3600,
+      "scale": 4,
+      "mad_expected": 1.319,
+      "mad_neighbours": {
+        "-2": 21.625,
+        "-1": 18.889,
+        "1": 23.126,
+        "2": 23.761
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-4",
+      "out_frame": 681,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 3631,
+      "scale": 4,
+      "mad_expected": 1.754,
+      "mad_neighbours": {
+        "-2": 13.278,
+        "-1": 12.193,
+        "1": 14.126,
+        "2": 15.486
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "physics-4",
+      "out_frame": 701,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 3651,
+      "scale": 4,
+      "mad_expected": 1.485,
+      "mad_neighbours": {
+        "-2": 37.844,
+        "-1": 32.319,
+        "1": 31.748,
+        "2": 39.203
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 717,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1202,
+      "scale": 3,
+      "mad_expected": 1.781,
+      "mad_neighbours": {
+        "-2": 23.384,
+        "-1": 29.075,
+        "1": 33.184,
+        "2": 30.613
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 746,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1231,
+      "scale": 3,
+      "mad_expected": 1.759,
+      "mad_neighbours": {
+        "-2": 19.99,
+        "-1": 15.918,
+        "1": 16.226,
+        "2": 23.294
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 764,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 1249,
+      "scale": 3,
+      "mad_expected": 1.923,
+      "mad_neighbours": {
+        "-2": 33.86,
+        "-1": 27.019,
+        "1": 24.944,
+        "2": 28.955
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 717,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 1662,
+      "scale": 3,
+      "mad_expected": 2.129,
+      "mad_neighbours": {
+        "-2": 16.564,
+        "-1": 15.979,
+        "1": 17.285,
+        "2": 18.071
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 746,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 1691,
+      "scale": 3,
+      "mad_expected": 2.126,
+      "mad_neighbours": {
+        "-2": 21.135,
+        "-1": 20.827,
+        "1": 20.467,
+        "2": 22.558
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "heroes",
+      "out_frame": 764,
+      "src": "ehz2-tails-final-v5",
+      "mkv_frame": 1709,
+      "scale": 3,
+      "mad_expected": 2.206,
+      "mad_neighbours": {
+        "-2": 35.271,
+        "-1": 31.047,
+        "1": 31.985,
+        "2": 33.879
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "local-sonic",
+      "out_frame": 780,
+      "src": "local-two-player-final-v5",
+      "mkv_frame": 80,
+      "scale": 4,
+      "mad_expected": 1.296,
+      "mad_neighbours": {
+        "-2": 1.642,
+        "-1": 1.544,
+        "1": 1.605,
+        "2": 1.703
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "local-sonic",
+      "out_frame": 814,
+      "src": "local-two-player-final-v5",
+      "mkv_frame": 114,
+      "scale": 4,
+      "mad_expected": 1.334,
+      "mad_neighbours": {
+        "-2": 28.634,
+        "-1": 22.073,
+        "1": 27.291,
+        "2": 29.204
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "local-sonic",
+      "out_frame": 836,
+      "src": "local-two-player-final-v5",
+      "mkv_frame": 136,
+      "scale": 4,
+      "mad_expected": 1.399,
+      "mad_neighbours": {
+        "-2": 26.19,
+        "-1": 23.951,
+        "1": 24.991,
+        "2": 28.165
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "local-tails",
+      "out_frame": 852,
+      "src": "local-two-player-final-v5",
+      "mkv_frame": 310,
+      "scale": 4,
+      "mad_expected": 1.311,
+      "mad_neighbours": {
+        "-2": 1.593,
+        "-1": 1.47,
+        "1": 1.474,
+        "2": 1.886
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "local-tails",
+      "out_frame": 916,
+      "src": "local-two-player-final-v5",
+      "mkv_frame": 374,
+      "scale": 4,
+      "mad_expected": 1.428,
+      "mad_neighbours": {
+        "-2": 27.877,
+        "-1": 23.012,
+        "1": 26.212,
+        "2": 25.847
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "local-tails",
+      "out_frame": 968,
+      "src": "local-two-player-final-v5",
+      "mkv_frame": 426,
+      "scale": 4,
+      "mad_expected": 1.422,
+      "mad_neighbours": {
+        "-2": 29.931,
+        "-1": 21.905,
+        "1": 23.731,
+        "2": 31.239
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "finale",
+      "out_frame": 1077,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 2156,
+      "scale": 4,
+      "mad_expected": 1.503,
+      "mad_neighbours": {
+        "-2": 32.438,
+        "-1": 25.064,
+        "1": 22.138,
+        "2": 23.948
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "finale",
+      "out_frame": 1130,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 2209,
+      "scale": 4,
+      "mad_expected": 1.491,
+      "mad_neighbours": {
+        "-2": 31.283,
+        "-1": 25.276,
+        "1": 26.277,
+        "2": 28.442
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "finale",
+      "out_frame": 1172,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 2251,
+      "scale": 4,
+      "mad_expected": 1.315,
+      "mad_neighbours": {
+        "-2": 1.315,
+        "-1": 1.315,
+        "1": 1.315,
+        "2": 1.315
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "engine",
+      "out_frame": 1188,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 676,
+      "scale": 2,
+      "mad_expected": 2.198,
+      "mad_neighbours": {
+        "-2": 24.866,
+        "-1": 22.958,
+        "1": 19.044,
+        "2": 25.826
+      },
+      "static_tie": false,
+      "ok": true
+    },
+    {
+      "segment": "engine",
+      "out_frame": 1265,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 753,
+      "scale": 2,
+      "mad_expected": 2.249,
+      "mad_neighbours": {
+        "-2": 7.056,
+        "-1": 2.406,
+        "1": 2.249,
+        "2": 2.388
+      },
+      "static_tie": true,
+      "ok": true
+    },
+    {
+      "segment": "engine",
+      "out_frame": 1330,
+      "src": "ehz1-sonic-rewind-final-v5",
+      "mkv_frame": 818,
+      "scale": 2,
+      "mad_expected": 1.833,
+      "mad_neighbours": {
+        "-2": 30.864,
+        "-1": 28.458,
+        "1": 28.035,
+        "2": 30.065
+      },
+      "static_tie": false,
+      "ok": true
+    }
+  ]
+}

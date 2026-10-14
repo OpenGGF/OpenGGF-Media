@@ -1,0 +1,19 @@
+{
+  "source_head": "bf7e5175c",
+  "setup": {
+    "width": 800,
+    "start": [
+      9472,
+      2112
+    ],
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "../inputs/047-turbine-six-panels-800.txt"
+  },
+  "frames": 750,
+  "deaths": 0,
+  "max_x": 10229,
+  "verification": "Full decode passed; frame502 inspected. Remains behind gate; not completed route.",
+  "validated_commit": "674a99f72"
+}

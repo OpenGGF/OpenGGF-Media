@@ -1,0 +1,18 @@
+{
+  "validated_commit": "f759da908",
+  "widths": [
+    320,
+    352,
+    400,
+    528
+  ],
+  "acts": [
+    1,
+    2
+  ],
+  "frames_per_run": 121,
+  "captured_frame": 120,
+  "hurt_frames": 0,
+  "death_frames": 0,
+  "verification": "All eight PNGs visually inspected. Native PNGs byte-identical to clips 074 (act1) and 071 (act2)."
+}

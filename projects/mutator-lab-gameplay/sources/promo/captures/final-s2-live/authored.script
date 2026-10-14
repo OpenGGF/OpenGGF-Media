@@ -1,0 +1,42 @@
+# S2 EHZ1 live gravity toggle: native jump, menu edit, moon jump, menu off, native jump.
+70 R
+1 R+A
+40 R+A
+20 R
+12 -
+1 S
+24 -
+1 A
+14 -
+1 R
+14 -
+1 D
+14 -
+repeat 15 { 1 L; 3 - }
+20 -
+1 C
+12 -
+repeat 4 { 1 U; 5 - }
+16 -
+1 A
+6 -
+20 R
+1 R+A
+150 R+A
+60 R
+1 S
+24 -
+1 A
+14 -
+1 L
+16 -
+1 C
+12 -
+repeat 4 { 1 U; 5 - }
+16 -
+1 A
+6 -
+20 R
+1 R+A
+40 R+A
+60 R

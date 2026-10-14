@@ -1,0 +1,4 @@
+CutsceneKnucklesLrz2Instance 14904,236 spawn=ObjectSpawn[x=0, y=0, objectId=130, subtype=36, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+LrzBoulderCutsceneObjectInstance 14512,576 spawn=ObjectSpawn[x=14512, y=576, objectId=174, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=576, layoutIndex=432, ownerModId=null, objectKey=null]
+LrzCutsceneBoulderObjectInstance 14856,226 spawn=ObjectSpawn[x=14856, y=226, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+Sonic3kMonitorObjectInstance 14960,817 spawn=ObjectSpawn[x=14960, y=817, objectId=1, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=817, layoutIndex=438, ownerModId=null, objectKey=null]

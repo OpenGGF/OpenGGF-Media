@@ -1,0 +1,12 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=music_off
+4:jump=give_loop_berry_3
+5:jump=give_hill_daffodil_2
+40:jump=festival_day_star_light_feast_1700
+45:jump=festival_secret_hazel
+50:jump=festival_start_star_light_feast
+400:down
+420:down
+440:enter

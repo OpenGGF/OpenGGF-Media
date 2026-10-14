@@ -1,0 +1,9 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=music_off
+4:jump=demo
+40:jump=farm_400_30
+165:state=season_2
+166:state=time_1100
+167:state=weather_0

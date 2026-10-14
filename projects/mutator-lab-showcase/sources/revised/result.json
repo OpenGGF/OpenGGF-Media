@@ -1,0 +1,39 @@
+{
+  "film": "/home/farrell/scratch/agent-tmp/codex/mutator-lab-audio-revision-20261010/edit-r2/out/mutator-lab-complete-showcase-revised.mp4",
+  "sha256": "bcd6b1eada7cf462c975d3aa472cd0bf636980b553a700d268ae087c5a264136",
+  "duration_s": 116.5,
+  "frames": 6990,
+  "shots": 29,
+  "cuts_last20": 3,
+  "source_frame_checks": 108,
+  "final_aac_loudness": {
+    "input_i": "-17.70",
+    "input_tp": "-2.00",
+    "input_lra": "9.90",
+    "input_thresh": "-28.31",
+    "output_i": "-15.96",
+    "output_tp": "-1.50",
+    "output_lra": "9.20",
+    "output_thresh": "-26.34",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.04"
+  },
+  "speed_200_pcm_max_sample_error": 0,
+  "status": "delivered",
+  "author": "Root (Codex GPT-6.1-Sol), using preserved native footage/layout and Opus draft level estimates",
+  "opus_task": "interrupted at user request; no continuation or new Opus delegated",
+  "original_preserved": "df18fbbbb3685885c9bea0e44c55e9b15345589c7b1c4770ec426f7ea46c87e1",
+  "limits": "Selected native source ranges and technical sound alignment; no subjective listening or hardware/output claims.",
+  "source_archive": "Original accepted7+11take archives unchanged",
+  "reference_reels": [
+    "Sitar Hero",
+    "Multigame",
+    "Hardened"
+  ],
+  "coverage": "All eleven effects: Gravity, Ringfall, Big Head, Stealth, No Powerups, No Checkpoints, No Rings, Game Speed, No Special Stages, No Bonus Stages, Violent Explosions",
+  "raw_pcm_and_raster_inputs_preserved": true,
+  "pr_url": "https://github.com/OpenGGF/OpenGGF/pull/215",
+  "pr_head": "5a768ea4682ef03c40574824c52c60c4f6163c99",
+  "cleanup_pending": [],
+  "finished_at": "2026-10-10T09:08:31.946136+00:00"
+}

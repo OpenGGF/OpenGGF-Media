@@ -1,0 +1,8 @@
+SSZHPZTeleporterObjectInstance 5888,1072 spawn=ObjectSpawn[x=5888, y=1072, objectId=121, subtype=246, renderFlags=0, respawnTracked=false, rawYWord=1072, layoutIndex=190, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 5980,1072 spawn=ObjectSpawn[x=5980, y=1072, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 5995,1121 spawn=ObjectSpawn[x=5995, y=1121, objectId=0, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 5932,920 spawn=ObjectSpawn[x=5932, y=920, objectId=0, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 5851,972 spawn=ObjectSpawn[x=5851, y=972, objectId=0, subtype=3, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszRoamingCloudObjectInstance 5900,1013 spawn=ObjectSpawn[x=5900, y=1013, objectId=0, subtype=4, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+SszCollapsingBridgeDiagonalObjectInstance 5504,1048 spawn=ObjectSpawn[x=5504, y=1048, objectId=123, subtype=0, renderFlags=1, respawnTracked=false, rawYWord=9240, layoutIndex=176, ownerModId=null, objectKey=null]
+SszCollapsingBridgeDiagonalObjectInstance 5632,1080 spawn=ObjectSpawn[x=5632, y=1080, objectId=123, subtype=0, renderFlags=1, respawnTracked=false, rawYWord=9272, layoutIndex=180, ownerModId=null, objectKey=null]

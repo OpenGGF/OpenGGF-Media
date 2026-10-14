@@ -1,0 +1,6 @@
+S3kDezTorpedoLauncherObjectInstance 10936,2252 spawn=ObjectSpawn[x=10936, y=2252, objectId=77, subtype=20, renderFlags=0, respawnTracked=false, rawYWord=2252, layoutIndex=450, ownerModId=null, objectKey=null]
+S3kDezStaircaseObjectInstance 10704,2416 spawn=ObjectSpawn[x=10704, y=2416, objectId=79, subtype=4, renderFlags=1, respawnTracked=false, rawYWord=10640, layoutIndex=446, ownerModId=null, objectKey=null]
+S3kDezStaircaseObjectInstance 10736,2384 spawn=ObjectSpawn[x=10736, y=2384, objectId=79, subtype=4, renderFlags=1, respawnTracked=false, rawYWord=10640, layoutIndex=-1, ownerModId=null, objectKey=null]
+S3kDezTeleporterObjectInstance 10576,2220 spawn=ObjectSpawn[x=10576, y=2220, objectId=89, subtype=165, renderFlags=1, respawnTracked=false, rawYWord=10412, layoutIndex=445, ownerModId=null, objectKey=null]
+S3kDezStaircaseObjectInstance 10768,2352 spawn=ObjectSpawn[x=10768, y=2352, objectId=79, subtype=4, renderFlags=1, respawnTracked=false, rawYWord=10640, layoutIndex=-1, ownerModId=null, objectKey=null]
+S3kDezStaircaseObjectInstance 10800,2320 spawn=ObjectSpawn[x=10800, y=2320, objectId=79, subtype=4, renderFlags=1, respawnTracked=false, rawYWord=10640, layoutIndex=-1, ownerModId=null, objectKey=null]

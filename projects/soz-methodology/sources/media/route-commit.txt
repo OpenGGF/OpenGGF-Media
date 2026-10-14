@@ -1,0 +1,13 @@
+feat(s3k): implement Sandopolis loop exits and solid platforms
+
+Port the loop fall-through controller and both static solid shapes from
+shipped-ROM routines, preserving the alternate HCZ and CNZ slot owners.
+Exercise production landing and control boundaries with whole-world rewind.
+
+Changelog: n/a: release note recorded in CHANGELOG.0.7.md
+Guide: n/a
+Known-Discrepancies: n/a
+S3K-Known-Discrepancies: n/a
+Agent-Docs: n/a
+Configuration-Docs: n/a
+Skills: n/a

@@ -1,0 +1,13 @@
+# NEW RUN, hover Tails then Knuckles, pick Knuckles, EMBARK: the spin-dash off, Angel Island's
+# title card, the cargo hold and landing on the map.
+# ticks: 1250
+90:enter           # NEW RUN
++70:right          # Tails
++50:right          # Knuckles
++50:enter          # pick Knuckles
++40:enter          # EMBARK
++260:enter         # cargo hold: first option
++60:enter          # LAND!
++120:right
++40:right
++40:enter          # a map node

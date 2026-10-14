@@ -1,0 +1,20 @@
+{
+  "base_commit": "e2120af4d043dec01228b6202a2a2e036161f044",
+  "production_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalBossController.java": "7b400395445fb0b646713d2257fed0ba6a1f816e16222e173339a092ff39e0b8",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalBossSprite.java": "db0df2f14b694ded42cc8bd46b55fda56bd9e129d1d44333295d1a7c005f2ba9",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezFinalEscapeShip.java": "f8c56036341fec493e889d37ca70173315436ed187019b087c88eb5cd42b476d",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezMinibossExplosionController.java": "f6496410b4804f57ba62b4895d2e7bd748892b7ba7e7ae8e0524088874dbe897",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezMinibossSprite.java": "06ad7fe35d4d27e6c6cd864d8d84bf7ebc0fb3319d7d1a1af845571507608ce6",
+    "src/main/java/com/openggf/game/sonic3k/objects/DezExplosionOwner.java": "0e77102723ecec06a5857036778d4905fabe99701c47318b07aa772f38912c6c"
+  },
+  "input": "/home/farrell/Videos/OGGF/s3k-dez-bring-up/inputs/dez-final-complete-320.txt",
+  "input_sha256": "6111d6b584de91456c17249253f0e5eafe1136f1eb69f9e313e146ed2e352337",
+  "width": 320,
+  "frames": 14600,
+  "capture_from": 13900,
+  "rings": 200,
+  "emeralds": "3333333",
+  "scope": "Direct final DEZ arena solo Sonic; all phases to DDZ, not incoming DEZ2 continuity",
+  "verification": "No death; 14459 probe rows match replay excluding input text; full video decode; stills inspected"
+}

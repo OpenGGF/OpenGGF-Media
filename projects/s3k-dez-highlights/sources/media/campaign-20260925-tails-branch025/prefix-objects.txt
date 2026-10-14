@@ -1,0 +1,8 @@
+S3kDezBumperWallObjectInstance 9656,1816 spawn=ObjectSpawn[x=9656, y=1816, objectId=96, subtype=24, renderFlags=0, respawnTracked=false, rawYWord=1816, layoutIndex=305, ownerModId=null, objectKey=null]
+S3kDezGravityRoomObjectInstance 9344,2112 spawn=ObjectSpawn[x=9344, y=2112, objectId=95, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=2112, layoutIndex=299, ownerModId=null, objectKey=null]
+S3kDezBumperWallObjectInstance 10040,1912 spawn=ObjectSpawn[x=10040, y=1912, objectId=96, subtype=56, renderFlags=0, respawnTracked=false, rawYWord=1912, layoutIndex=327, ownerModId=null, objectKey=null]
+S3kDezBumperWallObjectInstance 9656,2408 spawn=ObjectSpawn[x=9656, y=2408, objectId=96, subtype=24, renderFlags=0, respawnTracked=false, rawYWord=2408, layoutIndex=306, ownerModId=null, objectKey=null]
+S3kDezBumperWallObjectInstance 9728,1984 spawn=ObjectSpawn[x=9728, y=1984, objectId=96, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=1984, layoutIndex=311, ownerModId=null, objectKey=null]
+S3kDezBumperWallObjectInstance 9728,2240 spawn=ObjectSpawn[x=9728, y=2240, objectId=96, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=2240, layoutIndex=312, ownerModId=null, objectKey=null]
+S3kDezGravityPuzzleObjectInstance 9872,2048 spawn=ObjectSpawn[x=9872, y=2048, objectId=97, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=2112, layoutIndex=319, ownerModId=null, objectKey=null]
+S3kDezBumperWallObjectInstance 10040,2312 spawn=ObjectSpawn[x=10040, y=2312, objectId=96, subtype=56, renderFlags=0, respawnTracked=false, rawYWord=2312, layoutIndex=328, ownerModId=null, objectKey=null]

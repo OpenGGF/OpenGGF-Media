@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:strange_mushrooms@1:4:1
+# ticks: 560
+90:enter
++330:enter

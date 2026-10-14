@@ -1,0 +1,6 @@
+formatVersion=1
+interval=5
+durationQuarters=4
+selected=bobble-head
+enabled=true
+seed=22

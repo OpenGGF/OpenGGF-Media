@@ -1,0 +1,4 @@
+LrzFlameThrowerObjectInstance 2258,1904 spawn=ObjectSpawn[x=2258, y=1904, objectId=41, subtype=16, renderFlags=0, respawnTracked=false, rawYWord=1904, layoutIndex=0, ownerModId=null, objectKey=null]
+LrzButtonHorizontalObjectInstance 2744,1838 spawn=ObjectSpawn[x=2744, y=1838, objectId=28, subtype=1, renderFlags=1, respawnTracked=false, rawYWord=10030, layoutIndex=2, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 2636,1711 spawn=ObjectSpawn[x=2636, y=1711, objectId=41, subtype=8, renderFlags=0, respawnTracked=false, rawYWord=1711, layoutIndex=1, ownerModId=null, objectKey=null]
+LrzDoorObjectInstance 2768,1888 spawn=ObjectSpawn[x=2768, y=1888, objectId=25, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=1888, layoutIndex=3, ownerModId=null, objectKey=null]

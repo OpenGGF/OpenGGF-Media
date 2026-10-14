@@ -1,0 +1,14 @@
+hit 1: 26025
+hit 2: 26212
+hit 3: 26251
+hit 4: 26401
+hit 5: 26458
+hit 6: 27030
+hit 7: 27457
+hit 8: 27519
+capsule: 27750
+results: 27781
+results finished: 28350
+LRZ load frame: 28601
+Controller frames: 28782
+Cold tails; followers=; width=320; donor=off; intro enabled.

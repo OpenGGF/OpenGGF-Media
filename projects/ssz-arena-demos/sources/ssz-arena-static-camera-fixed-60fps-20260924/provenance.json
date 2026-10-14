@@ -1,0 +1,30 @@
+{
+  "prototype": true,
+  "arena": [
+    240,
+    560
+  ],
+  "nativeWidth": 320,
+  "viewportWidth": 800,
+  "fps": 60,
+  "sources": {
+    "ghz": {
+      "path": "/home/farrell/Videos/OGGF/ssz-bring-up/campaign-20260924-ghz-camera-fixed-800/capture.mp4",
+      "sha256": "773e4e963135433e11c58fd408bc38d435bc6ae3ac9ff868819e81e1216281b1",
+      "frames": 300
+    },
+    "mtz": {
+      "path": "/home/farrell/Videos/OGGF/ssz-bring-up/campaign-20260924-mtz-camera-fixed-800/capture.mp4",
+      "sha256": "5e5d4b69de0852e7a24c7c4204e184e86d36e8c914033d1275d46343e21c8357",
+      "frames": 300
+    }
+  },
+  "checks": [
+    "600 composited frames preserve the exact active rectangle before encoding",
+    "clear entry and mask held through final frame",
+    "both final movies fully decoded",
+    "opaque outer wings at full envelope",
+    "successive noise fields decorrelated at zero and 13px vertical offset",
+    "deterministic noise replay"
+  ]
+}

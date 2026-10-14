@@ -1,0 +1,203 @@
+[
+  {
+    "src": "wind",
+    "start": 9.75,
+    "dur": 2.5,
+    "caption": "A NORMAL DAY ON ANGEL ISLAND.",
+    "title": "A normal day"
+  },
+  {
+    "card": "one",
+    "dur": 1.2,
+    "sfx": "boom",
+    "title": "One hedgehog"
+  },
+  {
+    "card": "no",
+    "dur": 1.2,
+    "sfx": "switch",
+    "title": "No rules"
+  },
+  {
+    "card": "chaos",
+    "dur": 2.0,
+    "sfx": "dash",
+    "title": "Sonic3K Chaos Mode"
+  },
+  {
+    "src": "bobble",
+    "start": 9.8,
+    "dur": 4.2,
+    "caption": "A HEALTHY SENSE OF SELF.",
+    "title": "Bobble Head"
+  },
+  {
+    "src": "heads",
+    "start": 15.0,
+    "dur": 2.5,
+    "caption": "AND ROOM FOR PERSONAL GROWTH.",
+    "title": "Throbbing Heads"
+  },
+  {
+    "src": "invisible",
+    "start": 10.0,
+    "dur": 3.2,
+    "caption": "SONIC HAS LEFT THE CHAT.",
+    "title": "Where Did Sonic Go?"
+  },
+  {
+    "src": "trails",
+    "start": 11.2,
+    "dur": 3.0,
+    "caption": "ONE SONIC WAS APPARENTLY INSUFFICIENT.",
+    "title": "Too Many Sonics"
+  },
+  {
+    "src": "dvd",
+    "start": 9.75,
+    "dur": 5.4,
+    "caption": "EVEN THE HUD WANTS OUT.",
+    "title": "DVD HUD"
+  },
+  {
+    "src": "menu",
+    "start": 11.1,
+    "dur": 2.8,
+    "caption": "CHOOSE YOUR PROBLEMS.",
+    "title": "Available and selected effects"
+  },
+  {
+    "src": "menu",
+    "start": 19.8,
+    "dur": 3.3,
+    "caption": "THEN PLAY THE NATIVE GAME.",
+    "title": "Native Sonic launch"
+  },
+  {
+    "card": "side",
+    "dur": 1.2,
+    "sfx": "spindash",
+    "title": "Side effects"
+  },
+  {
+    "src": "moon",
+    "start": 10.0,
+    "dur": 4.0,
+    "caption": "GRAVITY HAS LEFT THE CHAT.",
+    "title": "Moon Gravity"
+  },
+  {
+    "src": "gravity",
+    "start": 9.75,
+    "dur": 3.0,
+    "caption": "IT HAS ALSO HANDED IN ITS NOTICE.",
+    "title": "Gravity Hiccup"
+  },
+  {
+    "src": "bumper",
+    "start": 9.75,
+    "dur": 2.5,
+    "caption": "PERSONAL SPACE DENIED.",
+    "title": "Bumper Ahead!"
+  },
+  {
+    "src": "rain",
+    "start": 10.15,
+    "dur": 3.5,
+    "caption": "THE ECONOMY IS DOING GREAT.",
+    "title": "Ring Rain"
+  },
+  {
+    "src": "magnet",
+    "start": 12.0,
+    "dur": 3.8,
+    "caption": "EVERY RING WANTS TO MEET YOU.",
+    "title": "Ring Magnet"
+  },
+  {
+    "src": "mirror",
+    "start": 10.0,
+    "dur": 2.0,
+    "caption": "WRONG WAY.",
+    "title": "Mirror Universe"
+  },
+  {
+    "src": "negative",
+    "start": 10.0,
+    "dur": 2.0,
+    "caption": "WRONG FILTER.",
+    "title": "Negative Zone"
+  },
+  {
+    "src": "scenery",
+    "start": 12.8,
+    "dur": 3.0,
+    "caption": "WRONG ISLAND.",
+    "title": "Wrong-Zone Scenery"
+  },
+  {
+    "src": "overdrive",
+    "start": 10.0,
+    "dur": 4.0,
+    "caption": "WHO GAVE THE SHRUB CAFFEINE?",
+    "title": "Badnik Overdrive"
+  },
+  {
+    "src": "flood",
+    "start": 9.85,
+    "dur": 3.15,
+    "caption": "LOCAL FORECAST: EXTREMELY LOCAL.",
+    "title": "Flash Flood"
+  },
+  {
+    "card": "reviews",
+    "dur": 4.5,
+    "title": "Fictional critics"
+  },
+  {
+    "card": "optional",
+    "dur": 1.5,
+    "sfx": "ring",
+    "title": "Optional sidegames"
+  },
+  {
+    "src": "pong-play",
+    "start": 10.0,
+    "dur": 3.75,
+    "caption": "WE INTERRUPT THIS PLATFORMER...",
+    "title": "Ring Pong"
+  },
+  {
+    "src": "stack",
+    "start": 10.0,
+    "dur": 3.0,
+    "caption": "FOR ANOTHER GAME ENTIRELY.",
+    "title": "Monitor Stack"
+  },
+  {
+    "src": "ghost-close",
+    "start": 11.0,
+    "dur": 4.0,
+    "caption": "THE NEIGHBOURS SEEM FRIENDLY.",
+    "title": "Sandopolis Ghost Party"
+  },
+  {
+    "card": "end",
+    "dur": 5.0,
+    "sfx": "ring",
+    "title": "105 effects. Choose your pool."
+  },
+  {
+    "card": "post",
+    "dur": 2.0,
+    "sfx": "rumble",
+    "title": "Good luck"
+  },
+  {
+    "src": "bumper",
+    "start": 9.8,
+    "dur": 2.2,
+    "caption": "ONE MORE THING.",
+    "title": "One more thing"
+  }
+]

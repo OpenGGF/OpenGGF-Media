@@ -1,0 +1,26 @@
+{
+  "source_head": "35390ba3c",
+  "source_sha256": {
+    "S3kDezStaircaseObjectInstance.java": "25503df64194288e536bf0387bb678ddadd4f447f9c463c6c074907a624bf774"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "dez",
+    "act": 1,
+    "start": [
+      3792,
+      1552
+    ],
+    "rings": 7,
+    "width": 800,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off",
+    "input": "neutral"
+  },
+  "stepped_frames": 360,
+  "deaths": 0,
+  "scope": "Positioned landing, delayed trigger and upward four-section staircase ride; not cold route or native parity.",
+  "verification": "Full ffmpeg decode passed; state CSV and frame 160 inspected.",
+  "validated_commit": "46be7745e"
+}

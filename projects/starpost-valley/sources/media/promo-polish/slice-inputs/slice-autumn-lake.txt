@@ -1,0 +1,11 @@
+0:jump=new_sonic
+1:jump=close
+2:jump=people_mail_clear
+3:jump=music_off
+4:jump=give_fishing_rod_1
+5:jump=select_2
+40:jump=fish_lake
+160:place=180
+165:state=season_2
+166:state=time_1100
+167:state=weather_0

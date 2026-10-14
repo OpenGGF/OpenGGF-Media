@@ -1,0 +1,17 @@
+{
+  "commit": "ca23d7413",
+  "zone": 10,
+  "act": 0,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "starPost": true,
+  "startX": 6720,
+  "startY": 1648,
+  "rings": 355,
+  "frames": 900,
+  "romSha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "input": "InputLog.txt",
+  "scope": "Positioned visual evidence; not cold-route or strict parity"
+}

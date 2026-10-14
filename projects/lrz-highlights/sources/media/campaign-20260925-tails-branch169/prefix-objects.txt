@@ -1,0 +1,7 @@
+Sonic3kSSEntryRingObjectInstance 9792,1600 spawn=ObjectSpawn[x=9792, y=1600, objectId=133, subtype=9, renderFlags=0, respawnTracked=false, rawYWord=1600, layoutIndex=318, ownerModId=null, objectKey=null]
+Sonic3kSpikeObjectInstance 9614,1228 spawn=ObjectSpawn[x=9614, y=1228, objectId=8, subtype=32, renderFlags=2, respawnTracked=false, rawYWord=17612, layoutIndex=315, ownerModId=null, objectKey=null]
+Sonic3kButtonObjectInstance 9816,1656 spawn=ObjectSpawn[x=9816, y=1652, objectId=51, subtype=5, renderFlags=0, respawnTracked=false, rawYWord=1652, layoutIndex=319, ownerModId=null, objectKey=null]
+LrzFlameThrowerObjectInstance 9712,1272 spawn=ObjectSpawn[x=9712, y=1272, objectId=41, subtype=150, renderFlags=1, respawnTracked=false, rawYWord=9464, layoutIndex=316, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 9136,2110 spawn=ObjectSpawn[x=9136, y=2110, objectId=7, subtype=2, renderFlags=0, respawnTracked=true, rawYWord=34878, layoutIndex=306, ownerModId=null, objectKey=null]
+Sonic3kSpikeObjectInstance 9201,1650 spawn=ObjectSpawn[x=9201, y=1650, objectId=8, subtype=32, renderFlags=0, respawnTracked=false, rawYWord=1650, layoutIndex=307, ownerModId=null, objectKey=null]
+Sonic3kSpringObjectInstance 9264,1660 spawn=ObjectSpawn[x=9264, y=1660, objectId=7, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=1660, layoutIndex=308, ownerModId=null, objectKey=null]

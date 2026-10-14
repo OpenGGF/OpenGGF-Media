@@ -1,0 +1,36 @@
+{
+  "source_head": "703158d8093384bc50c4f4dd4a1f88f3cd326914",
+  "source_sha256": {
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszGhzBossChainLinkChild.java": "947be332ba2478e084ec90346ee4842ad6c45b5d63584afc1e9b8c55a1d520dc",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszGhzBossObjectInstance.java": "6ab9c913ceece2b490c28e920be87d5248fe89cc8fca21351f0dcce034aea2e5",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszGhzBossShieldChild.java": "8b5a1baa13199ab02fb4cbc3c0643e7900bd39abeafe9bb61b7639ad3be0917d",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMtzBossObjectInstance.java": "d4e242a7aa7f327a5a9ee6035f4d4abccf2a58a9bb9c7b55b840f0d3720aee42",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszMtzBossOrbChild.java": "4a3836a8a111b9adfbe6a9e2848f873622d1a8b100a5afdd99454726f1ae5b74",
+    "src/main/java/com/openggf/game/sonic3k/objects/bosses/SszBossExplosionController.java": "c8a913a0d15fc0071b071062bdb0c7209f1764750510a50d369e10ef3146cb14"
+  },
+  "setup": {
+    "game": "s3k",
+    "zone": "ssz",
+    "act": 1,
+    "star_post": [
+      5888,
+      1056
+    ],
+    "rings": 355,
+    "width": 320,
+    "main": "sonic",
+    "sidekick": "none",
+    "donor": "off"
+  },
+  "input": "../inputs/ssz-mtz-fight-chase.txt",
+  "input_sha256": "cec9211f6a3a5b870708e02be85e99e946c6ef493fe6ba0c9d5348beae21b957",
+  "stepped_frames": 2400,
+  "captured_frames": [
+    1680,
+    2399
+  ],
+  "video_frames": 720,
+  "duration_seconds": 12,
+  "verification": "ffmpeg full decode passed; frame 1770 inspected; zero CSV deaths; controller checkpoint route, not native parity",
+  "validated_commit": "eaf341739"
+}

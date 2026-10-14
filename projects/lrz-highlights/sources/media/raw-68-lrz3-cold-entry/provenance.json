@@ -1,0 +1,22 @@
+{
+  "base_commit": "68255ce2e",
+  "source_state": "uncommitted cold-entry flash/missile candidate",
+  "frames": 1500,
+  "fps": 60,
+  "width": 320,
+  "main": "sonic",
+  "sidekick": "tails",
+  "donor": "off",
+  "setup": "fresh boss-act load; initial fire shield and 37 rings; no positioned checkpoint",
+  "movie": "s3k-sonic-tails-complete-emeralds.bk2",
+  "movie_sha256": "AD40FB0B0A74FA12B08AB71B2E48A7455B388D14F43F4CDED502AC4A15D1B3C0",
+  "input_start": 428867,
+  "hurt_frames": 0,
+  "dead_frames": 0,
+  "final_xy": [
+    1716,
+    940
+  ],
+  "audio": false,
+  "limits": "Short fresh-entry traversal, not act completion. Native has an extra unchanged gameplay dispatch at 429070 during art loading; inherited V-int phase is not supplied. No strict parity claim."
+}

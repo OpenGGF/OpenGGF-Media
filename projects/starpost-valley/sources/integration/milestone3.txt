@@ -1,0 +1,15 @@
+refactor: extract additive act graphics publication
+
+Keep the merged valley load path within LevelManager's size ratchet by
+moving its existing palette/pattern publication into a focused collaborator.
+Document the real-act HUD, music, route evidence and remaining coverage gaps.
+
+Changelog: n/a: Starpost Valley in progress; the finished mod adds its entry
+Guide: n/a
+Known-Discrepancies: n/a
+S3K-Known-Discrepancies: n/a
+Agent-Docs: n/a
+Configuration-Docs: n/a
+Skills: n/a
+
+Co-Authored-By: GPT-6.1-Sol <noreply@openai.com>

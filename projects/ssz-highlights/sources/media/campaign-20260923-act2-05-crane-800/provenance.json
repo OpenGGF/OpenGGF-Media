@@ -1,0 +1,27 @@
+{
+  "base_commit": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty_worktree": true,
+  "width": 800,
+  "game": "s3k",
+  "zone": 10,
+  "act": 2,
+  "main": "knuckles",
+  "sidekick": "none",
+  "input": "neutral",
+  "frames": 1500,
+  "full_mp4_decode": true,
+  "death_rows": 0,
+  "class_sha256": {
+    "SszCraneShipDebris.class": "b06dc10cc52edfd9cc5d7295e30bd271bb33a41a034073e4cb7db158626c6a40",
+    "SszCranePose.class": "beaded713e6828f38f41865e3bd50e1bf48b8a9b3168368b163085e078bdac79",
+    "SszCraneCameraPan.class": "99301f0d60cfc29545ba15f0e433f2a0894fa8b63078fd1061473c44c2aa97a8",
+    "SszCraneArtRequest$Value.class": "d6cc6ca3bb8d3fd4d5c6eeadfeda395099824aacdc354b05484430dc6e3171ed",
+    "SszCraneArtRequest.class": "93104975d9eb7d5ad7595545db2c0057604edb10cc58a9558c0651ce3df888d2",
+    "SszCraneShip.class": "586bdb46acac965708343957bdbbd34e958f11fa3b4727d2c3cdf994b1c9e1cf",
+    "SszCraneClawPart.class": "c5b63c7f71913c9e32bbfbad5df130c18fd007c106ed301077cdc6274af57cab",
+    "SszCraneClaw.class": "41c22bcd57e57f976f2a2f87d41bdbfdcf99286470828cef87c5162f2f39cd8a",
+    "SszCraneShipDecoration.class": "339dca222bb3d4c6ae5f8b1a57dde8993c5fd2295e357ece193b4b9fcb6c3a3b",
+    "SszCranePlayerRelease.class": "7976cfe7cf7778e51141e3412c6b736d8a2b470469883a1406647295bf90feaa"
+  },
+  "presentation_status": "Crane handoff demonstrated; full Act 2 presentation and Super phase not yet complete. Earlier suspected floor/first-phase Mecha palette defects rejected: native run1/f414001.png has the same colours and native CRAM bytes 32..63 match ROM 0x7D850..0x7D86F."
+}

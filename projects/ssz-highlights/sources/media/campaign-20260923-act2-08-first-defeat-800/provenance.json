@@ -1,0 +1,34 @@
+{
+  "head": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty": true,
+  "setup": {
+    "width": 800,
+    "main": "knuckles",
+    "sidekick": "",
+    "donor": "off",
+    "emeralds": "3333333",
+    "vint": 410766
+  },
+  "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+  "first_defeat": 3294,
+  "super_entry": 4016,
+  "death": 4496,
+  "stepped": 4557,
+  "captured": 1357,
+  "inspection": "frame4000; full ffmpeg decode passes",
+  "scope": "Cold first fight and transformation, not complete Super fight. Ending routine8 source added later is not exercised in this capture.",
+  "files": {
+    "route.script": "209eb5067cf54092b248ea25d95f3e82ffe3b205ae5024a1f179ae355b3d64a5",
+    "route.bk2": "1aa37acb43ad4322c55db592208a64e79f6c9d492823d70a4254dae1f6025923",
+    "capture.mp4": "2ffb5c564297afa21f26e0a08d2a38668f5d969312f5778b84c99c23517fa5cd",
+    "state.csv": "12c6b3bb1fff851885118e495593c75cfcbc89d169641b2299f71ddad91e33bc"
+  },
+  "classes": {
+    "Sonic3kGameModule": "c5a06e932e8979d8045209c534fc97e727a46448e05d0152b105d4d51ebcf848",
+    "Sonic3kLevelEventManager": "39b97be74f93c43195c8533de7b027bdde10f031504fc5c3ef0d63b862ba71ab",
+    "objects/SszArrivalControllerObjectInstance": "d56371267102964bb169554c6b4707ba6a06e1056550d129a251fe49e7c18397",
+    "objects/SszCraneShip": "6cfca2765bf1903fc434c69cee0bda97831f6588c9e66fd358bc676a89842573",
+    "objects/bosses/SszMechaSonicObjectInstance": "26ca04b82cab5e0cda7df45429c3d474f80fd3101f0bca25c36d04fcc0c185ba",
+    "objects/SszAct2CameraController": "1fdb3263715d9c2c3e397110af17849dd894b3af1c7a0dd86cab9aac17a314fb"
+  }
+}

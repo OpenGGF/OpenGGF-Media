@@ -1,0 +1,4 @@
+# jump: knuckles:7:fight:lbz:big_arm@3:15:0
+# ticks: 420
+200:enter +30:enter
++70:enter +30:enter

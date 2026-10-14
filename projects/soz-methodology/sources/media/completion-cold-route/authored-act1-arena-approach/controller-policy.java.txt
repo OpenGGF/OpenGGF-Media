@@ -1,0 +1,116 @@
+package com.openggf.game.sonic3k.objects;
+
+import com.openggf.configuration.SonicConfiguration;
+import com.openggf.debug.playback.*;
+import com.openggf.game.GameServices;
+import com.openggf.game.recording.*;
+import com.openggf.graphics.ScreenshotCapture;
+import com.openggf.tests.RomTestUtils;
+import com.openggf.tests.rules.*;
+import com.openggf.tools.GameplayCaptureSession;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.condition.EnabledIfSystemProperty;
+import java.nio.file.*;
+import static org.junit.jupiter.api.Assertions.*;
+
+/** Cold ordinary-input route exploration; only controller input follows production boot. */
+public class SozColdAct1ControllerProbe {
+ public static void main(String[] args) throws Exception {new SozColdAct1ControllerProbe().coldRoute();}
+    void coldRoute() throws Exception {
+        Path output=Path.of(System.getProperty("soz.cold.act1.capture"));
+        Files.createDirectories(output.resolve("frames"));
+        var loader=new Bk2MovieLoader();
+        var movie=loader.loadMovieOrInputLog(Path.of("src/test/resources/traces/s3k/_movies/s3k-complete-sonic-tails.bk2"));
+        String tailPath=System.getProperty("soz.cold.act1.tail");
+        var tail=tailPath==null?null:loader.loadMovieOrInputLog(Path.of(tailPath));
+        int tailStart=Integer.getInteger("soz.cold.act1.tailStart",0);
+        int count=Integer.getInteger("soz.cold.act1.frames",24000);
+        int stride=Integer.getInteger("soz.cold.act1.stride",30);
+        boolean adaptBoss=Boolean.getBoolean("soz.cold.act1.bossDriver");
+        var inputs=new java.util.ArrayList<RecordedFrameInput>();
+        var settings=new GameplayCaptureSession.Settings(320,"sonic","tails","off",null,null,null);
+        boolean ready=false,dead=false;int bossTick=-1,vineStage=0,vineJump=0,dashTick=0;
+        boolean vineDriver=Boolean.getBoolean("soz.cold.act1.vineDriver");
+        try(var session=new GameplayCaptureSession(settings);var csv=Files.newBufferedWriter(output.resolve("state.csv"))) {
+            GameServices.configuration().setSessionOverride(SonicConfiguration.S3K_SKIP_INTROS,false);
+            session.boot(RomTestUtils.ensureSonic3kRomAvailable().toPath(),8,0,settings);
+            GameServices.level().consumePendingInitialProcessSpritesPass();
+            var victory=new SozAct1VictoryRoute();
+            csv.write(GameplayCaptureSession.stateHeader()+",act,boss_routine,boss_phase,p1_mask,p2_mask");csv.newLine();
+            Files.writeString(output.resolve("setup.txt"),"Cold SOZ1 Sonic+Tails native320; intro enabled; initial Process_Sprites consumed. Movie offset282195. No post-boot position/physics/phase writes. Tail="+tailPath+" start="+tailStart+" bossDriver="+adaptBoss+"\n");
+            for(int frame=0;frame<count;frame++) {
+                var boss=SozAct1VictoryRoute.boss();
+                if(adaptBoss&&boss!=null&&bossTick<0&&(session.player().getCentreX()&65535)>=0x4390&&(session.player().getCentreX()&65535)<=0x43C0)bossTick=0;
+                Bk2FrameInput input;
+                if(GameServices.level().getCurrentAct()!=0)input=new Bk2FrameInput(frame,0,0,false,"");
+                else if(bossTick>=0)input=victory.input(bossTick++,session.player());
+                else if(adaptBoss&&boss!=null)input=new Bk2FrameInput(frame,(session.player().getCentreX()&65535)>0x43B0?4:8,0,false,"");
+                else if(tail!=null&&frame>=tailStart)input=frame-tailStart<tail.getFrameCount()?tail.getFrame(frame-tailStart):new Bk2FrameInput(frame,0,0,false,"");
+                else input=movie.getFrame(282195+frame);
+                if(vineDriver&&frame>=15100&&bossTick<0&&boss==null) {
+                    int x=session.player().getCentreX()&65535;
+                    int y=session.player().getCentreY()&65535;
+                    if(vineStage==0&&x>0x2450&&y>0x650){vineStage=-1;vineJump=0;}
+                    if(vineStage==-1&&x>0x28C0&&y<0x680&&!session.player().getAir())vineStage=0;
+                    if(vineStage==0&&x<0x2420&&session.player().getXSpeed()>0x800&&session.player().getYSpeed()<0)vineStage=1;
+                    if(vineStage==1&&x>0x2D10&&!session.player().getAir()){vineStage=2;vineJump=48;}
+                    if(vineStage==0&&vineJump==0&&x>0x2450&&x<0x26A0&&y<0x600&&!session.player().getAir())vineJump=48;
+                    if(vineStage==2&&x>0x3130)vineStage=3;
+                    if(vineStage==4&&x>0x3400&&session.player().getXSpeed()<-0x800&&session.player().getYSpeed()<-0x800)vineStage=5;
+                    if(vineStage==5&&x<0x3330&&session.player().getXSpeed()>0x800&&session.player().getYSpeed()<0)vineStage=6;
+                    if(vineStage==5&&x<0x32D0&&!session.player().getAir())vineStage=6;
+                    if(vineStage==6&&x>0x3420&&y<0x800&&session.player().isOnObject())vineStage=7;
+                    if(vineStage==7&&x<0x33C0&&y<0x720)vineStage=8;
+                    if(vineStage==8&&x<0x3040&&y>0x700)vineStage=10;
+                    if(vineStage==10&&x>0x3180&&y<0x680)vineStage=9;
+                    if(vineStage==3&&y<0x900&&x>0x3100){vineStage=4;vineJump=48;}
+                    if((vineStage==2||vineStage==3)&&vineJump==0&&!session.player().getAir())vineJump=48;
+                    
+                    if(vineStage==8&&vineJump==0&&x>0x3200&&y<0x800&&!session.player().getAir())vineJump=48;
+                    if(vineStage==9&&x>0x33D0)vineStage=11;
+                    if(vineStage==11&&y>0x560)vineStage=12;
+                    if(vineStage==14&&x>0x3700)vineStage=15;
+                    if(vineStage==15&&y<0x520)vineStage=16;
+                    if(vineStage==15&&y>0x620&&!session.player().getAir()&&Math.abs(session.player().getGSpeed())<0x80){vineStage=18;dashTick=0;}
+                    if(vineStage==16&&x>0x37F0&&y<0x480)vineStage=17;
+                    if(vineStage==12&&x>0x3540&&y>0x5D0){vineStage=13;dashTick=0;}
+                    if(vineStage==17&&x>0x3D30)vineStage=19;
+                    if(vineStage==17&&x>0x3C90&&vineJump==0&&!session.player().getAir())vineJump=48;
+                    if(vineStage==9&&x>0x3250&&vineJump==0&&!session.player().getAir())vineJump=48;
+                    boolean jump=(vineStage==0||vineStage==2||vineStage==3||vineStage==4||vineStage==8||vineStage==9||vineStage==17)&&vineJump>12;
+                    if(vineJump>0)vineJump--;
+                    int direction=vineStage==16?0:vineStage==10||vineStage==15?2:vineStage==8?(x<0x3200?6:4):vineStage==0||vineStage==5||vineStage==16?4:8;
+                    if(vineStage==19&&x>0x3F00)vineStage=20;
+                    if(vineStage==20){int projected=x+session.player().getXSpeed()*24/256;direction=projected>0x3FC8?4:projected<0x3FB8?8:0;jump=false;if(x>0x3F90&&!session.player().getAir()&&Math.abs(session.player().getXSpeed())<0x40){vineStage=21;dashTick=0;}}
+                    if(vineStage==21){direction=dashTick<12?8:2;jump=dashTick>=12&&dashTick%8==0;dashTick++;var pillars=GameServices.level().getObjectManager().activeObjectsOfType(SozFloatingPillarObjectInstance.class);for(var pillar:pillars)if(pillar.getX()==0x4080&&dashTick>40&&pillar.getY()+pillar.getOnScreenHalfHeight()<0x69A){vineStage=22;direction=8;jump=false;}}
+                    if(vineStage==22&&x<0x4030)jump=frame%48<8;
+                    if(vineStage==19)jump=frame%48<8;
+                    if(vineStage==18){direction=2;jump=dashTick%8==0;if(++dashTick>=40){vineStage=15;direction=0;jump=false;}}
+                    if(vineStage==13){direction=2;jump=dashTick%8==0;if(++dashTick>=40){vineStage=14;direction=8;jump=false;}}
+                    if(vineStage==11){int projected=x+session.player().getXSpeed()*12/256;direction=projected>0x34B8?4:projected<0x34A8?8:0;}
+                    if(vineStage==3){
+                        int projected=x+session.player().getXSpeed()*(session.player().getAir()?24:4)/256;
+                        direction=projected>0x31D8?4:projected<0x31C8?8:0;
+                        // loc_3FE04: repeated fresh presses climb the narrow sand jet.
+                        jump=frame%4==0;
+                    }
+                    if(vineStage==4)jump=x<0x31E0&&frame%4==0;
+                    input=new Bk2FrameInput(frame,direction|(jump?16:0),jump?1:0,false,"");
+                }
+                inputs.add(new RecordedFrameInput(frame,input.p1InputMask(),input.p1ActionMask(),input.p1StartPressed(),input.p2InputMask(),input.p2ActionMask(),input.p2StartPressed()));
+                session.step(input);boss=SozAct1VictoryRoute.boss();
+                csv.write(session.stateLine(frame,input)+","+GameServices.level().getCurrentAct()+","+(boss==null?-1:boss.routine())+","+(boss==null?-1:boss.phase())+","+input.p1InputMask()+","+input.p2InputMask());csv.newLine();
+                if(frame%stride==0)ScreenshotCapture.savePNG(session.render(),output.resolve("frames/%05d.png".formatted(frame)));
+                if(frame%600==0)System.out.println("SOZ_COLD "+session.stateLine(frame,input));
+                if(session.player().getDead()){dead=true;ScreenshotCapture.savePNG(session.render(),output.resolve("last.png"));break;}
+                if(GameServices.level().getCurrentAct()==1&&!session.player().isControlLocked()&&!com.openggf.game.sonic3k.runtime.S3kRuntimeStates.currentSoz(GameServices.zoneRuntimeRegistry()).orElseThrow().events().seamlessEntry()){
+                    ready=true;ScreenshotCapture.savePNG(session.render(),output.resolve("destination.png"));break;
+                }
+            }
+            
+            for(var p:GameServices.level().getObjectManager().activeObjectsOfType(SozFloatingPillarObjectInstance.class))System.out.println("PILLAR "+Integer.toHexString(p.getY())+" height="+p.getOnScreenHalfHeight());
+            Files.writeString(output.resolve("Input Log.txt"),UserRecordingWriter.inputLogText(inputs));
+            assertFalse(dead,"ordinary route died");assertTrue(ready,"ordinary route did not reach Act2");
+        }
+    }
+}

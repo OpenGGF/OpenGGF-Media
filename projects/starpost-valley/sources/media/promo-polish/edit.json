@@ -1,0 +1,332 @@
+{
+  "fps": 60,
+  "rate": 48000,
+  "duration": 106.41666666666667,
+  "beat_period": 1.230923076923077,
+  "beat_phase": 0.5538461538461538,
+  "music_tempo": 0.65,
+  "shots": [
+    {
+      "f0": 0,
+      "f1": 255,
+      "kind": "game",
+      "name": "lake",
+      "src": 350,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 255,
+      "f1": 550,
+      "kind": "card",
+      "name": null,
+      "src": 0,
+      "title": "THE ADVENTURE",
+      "sub": "WAS ONLY THE BEGINNING.",
+      "trans": true
+    },
+    {
+      "f0": 550,
+      "f1": 698,
+      "kind": "game",
+      "name": "grow-can-forward",
+      "src": 145,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 698,
+      "f1": 846,
+      "kind": "game",
+      "name": "grow-can-forward",
+      "src": 328,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 846,
+      "f1": 993,
+      "kind": "game",
+      "name": "grow-can-forward",
+      "src": 528,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 993,
+      "f1": 1289,
+      "kind": "game",
+      "name": "grow-can-forward",
+      "src": 1730,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 1289,
+      "f1": 1584,
+      "kind": "brand",
+      "name": null,
+      "src": 0,
+      "title": "",
+      "sub": "",
+      "trans": true
+    },
+    {
+      "f0": 1584,
+      "f1": 1806,
+      "kind": "game",
+      "name": "farmers-fixed",
+      "src": 275,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true,
+      "dialogue": true
+    },
+    {
+      "f0": 1806,
+      "f1": 2027,
+      "kind": "game",
+      "name": "neighbours",
+      "src": 190,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true,
+      "dialogue": true
+    },
+    {
+      "f0": 2027,
+      "f1": 2249,
+      "kind": "game",
+      "name": "neighbours",
+      "src": 674,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true,
+      "dialogue": true
+    },
+    {
+      "f0": 2249,
+      "f1": 2470,
+      "kind": "game",
+      "name": "orchard-museum",
+      "src": 62,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 2470,
+      "f1": 2766,
+      "kind": "game",
+      "name": "lake",
+      "src": 620,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 2766,
+      "f1": 3061,
+      "kind": "card",
+      "name": null,
+      "src": 0,
+      "title": "EVERY SEASON",
+      "sub": "BRINGS A NEW STORY.",
+      "trans": true
+    },
+    {
+      "f0": 3061,
+      "f1": 3578,
+      "kind": "season-slices",
+      "name": null,
+      "src": 240,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "locations": [
+        "farm",
+        "town",
+        "lake"
+      ],
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ]
+    },
+    {
+      "f0": 3578,
+      "f1": 3800,
+      "kind": "card",
+      "name": null,
+      "src": 0,
+      "title": "AND A LITTLE",
+      "sub": "OF THE OLD ADVENTURE.",
+      "trans": true
+    },
+    {
+      "f0": 3800,
+      "f1": 3948,
+      "kind": "game",
+      "name": "marble",
+      "src": 240,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 3948,
+      "f1": 4095,
+      "kind": "game",
+      "name": "labyrinth",
+      "src": 145,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 4095,
+      "f1": 4243,
+      "kind": "game",
+      "name": "scrap",
+      "src": 155,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 4243,
+      "f1": 4465,
+      "kind": "game",
+      "name": "race",
+      "src": 610,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 4465,
+      "f1": 4686,
+      "kind": "game",
+      "name": "snowboard",
+      "src": 575,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 4686,
+      "f1": 4834,
+      "kind": "game",
+      "name": "hunt",
+      "src": 615,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true
+    },
+    {
+      "f0": 4834,
+      "f1": 4908,
+      "kind": "game",
+      "name": "fair",
+      "src": 340,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true,
+      "dialogue": true
+    },
+    {
+      "f0": 4908,
+      "f1": 4982,
+      "kind": "game",
+      "name": "maze",
+      "src": 445,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true,
+      "dialogue": true
+    },
+    {
+      "f0": 4982,
+      "f1": 5129,
+      "kind": "game",
+      "name": "flickies",
+      "src": 290,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true,
+      "dialogue": true
+    },
+    {
+      "f0": 5129,
+      "f1": 5277,
+      "kind": "game",
+      "name": "parade",
+      "src": 350,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true,
+      "dialogue": true
+    },
+    {
+      "f0": 5277,
+      "f1": 5499,
+      "kind": "game",
+      "name": "feast",
+      "src": 740,
+      "title": "",
+      "sub": "",
+      "trans": false,
+      "cinema": true,
+      "dialogue": true
+    },
+    {
+      "f0": 5499,
+      "f1": 5794,
+      "kind": "game",
+      "name": "finale",
+      "src": 153,
+      "title": "",
+      "sub": "",
+      "trans": true,
+      "cinema": true,
+      "full": true
+    },
+    {
+      "f0": 5794,
+      "f1": 6385,
+      "kind": "end",
+      "name": null,
+      "src": 0,
+      "title": "",
+      "sub": "",
+      "trans": true
+    }
+  ]
+}

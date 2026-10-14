@@ -1,0 +1,7 @@
+LrzSolidMovingPlatformObjectInstance 12344,1094 spawn=ObjectSpawn[x=12344, y=1094, objectId=45, subtype=21, renderFlags=0, respawnTracked=false, rawYWord=1120, layoutIndex=400, ownerModId=null, objectKey=null]
+Sonic3kInvisibleBlockObjectInstance 12432,1056 spawn=ObjectSpawn[x=12432, y=1056, objectId=40, subtype=19, renderFlags=1, respawnTracked=false, rawYWord=9248, layoutIndex=404, ownerModId=null, objectKey=null]
+Sonic3kInvisibleBlockObjectInstance 12528,1056 spawn=ObjectSpawn[x=12528, y=1056, objectId=40, subtype=19, renderFlags=1, respawnTracked=false, rawYWord=9248, layoutIndex=408, ownerModId=null, objectKey=null]
+AutomaticTunnelObjectInstance 12528,752 spawn=ObjectSpawn[x=12528, y=752, objectId=36, subtype=216, renderFlags=0, respawnTracked=false, rawYWord=752, layoutIndex=407, ownerModId=null, objectKey=null]
+CollapsingBridgeObjectInstance 12576,1040 spawn=ObjectSpawn[x=12576, y=1040, objectId=15, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=1040, layoutIndex=409, ownerModId=null, objectKey=null]
+Sonic3kInvisibleLavaBlockObjectInstance 12608,1714 spawn=ObjectSpawn[x=12608, y=1714, objectId=110, subtype=113, renderFlags=0, respawnTracked=true, rawYWord=34482, layoutIndex=411, ownerModId=null, objectKey=null]
+CollapsingBridgeObjectInstance 12704,1008 spawn=ObjectSpawn[x=12704, y=1008, objectId=15, subtype=0, renderFlags=1, respawnTracked=false, rawYWord=9200, layoutIndex=412, ownerModId=null, objectKey=null]

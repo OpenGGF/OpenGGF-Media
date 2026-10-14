@@ -1,0 +1,142 @@
+{
+  "columns": [
+    "frame",
+    "character",
+    "act",
+    "x",
+    "y",
+    "xvel",
+    "yvel",
+    "gspeed",
+    "air",
+    "rolling",
+    "dead",
+    "cam_x",
+    "cam_y",
+    "stage",
+    "owner",
+    "turn",
+    "score",
+    "status",
+    "input"
+  ],
+  "events": {
+    "ehz1": "b7970be94c1a6f1b76106f496df05951631b9ebb28f8a373a1d5435880f7b5cd",
+    "local": "8fcdd66b2c90b3fa49251ffe5a5a9c522c52600077e6e916c04acf368b958da4",
+    "ehz2": "98c5b783dcdc43bbec9caab2211a149c42e309e85b593f709725b7ad413b93c6"
+  },
+  "ranges": {
+    "hook-sonic/main": {
+      "src": "ehz1",
+      "native": [
+        1714,
+        1900
+      ],
+      "sha256": "231edc73eca90152401bb2b77bb95bcea654aa0af361e9c81232e2bb13acf9ad"
+    },
+    "hook-tails/main": {
+      "src": "ehz2",
+      "native": [
+        316,
+        446
+      ],
+      "sha256": "a0aaa4acbb43d425337a0895098c9f909187489bd4a2603b185867d83102bda7"
+    },
+    "putt-rewind/main": {
+      "src": "ehz1",
+      "native": [
+        120,
+        394
+      ],
+      "sha256": "c0081daa5795b79cf36e7bf8a348110690427329f7e84dee66ccd899a4a2dfa0"
+    },
+    "chip-spin/main": {
+      "src": "ehz1",
+      "native": [
+        776,
+        1110
+      ],
+      "sha256": "c672ae1bef5f6e73354b7f65bd4580e226e47c97351da1a07963ed6f095594ea"
+    },
+    "physics-1/main": {
+      "src": "ehz1",
+      "native": [
+        2694,
+        2810
+      ],
+      "sha256": "ad3372e3b2f3ae027149164fb1b1e9ed8eb1e61a39c2b08083956bcb5aa9cb24"
+    },
+    "physics-2/main": {
+      "src": "ehz2",
+      "native": [
+        844,
+        948
+      ],
+      "sha256": "a43f6f80bb47c6364d6c1c9e0a533a3763e789e604b1c501c84d8ed9e5befd66"
+    },
+    "physics-3/main": {
+      "src": "ehz1",
+      "native": [
+        2846,
+        2930
+      ],
+      "sha256": "2423127f9a27e08c56e8214c45c187c6e5a671aaa98daa40d3e372bdbd557889"
+    },
+    "physics-4/main": {
+      "src": "ehz2",
+      "native": [
+        7176,
+        7330
+      ],
+      "sha256": "2bfd3f6a0f4bfa334d8a01a4afd776daea040a9387b1becac9f32c32f85c8f4c"
+    },
+    "heroes/left": {
+      "src": "ehz1",
+      "native": [
+        2376,
+        2526
+      ],
+      "sha256": "de1ffc3f5554481384e62d0bc7a2ec99241473467fe009840ecc57810badc5b4"
+    },
+    "heroes/right": {
+      "src": "ehz2",
+      "native": [
+        3296,
+        3446
+      ],
+      "sha256": "317fbc03bc754ef366f524a7f10cb769c5c8fe6ad6e88ed3947cceac872179a3"
+    },
+    "local-sonic/main": {
+      "src": "local",
+      "native": [
+        140,
+        300
+      ],
+      "sha256": "e9859f50766699a360e88fbe3b4f0f785b7a95e78711cd7d592a6d5bc1b640e7"
+    },
+    "local-tails/main": {
+      "src": "local",
+      "native": [
+        600,
+        880
+      ],
+      "sha256": "0a00a5a03834b56109f6362ddde1386a7776c76b13c15bec8d1438798d7ba057"
+    },
+    "finale/main": {
+      "src": "ehz1",
+      "native": [
+        4288,
+        4530
+      ],
+      "sha256": "6ca3ad7b4ac64deec16fe9bad543f6c45caea79051cb75e053218b7f3e0c67aa"
+    },
+    "engine/mini": {
+      "src": "ehz1",
+      "native": [
+        1324,
+        1664
+      ],
+      "sha256": "a1e6361428fe07bf35b39ca65be5784021878747e9d160dcb0640436ff19b774"
+    }
+  }
+}

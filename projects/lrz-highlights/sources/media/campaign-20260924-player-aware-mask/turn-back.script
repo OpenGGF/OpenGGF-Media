@@ -1,0 +1,6 @@
+# Same positioned LRZ1 entry. Accelerate into target, brake and return left, then re-enter.
+75 R
+110 L
+50 -
+180 R
+185 -

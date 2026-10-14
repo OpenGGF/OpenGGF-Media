@@ -1,0 +1,16 @@
+{
+  "game": "s3k",
+  "zone": "ddz",
+  "act": 1,
+  "width": 800,
+  "character": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "emeralds": "1111111",
+  "input": "300 neutral frames from ordinary level-select entry; no position, clock or fraction override",
+  "verification": "CSV300 rows, no deaths, no follower; frame57 inspected; full ffmpeg video decode passed. Star crop [90,76,139,125] at frame57 matches all2401 pixels of declared native Super-branch probe after 3-bit RGB quantization. Full-scene parity not claimed.",
+  "class_sha256": {
+    "DdzSuperStarsObjectInstance": "31d55b0d771bbb7a054e58d114f18e9834827eb379231470935d3eb1d65c4a8f",
+    "DdzFlightControllerObjectInstance": "035d98f3041f6e54e6ec92a1f11e3f6ad5f076d0a0e6b99507ea570aea7e5907"
+  }
+}

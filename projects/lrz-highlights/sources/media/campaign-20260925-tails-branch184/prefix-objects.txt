@@ -1,0 +1,7 @@
+LrzAutoscrollObjectInstance 160,1196 spawn=ObjectSpawn[x=160, y=1196, objectId=158, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=1196, layoutIndex=1, ownerModId=null, objectKey=null]
+CollapsingBridgeObjectInstance 352,1232 spawn=ObjectSpawn[x=352, y=1232, objectId=15, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=1232, layoutIndex=2, ownerModId=null, objectKey=null]
+CollapsingBridgeObjectInstance 608,1232 spawn=ObjectSpawn[x=608, y=1232, objectId=15, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=1232, layoutIndex=4, ownerModId=null, objectKey=null]
+Sonic3kInvisibleLavaBlockObjectInstance 128,1282 spawn=ObjectSpawn[x=128, y=1282, objectId=110, subtype=241, renderFlags=0, respawnTracked=false, rawYWord=1282, layoutIndex=0, ownerModId=null, objectKey=null]
+Sonic3kInvisibleLavaBlockObjectInstance 384,1282 spawn=ObjectSpawn[x=384, y=1282, objectId=110, subtype=241, renderFlags=0, respawnTracked=false, rawYWord=1282, layoutIndex=3, ownerModId=null, objectKey=null]
+LrzAutoscrollObjectInstance 176,1097 spawn=ObjectSpawn[x=160, y=1196, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+LrzAutoscrollPaletteFade 0,0 spawn=ObjectSpawn[x=0, y=0, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]

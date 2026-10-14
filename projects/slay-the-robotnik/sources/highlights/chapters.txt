@@ -1,0 +1,14 @@
+output_start,output_end,title,source,source_start,source_end,positioned
+0.00,24.60,From the title: a new run as Knuckles,clips/01-opening.mp4,0.40,25.00,no
+24.60,34.20,Fights: an entrance and the first turn,clips/02-fight.mp4,0.00,9.60,yes
+34.20,40.40,Victory and rewards,clips/02b-rewards.mp4,3.60,9.80,yes
+40.40,47.90,Events: the slot machine spins the bonus stage's own reels,clips/03-slot.mp4,1.00,8.50,yes
+47.90,53.20,Events: the Giant Ring,clips/04-giant-ring.mp4,1.00,6.30,yes
+53.20,60.90,Events: the Special Stage warp,clips/05-special-stage.mp4,0.60,8.30,yes
+60.90,68.00,The Egg Robo's shop,clips/06-shop.mp4,0.50,7.60,yes
+68.00,71.00,Starposts: tune up a card,clips/07-starpost.mp4,0.40,3.40,yes
+71.00,76.40,Egg Capsules hold relics,clips/08-capsule.mp4,0.20,5.60,yes
+76.40,85.90,Bosses fall in: Big Shaker,clips/09-boss.mp4,0.00,9.50,yes
+85.90,93.90,Losing a run: GAME OVER as in Sonic 3,clips/11-game-over.mp4,0.00,8.00,yes
+93.90,105.90,The final boss: Mecha Sonic seizes the Master Emerald,clips/10-final.mp4,0.00,12.00,yes
+105.90,114.10,Victory over Super Mecha Sonic,clips/10-final.mp4,23.80,32.00,yes

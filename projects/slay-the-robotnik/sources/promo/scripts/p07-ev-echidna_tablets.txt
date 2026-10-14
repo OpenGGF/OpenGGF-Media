@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:echidna_tablets@2:11:2
+# ticks: 560
+90:enter
++330:enter

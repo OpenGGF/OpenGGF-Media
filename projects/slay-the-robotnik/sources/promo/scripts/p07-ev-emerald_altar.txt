@@ -1,0 +1,4 @@
+# jump: sonic:7:event:event:emerald_altar@1:8:2
+# ticks: 560
+90:enter
++330:enter

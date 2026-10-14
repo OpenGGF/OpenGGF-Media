@@ -1,0 +1,51 @@
+{
+  "base_commit": "3fbb61e7c",
+  "source_state": "uncommitted end-boss candidate on 3fbb61e7c; recorded 2026-09-22 18:38 BST",
+  "entry": "positioned fresh load selecting native checkpoint branch; explicit initial fire shield",
+  "setup": {
+    "x": "0x480",
+    "y": "0x400",
+    "rings": 37,
+    "shield": "fire"
+  },
+  "game": "s3k",
+  "zone": 22,
+  "act": 1,
+  "main": "sonic",
+  "sidekick": "tails",
+  "donor": "off",
+  "width": 320,
+  "input": "InputLog.txt",
+  "input_sha256": "cc70ce0f88040a95038a11cae4a00503e1841976f0abc07163f8b9e844731e0a",
+  "input_origin": "first 1450 frames from original complete-emeralds BK2 offset 434068, then authored mine-avoidance/capsule/exit controller input",
+  "fps": 60,
+  "audio": false,
+  "limits": "Correct controller group header. Checkpoint and declared fire-shield setup; not cold entry, native input parity or full act certification.",
+  "observed": {
+    "frames": 7300,
+    "hurt_frames": 0,
+    "dead_frames": 0,
+    "hidden_palace_load_frame": 7119,
+    "final_xy": [
+      747,
+      2796
+    ]
+  },
+  "highlights": {
+    "file": "44-lrz3-boss-clear-and-hpz.mp4",
+    "segments": [
+      [
+        1450,
+        2100
+      ],
+      [
+        5700,
+        7300
+      ]
+    ],
+    "end_frames_exclusive": true,
+    "frames": 2250,
+    "seconds": 37.5,
+    "full_decode": "passed"
+  }
+}

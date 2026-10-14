@@ -1,0 +1,5 @@
+Sonic3kInvisibleBlockObjectInstance 1808,912 spawn=ObjectSpawn[x=1808, y=912, objectId=40, subtype=17, renderFlags=0, respawnTracked=false, rawYWord=912, layoutIndex=18, ownerModId=null, objectKey=null]
+CollapsingBridgeObjectInstance 2208,912 spawn=ObjectSpawn[x=2208, y=912, objectId=15, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=912, layoutIndex=21, ownerModId=null, objectKey=null]
+Sonic3kInvisibleBlockObjectInstance 2320,960 spawn=ObjectSpawn[x=2320, y=960, objectId=40, subtype=23, renderFlags=0, respawnTracked=false, rawYWord=960, layoutIndex=22, ownerModId=null, objectKey=null]
+Sonic3kStarPostObjectInstance 2496,872 spawn=ObjectSpawn[x=2496, y=872, objectId=52, subtype=1, renderFlags=0, respawnTracked=false, rawYWord=872, layoutIndex=23, ownerModId=null, objectKey=null]
+CollapsingBridgeObjectInstance 2080,912 spawn=ObjectSpawn[x=2080, y=912, objectId=15, subtype=1, renderFlags=1, respawnTracked=false, rawYWord=9104, layoutIndex=20, ownerModId=null, objectKey=null]

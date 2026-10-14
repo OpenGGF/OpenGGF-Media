@@ -1,0 +1,5 @@
+LrzDashElevatorObjectInstance 7840,928 spawn=ObjectSpawn[x=7840, y=928, objectId=30, subtype=26, renderFlags=1, respawnTracked=true, rawYWord=41888, layoutIndex=393, ownerModId=null, objectKey=null]
+LrzSmashingSpikePlatformObjectInstance 8000,1054 spawn=ObjectSpawn[x=8000, y=1054, objectId=33, subtype=15, renderFlags=0, respawnTracked=true, rawYWord=33776, layoutIndex=403, ownerModId=null, objectKey=null]
+LrzWallRideObjectInstance 7824,1512 spawn=ObjectSpawn[x=7824, y=1512, objectId=22, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=1512, layoutIndex=392, ownerModId=null, objectKey=null]
+Sonic3kInvisibleLavaBlockObjectInstance 7584,1956 spawn=ObjectSpawn[x=7584, y=1956, objectId=110, subtype=177, renderFlags=0, respawnTracked=false, rawYWord=1956, layoutIndex=381, ownerModId=null, objectKey=null]
+Sonic3kTwistedRampObjectInstance 7696,1872 spawn=ObjectSpawn[x=7696, y=1872, objectId=14, subtype=0, renderFlags=1, respawnTracked=false, rawYWord=10064, layoutIndex=383, ownerModId=null, objectKey=null]

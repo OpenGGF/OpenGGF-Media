@@ -1,0 +1,177 @@
+[
+  {
+    "id": "hpz-highlights",
+    "title": "Hidden Palace highlights and capture sources",
+    "notes": "",
+    "source_files": 55,
+    "catalog_entries": 236
+  },
+  {
+    "id": "ddz-highlights",
+    "title": "Doomsday highlights and capture sources",
+    "notes": "",
+    "source_files": 86,
+    "catalog_entries": 228
+  },
+  {
+    "id": "lrz-highlights",
+    "title": "Lava Reef highlights and capture sources",
+    "notes": "",
+    "source_files": 1772,
+    "catalog_entries": 5106
+  },
+  {
+    "id": "ssz-highlights",
+    "title": "Sky Sanctuary highlights and capture sources",
+    "notes": "",
+    "source_files": 515,
+    "catalog_entries": 1646
+  },
+  {
+    "id": "s3k-dez-highlights",
+    "title": "Death Egg highlights and capture sources",
+    "notes": "",
+    "source_files": 796,
+    "catalog_entries": 2092
+  },
+  {
+    "id": "mhz-highlights",
+    "title": "Mushroom Hill highlights and capture sources",
+    "notes": "",
+    "source_files": 158,
+    "catalog_entries": 408
+  },
+  {
+    "id": "soz-highlights",
+    "title": "Sandopolis highlights and capture sources",
+    "notes": "",
+    "source_files": 62,
+    "catalog_entries": 138
+  },
+  {
+    "id": "dez-highlights",
+    "title": "Death Egg campaign follow-ups highlights and capture sources",
+    "notes": "",
+    "source_files": 39,
+    "catalog_entries": 142
+  },
+  {
+    "id": "fbz-highlights",
+    "title": "Flying Battery highlights and capture sources",
+    "notes": "",
+    "source_files": 4,
+    "catalog_entries": 21
+  },
+  {
+    "id": "release-reels",
+    "title": "Original Sonic 1 / Sonic 2 / Sonic 3&K release reels",
+    "notes": "Resolve SQLite snapshots are editing sources, not exported .drp files. Older source locations may no longer exist; media pool references are catalogued separately.",
+    "source_files": 11,
+    "catalog_entries": 75
+  },
+  {
+    "id": "seamless-presentation",
+    "title": "Seamless act presentation",
+    "notes": "",
+    "source_files": 5,
+    "catalog_entries": 15
+  },
+  {
+    "id": "ssz-arena-demos",
+    "title": "Sky Sanctuary arena demo revisions",
+    "notes": "",
+    "source_files": 8,
+    "catalog_entries": 24
+  },
+  {
+    "id": "slay-the-robotnik",
+    "title": "Slay the Robotnik highlights and promo",
+    "notes": "",
+    "source_files": 263,
+    "catalog_entries": 109
+  },
+  {
+    "id": "starpost-valley",
+    "title": "Starpost Valley promo and follow-ups",
+    "notes": "",
+    "source_files": 92,
+    "catalog_entries": 206
+  },
+  {
+    "id": "s3k-endings",
+    "title": "Sonic 3&K ending reel revisions",
+    "notes": "",
+    "source_files": 16,
+    "catalog_entries": 155
+  },
+  {
+    "id": "putt-putt-paradise",
+    "title": "Putt-Putt Paradise highlights and promo revisions",
+    "notes": "",
+    "source_files": 350,
+    "catalog_entries": 357
+  },
+  {
+    "id": "flappy-tails",
+    "title": "Flappy Tails promo",
+    "notes": "",
+    "source_files": 7,
+    "catalog_entries": 56
+  },
+  {
+    "id": "typing-of-the-hedgehog",
+    "title": "Typing of the Hedgehog promo",
+    "notes": "",
+    "source_files": 23,
+    "catalog_entries": 44
+  },
+  {
+    "id": "sitar-hero",
+    "title": "Sitar Hero promo",
+    "notes": "",
+    "source_files": 25,
+    "catalog_entries": 15
+  },
+  {
+    "id": "mutator-lab-expansion",
+    "title": "Mutator Lab expansion promo",
+    "notes": "",
+    "source_files": 5,
+    "catalog_entries": 2
+  },
+  {
+    "id": "mutator-lab-gameplay",
+    "title": "Mutator Lab gameplay promo",
+    "notes": "",
+    "source_files": 678,
+    "catalog_entries": 335
+  },
+  {
+    "id": "mutator-lab-showcase",
+    "title": "Mutator Lab complete showcase and audio revision",
+    "notes": "",
+    "source_files": 480,
+    "catalog_entries": 403
+  },
+  {
+    "id": "soz-methodology",
+    "title": "Sandopolis earlier work highlights",
+    "notes": "",
+    "source_files": 609,
+    "catalog_entries": 2120
+  },
+  {
+    "id": "sonic3k-chaos-mode",
+    "title": "Sonic 3&K Chaos Mode demo and second-revision blueprint",
+    "notes": "Revision 2 includes design and assembly work in progress. Historical plans and verification describe their recorded state, not a newly certified final reel.",
+    "source_files": 258,
+    "catalog_entries": 298
+  },
+  {
+    "id": "shared-production",
+    "title": "Shared production workflows and generic reel builder",
+    "notes": "Skill snapshots are historical instructions, not automatic agent configuration. Resolve relative links against the pinned OpenGGF source reference.",
+    "source_files": 5,
+    "catalog_entries": 0
+  }
+]

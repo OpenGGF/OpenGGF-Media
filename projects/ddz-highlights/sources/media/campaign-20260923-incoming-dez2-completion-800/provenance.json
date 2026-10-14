@@ -1,0 +1,23 @@
+{
+  "revision": "b6c1147a2 plus campaign edits; captured before the subsequent DDZ child recreation-only correction",
+  "game": "s3k",
+  "zone": "dez",
+  "act": 2,
+  "width": 800,
+  "main": "sonic",
+  "sidekick": "none",
+  "donor": "off",
+  "setup": "Positioned ($34B0,$300), 200 rings and seven Super Emeralds at boot only. Real DEZ final and DDZ loads, no later gameplay seeds.",
+  "frames": 31531,
+  "capture_from": 30000,
+  "viewed_stills": [
+    30369,
+    31291,
+    31530
+  ],
+  "full_ffmpeg_decode": "passed",
+  "deaths": 0,
+  "final_rings": 7,
+  "input_sha256": "0d6102d700e889ca85c9e990507e4077b3eeafa9ff2f1cc79daba16f471eb11b",
+  "verification": "Independent capture replays the authored controller chain to the DDZ white exit fade with zero death/follower rows. The test checks the actual $D01 request. Full-registry test results recorded in campaign audit. Positioned encounter continuity, not cold DEZ2 traversal, native pixel parity or ending implementation. Exact complete compiled class hashes were not retained for this capture. Corrected production test passes2width cases with11whole-registry restore/45-input replay spots each, no failures/errors/skips; BUILD SUCCESS22:43:32 BST. Short child/mandatory S3K selection passes70cases with zero skips."
+}

@@ -1,0 +1,14 @@
+{
+  "base_commit": "b6c1147a277bc006f804e4846bd2c085d65eb373",
+  "dirty_change": "SSZ2 encounter deformation before checkpoint commit; class hashes identify the rendered build",
+  "class_sha256": {
+    "Sonic3kZoneFeatureProvider": "b8b7c36615f8a8e607db02c87de1841fe5de8682a8044efd23471af430670334",
+    "runtime/SszZoneRuntimeState": "7839ab534b18e3363d613e1788252af943d4ede91b60873b998141964319c876",
+    "scroll/SwScrlSsz": "63a29662d428fdc3505ea9d1655e8c9ee32909c24bac785b25d70655b9000b6d",
+    "scroll/SszAct2Deformation": "e3843fcb69b767abef94f9aaf883721eda70c069a2bad9edf37c9702a0d282ca"
+  },
+  "command": "GameplayCaptureTool --game s3k --rom /home/farrell/code/projects/OpenGGF/s3k.gen --zone 10 --act 2 --main knuckles --sidekick none --width 320 --frames 720 --stills 0,70,300,600 --out-dir /home/farrell/Videos/OGGF/ssz-bring-up/campaign-20260923-act2-01-320",
+  "scope": "Cold Knuckles arrival and idle encounter background only. Crane placeholder and final fight unfinished. Not console parity evidence.",
+  "verification": "All 720 state rows match across widths; no deaths. Frames 70,300,600 native world crop x[0,320),y[52,190) is pixel-identical across widths. Native300/600 and wide600 inspected. Full MP4 decode passed.",
+  "presentation_status": "Rejected as complete background presentation: native comparison found missing high-priority Plane-B island. Width-consistency measurements remain valid."
+}

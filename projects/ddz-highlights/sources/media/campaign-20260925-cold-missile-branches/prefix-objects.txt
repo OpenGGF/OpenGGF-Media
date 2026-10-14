@@ -1,0 +1,8 @@
+DdzEndBossObjectInstance 21131,163 spawn=ObjectSpawn[x=21488, y=128, objectId=182, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=128, layoutIndex=371, ownerModId=null, objectKey=null]
+DdzEndBossBodyObjectInstance 21323,238 spawn=ObjectSpawn[x=21193, y=160, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossPartObjectInstance 21147,219 spawn=ObjectSpawn[x=21193, y=160, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossPartObjectInstance 21147,298 spawn=ObjectSpawn[x=21193, y=160, objectId=0, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossPartObjectInstance 21171,259 spawn=ObjectSpawn[x=21193, y=160, objectId=0, subtype=4, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossTurretObjectInstance 21283,259 spawn=ObjectSpawn[x=21193, y=160, objectId=0, subtype=0, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossTurretObjectInstance 21299,251 spawn=ObjectSpawn[x=21193, y=160, objectId=0, subtype=2, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]
+DdzEndBossTurretObjectInstance 21299,275 spawn=ObjectSpawn[x=21193, y=160, objectId=0, subtype=4, renderFlags=0, respawnTracked=false, rawYWord=0, layoutIndex=-1, ownerModId=null, objectKey=null]

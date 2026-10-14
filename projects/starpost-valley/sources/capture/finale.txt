@@ -1,0 +1,9 @@
+40:jump=new_sonic
+45:jump=people_mail_clear
+46:jump=close
+70:jump=people_mail_clear
+71:jump=close
+330:jump=card_A_YEAR_/_IN_THE_VALLEY
+440:jump=restore
+445:jump=yearend
+860:enter

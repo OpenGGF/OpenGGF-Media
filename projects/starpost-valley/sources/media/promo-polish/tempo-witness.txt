@@ -1,0 +1,3 @@
+0:jump=new_sonic
+1:jump=close
+40:jump=town_enter

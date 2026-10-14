@@ -1,0 +1,59 @@
+{
+ "capture": "ehz1-practice",
+ "title": {
+  "wav": "title.wav",
+  "rows": 488,
+  "first_music_row": 421,
+  "music_requests": [
+   [
+    421,
+    "0x81"
+   ]
+  ],
+  "ac_dbfs_all": -29.27,
+  "dc_all": 0.005355,
+  "ac_dbfs_after_music": -31.71,
+  "max_row_abs_dc": 0.02851,
+  "rows_with_abs_dc_over_0p02": 3,
+  "flat_runs": [
+   {
+    "from": 410,
+    "to": 427,
+    "rows": 18,
+    "dc": 0.0,
+    "before_first_music": false
+   }
+  ],
+  "flat_rows_after_first_music": 18,
+  "jumps_over_half_fs": [],
+  "peak_dbfs": -12.81
+ },
+ "gameplay": {
+  "wav": "gameplay.wav",
+  "rows": 4923,
+  "first_music_row": 4478,
+  "music_requests": [
+   [
+    4478,
+    "0x97"
+   ]
+  ],
+  "ac_dbfs_all": -28.12,
+  "dc_all": 0.003188,
+  "ac_dbfs_after_music": -29.12,
+  "max_row_abs_dc": 0.03014,
+  "rows_with_abs_dc_over_0p02": 106,
+  "flat_runs": [
+   {
+    "from": 4844,
+    "to": 4922,
+    "rows": 79,
+    "dc": 0.00029,
+    "before_first_music": false
+   }
+  ],
+  "flat_rows_after_first_music": 79,
+  "jumps_over_half_fs": [],
+  "peak_dbfs": -11.25
+ }
+}
