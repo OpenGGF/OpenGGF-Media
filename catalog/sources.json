@@ -54427,5 +54427,101 @@
     "bytes": 596,
     "sha256": "ee6ba2291b134f23fba15ad6b10c0a7f5a459c7855eb7c05eacc815b62b74020",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/README.md",
+    "root": "second-strike/aiz-campaign-edit",
+    "original_path": "README.md",
+    "bytes": 9552,
+    "sha256": "c25fcb8dba2c58948c005f11e479d51de949920af797865e14de20a6143c3c1e",
+    "snapshot": "authored-in-archive"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/assemble.py",
+    "root": "second-strike/aiz-campaign-edit",
+    "original_path": "assemble.py",
+    "bytes": 12830,
+    "sha256": "d869f890235f28782144bcc96c17cc5c07d49890471ae00d047d917a3a320802",
+    "snapshot": "authored-in-archive"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/capture/admitted.script",
+    "root": "second-strike/aiz-native-entry-r7",
+    "original_path": "admitted.script",
+    "bytes": 134360,
+    "sha256": "8c3df5f8886b33870b5df25872ca92c44719f7749834aeff1f48ccc7cf8ac2c9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/capture/capture.txt",
+    "root": "second-strike/aiz-native-entry-r7",
+    "original_path": "capture.txt",
+    "bytes": 404,
+    "sha256": "60a71c63620bb8202f58c5580b1f962ccee8b5cd493f53380828479c9af9eab7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/capture/graphics.txt",
+    "root": "second-strike/aiz-native-entry-r7",
+    "original_path": "graphics.txt",
+    "bytes": 198,
+    "sha256": "277875920f320f724356087496d634185d4e0dff302332577015b957be3fdb32",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/chapters.ffmeta",
+    "root": "second-strike/aiz-campaign-edit",
+    "original_path": "chapters.ffmeta",
+    "bytes": 410,
+    "sha256": "79263fb8c8b8f2aea4c768cf300fae7afa8b3fa7709d9d4c28003bc0351f3052",
+    "snapshot": "authored-in-archive"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/chapters.json",
+    "root": "second-strike/aiz-campaign-edit",
+    "original_path": "chapters.json",
+    "bytes": 979,
+    "sha256": "24fdc13c939324387ed4bff42a2e9a9bb68f03af556ace6e20d4311942c2e443",
+    "snapshot": "authored-in-archive"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/edit-list.csv",
+    "root": "second-strike/aiz-campaign-edit",
+    "original_path": "edit-list.csv",
+    "bytes": 881,
+    "sha256": "10b14703bca7c4f726740d6042644638405a419fa715e90e1a64face22303f65",
+    "snapshot": "authored-in-archive"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/edit-list.json",
+    "root": "second-strike/aiz-campaign-edit",
+    "original_path": "edit-list.json",
+    "bytes": 2034,
+    "sha256": "c8f7e004eebd90da094193f4ffd5443baea49980e70c64f1c0c30216fb1d0752",
+    "snapshot": "authored-in-archive"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/provenance.json",
+    "root": "second-strike/aiz-campaign-edit",
+    "original_path": "provenance.json",
+    "bytes": 8695,
+    "sha256": "e3da323f64a3e6355421ced0b763c20e898e55fad444c467f37013be326d1d8d",
+    "snapshot": "authored-in-archive"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/recorded-command.json",
+    "root": "second-strike/aiz-campaign-production",
+    "original_path": "render-r5/assembly-command.json",
+    "bytes": 4038,
+    "sha256": "e6810e1cd2cb4cb39de11e27e3ab8cf86329c2dfb51981b5b4e0b4e22f090e25",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/second-strike/sources/aiz-campaign-20261015/recorded-filters.txt",
+    "root": "second-strike/aiz-campaign-production",
+    "original_path": "render-r5/filters.txt",
+    "bytes": 3132,
+    "sha256": "f0de86e74b699cf1df9b1f51940153a1840b9f716ba97496390c8ab2d403068f",
+    "snapshot": "byte-copy"
   }
 ]

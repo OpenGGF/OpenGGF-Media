@@ -18,3 +18,8 @@ Pinned to the engine checkout used for archive discovery: [`485e89fbe`](https://
 - [S3K ending lifecycle design](https://github.com/OpenGGF/OpenGGF/blob/485e89fbea5a2587b763052f0db115986ca681ce/docs/architecture/designs/2026-10-13-s3k-ending-lifecycle.md)
 
 Implementation designs stay in the engine repository. Media-specific plans, EDLs and production scripts are preserved in this archive.
+
+The [Second Strike AIZ development edit](../projects/second-strike/sources/aiz-campaign-20261015/README.md)
+pins its original development HEAD, staged source tree and separate creator
+artifact in local provenance. It is an editable unrendered production, not an
+engine integration or whole-campaign qualification.

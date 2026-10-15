@@ -14239,3 +14239,7 @@ second-strike,second-strike/media,captures/caterkiller/audio.wav,media dependenc
 second-strike,second-strike/media,captures/caterkiller/state.csv,generated state/diagnostic data,29221,1
 second-strike,second-strike/media,captures/caterkiller/objects.csv,generated state/diagnostic data,191795,1
 second-strike,second-strike/media,captures/caterkiller/frames/*.png,frame-sequence,29188156,360
+second-strike,second-strike/aiz-native-entry-r7,cold-campaign.mkv,immutable source movie,1550352897,1
+second-strike,second-strike/aiz-native-entry-r7,state.csv,bulk state CSV,2981414,1
+second-strike,second-strike/host-font,DejaVuSans.ttf,external caption font,759720,1
+second-strike,second-strike/aiz-campaign-production,render-r5/second-strike-aiz-development.mp4,reviewed development reel,106628242,1

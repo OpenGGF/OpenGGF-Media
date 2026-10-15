@@ -1,0 +1,1 @@
+backend=surfaceless-egl vendor=AMD renderer=AMD Ryzen 9 9950X 16-Core Processor (radeonsi, raphael_mendocino, ACO, DRM 3.64, 7.2.8-2-cachyos) version=4.6 (Compatibility Profile) Mesa 26.2.4-arch3.1

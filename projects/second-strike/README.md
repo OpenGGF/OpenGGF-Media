@@ -1,5 +1,23 @@
 # Second Strike gameplay reels
 
+## AIZ campaign development excerpt, 2026-10-15
+
+The [new four-shot project](sources/aiz-campaign-20261015/README.md) preserves a
+47-second native-speed excerpt from one native-entry Sonic solo development run:
+forest approach, fire continuation, warned first-boss follow-up and playable Act 2
+arrival. Three cuts leave the final twenty seconds with only one scene change.
+Its own synchronized mixed native audio supplies each shot; no additional score
+or loop is layered over it. The47-second/2820-frame edit passed full decode and bounded moving/cut/decoded-audio review; it does not certify complete AIZ or campaign traversal. The external movie is catalogued with its SHA-256 in provenance.
+
+- [Editable frame-exact EDL](sources/aiz-campaign-20261015/edit-list.json)
+- [Chapter map](sources/aiz-campaign-20261015/chapters.json)
+- [Capture/source/creator-artifact provenance](sources/aiz-campaign-20261015/provenance.json)
+- [Relocatable assembly source](sources/aiz-campaign-20261015/assemble.py)
+
+This revision retains its original development HEAD/staged-tree and immutable
+creator artifact separately; it does not reuse the old reel's delivered-package
+claim. Footage and bulk state remain external. Earlier sources below are intact.
+
 ## Enemy expansion, 2026-10-14
 
 This 14.5-second reel shows three changes to the Second Strike example mod: the

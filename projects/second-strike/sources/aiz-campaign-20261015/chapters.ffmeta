@@ -1,0 +1,23 @@
+;FFMETADATA1
+title=Second Strike - AIZ Development Excerpt
+comment=Native-entry development capture; edited excerpt, incomplete Act 2 route.
+[CHAPTER]
+TIMEBASE=1/60
+START=0
+END=600
+title=Angel Island · forest
+[CHAPTER]
+TIMEBASE=1/60
+START=600
+END=1200
+title=Fire continuation
+[CHAPTER]
+TIMEBASE=1/60
+START=1200
+END=1920
+title=A warned follow-up
+[CHAPTER]
+TIMEBASE=1/60
+START=1920
+END=2820
+title=Act 2 arrival

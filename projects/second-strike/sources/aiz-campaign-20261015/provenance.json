@@ -1,0 +1,189 @@
+{
+  "status": "rendered_and_reviewed_development_excerpt",
+  "source_project": "second-strike",
+  "revision": "aiz-campaign-20261015",
+  "original_capture_root": "/home/farrell/scratch/agent-tmp/codex/second-strike-aiz-completion-20261015/cold/sonic-solo-r7",
+  "root_relocation": "Pass --capture-root to the preserved sonic-solo-r7 directory; generated media uses a new external --output-root.",
+  "capture_source": {
+    "development_engine_head": "22841e86ae4de2fd4206bef5cab0cad535127728",
+    "staged_source_tree": "6508a7a64826a0aba53a09d1aba2e0dfa79d503a",
+    "creator_jar_sha256": "aac1f34d8e3c0b511e4efdd8c942823e3933e6314eacd8ab342d7a6870db22e5",
+    "identity_observation": "Lead supplied exact development HEAD, staged Git tree and the separate immutable loaded AAC creator artifact; this is not the current C3 engine/artifact.",
+    "capture_job": "11708",
+    "game": "s3k",
+    "zone": "AIZ",
+    "character": "Sonic",
+    "team": "solo",
+    "donor": "off",
+    "entry": "native cold entry",
+    "driver_command": null,
+    "driver_command_limit": "The retained capture.txt is a completion/mux receipt, not the original launch command. No recapture command is invented here.",
+    "graphics": "surfaceless-egl; AMD / Mesa 26.2.4; original graphics receipt in capture/graphics.txt",
+    "rom_sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+    "rom_requirement": "User-supplied original locked-on ROM; no ROM bytes or extracted assets are archived."
+  },
+  "movie": {
+    "file": "cold-campaign.mkv",
+    "bytes": 1550352897,
+    "sha256": "4407481d368dd73c14a26ee02344d50c599225298c7b18ba6ce683343d7b6396",
+    "sha256_observation": "Independently rehashed by root inside admitted7099; matches the capture-owner digest. That attempt then stopped at the relocation path guard before FFmpeg.",
+    "frames": 16090,
+    "fps": 60,
+    "width": 320,
+    "height": 224,
+    "video_codec": "ffv1",
+    "audio_codec": "flac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "stereo_frames": 12872000,
+    "frame_to_movie_offset": 0,
+    "frame_to_audio_sample_multiplier": 800,
+    "header_duration_seconds": 268.166
+  },
+  "small_capture_files": [
+    {
+      "file": "state.csv",
+      "bytes": 2981414,
+      "sha256": "bda7b343422a41efeaa812bbc57cae9f1ecd9a3a5e85258b36e42d6ea68b1312"
+    },
+    {
+      "file": "admitted.script",
+      "bytes": 134360,
+      "sha256": "8c3df5f8886b33870b5df25872ca92c44719f7749834aeff1f48ccc7cf8ac2c9"
+    },
+    {
+      "file": "capture.txt",
+      "bytes": 404,
+      "sha256": "60a71c63620bb8202f58c5580b1f962ccee8b5cd493f53380828479c9af9eab7"
+    }
+  ],
+  "milestones": {
+    "native_lookout_first_frame": 10483,
+    "native_lookout_end_exclusive": 10529,
+    "physical_fire_reload_frame": 11293,
+    "boss_warning_first_frame": 13603,
+    "boss_warning_end_exclusive": 13619,
+    "boss_followup_frame": 13619,
+    "first_boss_hp_zero_frame": 14217,
+    "native_defeated_state_frame": 14230,
+    "results_first_frame": 14556,
+    "apparent_act_2_first_frame": 15033,
+    "control_clear_frame": 15034,
+    "act_2_input_ready_first_frame": 15035,
+    "observed_act_2_movement_frame": 15120,
+    "death_frame": 16089
+  },
+  "edit": {
+    "frames": 2820,
+    "fps": 60,
+    "duration_seconds": 47,
+    "picture_cuts": 3,
+    "last_twenty_seconds_picture_cuts": 1,
+    "canvas": [
+      1600,
+      900
+    ],
+    "gameplay_scale": "integer3x nearest-neighbour, 960x672 centred at320,114",
+    "speed": "one native input frame per output frame, no slow motion or interpolation",
+    "audio": "The same selected source intervals, synchronized native mixed audio, fixed -1.5 dB gain, 50 ms nonoverlapping fades at boundaries; no extra soundtrack or layered audio."
+  },
+  "observed_preparation": {
+    "csv_selected_frames": "All alive LEVEL rows; no results/menu segment in selection. Ring counts are 1 in shot1,0 or 1 in shot 2 and 0 in shots 3/4.",
+    "inspected_existing_stills": [
+      10483,
+      13603,
+      13619,
+      14217,
+      14556,
+      15120
+    ],
+    "header_check": "ffprobe only; no whole-movie decode in preparation.",
+    "moving_audio_review": "Superseded by the bounded actual render review below; original preparation observations retained."
+  },
+  "limits": [
+    "Development excerpt, not delivered-revision footage or complete AIZ/campaign qualification.",
+    "This native cold route reaches playable Act 2 and dies later at 16089; selected footage ends 15935.",
+    "Do not claim a long Caterkiller, complete five-ring placement inventory, Act 2 boss, HCZ handoff or endings from this edit.",
+    "Editorial cuts omit waiting/results and cannot prove continuous completion.",
+    "Offline audio is not a physical speaker/controller latency observation."
+  ],
+  "assembly_revision": {
+    "script_sha256": "d869f890235f28782144bcc96c17cc5c07d49890471ae00d047d917a3a320802",
+    "first_attempt": "7099: source-r1 path-guard rejection before encoding; no movie created",
+    "current_attempt": "99578: source-r5 to render-r5,398seconds admission wait; encoded successfully, execution duration not separately measured; full decode exit0",
+    "guard": "Validate actual Git working-tree identity, including .git files; ignore empty non-repository marker directories. Protect editable source directory.",
+    "second_attempt": "65175: source-r2 path-guard rejection before encoding after645seconds admission wait; empty host .git directories were not repositories",
+    "third_attempt": "38036: source-r3 stopped before encoding at missing default-font-path check;303seconds admission wait",
+    "fourth_attempt": "39327: FFmpeg rejects removed filter_complex_script option before encoding after511seconds admission wait; no movie created",
+    "ffmpeg": "ffmpeg version n9.0.2 Copyright (c) 2000-2026 the FFmpeg developers"
+  },
+  "font": {
+    "family": "DejaVu Sans",
+    "file": "/usr/share/fonts/TTF/DejaVuSans.ttf",
+    "bytes": 759720,
+    "sha256": "6038a160b491e121c1f12c7bccb4a9c8730296e3adc1086a059404ed84b7451c",
+    "relocation": "Supply the matching installed font with --font; binary remains external."
+  },
+  "output": {
+    "root": "second-strike/aiz-campaign-production",
+    "file": "render-r5/second-strike-aiz-development.mp4",
+    "bytes": 106628242,
+    "sha256": "df7529b0fb89add3fce4c1f54238160155661da9a0ee65155799b20ee99e4bf6",
+    "video_codec": "h264",
+    "width": 1600,
+    "height": 900,
+    "fps": 60,
+    "frames": 2820,
+    "duration_seconds": 47,
+    "audio_codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "decoded_stereo_frames": 2256000,
+    "chapter_intervals_seconds": [
+      [
+        0,
+        10
+      ],
+      [
+        10,
+        20
+      ],
+      [
+        20,
+        32
+      ],
+      [
+        32,
+        47
+      ]
+    ],
+    "render_input_provenance_sha256": "f2ada181f0ae67fb2210c8dafcddaf4828ad62e5638067d45c6101dfbfc6b435"
+  },
+  "review": {
+    "reviewed_at_utc": "2026-10-15T23:27:07.995686+00:00",
+    "full_decode": "ffmpeg -v info -xerror -threads 2 -i <output> -af astats=metadata=0:reset=0 -f null - ; exit0,2820video frames,47seconds,2256000stereo frames",
+    "full_decode_seconds": 4.84,
+    "decoded_audio_peak_dbfs": -9.656315,
+    "decoded_audio_rms_dbfs": -28.771691,
+    "decoded_audio_nonfinite_samples": 0,
+    "motion": "One uninterrupted1x T3 browser playback to47seconds plus moving cut checks and selected chapter/caption/consequence frames. No runtime stall after initial metadata load. Native-speed frame cadence and integer-scaled play area preserved.",
+    "browser_first_playback": {
+      "total_video_frames": 2820,
+      "dropped_video_frames": 1,
+      "corrupted_video_frames": 0,
+      "callback_observations": 2679,
+      "sampled_distinct_motion_hashes_per_shot": [
+        48,
+        48,
+        57,
+        72
+      ],
+      "audio_samples": 235,
+      "audio_samples_nonzero": 235
+    },
+    "cuts": "10/20/32seconds inspected; only32seconds falls in the final20seconds. Scene captions sit outside play. First-boss fatal hit/defeat and playableAct2 traversal retained.",
+    "audio_limit": "Quantitative decoded-stream and zero-gain browser-analyser review; no subjective listening, physical speaker/controller latency or native audio-parity claim. One synchronized source interval owns audio at a time; no added score/loops/stacking.",
+    "transport_limit": "The simple local HTTP server does not serve media byte ranges; paused cut review used a fully loaded immutable movie Blob after the complete initial1x playback. Seeking did not change or re-encode the file.",
+    "publication": "Production-source publication and remote verification handled separately by the normal Git delivery flow."
+  }
+}

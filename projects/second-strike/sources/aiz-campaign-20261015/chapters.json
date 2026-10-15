@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.0,
+    "end": 10.0,
+    "start_frame": 0,
+    "end_frame_exclusive": 600,
+    "title": "Angel Island · forest",
+    "source": "cold-campaign.mkv",
+    "source_start_frame": 10000,
+    "source_end_frame_exclusive": 10600
+  },
+  {
+    "start": 10.0,
+    "end": 20.0,
+    "start_frame": 600,
+    "end_frame_exclusive": 1200,
+    "title": "Fire continuation",
+    "source": "cold-campaign.mkv",
+    "source_start_frame": 11750,
+    "source_end_frame_exclusive": 12350
+  },
+  {
+    "start": 20.0,
+    "end": 32.0,
+    "start_frame": 1200,
+    "end_frame_exclusive": 1920,
+    "title": "A warned follow-up",
+    "source": "cold-campaign.mkv",
+    "source_start_frame": 13560,
+    "source_end_frame_exclusive": 14280
+  },
+  {
+    "start": 32.0,
+    "end": 47.0,
+    "start_frame": 1920,
+    "end_frame_exclusive": 2820,
+    "title": "Act 2 arrival",
+    "source": "cold-campaign.mkv",
+    "source_start_frame": 15035,
+    "source_end_frame_exclusive": 15935
+  }
+]

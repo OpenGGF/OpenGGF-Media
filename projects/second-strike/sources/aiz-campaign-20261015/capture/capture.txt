@@ -1,0 +1,12 @@
+status=complete
+video=/home/farrell/scratch/agent-tmp/codex/second-strike-aiz-completion-20261015/cold/sonic-solo-r7/cold-campaign.mkv
+frames=16090
+audioDrains=16090
+sampleRate=48000
+stereoFrames=12872000
+nonzeroSamples=25704229
+peak=12722
+scale=1
+usableBeforeMux=9422254080
+temporary=capture-12647946375377617897.audio.raw bytes=51488000
+temporary=capture-1958745811940333589.video.mkv bytes=1527513088

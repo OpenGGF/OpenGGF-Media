@@ -180,5 +180,29 @@
     "original": "~/scratch/agent-tmp/codex/second-strike-enemy-expansion-20261014/short-reel-20261014",
     "archive": "projects/second-strike/sources/enemy-expansion-20261014",
     "notes": "Enemy-expansion short reel and exact delivered-package capture sources, 2026-10-14. Video, native audio, frame sequences and bulk state remain external."
+  },
+  {
+    "id": "second-strike/aiz-campaign-edit",
+    "original": "~/code/projects/OpenGGF-Media/projects/second-strike/sources/aiz-campaign-20261015",
+    "archive": "projects/second-strike/sources/aiz-campaign-20261015",
+    "notes": "Editable47-second native-entry AIZ development excerpt; rendered/full-decoded and bounded moving/cut/decoded-audio reviewed. Generated media remains external; not full campaign qualification."
+  },
+  {
+    "id": "second-strike/aiz-native-entry-r7",
+    "original": "~/scratch/agent-tmp/codex/second-strike-aiz-completion-20261015/cold/sonic-solo-r7",
+    "archive": "projects/second-strike/sources/aiz-campaign-20261015/capture",
+    "notes": "Immutable native-entry Sonic 320 solo development capture 11708. Movie and bulk CSV remain external; admitted input and small graphics/completion records are preserved. Engine HEAD/staged tree and separate creator artifact are in revision provenance."
+  },
+  {
+    "id": "second-strike/aiz-campaign-production",
+    "original": "~/scratch/agent-tmp/codex/second-strike-aiz-reel-20261015",
+    "archive": "projects/second-strike/sources/aiz-campaign-20261015",
+    "notes": "Successful source-r5/render-r5 movie,106628242bytes/SHA256df7529b0\u2026bf6; earlier host destination/font/FFmpeg-option failures retained in source provenance. Codec and bounded motion/audio analysis complete; native captures unchanged."
+  },
+  {
+    "id": "second-strike/host-font",
+    "original": "/usr/share/fonts/TTF",
+    "archive": "",
+    "notes": "External DejaVu Sans caption dependency; exact file digest in the AIZ edit provenance."
   }
 ]
