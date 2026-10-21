@@ -204,5 +204,23 @@
     "original": "/usr/share/fonts/TTF",
     "archive": "",
     "notes": "External DejaVu Sans caption dependency; exact file digest in the AIZ edit provenance."
+  },
+  {
+    "id": "stageplay/media",
+    "original": "~/scratch/agent-tmp/codex/stageplay-delivery",
+    "archive": "projects/stageplay/sources/media",
+    "notes": "Revision 2 is a superseded preview; revision 3 is the reviewed authored dialogue short and continuous promo. Footage, original PNG decorations, UI/motion reviews, bulk authored state and builds remain external."
+  },
+  {
+    "id": "stageplay/font",
+    "original": "/usr/share/fonts/TTF",
+    "archive": "",
+    "notes": "External DejaVuSans.ttf label dependency; digest recorded by Stageplay provenance and external-assets.json."
+  },
+  {
+    "id": "stageplay/fira-fonts",
+    "original": "/usr/share/fonts/TTF",
+    "archive": "",
+    "notes": "Fira Sans Compressed Heavy Italic and Fira Sans Medium used by revision-three editorial accents; exact hashes in assembly provenance. External fonts are not redistributed."
   }
 ]

@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**26 production groups · 6,807 preserved source files · approximately 155 GiB of
+**27 production groups · 6,844 preserved source files · approximately 158 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -37,12 +37,13 @@ this repository contains their production sources and location catalog.
 | [Sandopolis earlier work highlights](projects/soz-methodology/) | 609 | 2,120 |
 | [Sonic 3&K Chaos Mode demo and card-gallery revisions](projects/sonic3k-chaos-mode/) | 706 | 293 |
 | [Second Strike gameplay reels and AIZ development edit](projects/second-strike/) | 39 | 18 |
+| [OpenGGF Stageplay original short and directing promo](projects/stageplay/) | 35 | 25 |
 | [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
 
 The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later
 collections cover zone bring-ups, ending sequences, Slay the Robotnik, Putt-Putt
 Paradise, Flappy Tails, Typing of the Hedgehog, Sitar Hero, Starpost Valley,
-Mutator Lab, Chaos Mode and Second Strike. Retained drafts and revisions remain identifiable;
+Mutator Lab, Chaos Mode, Second Strike and Stageplay. Retained drafts and revisions remain identifiable;
 Chaos Mode retains its earlier reels alongside the focused revision-4 gallery:
 twenty representative effects, twelve zones and qualified native DAC/SFX capture.
 Second Strike also retains a separately identified47-second AIZ development

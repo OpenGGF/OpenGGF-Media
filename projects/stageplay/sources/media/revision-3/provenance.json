@@ -1,0 +1,89 @@
+{
+  "title": "Location, Location, Location",
+  "date": "2026-10-21",
+  "status": "reviewed authored short and promo; user creative acceptance not claimed",
+  "sourceKind": "Stageplay authored performance using detached ROM scenery; not native gameplay evidence",
+  "engine": {
+    "repository": "https://github.com/OpenGGF/OpenGGF",
+    "sourceCommit": "ffe9492aabb7b988876b9f096079a24159f6196a",
+    "captureState": "Packaged from the uncommitted schema-three dialogue tree, subsequently preserved by this source checkpoint. Generated artifact build metadata predates that checkpoint; rendering inputs and artifact digest are recorded explicitly.",
+    "artifact": "builds/OpenGGF-0.7.prerelease-jar-with-dependencies.jar",
+    "sha256": "0699e803d2233c7c5012659f97fbd2112bdc68c8fbe487707d9479dc003beb57"
+  },
+  "scene": {
+    "screenplay": "take-1/location-remote.screenplay.json",
+    "canonical": "take-1/location-remote.stageplay",
+    "authoredTimeline": "take-1/state.jsonl",
+    "schema": 3,
+    "screenplayVersion": 1,
+    "frames": 3060,
+    "fps": 60,
+    "width": 400,
+    "height": 224,
+    "zoom": "held at one in all 3,060 evaluated samples",
+    "dialogueCues": 14,
+    "speakerProfiles": [
+      "sonic",
+      "tails",
+      "knuckles"
+    ],
+    "sourceMovie": "take-1/location-remote.mkv"
+  },
+  "roms": [
+    {
+      "game": "s1",
+      "identity": "World REV01",
+      "sha1": "69e102855d4389c3fd1a8f3dc7d193f8eee5fe5b"
+    },
+    {
+      "game": "s2",
+      "identity": "World REV01",
+      "sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9"
+    },
+    {
+      "game": "s3k",
+      "identity": "locked-on",
+      "sha1": "cfbf98c36c776677290a872547ac47c53d2761d6"
+    }
+  ],
+  "commands": [
+    "JAVA_HOME=<JDK25> python3 <engine>/tools/stageplay/stageplay.py compile --script take-1/location-remote.screenplay.json --out take-1/location-remote.stageplay",
+    "JAVA_HOME=<JDK25> python3 <engine>/tools/stageplay/stageplay.py timeline --scene take-1/location-remote.stageplay --out take-1/state.jsonl",
+    "JAVA_HOME=<JDK25> python3 <engine>/tools/stageplay/stageplay.py render --scene take-1/location-remote.stageplay --out take-1/location-remote.mkv --s1-rom <supplied-S1> --s2-rom <supplied-S2> --s3k-rom <supplied-S3K>",
+    "Full-short encode: exact command in README.md",
+    "Promo encode: assemble_promo.py and stageplay-promo.assembly.json"
+  ],
+  "review": {
+    "timeline": "All 3,060 rows inspected programmatically: ordered frame samples, zoom one, three actor roles and all scene switches. Authored values are not measured physics.",
+    "motion": "Inspected continuous half-second source sequences across all 51 seconds: runs, hop/drop/land, turns, approaches, retreats, duck/look reactions and closing chase; no stationary-only chapter. Earlier fractional animated zoom is absent.",
+    "composition": "Named coloured panels and pointers identify every speaker. Text is clear at 3×/4× integer output scale. All six transition windows inspected around the covered midpoint. Sparse editorial title accents clear the actors and dialogue.",
+    "playback": {
+      "fullShort": {
+        "duration": 51,
+        "ended": true,
+        "rate": 1,
+        "presentedFrames": 3060,
+        "droppedFrames": 0
+      },
+      "promoBeforeMastering": {
+        "duration": 51,
+        "ended": true,
+        "rate": 1,
+        "presentedFrames": 3060,
+        "droppedFrames": 0
+      },
+      "masteredPromo": "Video stream is byte-identical to the browser-reviewed edit. Fresh full decode/audio metering and stream hashes are in decoded-media-checks.json."
+    },
+    "audio": "Decoded PCM/sample counts and RMS/peak checked; physical listening is not claimed. Promo applies constant +10 dB gain; the lossless source and full-short MP4 keep native captured gain.",
+    "limits": [
+      "No native physics, AI, collision or evolving zone events are simulated in detached sets.",
+      "No native desktop window/focus/HiDPI certification from surfaceless EGL.",
+      "No custom fonts or executable glyph callbacks in dialogue; editorial Fira typography is an external compositing layer."
+    ]
+  },
+  "retainedRevisions": {
+    "../revision-2": "Superseded preview rejected for animated fractional zoom, idle performance and unclear speakers.",
+    "edit-1-unmastered": "Same reviewed visual edit at quieter source gain, preserved with exact assembly sources; final audio mastering changed no video packets."
+  },
+  "assets": "external-assets.json records exact external hashes. The source archive contains no ROMs, recordings, extracted art/audio, fonts or packaged builds."
+}

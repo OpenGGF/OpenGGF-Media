@@ -1,0 +1,56 @@
+{
+  "frames": 1767,
+  "motion": [
+    {
+      "title": "OpenGGF Stageplay",
+      "frames": 294,
+      "changedFrames": 291,
+      "maxMeanDelta": 2.7198148148148147
+    },
+    {
+      "title": "Move the camera",
+      "frames": 177,
+      "changedFrames": 176,
+      "maxMeanDelta": 6.860740740740741
+    },
+    {
+      "title": "Change the act",
+      "frames": 414,
+      "changedFrames": 305,
+      "maxMeanDelta": 24.46423611111111
+    },
+    {
+      "title": "Cross games",
+      "frames": 192,
+      "changedFrames": 191,
+      "maxMeanDelta": 8.423217592592593
+    },
+    {
+      "title": "Make an entrance",
+      "frames": 234,
+      "changedFrames": 233,
+      "maxMeanDelta": 28.898587962962964
+    },
+    {
+      "title": "Direct it your way",
+      "frames": 198,
+      "changedFrames": 197,
+      "maxMeanDelta": 14.136782407407408
+    },
+    {
+      "title": "OpenGGF Stageplay",
+      "frames": 258,
+      "changedFrames": 233,
+      "maxMeanDelta": 9.09224537037037
+    }
+  ],
+  "audioPeak": 0.23161044716835022,
+  "audioRms": 0.03370760617076916,
+  "audioSamplesPerChannel": 1413600,
+  "losslessSourceAudioSamplesPerChannel": 2208000,
+  "fullDecodes": [
+    "take-2/location-remote.mkv",
+    "location-remote.mp4",
+    "stageplay-promo.mp4"
+  ]
+}

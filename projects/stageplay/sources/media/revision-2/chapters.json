@@ -1,0 +1,93 @@
+[
+  {
+    "act": "Emerald Hill 1",
+    "route_order": 1,
+    "title": "OpenGGF Stageplay",
+    "subtitle": "Direct a cast. Turn supplied ROM resources into a film.",
+    "source": "take-2/location-remote.mkv",
+    "source_start_seconds": 0,
+    "source_end_seconds": 4.9,
+    "output_start_frame": 0,
+    "output_end_frame": 294,
+    "output_start_seconds": 0.0,
+    "output_end_seconds": 4.9
+  },
+  {
+    "act": "Emerald Hill 1",
+    "route_order": 2,
+    "title": "Move the camera",
+    "subtitle": "Pan, zoom and stage the next shot.",
+    "source": "take-2/location-remote.mkv",
+    "source_start_seconds": 6.7,
+    "source_end_seconds": 9.65,
+    "output_start_frame": 294,
+    "output_end_frame": 471,
+    "output_start_seconds": 4.9,
+    "output_end_seconds": 7.85
+  },
+  {
+    "act": "Emerald Hill 2",
+    "route_order": 3,
+    "title": "Change the act",
+    "subtitle": "Cuts, fades and wipes share one timeline.",
+    "source": "take-2/location-remote.mkv",
+    "source_start_seconds": 11.6,
+    "source_end_seconds": 18.5,
+    "output_start_frame": 471,
+    "output_end_frame": 885,
+    "output_start_seconds": 7.85,
+    "output_end_seconds": 14.75
+  },
+  {
+    "act": "Green Hill 1",
+    "route_order": 4,
+    "title": "Cross games",
+    "subtitle": "The same cast. A different world.",
+    "source": "take-2/location-remote.mkv",
+    "source_start_seconds": 18.7,
+    "source_end_seconds": 21.9,
+    "output_start_frame": 885,
+    "output_end_frame": 1077,
+    "output_start_seconds": 14.75,
+    "output_end_seconds": 17.95
+  },
+  {
+    "act": "Angel Island 1",
+    "route_order": 5,
+    "title": "Make an entrance",
+    "subtitle": "Movement, poses, camera shake and genuine game audio.",
+    "source": "take-2/location-remote.mkv",
+    "source_start_seconds": 25.7,
+    "source_end_seconds": 29.6,
+    "output_start_frame": 1077,
+    "output_end_frame": 1311,
+    "output_start_seconds": 17.95,
+    "output_end_seconds": 21.85
+  },
+  {
+    "act": "Emerald Hill 1",
+    "route_order": 6,
+    "title": "Direct it your way",
+    "subtitle": "In-engine editor \u2022 OpenGGF Editor \u2022 agent screenplay tool",
+    "source": "take-2/location-remote.mkv",
+    "source_start_seconds": 34.7,
+    "source_end_seconds": 38,
+    "output_start_frame": 1311,
+    "output_end_frame": 1509,
+    "output_start_seconds": 21.85,
+    "output_end_seconds": 25.15
+  },
+  {
+    "act": "Green Hill 1",
+    "route_order": 7,
+    "title": "OpenGGF Stageplay",
+    "subtitle": "A reusable directing framework. Location remote sold separately.",
+    "source": "take-2/location-remote.mkv",
+    "source_start_seconds": 41.7,
+    "source_end_seconds": 46,
+    "output_start_frame": 1509,
+    "output_end_frame": 1767,
+    "output_start_seconds": 25.15,
+    "output_end_seconds": 29.45
+  }
+]

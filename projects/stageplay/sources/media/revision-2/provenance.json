@@ -1,0 +1,115 @@
+{
+  "production": "Location, Location, Location",
+  "date": "2026-10-21",
+  "revision": 2,
+  "entry": "Stageplay detached ROM sets; authored actor/camera samples, no native simulation",
+  "engine": {
+    "repository": "https://github.com/OpenGGF/OpenGGF",
+    "baseCommit": "ca58b4691bbc92bfee66b4b18dfed8cad68beed6",
+    "captureState": "Captured from the uncommitted directing extension; its source files were subsequently preserved at sourceCommit before the dialogue revision.",
+    "smokeSourceFingerprint": "b075d1afacd4f8dd2b9cd6d0a809d4225e990abc12ba00bbeb919c988cc9d256",
+    "artifact": "builds/OpenGGF-0.7.prerelease-jar-with-dependencies.jar",
+    "artifactSha256": "f70e6025b6157c00a4486e239e928c98c390903b3d32ee717b7e893e67b53ca9",
+    "sourceCommit": "7017c11355b1f425c6884bc6c47141a38bc44605"
+  },
+  "romSha1": {
+    "s1": "69e102855d4389c3fd1a8f3dc7d193f8eee5fe5b",
+    "s2": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+    "s3k": "cfbf98c36c776677290a872547ac47c53d2761d6"
+  },
+  "font": {
+    "root": "stageplay/font",
+    "path": "DejaVuSans.ttf",
+    "sha256": "6038a160b491e121c1f12c7bccb4a9c8730296e3adc1086a059404ed84b7451c"
+  },
+  "source": {
+    "path": "take-2/location-remote.mkv",
+    "width": 400,
+    "height": 224,
+    "fps": 60,
+    "frames": 2760,
+    "seconds": 46,
+    "audioRate": 48000,
+    "channels": 2,
+    "audioSampleFrames": 2208000,
+    "stride": 1,
+    "state": "take-2/state.jsonl",
+    "stateKind": "Production Stageplay evaluator samples and exact-frame cues, not native simulation observations"
+  },
+  "deliverables": [
+    {
+      "path": "location-remote.mp4",
+      "width": 1200,
+      "height": 672,
+      "frames": 2760,
+      "seconds": 46
+    },
+    {
+      "path": "stageplay-promo.mp4",
+      "width": 1280,
+      "height": 720,
+      "frames": 1767,
+      "seconds": 29.45,
+      "chapters": 7
+    }
+  ],
+  "audioPolicy": "Genuine source ROM music and SFX; promo retains exact selected intervals with 20ms fade-in and 30ms fade-out at each cut. No additional score or speech.",
+  "observedTools": {
+    "ffmpeg": "n9.0.2",
+    "java": 25,
+    "renderer": "Linux surfaceless EGL, DISPLAY/WAYLAND_DISPLAY removed; no device audio"
+  },
+  "browserPlayback": [
+    {
+      "path": "stageplay-promo.mp4",
+      "decodedFrames": 1767,
+      "droppedFrames": 0,
+      "videoFrameCallbacks": 1512,
+      "firstMediaTime": 0,
+      "lastMediaTime": 29.433333,
+      "ended": true,
+      "muted": true
+    },
+    {
+      "path": "location-remote.mp4",
+      "decodedFrames": 2760,
+      "droppedFrames": 0,
+      "videoFrameCallbacks": 1875,
+      "firstMediaTime": 0,
+      "lastMediaTime": 45.983333,
+      "ended": true,
+      "muted": true
+    }
+  ],
+  "fastStart": [
+    {
+      "path": "stageplay-promo.mp4",
+      "moovOffset": 32,
+      "mdatOffset": 48444
+    },
+    {
+      "path": "location-remote.mp4",
+      "moovOffset": 32,
+      "mdatOffset": 72448
+    }
+  ],
+  "review": "All seven shot stills, representative moving states, eight samples across each of six promo edits including scene reveal; full playback and decode. No physical listening or exhaustive frame-by-frame visual claim.",
+  "rejected": [
+    {
+      "take": "take-1",
+      "reason": "Floating standing poses and over-wide Knuckles caption; take-2 adjusts world positions, wraps caption and stages falling arrival."
+    },
+    {
+      "attempt": "Initial promo encode",
+      "reason": "FFmpeg n9 removed -filter_complex_script; failed before movie publication. Corrected to structured -filter_complex argument."
+    }
+  ],
+  "coverageLimits": [
+    "Detached set backgrounds represent load-state scenery, not live level event/physics simulation.",
+    "Native gameplay adapter intentionally rejects scene-set changes before handover; cross-game films use detached Stageplay playback.",
+    "ROM assets, video, frame dumps and bulk state remain external.",
+    "Offscreen UI and simulated input tests do not certify platform window focus or HiDPI."
+  ],
+  "status": "superseded preview",
+  "reviewCorrection": "User rejected fractional nearest-neighbour zoom, static performances and unclear speakers; successful media decoding did not establish creative quality."
+}
