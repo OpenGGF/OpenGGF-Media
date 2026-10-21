@@ -184,8 +184,8 @@
   {
     "id": "stageplay",
     "title": "OpenGGF Stageplay original short and directing promo",
-    "notes": "Revision 4: native Puppet destinations and jumps, Poser compatibility, named dialogue and fixed zoom. Revisions 2 and 3 retain rejected motion experiments.",
-    "source_files": 53,
-    "catalog_entries": 37
+    "notes": "Revision 5: LIVE moving objects, native abilities, rings/hurt, following camera and One More Take. Earlier terrain-only and rejected motion revisions remain identified.",
+    "source_files": 70,
+    "catalog_entries": 80
   }
 ]

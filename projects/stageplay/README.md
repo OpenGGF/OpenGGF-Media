@@ -1,6 +1,42 @@
 # OpenGGF Stageplay
 
-## Location, Location, Location — Puppet revision, 2026-10-21
+## One More Take — LIVE world revision, 2026-10-21
+
+Revision five directs real level objects and native character abilities. Sonic and
+Tails board and trade moving platforms, a ring-run mishap produces native hurt and
+scattered rings, Tails and Knuckles regroup by flight/glide, and the three-character
+closing run uses a following camera. Puppet and Poser remain distinct authoring modes.
+
+- [Production notes and rebuild](sources/media/revision-5/README.md)
+- [Reusable scene sources](sources/media/revision-5/scenes/)
+- [Agent-friendly capture driver](sources/media/revision-5/capture.py)
+- [Continuous promo compositor](sources/media/revision-5/assemble_promo.py)
+  and [five-shot chapter map](sources/media/revision-5/chapters.json)
+- [Native evidence and review](sources/media/revision-5/provenance.json),
+  [decoded media checks](sources/media/revision-5/decoded-media-checks.json),
+  [assembly identity](sources/media/revision-5/stageplay-live-promo.assembly.json)
+  and [external asset hashes](sources/media/revision-5/external-assets.json)
+
+The retained short is 60 seconds at 60 fps. The promo preserves all 3,600 source
+frames, with fixed integer enlargement, brief opening/closing titles and one
+captured soundtrack. Companion demonstrations isolate platform transfers (8 s),
+flight/glide (9 s) and ring pickup/hurt/recovery (4 s). Source recipes include explicit
+native movement, waits, abilities and actual placement targets. The recorded ring
+count is the shared native total, not separate collection credit for each actor.
+
+LIVE is an isolated production world per shot, with positioned starts and authored
+routes. It does not prove uninterrupted level completion, general pathfinding or
+ROM parity. Its native state JSONL is distinct from both pure authored timeline
+samples and normal gameplay capture CSV. Limits and exact review scope are retained
+in the provenance; physical audio listening and user creative approval are not claimed.
+
+External outputs live under `stageplay/media` at `revision-5/`:
+`one-more-take-review.mkv`, its MP4 viewing copy and `stageplay-live-promo.mp4`.
+The three companion movies, state observations, editor images, packaged engine and
+superseded first rendering remain external too. Catalog entries are not downloads.
+Earlier revisions below preserve the development history.
+
+## Location, Location, Location — terrain Puppet revision, 2026-10-21
 
 Revision four uses native player physics for all three roles: floor support,
 destination/urgency commands, acceleration, jump holds, collision and landing.

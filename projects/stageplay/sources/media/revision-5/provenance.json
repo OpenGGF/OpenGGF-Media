@@ -1,0 +1,176 @@
+{
+  "state": "Retained corrected take; media verification and bounded agent visual review complete",
+  "engineImplementation": "1e5420f10123a20eb4ebb02b97791957eca7ec57",
+  "engineFinal": "bd4feec2f17b883766145bf01e7f27ec6d699a51",
+  "editor": "e4596f00b0e7de058791108ed1db429353fd2c17",
+  "nativeRom": {
+    "game": "s3k",
+    "sha1": "cfbf98c36c776677290a872547ac47c53d2761d6"
+  },
+  "form": "Authored Stageplay LIVE performance using native production world; positioned starts and shot resets; not uninterrupted gameplay or ROM parity.",
+  "firstReview": {
+    "source": "initial Sol review MKVs",
+    "browser": "All four clips reached end at 1x/60fps with 0 dropped frames reported. Representative screenshots inspected; this is bounded agent review.",
+    "findings": [
+      "Initial frame has black terrain while actors/objects are visible; renderer initialization repair requested.",
+      "Gameplay HUD leaked into film, including overlapping glyphs; cinematic suppression requested.",
+      "Explicit shot music cues requested so preview and capture share authored soundtrack ownership.",
+      "First manual camera pan used authored coordinates instead of the resolved follow view; shared-workspace regression and draft-seeding correction requested."
+    ],
+    "audio": {
+      "initialStoryLufs": -23.7,
+      "initialStoryTruePeakDbfs": -10.6,
+      "physicalListening": false
+    }
+  },
+  "initialNativeEvidence": {
+    "platform": {
+      "frames": 480,
+      "placements": [
+        179,
+        166,
+        179
+      ],
+      "boarding": [
+        15,
+        16
+      ],
+      "transfer": [
+        171,
+        176
+      ],
+      "return": [
+        368,
+        374
+      ]
+    },
+    "air": {
+      "frames": 540,
+      "tailsFlight": 94,
+      "knucklesGlide": 114,
+      "tailsLanding": 427,
+      "knucklesLanding": 193
+    },
+    "rings": {
+      "frames": 240,
+      "pickups": [
+        14,
+        15
+      ],
+      "hurt": 29,
+      "loss": 30,
+      "lostRingObjects": 31,
+      "recovered": 119,
+      "count": "native shared total, not per-actor sum"
+    },
+    "story": {
+      "frames": 3600,
+      "shots": 5,
+      "deaths": 0,
+      "timeouts": 0,
+      "intentionalOffscreen": "Sonic leaves the picture during the ring-shot camera handoff to Tails (1174\u20131259); the cast otherwise stays in the bounded sampled viewport."
+    }
+  },
+  "limits": [
+    "LIVE native height 224; width 320\u20131920; zoom one",
+    "Same-donor Puppets and native roster/activation-window limits",
+    "Explicit waypoints/jumps/waits, not general pathfinding",
+    "Preview requires configured original whole-image ROM paths",
+    "No physical listening or user creative acceptance claimed"
+  ],
+  "finalReview": {
+    "browserPlaybacks": [
+      {
+        "source": "stageplay-live-promo.mp4",
+        "time": 60,
+        "duration": 60,
+        "rate": 1,
+        "quality": {
+          "total": 3600,
+          "dropped": 0
+        }
+      },
+      {
+        "source": "live-ring-run-review.mp4",
+        "time": 4,
+        "duration": 4,
+        "rate": 1,
+        "quality": {
+          "total": 240,
+          "dropped": 0
+        }
+      },
+      {
+        "source": "live-platform-relay-review.mp4",
+        "time": 8,
+        "duration": 8,
+        "rate": 1,
+        "quality": {
+          "total": 480,
+          "dropped": 0
+        }
+      },
+      {
+        "source": "live-air-traffic-review.mp4",
+        "time": 9,
+        "duration": 9,
+        "rate": 1,
+        "quality": {
+          "total": 540,
+          "dropped": 0
+        }
+      }
+    ],
+    "observations": [
+      "Initial terrain is visible; cinematic HUD is absent.",
+      "Native support, jumps, flight/glide and following-camera motion remain visible; tails accessories are rendered.",
+      "Named speaker panels and pointers identify turns; opening and closing editorial type occupy the upper safe area.",
+      "Five authored shots remain in order, with intentional scene transitions and no editorial retiming or animated zoom.",
+      "The final three-character group run and closing dialogue remain visible beneath the promotional identification."
+    ],
+    "scope": "One normal-speed playback of the final promo and each companion MP4, representative moving snapshots, first/last and shot-boundary frame checks. Bounded agent review, not continuous human observation or physical audio listening.",
+    "audio": {
+      "encodedPromoLufs": -18.0,
+      "encodedPromoTruePeakDbfs": -4.8,
+      "physicalListening": false
+    },
+    "correctedFindings": [
+      "Scoped displayed-fade override restores first-frame terrain without ticking native state.",
+      "Cinematic render options omit gameplay HUD.",
+      "Explicit per-shot ROM music cues align preview/export soundtrack ownership.",
+      "Manual camera controls seed from resolved native follow framing."
+    ]
+  },
+  "buildArtifacts": [
+    {
+      "path": "engine/OpenGGF-stageplay-live-bd4feec.jar",
+      "bytes": 28583888,
+      "sha256": "edd20369e03ed44ae725cbeb06b93351d6d4cfcc1a8c92ffba0ffc824a9bd6d8",
+      "engineSource": "bd4feec2f17b883766145bf01e7f27ec6d699a51"
+    }
+  ],
+  "editorVerification": {
+    "source": "e4596f00b0e7de058791108ed1db429353fd2c17",
+    "tests": 22,
+    "failures": 0,
+    "errors": 0,
+    "skips": 0,
+    "includes": "Native isolated flight/glide desktop preview retains parent world; save/reopen of targets, waits and follow; live actor inspector. Final renderer/camera runtime: 22 tests passed, zero failures/errors/skips; final three desktop images inspected.",
+    "runtime": "bd4feec2f17b883766145bf01e7f27ec6d699a51"
+  },
+  "engineCombined": "1e0f02519117a225b270c8b967ac3dbb9d74f798",
+  "engineHandoff": "154cb7fb8d093f57b723dd97329f4afc96d06365",
+  "finalNativeEvidence": {
+    "samples": 4860,
+    "exactlyEqualToInitialSamples": true,
+    "changedTopLevelAuthoredMusicCues": [
+      1,
+      1,
+      1,
+      5
+    ],
+    "source": "Final every-frame native LIVE JSONL; no native sample field changed from initial captures."
+  },
+  "testCoverage": "Focused native/runtime and Editor checks are recorded here. Delivery-wide engine smoke and integration are recorded in the engine task plan; this media record does not assert a release/full-suite pass.",
+  "superseded": "superseded-before-bd4feec retains the initial implementation movies/JSONL/QA and first MP4 transcodes; layout-review retains title prototypes over that superseded source."
+}
