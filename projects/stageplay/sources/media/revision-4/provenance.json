@@ -1,0 +1,343 @@
+{
+  "title": "Location, Location, Location",
+  "revision": 4,
+  "status": "Agent-reviewed Puppet revision; user creative acceptance is not asserted",
+  "sourceKind": "Authored Stageplay performance with native player physics against detached ROM terrain",
+  "sourceEngineCommit": "508915e67d6646b03f27a5e41ff5124b2d926799",
+  "sourceEngineDirty": false,
+  "engineArtifact": {
+    "path": "engine/OpenGGF-stageplay-puppets.jar",
+    "bytes": 28515039,
+    "sha256": "549435666d88a7da153e44813e6f9b256d12258b12e75e6a8c6802836cfba82c"
+  },
+  "engineBuildMetadata": {},
+  "editorCommit": "10f0de9",
+  "screenplay": {
+    "path": "take-3/location-remote.screenplay.json",
+    "bytes": 20214,
+    "sha256": "38d940a40be28cc964e9e3e32a732be87744f78f2ce747e42e6c569ee4c41480"
+  },
+  "scene": {
+    "path": "take-3/location-remote.stageplay",
+    "bytes": 14657,
+    "sha256": "eb7895d7cbc0694a815322f454a5d4efaf132761382e73f191292eb1d06a5037"
+  },
+  "screenplayVersion": 2,
+  "sceneVersion": 4,
+  "frames": 3060,
+  "fps": 60,
+  "seconds": 51,
+  "width": 400,
+  "height": 224,
+  "roles": 3,
+  "shots": 7,
+  "dialogueLines": 14,
+  "puppetCommands": 26,
+  "nativeJumps": [
+    {
+      "actor": "sonic",
+      "command": "remote.sonic.action2",
+      "holdFrames": 12,
+      "start": 282,
+      "apex": {
+        "frame": 312,
+        "y": 559.25390625,
+        "airborne": true,
+        "screenY": 104.25390625
+      },
+      "landing": {
+        "frame": 342,
+        "y": 653.09765625,
+        "airborne": false,
+        "screenY": 198.09765625
+      }
+    },
+    {
+      "actor": "sonic",
+      "command": "acttwo.sonic.action0",
+      "holdFrames": 12,
+      "start": 860,
+      "apex": {
+        "frame": 890,
+        "y": 590.9375,
+        "airborne": true,
+        "screenY": 100.9375
+      },
+      "landing": {
+        "frame": 920,
+        "y": 684.78125,
+        "airborne": false,
+        "screenY": 194.78125
+      }
+    },
+    {
+      "actor": "tails",
+      "command": "acttwo.tails.action1",
+      "holdFrames": 8,
+      "start": 1200,
+      "apex": {
+        "frame": 1226,
+        "y": 611.05859375,
+        "airborne": true,
+        "screenY": 119.05930813168601
+      },
+      "landing": {
+        "frame": 1253,
+        "y": 690.05859375,
+        "airborne": false,
+        "screenY": 200.05859375
+      }
+    },
+    {
+      "actor": "tails",
+      "command": "island.tails.action1",
+      "holdFrames": 8,
+      "start": 2270,
+      "apex": {
+        "frame": 2296,
+        "y": 974.5,
+        "airborne": true,
+        "screenY": 109.5
+      },
+      "landing": {
+        "frame": 2323,
+        "y": 1053.5,
+        "airborne": false,
+        "screenY": 187.93302175147528
+      }
+    }
+  ],
+  "movementGoals": [
+    {
+      "command": "remote.sonic.action0",
+      "firstArrivedFrame": 71,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "remote.sonic.action1",
+      "firstArrivedFrame": 368,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "remote.sonic.action3",
+      "firstArrivedFrame": 406,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "closer.sonic.action0",
+      "firstArrivedFrame": 521,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "closer.sonic.action1",
+      "firstArrivedFrame": 695,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "acttwo.sonic.action1",
+      "firstArrivedFrame": 1045,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "greenhill.sonic.action0",
+      "firstArrivedFrame": 1344,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "greenhill.sonic.action1",
+      "firstArrivedFrame": 1510,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "island.sonic.action0",
+      "firstArrivedFrame": 2093,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "home.sonic.action0",
+      "firstArrivedFrame": 2407,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "home.sonic.action1",
+      "firstArrivedFrame": 2607,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "mostly.sonic.action0",
+      "firstArrivedFrame": null,
+      "lastStatus": "MOVING",
+      "note": "Closing chase intentionally leaves the frame before arrival"
+    },
+    {
+      "command": "remote.tails.action0",
+      "firstArrivedFrame": 56,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "closer.tails.action0",
+      "firstArrivedFrame": 577,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "acttwo.tails.action0",
+      "firstArrivedFrame": 1122,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "greenhill.tails.action0",
+      "firstArrivedFrame": 1371,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "greenhill.tails.action1",
+      "firstArrivedFrame": 1561,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "island.tails.action0",
+      "firstArrivedFrame": 2037,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "home.tails.action0",
+      "firstArrivedFrame": 2390,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "mostly.tails.action0",
+      "firstArrivedFrame": null,
+      "lastStatus": "MOVING",
+      "note": "Closing chase intentionally leaves the frame before arrival"
+    },
+    {
+      "command": "island.knuckles.action0",
+      "firstArrivedFrame": 1821,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    },
+    {
+      "command": "island.knuckles.action1",
+      "firstArrivedFrame": 2071,
+      "lastStatus": "ARRIVED",
+      "note": ""
+    }
+  ],
+  "simulationStatusCounts": {
+    "MOVING": 1529,
+    "INACTIVE": 2460,
+    "ARRIVED": 3876,
+    "IDLE": 1255,
+    "STOPPING": 60
+  },
+  "simulation": {
+    "path": "take-3/state.jsonl",
+    "bytes": 5211803,
+    "sha256": "dcaa75e3f84f0c0298613d0b5be444dfec5d1d2d93e41716433df53e664e6c93"
+  },
+  "authoredTimeline": {
+    "path": "take-3/authored.jsonl",
+    "bytes": 5067208,
+    "sha256": "9e8910507be66d8eb587e8b2ff00455168fbc0c6702300562aa12c4c73a5ec3a"
+  },
+  "roms": [
+    {
+      "game": "s1",
+      "sha1": "69e102855d4389c3fd1a8f3dc7d193f8eee5fe5b"
+    },
+    {
+      "game": "s2",
+      "sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9"
+    },
+    {
+      "game": "s3k",
+      "sha1": "cfbf98c36c776677290a872547ac47c53d2761d6"
+    }
+  ],
+  "commands": [
+    "python3 tools/stageplay/stageplay.py compile --script take-3/location-remote.screenplay.json --out take-3/location-remote.stageplay",
+    "python3 tools/stageplay/stageplay.py timeline --scene take-3/location-remote.stageplay --out take-3/authored.jsonl",
+    "python3 tools/stageplay/stageplay.py simulate --scene take-3/location-remote.stageplay --out take-3/state.jsonl --s1-rom <supplied-S1> --s2-rom <supplied-S2> --s3k-rom <supplied-S3K>",
+    "python3 tools/stageplay/stageplay.py render --scene take-3/location-remote.stageplay --out take-3/location-remote.mkv --s1-rom <supplied-S1> --s2-rom <supplied-S2> --s3k-rom <supplied-S3K>",
+    "python3 assemble_promo.py --root . --out stageplay-promo.mp4",
+    "python3 verify_media.py"
+  ],
+  "executionNote": "Actual compile/timeline/simulate/render invoked the same production StageplayTool main directly from the copied artifact under the shared build-activity lease, so the engine smoke run could retain its worktree build lock. Java25; desktop display variables removed; native access enabled; AWT headless and surfaceless EGL. No interactive Engine/menu navigation.",
+  "review": {
+    "fullDecode": true,
+    "sourceAudioSamplesPerChannel": 2448000,
+    "halfSecondSourceSamples": 102,
+    "allSixTransitionsReviewed": true,
+    "openingAndClosingTypeReviewed": true,
+    "puppetEditorImagesReviewed": [
+      "physics-720p.png",
+      "physics-actions.png",
+      "physics-goal-form.png"
+    ],
+    "browserPlayback": [
+      {
+        "file": "stageplay-promo.mp4",
+        "ended": true,
+        "seconds": 51,
+        "rate": 1,
+        "totalVideoFrames": 3064,
+        "droppedVideoFrames": 0,
+        "note": "Counter includes frames presented during metadata/preplay setup; encoded source has3060 frames"
+      },
+      {
+        "file": "location-remote.mp4",
+        "ended": true,
+        "seconds": 51,
+        "rate": 1,
+        "totalVideoFrames": 3060,
+        "droppedVideoFrames": 0
+      }
+    ],
+    "observations": [
+      "Native jump arcs and landings remain visible below named dialogue panels.",
+      "Characters approach, brake, turn, retreat and chase; Tails accessories follow the actual native mapping and flips.",
+      "All goals intended to finish in-shot reach ARRIVED; two closing chase goals intentionally exit before arriving.",
+      "All camera zooms remain1. Pans/shake and wipes/fades carry the scene changes.",
+      "Three speaker names are readable from each line opening; text reveals do not obscure the jumping cast."
+    ],
+    "limits": [
+      "Browser playback and sampled motion sequences provide bounded visual review, not user approval.",
+      "Audio decoded and metered; physical listening is not claimed.",
+      "Static terrain only: no live object AI, moving platforms, water/zone events, automatic navigation or native cross-game loads.",
+      "The external editor was checked offscreen; native window focus/HiDPI remain untested."
+    ]
+  },
+  "retainedTrials": [
+    {
+      "take": "take-1",
+      "outcome": "Standalone simulator exposed live S3K landing callback; no film produced"
+    },
+    {
+      "take": "take-2",
+      "outcome": "All frames simulated; scene goal heights corrected from actual terrain, opening/Act2/island framing gives native jumps room"
+    },
+    {
+      "take": "take-3",
+      "outcome": "Final render; no blocked goals"
+    }
+  ],
+  "supersedes": "revision-3 manual Poser motion, rejected by the user for its artificial jump"
+}

@@ -14268,3 +14268,15 @@ stageplay,stageplay/media,revision-3/typography-actual-review/*,actual promo typ
 stageplay,stageplay/media,revision-3/typography-preview-1/*,synthetic typography prototype,543884,7
 stageplay,stageplay/fira-fonts,FiraSansCompressed-HeavyItalic.ttf,external editorial font,559652,1
 stageplay,stageplay/fira-fonts,FiraSans-Medium.ttf,external editorial font,488960,1
+stageplay,stageplay/media,revision-4/take-3/location-remote.mkv,immutable authored source movie,244828482,1
+stageplay,stageplay/media,revision-4/location-remote.mp4,reviewed authored short,17830965,1
+stageplay,stageplay/media,revision-4/stageplay-promo.mp4,reviewed authored promo,8639774,1
+stageplay,stageplay/media,revision-4/take-3/state.jsonl,native Puppet simulation JSONL,5211803,1
+stageplay,stageplay/media,revision-4/take-2/state.jsonl,superseded native Puppet simulation JSONL,5208632,1
+stageplay,stageplay/media,revision-4/take-3/authored.jsonl,authored directing timeline JSONL,5067208,1
+stageplay,stageplay/media,revision-4/engine/OpenGGF-stageplay-puppets.jar,engine build,28515039,1
+stageplay,stageplay/media,revision-4/take-3/decor/*,original creator panel PNGs,348,3
+stageplay,stageplay/media,revision-4/take-3/review/*,authored motion review images,2160404,107
+stageplay,stageplay/media,revision-4/review/*,transition review images,14747403,49
+stageplay,stageplay/media,revision-4/editor-ui/*,actual editor rendering images,241352,3
+stageplay,stageplay/media,revision-4/typography-actual-review/*,actual promo typography review images,5362279,13

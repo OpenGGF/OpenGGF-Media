@@ -184,8 +184,8 @@
   {
     "id": "stageplay",
     "title": "OpenGGF Stageplay original short and directing promo",
-    "notes": "Revision 3: named dialogue, portable typers/skins, active acting and fixed camera zoom. Revision 2 retained as superseded preview.",
-    "source_files": 35,
-    "catalog_entries": 25
+    "notes": "Revision 4: native Puppet destinations and jumps, Poser compatibility, named dialogue and fixed zoom. Revisions 2 and 3 retain rejected motion experiments.",
+    "source_files": 53,
+    "catalog_entries": 37
   }
 ]

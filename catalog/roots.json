@@ -209,7 +209,7 @@
     "id": "stageplay/media",
     "original": "~/scratch/agent-tmp/codex/stageplay-delivery",
     "archive": "projects/stageplay/sources/media",
-    "notes": "Revision 2 is a superseded preview; revision 3 is the reviewed authored dialogue short and continuous promo. Footage, original PNG decorations, UI/motion reviews, bulk authored state and builds remain external."
+    "notes": "Revisions 2 and 3 retain superseded previews. Revision 4 directs native Puppet movement and jumps, with named dialogue and stable zoom. Footage, original PNG decorations, UI/motion reviews, authored and simulated state, and builds remain external."
   },
   {
     "id": "stageplay/font",

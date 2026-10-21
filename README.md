@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**27 production groups · 6,844 preserved source files · approximately 158 GiB of
+**27 production groups · 6,862 preserved source files · approximately 158 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -37,7 +37,7 @@ this repository contains their production sources and location catalog.
 | [Sandopolis earlier work highlights](projects/soz-methodology/) | 609 | 2,120 |
 | [Sonic 3&K Chaos Mode demo and card-gallery revisions](projects/sonic3k-chaos-mode/) | 706 | 293 |
 | [Second Strike gameplay reels and AIZ development edit](projects/second-strike/) | 39 | 18 |
-| [OpenGGF Stageplay original short and directing promo](projects/stageplay/) | 35 | 25 |
+| [OpenGGF Stageplay original short and directing promo](projects/stageplay/) | 53 | 37 |
 | [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
 
 The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later

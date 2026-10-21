@@ -1,6 +1,47 @@
 # OpenGGF Stageplay
 
-## Location, Location, Location — dialogue revision, 2026-10-21
+## Location, Location, Location — Puppet revision, 2026-10-21
+
+Revision four uses native player physics for all three roles: floor support,
+destination/urgency commands, acceleration, jump holds, collision and landing.
+The 51-second story keeps its named dialogue, three typing styles and decorated
+speaker panels, with fixed zoom and camera pans, shake, wipes and fades. Both
+editors also retain **Poser** mode for manual position, animation and frame selection.
+
+- [Production notes and rebuild](sources/media/revision-4/README.md)
+- [Screenplay](sources/media/revision-4/take-3/location-remote.screenplay.json)
+  and [compiled scene](sources/media/revision-4/take-3/location-remote.stageplay)
+- [Screenplay/panel generator](sources/media/revision-4/direct_remote.py)
+  and [compile, simulate and capture driver](sources/media/revision-4/capture.py)
+- [Promo compositor](sources/media/revision-4/assemble_promo.py),
+  [edit list](sources/media/revision-4/edl.json) and
+  [chapters](sources/media/revision-4/chapters.json)
+- [Native simulation observations and review](sources/media/revision-4/provenance.json),
+  [decoded media checks](sources/media/revision-4/decoded-media-checks.json) and
+  [external asset hashes](sources/media/revision-4/external-assets.json)
+
+All 3,060 native simulation frames resolve without blocked goals. Four jumps land
+through the native controller; the two final chase goals intentionally leave the
+frame before arrival. Agent review covered half-second motion samples, all six
+transitions, named dialogue, tails and title entrances/exits. Both MP4s decoded in
+full and browser playback reached 51 seconds at rate one with zero reported dropped
+frames. Audio was decoded and metered; physical listening and user creative approval
+are not claimed.
+
+This is authored performance against detached terrain. It does not run live objects,
+moving platforms, water/zone events, automatic navigation or native cross-game loads.
+Authored timeline JSONL and actual Puppet simulation JSONL remain distinct; neither
+certifies full-world gameplay or ROM parity. The first two revision-four input takes
+are retained with their outcomes in provenance; take three is the final render.
+
+External outputs: `revision-4/location-remote.mp4` (1200×672) and
+`revision-4/stageplay-promo.mp4` (1600×900) under `stageplay/media` below.
+The lossless 400×224 source and all production dependencies remain external.
+
+## Superseded dialogue revision, 2026-10-21
+
+The user rejected revision three's hand-keyed jump. Its retained review establishes
+decoding and presentation checks, not acceptance of that motion.
 
 Revision three is a 51-second original Stageplay short: Tails' location remote
 interrupts Sonic's shortcut and Knuckles' quiet afternoon. Seven continuous shots
@@ -75,4 +116,4 @@ the external DejaVu Sans label font. Use a fresh writable copy when rebuilding.
 
 See the [archive policy](../../docs/archive-policy.md) and
 [rebuilding guidance](../../docs/rebuilding.md). Earlier exploratory Stageplay
-materials outside revisions two and three were not imported by this production snapshot.
+materials outside the retained numbered revisions were not imported by this production snapshot.
