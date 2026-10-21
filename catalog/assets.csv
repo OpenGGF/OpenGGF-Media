@@ -14243,3 +14243,28 @@ second-strike,second-strike/aiz-native-entry-r7,cold-campaign.mkv,immutable sour
 second-strike,second-strike/aiz-native-entry-r7,state.csv,bulk state CSV,2981414,1
 second-strike,second-strike/host-font,DejaVuSans.ttf,external caption font,759720,1
 second-strike,second-strike/aiz-campaign-production,render-r5/second-strike-aiz-development.mp4,reviewed development reel,106628242,1
+stageplay,stageplay/media,revision-2/take-1/location-remote.mkv,video,215476690,1
+stageplay,stageplay/media,revision-2/take-2/location-remote.mkv,video,215073036,1
+stageplay,stageplay/media,revision-2/location-remote.mp4,video,29967339,1
+stageplay,stageplay/media,revision-2/stageplay-promo.mp4,video,28008139,1
+stageplay,stageplay/media,revision-2/take-2/state.jsonl,authored-state,2614059,1
+stageplay,stageplay/media,revision-2/builds/OpenGGF-0.7.prerelease-jar-with-dependencies.jar,engine-build,28417725,1
+stageplay,stageplay/font,DejaVuSans.ttf,font,759720,1
+stageplay,stageplay/media,revision-2/take-1/review/*.png,review-images,247916,9
+stageplay,stageplay/media,revision-2/take-2/review/*.png,review-images,222659,8
+stageplay,stageplay/media,revision-2/review/*.png,review-images,27340226,50
+stageplay,stageplay/media,revision-2/editor-ui/*.png,review-images,244344,3
+stageplay,stageplay/media,revision-3/take-1/location-remote.mkv,immutable authored source movie,252908553,1
+stageplay,stageplay/media,revision-3/location-remote.mp4,reviewed authored short,18253619,1
+stageplay,stageplay/media,revision-3/stageplay-promo.mp4,reviewed authored promo,8846423,1
+stageplay,stageplay/media,revision-3/edit-1-unmastered/stageplay-promo.mp4,retained quieter audio draft,8829867,1
+stageplay,stageplay/media,revision-3/take-1/state.jsonl,authored evaluator timeline JSONL,3240676,1
+stageplay,stageplay/media,revision-3/builds/OpenGGF-0.7.prerelease-jar-with-dependencies.jar,engine build,28457924,1
+stageplay,stageplay/media,revision-3/take-1/decor/*,original creator panel PNGs,348,3
+stageplay,stageplay/media,revision-3/take-1/review/*,authored motion review images,2390194,107
+stageplay,stageplay/media,revision-3/review/*,transition review images,15070829,49
+stageplay,stageplay/media,revision-3/editor-ui/*,actual editor rendering images,974542,13
+stageplay,stageplay/media,revision-3/typography-actual-review/*,actual promo typography review images,5628233,15
+stageplay,stageplay/media,revision-3/typography-preview-1/*,synthetic typography prototype,543884,7
+stageplay,stageplay/fira-fonts,FiraSansCompressed-HeavyItalic.ttf,external editorial font,559652,1
+stageplay,stageplay/fira-fonts,FiraSans-Medium.ttf,external editorial font,488960,1

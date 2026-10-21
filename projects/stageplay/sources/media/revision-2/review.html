@@ -1,0 +1,8 @@
+<!doctype html><html><meta charset="utf-8"><title>Stageplay moving review</title>
+<style>body{margin:0;background:#101827;color:white;font:16px system-ui}video{width:min(100%,1280px);image-rendering:pixelated}button{padding:8px;margin:5px}#status{white-space:pre-wrap}</style>
+<video id="film" controls muted preload="auto" src="stageplay-promo.mp4"></video>
+<div><button onclick="film.src='stageplay-promo.mp4';film.load()">Promo</button><button onclick="film.src='location-remote.mp4';film.load()">Full short</button></div><pre id="status"></pre>
+<script>
+let frames=[];function observe(now,meta){frames.push({time:meta.mediaTime,frames:meta.presentedFrames});document.getElementById('status').textContent=JSON.stringify({time:film.currentTime,decoded:frames.length,quality:film.getVideoPlaybackQuality()},null,2);film.requestVideoFrameCallback(observe)}film.requestVideoFrameCallback(observe);
+window.reviewFrames=frames;
+</script></html>

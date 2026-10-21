@@ -1,0 +1,117 @@
+{
+  "frames": 3060,
+  "motion": [
+    {
+      "title": "One button",
+      "frames": 480,
+      "changedFrames": 239,
+      "maxMeanDelta": 20.554189814814816
+    },
+    {
+      "title": "Three steps",
+      "frames": 360,
+      "changedFrames": 189,
+      "maxMeanDelta": 31.808125
+    },
+    {
+      "title": "Act two",
+      "frames": 420,
+      "changedFrames": 252,
+      "maxMeanDelta": 47.98865740740741
+    },
+    {
+      "title": "Wrong decade",
+      "frames": 480,
+      "changedFrames": 301,
+      "maxMeanDelta": 47.372268518518524
+    },
+    {
+      "title": "A quiet afternoon",
+      "frames": 600,
+      "changedFrames": 380,
+      "maxMeanDelta": 32.56384259259259
+    },
+    {
+      "title": "Perfectly reliable",
+      "frames": 420,
+      "changedFrames": 216,
+      "maxMeanDelta": 26.14638888888889
+    },
+    {
+      "title": "Mostly",
+      "frames": 300,
+      "changedFrames": 219,
+      "maxMeanDelta": 33.46428240740741
+    }
+  ],
+  "audioPeak": 0.7580751776695251,
+  "audioRms": 0.10510104546517214,
+  "audioSamplesPerChannel": 2448000,
+  "losslessSourceAudioSamplesPerChannel": 2448000,
+  "fullDecodes": [
+    "take-1/location-remote.mkv",
+    "location-remote.mp4",
+    "stageplay-promo.mp4"
+  ],
+  "limits": "Prior visual evidence is reused by exact video-stream identity; mastered promo full decode and decoded audio metering are fresh. Sample peak/RMS do not measure LUFS or oversampled true peak, dramatic quality or native gameplay.",
+  "audioRmsDbfs": -19.567859278389093,
+  "audioClippedSamples": 0,
+  "audioGainDb": 10.0,
+  "lineage": {
+    "priorChecks": "edit-1-unmastered/decoded-media-checks.json",
+    "priorChecksSha256": "b1667c441374013ff6bfa148c40b18869898a9981881e4cdddc8110d57533b4f",
+    "inheritedFields": [
+      "frames",
+      "motion",
+      "losslessSourceAudioSamplesPerChannel"
+    ],
+    "visualEvidence": "Prior frame/motion review reused because extracted compressed video streams have identical SHA256; no repeated frame extraction or visual review.",
+    "videoStreamSha256": "8d226911371f3773b4a5931b45ab680ebc8586c7bd16523ad2fe6c136526e5d4",
+    "videoHashCommands": [
+      [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "edit-1-unmastered/stageplay-promo.mp4",
+        "-map",
+        "0:v:0",
+        "-c:v",
+        "copy",
+        "-f",
+        "hash",
+        "-hash",
+        "sha256",
+        "-"
+      ],
+      [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "stageplay-promo.mp4",
+        "-map",
+        "0:v:0",
+        "-c:v",
+        "copy",
+        "-f",
+        "hash",
+        "-hash",
+        "sha256",
+        "-"
+      ]
+    ],
+    "unmasteredPromoSha256": "155aa12e4ae8ed5713aeffe3fd938cd628fe309da01162f5ca57c5893ece8df2",
+    "masteredPromoSha256": "a2e17c61fd5e5c647071fe1c790021980d879bf404c0a91769fb3f5bac7d423b",
+    "unchangedSourceAndFullShort": {
+      "take-1/location-remote.mkv": "168b5c7a40f83f81d7456dc8b4d97ce9e72d00ae7d0cc75e2b5ac3c61c9bae33",
+      "location-remote.mp4": "4d90c295cb2abda1c797016505504a5b599413ce4b45627e293fa5121fef3fe0"
+    },
+    "fullDecodeEvidence": {
+      "take-1/location-remote.mkv": "Inherited from prior checks; whole-file SHA256 unchanged",
+      "location-remote.mp4": "Inherited from prior checks; whole-file SHA256 unchanged",
+      "stageplay-promo.mp4": "Fresh full decode passed in assemble_promo.py before publication"
+    },
+    "newAudioEvidence": "Fresh AAC-to-float32 measurement in stageplay-promo.assembly.json; no LUFS or oversampled true-peak claim"
+  }
+}

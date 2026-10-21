@@ -1,0 +1,57 @@
+{
+  "frames": 3060,
+  "motion": [
+    {
+      "title": "One button",
+      "frames": 480,
+      "changedFrames": 239,
+      "maxMeanDelta": 20.554189814814816
+    },
+    {
+      "title": "Three steps",
+      "frames": 360,
+      "changedFrames": 189,
+      "maxMeanDelta": 31.808125
+    },
+    {
+      "title": "Act two",
+      "frames": 420,
+      "changedFrames": 252,
+      "maxMeanDelta": 47.98865740740741
+    },
+    {
+      "title": "Wrong decade",
+      "frames": 480,
+      "changedFrames": 301,
+      "maxMeanDelta": 47.372268518518524
+    },
+    {
+      "title": "A quiet afternoon",
+      "frames": 600,
+      "changedFrames": 380,
+      "maxMeanDelta": 32.56384259259259
+    },
+    {
+      "title": "Perfectly reliable",
+      "frames": 420,
+      "changedFrames": 216,
+      "maxMeanDelta": 26.14638888888889
+    },
+    {
+      "title": "Mostly",
+      "frames": 300,
+      "changedFrames": 219,
+      "maxMeanDelta": 33.46428240740741
+    }
+  ],
+  "audioPeak": 0.2399897277355194,
+  "audioRms": 0.033240187581567084,
+  "audioSamplesPerChannel": 2448000,
+  "losslessSourceAudioSamplesPerChannel": 2448000,
+  "fullDecodes": [
+    "take-1/location-remote.mkv",
+    "location-remote.mp4",
+    "stageplay-promo.mp4"
+  ],
+  "limits": "Decode, cadence and motion summaries supplement full playback-speed visual review; they do not establish dramatic quality or native gameplay."
+}

@@ -1,0 +1,132 @@
+{
+  "output": "stageplay-promo.mp4",
+  "frames": 3060,
+  "seconds": 51.0,
+  "width": 1600,
+  "height": 900,
+  "chapters": 7,
+  "fullDecode": "passed",
+  "visualReview": "pending; codec checks do not establish dramatic quality",
+  "source": {
+    "path": "take-1/location-remote.mkv",
+    "sha256": "168b5c7a40f83f81d7456dc8b4d97ce9e72d00ae7d0cc75e2b5ac3c61c9bae33",
+    "kind": "Stageplay authored performance"
+  },
+  "presentation": {
+    "integerScale": 4,
+    "sourceOffset": [
+      0,
+      2
+    ],
+    "sourceFrames": "all, unchanged order and speed",
+    "audio": "continuous authored ROM score/effects; AAC encode, no added bed or chapter fades",
+    "cards": [
+      {
+        "id": "opening",
+        "start": 8,
+        "end": 88,
+        "enter": 14,
+        "leave": 8,
+        "y": 710,
+        "text": "ONE BUTTON."
+      },
+      {
+        "id": "closing",
+        "start": 2916,
+        "end": 3060,
+        "enter": 16,
+        "leave": 0,
+        "y": 710,
+        "text": "MAKE A SCENE."
+      }
+    ]
+  },
+  "fonts": [
+    {
+      "path": "/usr/share/fonts/TTF/FiraSansCompressed-HeavyItalic.ttf",
+      "sha256": "d90978e735829bcb5218e221f4371c54ba3192b166c872a1f1e213fc74916fb1"
+    },
+    {
+      "path": "/usr/share/fonts/TTF/FiraSans-Medium.ttf",
+      "sha256": "7e7acee3fda79ae2cc3ec899f14f7a5b9e988b27a88f31a81a8ad4cb870b8987"
+    }
+  ],
+  "sourceFiles": {
+    "edl.json": "3766cdbab1f4ea9c07242b52d1dad7334625a99ab2258963eb9ea96f401e7ae2",
+    "assemble_promo.py": "ccfe1b6364ca3eb5ef582c20bbffeb3b207474261c95e406ea498ef38fc62caa",
+    "take-1/location-remote.screenplay.json": "6dd3ff8533548f5c601cae14798a1ca473ab9cf7b0551d827795dc4c2e82ec29",
+    "take-1/location-remote.stageplay": "7567589b6d4c62c3987b36b87cc28a4fa907865a1d2ae785d02d189cd19a151b"
+  },
+  "outputSha256": "155aa12e4ae8ed5713aeffe3fd938cd628fe309da01162f5ca57c5893ece8df2",
+  "pillowVersion": "12.3.0",
+  "ffmpegVersion": "ffmpeg version n9.0.2 Copyright (c) 2000-2026 the FFmpeg developers",
+  "encodeCommand": [
+    "ffmpeg",
+    "-v",
+    "error",
+    "-n",
+    "-i",
+    "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-3/take-1/location-remote.mkv",
+    "-loop",
+    "1",
+    "-framerate",
+    "60",
+    "-i",
+    "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-3/.stageplay-edit-byhy1r_f/opening.png",
+    "-loop",
+    "1",
+    "-framerate",
+    "60",
+    "-i",
+    "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-3/.stageplay-edit-byhy1r_f/closing.png",
+    "-f",
+    "ffmetadata",
+    "-i",
+    "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-3/.stageplay-edit-byhy1r_f/chapters.ffmeta",
+    "-filter_complex_threads",
+    "1",
+    "-filter_complex",
+    "[0:v]trim=end_frame=3060,setpts=PTS-STARTPTS+0/60/TB,scale=1600:896:flags=neighbor,pad=1600:900:0:2:color=0x080C14,setsar=1[base];\n[1:v]format=rgba,trim=end_frame=80,setpts=PTS-STARTPTS,fade=t=in:st=0:d=0.233333333:alpha=1,fade=t=out:st=1.200000000:d=0.133333333:alpha=1,setpts=PTS+8/60/TB[card1];\n[base][card1]overlay=x=0:y='710+28*pow(max(0,1-(t-8/60)/(14/60)),3)':eof_action=pass:repeatlast=0:enable='gte(t,8/60)*lt(t,88/60)'[layer1];\n[2:v]format=rgba,trim=end_frame=144,setpts=PTS-STARTPTS,fade=t=in:st=0:d=0.266666667:alpha=1,setpts=PTS+2916/60/TB[card2];\n[layer1][card2]overlay=x=0:y='710+28*pow(max(0,1-(t-2916/60)/(16/60)),3)':eof_action=pass:repeatlast=0:enable='gte(t,2916/60)*lt(t,3060/60)'[layer2];\n[layer2]setpts=PTS-STARTPTS,format=yuv420p[v]",
+    "-map",
+    "[v]",
+    "-map",
+    "0:a:0",
+    "-map_metadata",
+    "3",
+    "-map_chapters",
+    "3",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "192k",
+    "-af",
+    "atrim=end_sample=2448000,asetpts=PTS-STARTPTS",
+    "-frames:v",
+    "3060",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "slow",
+    "-crf",
+    "18",
+    "-threads",
+    "4",
+    "-pix_fmt",
+    "yuv420p",
+    "-movflags",
+    "+faststart",
+    "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-3/.stageplay-edit-byhy1r_f/promo.mp4"
+  ],
+  "rebuildCommand": [
+    "python3",
+    "assemble_promo.py",
+    "--root",
+    "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-3",
+    "--out",
+    "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-3/stageplay-promo.mp4",
+    "--font",
+    "/usr/share/fonts/TTF/FiraSansCompressed-HeavyItalic.ttf",
+    "--kicker-font",
+    "/usr/share/fonts/TTF/FiraSans-Medium.ttf"
+  ]
+}
