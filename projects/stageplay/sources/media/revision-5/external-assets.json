@@ -1,0 +1,284 @@
+{
+  "root": "stageplay/media/revision-5",
+  "files": [
+    {
+      "path": "editor-ui/live-actions.png",
+      "bytes": 56899,
+      "sha256": "8fd8eb067e1f9ae29576cc6f9ae0abf7bf3356bf69a9f0a72b5ff889bbea0bf6",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "editor-ui/live-air-traffic.png",
+      "bytes": 179745,
+      "sha256": "39804b7f6f52b6bb6ee6193919acefff271361a91bcff677a724965ccc71a7f0",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "editor-ui/live-camera-follow.png",
+      "bytes": 55470,
+      "sha256": "235c3d6bd5cd66cd846e2360b6dab36bc4718157a3b66216100d09301d166338",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "engine/OpenGGF-stageplay-live-bd4feec.jar",
+      "bytes": 28583888,
+      "sha256": "edd20369e03ed44ae725cbeb06b93351d6d4cfcc1a8c92ffba0ffc824a9bd6d8",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "layout-review/closing-composite.png",
+      "bytes": 122566,
+      "sha256": "3a79ab3cf6279077af0194def3eef2bcc1f9b53ebeda62f4d891a8073be35c1a",
+      "state": "superseded"
+    },
+    {
+      "path": "layout-review/closing-source.png",
+      "bytes": 35940,
+      "sha256": "2a0a6abb256d3537a318fd8d4756db6bd2b0bf5a96e7c302f465064f717706ac",
+      "state": "superseded"
+    },
+    {
+      "path": "layout-review/closing.png",
+      "bytes": 54031,
+      "sha256": "8609073f55d27252ebdbdbc19c11caeefb9769a9ff57ecdca96d8e854a301a4e",
+      "state": "superseded"
+    },
+    {
+      "path": "layout-review/opening-composite.png",
+      "bytes": 61980,
+      "sha256": "f55947848963900711dd074857090fee3edd920a7ea19786f22c0a599ff0f327",
+      "state": "superseded"
+    },
+    {
+      "path": "layout-review/opening-source.png",
+      "bytes": 21754,
+      "sha256": "5fae3859d2fea8b2be2718e12984de1f8fd749615f9eb2894b4953a93e4a83a8",
+      "state": "superseded"
+    },
+    {
+      "path": "layout-review/opening.png",
+      "bytes": 33098,
+      "sha256": "450d285c97dd29760c19a356702c62c748234589e8542f64ff32897f7317c3af",
+      "state": "superseded"
+    },
+    {
+      "path": "live-air-traffic-final.jsonl",
+      "bytes": 5374236,
+      "sha256": "9d45d363519f4e962bf773fcc7ac6a9df5169ebe31b9c45b899261a2aaebfd8d",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-air-traffic-qa.png",
+      "bytes": 76566,
+      "sha256": "760068d3fb0e3fd989b29931565aff4822d1e3ae6fb42d646ead25bac2a7de1c",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-air-traffic-review.mkv",
+      "bytes": 66341365,
+      "sha256": "eef1f1bf1064f6f51fefc2d66a9d156cb7957f5f2d14bb8e1f29e36268c1b47c",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-air-traffic-review.mp4",
+      "bytes": 1568036,
+      "sha256": "fb63bd480eb807199130757c3ff2ce3df69d311bf5e1507c797e23b4be62b8aa",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-platform-relay-final.jsonl",
+      "bytes": 9146047,
+      "sha256": "bd9770ca1291211498fa0c13c0b2c74847f0aa612a28e69bbd4b0776846a5309",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-platform-relay-qa.png",
+      "bytes": 65431,
+      "sha256": "266d4e68748017951cd8c01fbb83ee3845bb845b035ffefdc34a1c9e4bf4af37",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-platform-relay-review.mkv",
+      "bytes": 26216428,
+      "sha256": "76a8555b125be191c74005672e2a55780a3cd1d34ab20d4ff112705c0b086564",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-platform-relay-review.mp4",
+      "bytes": 1155848,
+      "sha256": "42259f4bfeb19eda399e57b6405362600d1877df732d041e3c6a45bffe037381",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-ring-run-final.jsonl",
+      "bytes": 6145054,
+      "sha256": "0e8af9ef9ed709f1be274053e8ac1ead6c58df8a23aa26d54b8b422839b4def4",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-ring-run-qa.png",
+      "bytes": 97933,
+      "sha256": "f378cdf9b3066439e73a50fa75449a449272c7b12837b859a2b4a6cd9fcfd909",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-ring-run-review.mkv",
+      "bytes": 26266397,
+      "sha256": "574e20f15d220ffd75fd52a3b27f7d49dda0f1ce592b05f5560a261a9b73ac04",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "live-ring-run-review.mp4",
+      "bytes": 1196591,
+      "sha256": "87d73fb157addc7ee22ddad58250aee86651570a9ba93376625b9469e1acb6b7",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "one-more-take-final.jsonl",
+      "bytes": 58493561,
+      "sha256": "417c49a31bd729e4de0bd0b53992d8953cabeeacaa53f7da6c28295cca50f18a",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "one-more-take-qa.png",
+      "bytes": 433266,
+      "sha256": "a0dc1093df6df6ebfeac5b5bcb08828002fc5d902acf691e2b92665c5a7f43fd",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "one-more-take-review.mkv",
+      "bytes": 325332731,
+      "sha256": "6b160dbe6093c3df8744849ffdbc6e12505de56cfef1fa4466708193f82ec6ca",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "one-more-take-review.mp4",
+      "bytes": 10548623,
+      "sha256": "dc54bbbb925c97852f1445648aa692f661448f24e252cfa5bb18e937945789f4",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "stageplay-live-promo.mp4",
+      "bytes": 12236003,
+      "sha256": "7cd0cff95708446b1760f2b74dcc9bf37d1792b087b5f7284bcd2e9fe6369b6a",
+      "state": "retained corrected take"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-air-traffic-final.jsonl",
+      "bytes": 5374139,
+      "sha256": "5f9d0d731d275b5074641e8f4e25d432298197ad505391c84303cbb9246751ce",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-air-traffic-qa.png",
+      "bytes": 85416,
+      "sha256": "654a3979912a7c4c6499b9e676cb218fdfd8aa5a4eed65f9c10b80d80d57e9a8",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-air-traffic-review.mkv",
+      "bytes": 66745898,
+      "sha256": "19e724d84d0d482896b5dd7c1a026ee590f93d668af29be12558c75aa185cc09",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-air-traffic-review.mp4",
+      "bytes": 2205328,
+      "sha256": "71f8003cb1e6689ca7cfe9923b2fd4d51691dd170c255ad1c19aa618660b9d86",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-platform-relay-final.jsonl",
+      "bytes": 9145947,
+      "sha256": "d1fa4bd8a31066ca52b80b4baf2f34f6023d08bf10e796a8c5ef335de65e1184",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-platform-relay-qa.png",
+      "bytes": 70877,
+      "sha256": "8c7f92dda85ad358bebf8fb80fd5b708ee7e4da30be51c82ee4bb6402f66b84d",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-platform-relay-review.mkv",
+      "bytes": 27567738,
+      "sha256": "d33237672507554cb899095d617534acfdd62b618ec66d86f401438552d67b62",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-platform-relay-review.mp4",
+      "bytes": 1386807,
+      "sha256": "879c61912504f6a73826a35e353480ff5adb797fd458f5752ce14acf78adff35",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-ring-run-final.jsonl",
+      "bytes": 6144954,
+      "sha256": "f4afc6db8e4cfb1f24a214327dc9cf73fb1f97da9d908979e6b48804445cd17e",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-ring-run-qa.png",
+      "bytes": 103918,
+      "sha256": "c45f2ea8dc3df97f9974017c4be6e6f44c4ff90813b17f4a1717045ca1889dad",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-ring-run-review.mkv",
+      "bytes": 26332080,
+      "sha256": "a63a7a7cb1ab29c0c38639d9f8489fa16399758d29122c13df39f4f84fac0ac0",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/live-ring-run-review.mp4",
+      "bytes": 1418928,
+      "sha256": "11f472da6b6139de8cf6c641894ffb521f45fd3d2ad0b34ff34d22e83c60e1df",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/one-more-take-final.jsonl",
+      "bytes": 58493047,
+      "sha256": "902baa13816c5394153ba7f0889b198a36a80c35aa26d981b0d6a861e6f7d793",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/one-more-take-qa.png",
+      "bytes": 419969,
+      "sha256": "74ac10697ded99afc1b47e1dc718828f8f52a4efc4ad3e61a789d85892e5f3e3",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/one-more-take-review.mkv",
+      "bytes": 332569830,
+      "sha256": "0c19424a3d7d0765b7f4ab7c1983a8a1a86df8ac59f99547dba200770a83aaa0",
+      "state": "superseded"
+    },
+    {
+      "path": "superseded-before-bd4feec/one-more-take-review.mp4",
+      "bytes": 13141860,
+      "sha256": "67d54f2c6fb3b8147afbece9a3e4d3f10380f3de268224027553d93fbefab816",
+      "state": "superseded"
+    }
+  ],
+  "fonts": [
+    {
+      "path": "/usr/share/fonts/TTF/FiraSansCompressed-HeavyItalic.ttf",
+      "bytes": 559652,
+      "sha256": "d90978e735829bcb5218e221f4371c54ba3192b166c872a1f1e213fc74916fb1",
+      "rights": "SIL Open Font License 1.1; original notice remains applicable"
+    },
+    {
+      "path": "/usr/share/fonts/TTF/FiraSans-Medium.ttf",
+      "bytes": 488960,
+      "sha256": "7e7acee3fda79ae2cc3ec899f14f7a5b9e988b27a88f31a81a8ad4cb870b8987",
+      "rights": "SIL Open Font License 1.1; original notice remains applicable"
+    },
+    {
+      "path": "/usr/share/licenses/ttf-fira-sans/OFL.txt",
+      "bytes": 4512,
+      "sha256": "5c29650250730778eccb5475b112d32a8e0c9dd1860d9509693329652bf8e9eb",
+      "rights": "SIL Open Font License 1.1; original notice remains applicable"
+    }
+  ],
+  "limits": "External locations and hashes, not downloads or redistribution grants; no ROM bytes in this archive."
+}

@@ -14268,3 +14268,58 @@ stageplay,stageplay/media,revision-3/typography-actual-review/*,actual promo typ
 stageplay,stageplay/media,revision-3/typography-preview-1/*,synthetic typography prototype,543884,7
 stageplay,stageplay/fira-fonts,FiraSansCompressed-HeavyItalic.ttf,external editorial font,559652,1
 stageplay,stageplay/fira-fonts,FiraSans-Medium.ttf,external editorial font,488960,1
+stageplay,stageplay/media,revision-4/take-3/location-remote.mkv,immutable authored source movie,244828482,1
+stageplay,stageplay/media,revision-4/location-remote.mp4,reviewed authored short,17830965,1
+stageplay,stageplay/media,revision-4/stageplay-promo.mp4,reviewed authored promo,8639774,1
+stageplay,stageplay/media,revision-4/take-3/state.jsonl,native Puppet simulation JSONL,5211803,1
+stageplay,stageplay/media,revision-4/take-2/state.jsonl,superseded native Puppet simulation JSONL,5208632,1
+stageplay,stageplay/media,revision-4/take-3/authored.jsonl,authored directing timeline JSONL,5067208,1
+stageplay,stageplay/media,revision-4/engine/OpenGGF-stageplay-puppets.jar,engine build,28515039,1
+stageplay,stageplay/media,revision-4/take-3/decor/*,original creator panel PNGs,348,3
+stageplay,stageplay/media,revision-4/take-3/review/*,authored motion review images,2160404,107
+stageplay,stageplay/media,revision-4/review/*,transition review images,14747403,49
+stageplay,stageplay/media,revision-4/editor-ui/*,actual editor rendering images,241352,3
+stageplay,stageplay/media,revision-4/typography-actual-review/*,actual promo typography review images,5362279,13
+stageplay,stageplay/media,revision-5/editor-ui/live-actions.png,actual frame or typography review,56899,1
+stageplay,stageplay/media,revision-5/editor-ui/live-air-traffic.png,actual frame or typography review,179745,1
+stageplay,stageplay/media,revision-5/editor-ui/live-camera-follow.png,actual frame or typography review,55470,1
+stageplay,stageplay/media,revision-5/engine/OpenGGF-stageplay-live-bd4feec.jar,engine build,28583888,1
+stageplay,stageplay/media,revision-5/layout-review/closing-composite.png,superseded actual frame or typography review,122566,1
+stageplay,stageplay/media,revision-5/layout-review/closing-source.png,superseded actual frame or typography review,35940,1
+stageplay,stageplay/media,revision-5/layout-review/closing.png,superseded actual frame or typography review,54031,1
+stageplay,stageplay/media,revision-5/layout-review/opening-composite.png,superseded actual frame or typography review,61980,1
+stageplay,stageplay/media,revision-5/layout-review/opening-source.png,superseded actual frame or typography review,21754,1
+stageplay,stageplay/media,revision-5/layout-review/opening.png,superseded actual frame or typography review,33098,1
+stageplay,stageplay/media,revision-5/live-air-traffic-final.jsonl,native LIVE world simulation JSONL,5374236,1
+stageplay,stageplay/media,revision-5/live-air-traffic-qa.png,actual frame or typography review,76566,1
+stageplay,stageplay/media,revision-5/live-air-traffic-review.mkv,authored native world source movie,66341365,1
+stageplay,stageplay/media,revision-5/live-air-traffic-review.mp4,authored native world review or promo,1568036,1
+stageplay,stageplay/media,revision-5/live-platform-relay-final.jsonl,native LIVE world simulation JSONL,9146047,1
+stageplay,stageplay/media,revision-5/live-platform-relay-qa.png,actual frame or typography review,65431,1
+stageplay,stageplay/media,revision-5/live-platform-relay-review.mkv,authored native world source movie,26216428,1
+stageplay,stageplay/media,revision-5/live-platform-relay-review.mp4,authored native world review or promo,1155848,1
+stageplay,stageplay/media,revision-5/live-ring-run-final.jsonl,native LIVE world simulation JSONL,6145054,1
+stageplay,stageplay/media,revision-5/live-ring-run-qa.png,actual frame or typography review,97933,1
+stageplay,stageplay/media,revision-5/live-ring-run-review.mkv,authored native world source movie,26266397,1
+stageplay,stageplay/media,revision-5/live-ring-run-review.mp4,authored native world review or promo,1196591,1
+stageplay,stageplay/media,revision-5/one-more-take-final.jsonl,native LIVE world simulation JSONL,58493561,1
+stageplay,stageplay/media,revision-5/one-more-take-qa.png,actual frame or typography review,433266,1
+stageplay,stageplay/media,revision-5/one-more-take-review.mkv,authored native world source movie,325332731,1
+stageplay,stageplay/media,revision-5/one-more-take-review.mp4,authored native world review or promo,10548623,1
+stageplay,stageplay/media,revision-5/stageplay-live-promo.mp4,authored native world review or promo,12236003,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-air-traffic-final.jsonl,superseded native LIVE world simulation JSONL,5374139,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-air-traffic-qa.png,superseded actual frame or typography review,85416,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-air-traffic-review.mkv,superseded authored native world source movie,66745898,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-air-traffic-review.mp4,superseded authored native world review or promo,2205328,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-platform-relay-final.jsonl,superseded native LIVE world simulation JSONL,9145947,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-platform-relay-qa.png,superseded actual frame or typography review,70877,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-platform-relay-review.mkv,superseded authored native world source movie,27567738,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-platform-relay-review.mp4,superseded authored native world review or promo,1386807,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-ring-run-final.jsonl,superseded native LIVE world simulation JSONL,6144954,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-ring-run-qa.png,superseded actual frame or typography review,103918,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-ring-run-review.mkv,superseded authored native world source movie,26332080,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/live-ring-run-review.mp4,superseded authored native world review or promo,1418928,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/one-more-take-final.jsonl,superseded native LIVE world simulation JSONL,58493047,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/one-more-take-qa.png,superseded actual frame or typography review,419969,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/one-more-take-review.mkv,superseded authored native world source movie,332569830,1
+stageplay,stageplay/media,revision-5/superseded-before-bd4feec/one-more-take-review.mp4,superseded authored native world review or promo,13141860,1

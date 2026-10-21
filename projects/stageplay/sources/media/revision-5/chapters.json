@@ -1,0 +1,27 @@
+[
+  {
+    "startFrame": 0,
+    "endFrame": 960,
+    "title": "Platform relay"
+  },
+  {
+    "startFrame": 960,
+    "endFrame": 1260,
+    "title": "The wrong floor"
+  },
+  {
+    "startFrame": 1260,
+    "endFrame": 2220,
+    "title": "Air traffic"
+  },
+  {
+    "startFrame": 2220,
+    "endFrame": 3060,
+    "title": "One clean take"
+  },
+  {
+    "startFrame": 3060,
+    "endFrame": 3600,
+    "title": "One more run"
+  }
+]

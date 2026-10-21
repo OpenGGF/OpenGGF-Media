@@ -184,8 +184,8 @@
   {
     "id": "stageplay",
     "title": "OpenGGF Stageplay original short and directing promo",
-    "notes": "Revision 3: named dialogue, portable typers/skins, active acting and fixed camera zoom. Revision 2 retained as superseded preview.",
-    "source_files": 35,
-    "catalog_entries": 25
+    "notes": "Revision 5: LIVE moving objects, native abilities, rings/hurt, following camera and One More Take. Earlier terrain-only and rejected motion revisions remain identified.",
+    "source_files": 70,
+    "catalog_entries": 80
   }
 ]

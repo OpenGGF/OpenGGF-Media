@@ -1,0 +1,214 @@
+{
+  "measurements": [
+    {
+      "file": "live-air-traffic-review.mkv",
+      "sha256": "eef1f1bf1064f6f51fefc2d66a9d156cb7957f5f2d14bb8e1f29e36268c1b47c",
+      "frames": 540,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 9.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -27.6,
+      "truePeakDbfs": -14.2,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "live-air-traffic-review.mp4",
+      "sha256": "fb63bd480eb807199130757c3ff2ce3df69d311bf5e1507c797e23b4be62b8aa",
+      "frames": 540,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 9.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -27.6,
+      "truePeakDbfs": -14.0,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "live-platform-relay-review.mkv",
+      "sha256": "76a8555b125be191c74005672e2a55780a3cd1d34ab20d4ff112705c0b086564",
+      "frames": 480,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 8.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -22.5,
+      "truePeakDbfs": -12.0,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "live-platform-relay-review.mp4",
+      "sha256": "42259f4bfeb19eda399e57b6405362600d1877df732d041e3c6a45bffe037381",
+      "frames": 480,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 8.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -22.8,
+      "truePeakDbfs": -11.8,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "live-ring-run-review.mkv",
+      "sha256": "574e20f15d220ffd75fd52a3b27f7d49dda0f1ce592b05f5560a261a9b73ac04",
+      "frames": 240,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 4.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -20.2,
+      "truePeakDbfs": -10.6,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "live-ring-run-review.mp4",
+      "sha256": "87d73fb157addc7ee22ddad58250aee86651570a9ba93376625b9469e1acb6b7",
+      "frames": 240,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 4.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -20.4,
+      "truePeakDbfs": -10.5,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "one-more-take-review.mkv",
+      "sha256": "6b160dbe6093c3df8744849ffdbc6e12505de56cfef1fa4466708193f82ec6ca",
+      "frames": 3600,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 60.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -23.7,
+      "truePeakDbfs": -10.6,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "one-more-take-review.mp4",
+      "sha256": "dc54bbbb925c97852f1445648aa692f661448f24e252cfa5bb18e937945789f4",
+      "frames": 3600,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 60.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -24.0,
+      "truePeakDbfs": -10.8,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "stageplay-live-promo.mp4",
+      "sha256": "7cd0cff95708446b1760f2b74dcc9bf37d1792b087b5f7284bcd2e9fe6369b6a",
+      "frames": 3600,
+      "dimensions": [
+        1280,
+        896
+      ],
+      "duration": 60.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -18.0,
+      "truePeakDbfs": -4.8,
+      "fullDecode": true,
+      "chapters": [
+        {
+          "id": 0,
+          "time_base": "1/48000",
+          "start": 0,
+          "start_time": "0.000000",
+          "end": 768000,
+          "end_time": "16.000000",
+          "tags": {
+            "title": "Platform relay"
+          }
+        },
+        {
+          "id": 1,
+          "time_base": "1/48000",
+          "start": 768000,
+          "start_time": "16.000000",
+          "end": 1008000,
+          "end_time": "21.000000",
+          "tags": {
+            "title": "The wrong floor"
+          }
+        },
+        {
+          "id": 2,
+          "time_base": "1/48000",
+          "start": 1008000,
+          "start_time": "21.000000",
+          "end": 1776000,
+          "end_time": "37.000000",
+          "tags": {
+            "title": "Air traffic"
+          }
+        },
+        {
+          "id": 3,
+          "time_base": "1/48000",
+          "start": 1776000,
+          "start_time": "37.000000",
+          "end": 2448000,
+          "end_time": "51.000000",
+          "tags": {
+            "title": "One clean take"
+          }
+        },
+        {
+          "id": 4,
+          "time_base": "1/48000",
+          "start": 2448000,
+          "start_time": "51.000000",
+          "end": 2880000,
+          "end_time": "60.000000",
+          "tags": {
+            "title": "One more run"
+          }
+        }
+      ]
+    }
+  ],
+  "limits": "Decode/cadence/audio metering; no claim of physical listening or user creative approval."
+}

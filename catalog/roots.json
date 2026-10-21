@@ -209,7 +209,7 @@
     "id": "stageplay/media",
     "original": "~/scratch/agent-tmp/codex/stageplay-delivery",
     "archive": "projects/stageplay/sources/media",
-    "notes": "Revision 2 is a superseded preview; revision 3 is the reviewed authored dialogue short and continuous promo. Footage, original PNG decorations, UI/motion reviews, bulk authored state and builds remain external."
+    "notes": "Revision 5: native LIVE platform transfers, flight/glide, rings/hurt, group camera and One More Take. Revision 4 preserves terrain-only Puppet/Poser directing. Revisions 2 and 3 retain rejected motion experiments. Movies, ROM-derived images/audio, state and builds remain external."
   },
   {
     "id": "stageplay/font",
@@ -221,6 +221,6 @@
     "id": "stageplay/fira-fonts",
     "original": "/usr/share/fonts/TTF",
     "archive": "",
-    "notes": "Fira Sans Compressed Heavy Italic and Fira Sans Medium used by revision-three editorial accents; exact hashes in assembly provenance. External fonts are not redistributed."
+    "notes": "Fira Sans Compressed Heavy Italic and Fira Sans Medium used by revision-three and revision-five editorial accents; exact hashes and SIL OFL notice location in production provenance. External fonts are not redistributed."
   }
 ]
