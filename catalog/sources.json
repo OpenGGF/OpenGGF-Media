@@ -55083,5 +55083,141 @@
     "bytes": 36392,
     "sha256": "f1766dfabb85a9f20dba4dedb8f3820a9f39e7a20b40af13bbc330611e791023",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/README.md",
+    "root": "stageplay/media",
+    "original_path": "revision-6/README.md",
+    "bytes": 6024,
+    "sha256": "8280ff1f1663a522f4b5b77bd5e129d35a334d957ff3ea5bea210ad56c0caff5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/capture.py",
+    "root": "stageplay/media",
+    "original_path": "revision-6/capture.py",
+    "bytes": 2164,
+    "sha256": "190a9c4ecfb713d24f658c690900452a1cb7a307f9e5393d224c48545e18f54f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/assemble_promo.py",
+    "root": "stageplay/media",
+    "original_path": "revision-6/assemble_promo.py",
+    "bytes": 7171,
+    "sha256": "09164cd3f87583989deec881b2129a163c5de9fce6ace9a19f4b41ecd5185236",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/verify_media.py",
+    "root": "stageplay/media",
+    "original_path": "revision-6/verify_media.py",
+    "bytes": 2820,
+    "sha256": "9d4598ae61f196ab8cf1d336d1e2b8168acb1eb61d1ac7a42ee3ca9964404364",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/chapters.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/chapters.json",
+    "bytes": 419,
+    "sha256": "226099141a8dfbeca1298c8b571794601dae74bee7ec2949ad808d87e8df9ddd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/stageplay-live-promo.assembly.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/stageplay-live-promo.assembly.json",
+    "bytes": 1519,
+    "sha256": "ea756e84a42f17e00dfabb6ba072d25fb01bbcff667a69bc363eb2541b7b84ac",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/decoded-media-checks.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/decoded-media-checks.json",
+    "bytes": 5179,
+    "sha256": "0ae7ef930064cb27da00f875086f487d75fd9a914f2494b1f616361cd323f049",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/provenance.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/provenance.json",
+    "bytes": 6931,
+    "sha256": "ce70ed89a8cefd5a387dbfb488dc2503ce6829244d4f2005c0801d60d0b8dcee",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/external-assets.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/external-assets.json",
+    "bytes": 6084,
+    "sha256": "7f1178d3e8c02e3db5b5f6bc09e7352abd74659b8ffd7b1a91b7fb176627d9bd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/scenes/live-platform-relay.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/scenes/live-platform-relay.screenplay.json",
+    "bytes": 6770,
+    "sha256": "8cfd6a062673ab12414fa82137b4e03a67189da92ffe46e534c12739ee00f643",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/scenes/live-platform-relay.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-6/scenes/live-platform-relay.stageplay",
+    "bytes": 6402,
+    "sha256": "b244ff85f5f05623996173ae49b0e56cab7bc4aa3fd06012bf632fd1da62a686",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/scenes/live-air-traffic.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/scenes/live-air-traffic.screenplay.json",
+    "bytes": 4278,
+    "sha256": "daef7ff74da5e78ed27d5581d88f43d0e3ad70966e68fc5e650c5bb3bb780bb6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/scenes/live-air-traffic.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-6/scenes/live-air-traffic.stageplay",
+    "bytes": 4834,
+    "sha256": "207b8a780c117bf0f11ccfbb98d049812681a60d51f6d855337360701906567a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/scenes/live-ring-run.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/scenes/live-ring-run.screenplay.json",
+    "bytes": 4610,
+    "sha256": "57c0a74b1650e500663090016007a58a3f8915f0559117b53c2b2998414d9d0c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/scenes/live-ring-run.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-6/scenes/live-ring-run.stageplay",
+    "bytes": 5427,
+    "sha256": "ac77bf85438767ae1f9f14c33baa4f39be39b77a4325897ad788b52fca6366e7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/scenes/one-more-take.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-6/scenes/one-more-take.screenplay.json",
+    "bytes": 33695,
+    "sha256": "0399821fbc500b2c930c64968e1d389a1c648348a6588230289cf026bca9190e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-6/scenes/one-more-take.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-6/scenes/one-more-take.stageplay",
+    "bytes": 36392,
+    "sha256": "f1766dfabb85a9f20dba4dedb8f3820a9f39e7a20b40af13bbc330611e791023",
+    "snapshot": "byte-copy"
   }
 ]

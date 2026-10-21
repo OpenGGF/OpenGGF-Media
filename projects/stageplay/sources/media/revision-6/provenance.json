@@ -1,0 +1,190 @@
+{
+  "state": "Retained camera-corrected take; decode, native-state and bounded visual checks complete",
+  "engineImplementation": "1e5420f10123a20eb4ebb02b97791957eca7ec57",
+  "engineFinal": "efa7875f8c60885dad0458a2cfbe77c0cd49a4de",
+  "editor": "e4596f00b0e7de058791108ed1db429353fd2c17",
+  "nativeRom": {
+    "game": "s3k",
+    "sha1": "cfbf98c36c776677290a872547ac47c53d2761d6"
+  },
+  "form": "Authored Stageplay LIVE performance using native production world; positioned starts and shot resets; not uninterrupted gameplay or ROM parity.",
+  "firstReview": {
+    "source": "Earlier revision-5 provenance",
+    "findings": "Earlier bounded review missed the vertical foreground mismatch. The user identified it; revision-5 provenance remains historical and is qualified by its archive index."
+  },
+  "initialNativeEvidence": {
+    "platform": {
+      "frames": 480,
+      "placements": [
+        179,
+        166,
+        179
+      ],
+      "boarding": [
+        15,
+        16
+      ],
+      "transfer": [
+        171,
+        176
+      ],
+      "return": [
+        368,
+        374
+      ]
+    },
+    "air": {
+      "frames": 540,
+      "tailsFlight": 94,
+      "knucklesGlide": 114,
+      "tailsLanding": 427,
+      "knucklesLanding": 193
+    },
+    "rings": {
+      "frames": 240,
+      "pickups": [
+        14,
+        15
+      ],
+      "hurt": 29,
+      "loss": 30,
+      "lostRingObjects": 31,
+      "recovered": 119,
+      "count": "native shared total, not per-actor sum"
+    },
+    "story": {
+      "frames": 3600,
+      "shots": 5,
+      "deaths": 0,
+      "timeouts": 0,
+      "intentionalOffscreen": "Sonic leaves the picture during the ring-shot camera handoff to Tails (1174\u20131259); the cast otherwise stays in the bounded sampled viewport."
+    }
+  },
+  "limits": [
+    "LIVE native height 224; width 320\u20131920; zoom one",
+    "Same-donor Puppets and native roster/activation-window limits",
+    "Explicit waypoints/jumps/waits, not general pathfinding",
+    "Preview requires configured original whole-image ROM paths",
+    "No physical listening or user creative acceptance claimed",
+    "Background registers, deformation and effects retain the native gameplay camera phase; arbitrary-view background parallax is not recomputed. DEZ intentionally remains stationary."
+  ],
+  "buildArtifacts": [
+    {
+      "path": "engine/OpenGGF-stageplay-live-efa7875f.jar",
+      "bytes": 28585021,
+      "sha256": "2c93d2a1bd3a1d19f63ab4b372e9f964399593260582e2aec1af4125b6f396cb",
+      "engineSource": "efa7875f8c60885dad0458a2cfbe77c0cd49a4de"
+    }
+  ],
+  "editorVerification": {
+    "source": "e4596f00b0e7de058791108ed1db429353fd2c17",
+    "tests": 22,
+    "failures": 0,
+    "errors": 0,
+    "skips": 0,
+    "includes": "22 tests passed, zero failures/errors/skips, including actual offscreen LIVE desktop preview preserving its parent world and save/reopen of targets, waits, follow and inspector state. Corrected preview images retained.",
+    "runtime": "efa7875f8c60885dad0458a2cfbe77c0cd49a4de"
+  },
+  "engineHandoff": "08254a5da545f1ef952f3617ac462cbb82ab5ee9",
+  "finalNativeEvidence": {
+    "samples": 4860,
+    "parsedRecordsEqualToRevision5": true,
+    "rawBytesEqual": false,
+    "difference": "JSON object key order only; every parsed record matches, including native world and authored camera/audio cues."
+  },
+  "testCoverage": "Focused native/runtime and Editor checks are recorded here. Delivery-wide engine smoke and integration are recorded in the engine task plan; this media record does not assert a release/full-suite pass.",
+  "previousRevision": "revision-5; retained with the user-identified camera/scenery defect",
+  "userFeedback": {
+    "quote": "something's wrong with vertical camera movement relative the level",
+    "location": "Ring-spill fall",
+    "cause": "Foreground scroll retained gameplay camera Y while native sprites used director Y.",
+    "correction": "Private cinematic presentation reframes foreground scroll and the priority mask using the same directed origin as native sprites; restores ordinary presentation and published state afterward."
+  },
+  "cameraVerification": {
+    "companionTests": 122,
+    "finalPixelTests": 2,
+    "failures": 0,
+    "errors": 0,
+    "skips": 0,
+    "viewportSamples": 104280,
+    "priorityMaskMismatches": 0,
+    "landingFrame": 239,
+    "floorPixels": 231,
+    "bodyPixels": 201,
+    "views": 6,
+    "includes": [
+      "Ordinary gameplay render is byte-identical after cinematic drawing.",
+      "Camera, parallax and pending/published SAT, scroll and CRAM survive repeated draws and queued-command exception.",
+      "Backward seek and replay reproduce the same actor/terrain frame.",
+      "Creator API signature/pin and architectural source guards pass."
+    ],
+    "nativeArtLimit": "At frame 120, Tails has native floor support on tile 255 but transparent decoded floor art. The regression preserves that native collision/art distinction rather than fabricating terrain."
+  },
+  "finalReview": {
+    "browserPlaybacks": [
+      {
+        "dropped": 0,
+        "duration": 4,
+        "rate": 1,
+        "source": "live-ring-run-review.mp4",
+        "time": 4,
+        "total": 240
+      },
+      {
+        "dropped": 2,
+        "duration": 60,
+        "rate": 1,
+        "source": "stageplay-live-promo.mp4",
+        "time": 60,
+        "total": 3600
+      },
+      {
+        "dropped": 0,
+        "duration": 8,
+        "rate": 1,
+        "source": "live-platform-relay-review.mp4",
+        "time": 8,
+        "total": 480
+      },
+      {
+        "dropped": 0,
+        "duration": 9,
+        "rate": 1,
+        "source": "live-air-traffic-review.mp4",
+        "time": 9,
+        "total": 540
+      }
+    ],
+    "observations": [
+      "Frame-239 ring-fall landing meets the visible foreground floor.",
+      "Platform contacts remain aligned as the director follows the native actors.",
+      "Flight, glide, landing and the final group run remain visible with Tails accessories.",
+      "Five authored shot boundaries and opening/closing titles were inspected; dialogue remains identified and readable."
+    ],
+    "scope": "All four MP4s reached their ends at normal speed. Representative browser snapshots, exact ring contact frames 120/239 and a 16-frame boundary sheet were inspected. Bounded agent observation, not continuous human observation or user creative acceptance.",
+    "playbackLimit": "Browser reported two dropped presentation frames out of 3600 on the promo and zero on all companion clips. Full decoded media contains every expected source frame.",
+    "boundaryFrames": [
+      0,
+      959,
+      960,
+      989,
+      1199,
+      1259,
+      1260,
+      1289,
+      2219,
+      2220,
+      2249,
+      3059,
+      3060,
+      3089,
+      3480,
+      3599
+    ],
+    "audio": {
+      "encodedPromoLufs": -18.0,
+      "encodedPromoTruePeakDbfs": -4.8,
+      "physicalListening": false
+    }
+  }
+}

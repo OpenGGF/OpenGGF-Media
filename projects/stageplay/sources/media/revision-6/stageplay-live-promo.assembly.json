@@ -1,0 +1,62 @@
+{
+  "source": "one-more-take-review.mkv",
+  "sourceSha256": "7d702c7ecf03e84829a60903b9f7cfd89bb5070203a4730a26cc3df894b129ff",
+  "output": "stageplay-live-promo.mp4",
+  "outputSha256": "0b35b3910b5a8395be208171ca24f1969bb152c8c4d76b8376430365a4e4d4a6",
+  "frames": 3600,
+  "fps": 60,
+  "dimensions": [
+    1280,
+    896
+  ],
+  "gainDb": 6,
+  "sourceOrder": "All 3600 frames, no cuts, repeats, retiming or camera effects added",
+  "chapters": [
+    {
+      "startFrame": 0,
+      "endFrame": 960,
+      "title": "Platform relay"
+    },
+    {
+      "startFrame": 960,
+      "endFrame": 1260,
+      "title": "The wrong floor"
+    },
+    {
+      "startFrame": 1260,
+      "endFrame": 2220,
+      "title": "Air traffic"
+    },
+    {
+      "startFrame": 2220,
+      "endFrame": 3060,
+      "title": "One clean take"
+    },
+    {
+      "startFrame": 3060,
+      "endFrame": 3600,
+      "title": "One more run"
+    }
+  ],
+  "cards": [
+    {
+      "startFrame": 12,
+      "endFrame": 210,
+      "enterFrames": 16,
+      "leaveFrames": 12,
+      "name": "opening"
+    },
+    {
+      "startFrame": 3240,
+      "endFrame": 3600,
+      "enterFrames": 20,
+      "leaveFrames": 0,
+      "name": "closing"
+    }
+  ],
+  "fonts": {
+    "FiraSansCompressed-HeavyItalic.ttf": "d90978e735829bcb5218e221f4371c54ba3192b166c872a1f1e213fc74916fb1",
+    "FiraSans-Medium.ttf": "7e7acee3fda79ae2cc3ec899f14f7a5b9e988b27a88f31a81a8ad4cb870b8987"
+  },
+  "assemblyScriptSha256": "09164cd3f87583989deec881b2129a163c5de9fce6ace9a19f4b41ecd5185236"
+}

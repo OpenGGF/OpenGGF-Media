@@ -1,0 +1,170 @@
+{
+  "root": "stageplay/media/revision-6",
+  "files": [
+    {
+      "path": "editor-ui/live-actions.png",
+      "bytes": 56899,
+      "sha256": "8fd8eb067e1f9ae29576cc6f9ae0abf7bf3356bf69a9f0a72b5ff889bbea0bf6",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "editor-ui/live-air-traffic.png",
+      "bytes": 180033,
+      "sha256": "7a4d137875388d08ef415bc015b118680f0eead75115790f03d46a8b3de57768",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "editor-ui/live-camera-follow.png",
+      "bytes": 55470,
+      "sha256": "235c3d6bd5cd66cd846e2360b6dab36bc4718157a3b66216100d09301d166338",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "engine/OpenGGF-stageplay-live-efa7875f.jar",
+      "bytes": 28585021,
+      "sha256": "2c93d2a1bd3a1d19f63ab4b372e9f964399593260582e2aec1af4125b6f396cb",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-air-traffic-final.jsonl",
+      "bytes": 5374236,
+      "sha256": "2c6e1f1b68815f38dd4a6ac65ad1495d7a7bd5a7a82d7f284d086ad6d78ef02b",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-air-traffic-qa.png",
+      "bytes": 69732,
+      "sha256": "1a5528bec4cc3e557e6f4385f7391745b0fd85db327a2e8e651f961aaf93bf80",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-air-traffic-review.mkv",
+      "bytes": 67034920,
+      "sha256": "7e22cf87cc7eddcc1454c68cd16a9a4bec1bc8e88831e1fce414abb20327e117",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-air-traffic-review.mp4",
+      "bytes": 1274361,
+      "sha256": "db2f24ef384306494a060e858230e5e0352c239766f5e6c1b6ce9d6c4b31da43",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-platform-relay-final.jsonl",
+      "bytes": 9146047,
+      "sha256": "1d7f6958737ee29722bb49e7055cf8c58b216112ceb5697a0e066dd7967768f0",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-platform-relay-qa.png",
+      "bytes": 64240,
+      "sha256": "6bcb2e85026ddc8e5b4a56d9458c04dcc0ce25d3e8f36a37537e89ce271fc308",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-platform-relay-review.mkv",
+      "bytes": 24911157,
+      "sha256": "254283a658ca768a17b29ab532414c76de7d55d50427950648ca28812c3a6cba",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-platform-relay-review.mp4",
+      "bytes": 817880,
+      "sha256": "3931f6e7824e28e37e3cba43eef8cd4b919f75cad5292f14920255cb788185eb",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-ring-run-final.jsonl",
+      "bytes": 6145054,
+      "sha256": "2f0dfe193c0b3ebbd221f731f1596efc5716fc40c8f660f601d0beadaae5c053",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-ring-run-qa.png",
+      "bytes": 97376,
+      "sha256": "c8ebd6bd66abd222b38e65c8fbce31371c298771e9ffed85ec0a1cc2906a0963",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-ring-run-review.mkv",
+      "bytes": 26219426,
+      "sha256": "2781faba1c0a19724d13649e9fb072d226c0e0c9c61138b85d40b8c563563245",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "live-ring-run-review.mp4",
+      "bytes": 1286400,
+      "sha256": "353aa287645137a3f22154e4df720132e8a219b074e116bd948bea022766879a",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "one-more-take-final.jsonl",
+      "bytes": 58493561,
+      "sha256": "6dfac7dde896940a1a13e00a5c7e2bb6e494fee538835d325a072d9c57a1c375",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "one-more-take-qa.png",
+      "bytes": 436257,
+      "sha256": "63290e1d66bb914b401c380344d4d3aa3736c9da1069388b5a9be229e8d99f9b",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "one-more-take-review.mkv",
+      "bytes": 321397819,
+      "sha256": "7d702c7ecf03e84829a60903b9f7cfd89bb5070203a4730a26cc3df894b129ff",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "one-more-take-review.mp4",
+      "bytes": 8589015,
+      "sha256": "c44c0d3e3464f16e94943a739a79aa39fed7d25674f12b914444ff540335f75a",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "review-boundaries.png",
+      "bytes": 730631,
+      "sha256": "034d2c824d57016ee0816c7ea913b1ac862a7083f394c4b254b2e8a4833e531b",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "review-contact-01.png",
+      "bytes": 33803,
+      "sha256": "383a5150da034b0a8692fbcbcca3cf508eeae2399503424ffcdf03e5246f9aae",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "review-contact-02.png",
+      "bytes": 29448,
+      "sha256": "cf4998e1215039b80c21959188b7c9ca5b8255320192b34e8ff7bf70d23d1114",
+      "state": "retained camera-corrected take"
+    },
+    {
+      "path": "stageplay-live-promo.mp4",
+      "bytes": 11532472,
+      "sha256": "0b35b3910b5a8395be208171ca24f1969bb152c8c4d76b8376430365a4e4d4a6",
+      "state": "retained camera-corrected take"
+    }
+  ],
+  "fonts": [
+    {
+      "path": "/usr/share/fonts/TTF/FiraSansCompressed-HeavyItalic.ttf",
+      "bytes": 559652,
+      "sha256": "d90978e735829bcb5218e221f4371c54ba3192b166c872a1f1e213fc74916fb1",
+      "rights": "SIL Open Font License 1.1; original notice remains applicable"
+    },
+    {
+      "path": "/usr/share/fonts/TTF/FiraSans-Medium.ttf",
+      "bytes": 488960,
+      "sha256": "7e7acee3fda79ae2cc3ec899f14f7a5b9e988b27a88f31a81a8ad4cb870b8987",
+      "rights": "SIL Open Font License 1.1; original notice remains applicable"
+    },
+    {
+      "path": "/usr/share/licenses/ttf-fira-sans/OFL.txt",
+      "bytes": 4512,
+      "sha256": "5c29650250730778eccb5475b112d32a8e0c9dd1860d9509693329652bf8e9eb",
+      "rights": "SIL Open Font License 1.1; original notice remains applicable"
+    }
+  ],
+  "limits": "External locations and hashes, not downloads or redistribution grants; no ROM bytes in this archive."
+}
