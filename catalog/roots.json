@@ -209,7 +209,7 @@
     "id": "stageplay/media",
     "original": "~/scratch/agent-tmp/codex/stageplay-delivery",
     "archive": "projects/stageplay/sources/media",
-    "notes": "Revision 5: native LIVE platform transfers, flight/glide, rings/hurt, group camera and One More Take. Revision 4 preserves terrain-only Puppet/Poser directing. Revisions 2 and 3 retain rejected motion experiments. Movies, ROM-derived images/audio, state and builds remain external. Revision 5 has a user-identified vertical scenery/camera mismatch in the ring-spill fall; preserve as a flawed take pending correction."
+    "notes": "Revision 6 corrects cinematic camera/scenery alignment. Revision 5 preserves the user-identified ring-spill visual defect. Revision 4 preserves terrain-only Puppet/Poser directing. Revisions 2 and 3 retain rejected motion experiments. Movies, ROM-derived images/audio, state and builds remain external."
   },
   {
     "id": "stageplay/font",

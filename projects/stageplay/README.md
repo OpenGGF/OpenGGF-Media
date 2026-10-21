@@ -1,12 +1,49 @@
 # OpenGGF Stageplay
 
+## One More Take — camera correction, 2026-10-22
+
+Revision six corrects the vertical foreground mismatch the user found in the
+ring-spill fall. Directed sprites, foreground scroll and the priority mask now
+share the same view. The final landing meets the visible floor; all 4,860 native
+state observations match revision five. No movement, physics or screenplay timing
+was changed to hide the rendering error.
+
+- [Production notes and rebuild](sources/media/revision-6/README.md)
+- [Reusable scenes](sources/media/revision-6/scenes/) and
+  [capture driver](sources/media/revision-6/capture.py)
+- [Promo compositor](sources/media/revision-6/assemble_promo.py) and
+  [five-shot chapter map](sources/media/revision-6/chapters.json)
+- [Source and review evidence](sources/media/revision-6/provenance.json),
+  [decoded media checks](sources/media/revision-6/decoded-media-checks.json),
+  [assembly identity](sources/media/revision-6/stageplay-live-promo.assembly.json)
+  and [external asset hashes](sources/media/revision-6/external-assets.json)
+
+The replacement retains the 60-second film and 8/9/4-second companions. All nine
+MKV/MP4 files decoded completely at 60 fps; the promo measures −18.0 LUFS and
+−4.8 dB true peak. Normal-speed browser playback and bounded visual review included
+contact, shot boundaries and the closing group run. The browser reported two
+presentation-frame drops in the promo and none in the companions; source decoding
+contained every expected frame. Physical listening and creative acceptance are not
+claimed. The corrected runtime passed 124 focused checks; the external Editor
+passed 22 checks with no skips against it.
+
+Background deformation and effects retain the native gameplay camera phase;
+arbitrary-view parallax is not recomputed. Death Egg's stationary background is
+intentional. At ring frame 120, Tails' native collision surface has transparent
+floor art; the correction preserves this distinction.
+
+External movies, state, review images and the exact engine package are retained
+under `stageplay/media` at `revision-6/`. The promo is
+`stageplay-live-promo.mp4`; catalog entries identify files, not downloads.
+Revision five remains below as the known flawed predecessor.
+
 ## One More Take — LIVE world revision, 2026-10-21
 
 **Known visual defect, identified by the user on 2026-10-22:** the ring-spill fall
 uses inconsistent vertical camera origins for scenery and native sprites. Grounded
 characters can appear to stand in empty space. Revision five is preserved as the
 reviewed-but-flawed take; its recorded codec and physics checks did not detect this
-rendering defect. A corrected take is in progress. The original provenance below
+rendering defect. Revision six above supplies the corrected take. The original provenance below
 records the earlier review and must be read with this correction.
 
 Revision five directs real level objects and native character abilities. Sonic and

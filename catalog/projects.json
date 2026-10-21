@@ -184,8 +184,8 @@
   {
     "id": "stageplay",
     "title": "OpenGGF Stageplay original short and directing promo",
-    "notes": "Revision 5: LIVE moving objects, native abilities, rings/hurt, following camera and One More Take. Earlier terrain-only and rejected motion revisions remain identified. Revision 5 has a user-identified vertical scenery/camera mismatch in the ring-spill fall; preserve as a flawed take pending correction.",
-    "source_files": 70,
-    "catalog_entries": 80
+    "notes": "Revision 6: corrected cinematic camera/scenery alignment for the LIVE native demonstrations and One More Take. Revision 5 retains the known ring-spill rendering defect. Earlier terrain-only and rejected motion revisions remain identified.",
+    "source_files": 87,
+    "catalog_entries": 104
   }
 ]
