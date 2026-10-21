@@ -2,6 +2,13 @@
 
 ## One More Take — LIVE world revision, 2026-10-21
 
+**Known visual defect, identified by the user on 2026-10-22:** the ring-spill fall
+uses inconsistent vertical camera origins for scenery and native sprites. Grounded
+characters can appear to stand in empty space. Revision five is preserved as the
+reviewed-but-flawed take; its recorded codec and physics checks did not detect this
+rendering defect. A corrected take is in progress. The original provenance below
+records the earlier review and must be read with this correction.
+
 Revision five directs real level objects and native character abilities. Sonic and
 Tails board and trade moving platforms, a ring-run mishap produces native hurt and
 scattered rings, Tails and Knuckles regroup by flight/glide, and the three-character
