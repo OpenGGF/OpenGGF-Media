@@ -209,7 +209,7 @@
     "id": "stageplay/media",
     "original": "~/scratch/agent-tmp/codex/stageplay-delivery",
     "archive": "projects/stageplay/sources/media",
-    "notes": "Revision 6 corrects cinematic camera/scenery alignment. Revision 5 preserves the user-identified ring-spill visual defect. Revision 4 preserves terrain-only Puppet/Poser directing. Revisions 2 and 3 retain rejected motion experiments. Movies, ROM-derived images/audio, state and builds remain external."
+    "notes": "Revision 7 teaches set/cast, native movement, waits, camera and dialogue through Wait for me; movies and state remain external. Revision 6 corrects camera alignment but its story was criticized by the user. Earlier takes are preserved with their limits."
   },
   {
     "id": "stageplay/font",

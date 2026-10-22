@@ -1,0 +1,212 @@
+{
+  "measurements": [
+    {
+      "file": "directing-view.mkv",
+      "sha256": "70c9b028abf9eaaa1de4bb5a455f3057d586c319d8e3fb21be3bd9397c496cce",
+      "frames": 1560,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 26.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -22.7,
+      "truePeakDbfs": -12.0,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "music-bed.mkv",
+      "sha256": "dbdba1d2a1e613eb4758fde4db9a30f41dae8b3a1a2604f622aacd3a4caa3fab",
+      "frames": 5880,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 98.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -27.6,
+      "truePeakDbfs": -14.8,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "stageplay-first-scene-tutorial.mp4",
+      "sha256": "32c90e445e0c40763f088b9b23a65e53f977a05ba03b655689f01b644443f188",
+      "frames": 7440,
+      "dimensions": [
+        1600,
+        1120
+      ],
+      "duration": 124.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -21.7,
+      "truePeakDbfs": -6.0,
+      "fullDecode": true,
+      "chapters": [
+        {
+          "id": 0,
+          "time_base": "1/48000",
+          "start": 0,
+          "start_time": "0.000000",
+          "end": 288000,
+          "end_time": "6.000000",
+          "tags": {
+            "title": "MAKE A SCENE."
+          }
+        },
+        {
+          "id": 1,
+          "time_base": "1/48000",
+          "start": 288000,
+          "start_time": "6.000000",
+          "end": 816000,
+          "end_time": "17.000000",
+          "tags": {
+            "title": "01  GIVE IT A REASON"
+          }
+        },
+        {
+          "id": 2,
+          "time_base": "1/48000",
+          "start": 816000,
+          "start_time": "17.000000",
+          "end": 1392000,
+          "end_time": "29.000000",
+          "tags": {
+            "title": "02  CHOOSE SET + CAST"
+          }
+        },
+        {
+          "id": 3,
+          "time_base": "1/48000",
+          "start": 1392000,
+          "start_time": "29.000000",
+          "end": 1968000,
+          "end_time": "41.000000",
+          "tags": {
+            "title": "03  DIRECT THE MOVEMENT"
+          }
+        },
+        {
+          "id": 4,
+          "time_base": "1/48000",
+          "start": 1968000,
+          "start_time": "41.000000",
+          "end": 2544000,
+          "end_time": "53.000000",
+          "tags": {
+            "title": "04  WAIT FOR THE RESULT"
+          }
+        },
+        {
+          "id": 5,
+          "time_base": "1/48000",
+          "start": 2544000,
+          "start_time": "53.000000",
+          "end": 3120000,
+          "end_time": "65.000000",
+          "tags": {
+            "title": "05  KEEP BOTH IN FRAME"
+          }
+        },
+        {
+          "id": 6,
+          "time_base": "1/48000",
+          "start": 3120000,
+          "start_time": "65.000000",
+          "end": 3696000,
+          "end_time": "77.000000",
+          "tags": {
+            "title": "06  GIVE THEM A VOICE"
+          }
+        },
+        {
+          "id": 7,
+          "time_base": "1/48000",
+          "start": 3696000,
+          "start_time": "77.000000",
+          "end": 4176000,
+          "end_time": "87.000000",
+          "tags": {
+            "title": "07  PREVIEW, THEN SHARE"
+          }
+        },
+        {
+          "id": 8,
+          "time_base": "1/48000",
+          "start": 4176000,
+          "start_time": "87.000000",
+          "end": 4320000,
+          "end_time": "90.000000",
+          "tags": {
+            "title": "WAIT FOR ME"
+          }
+        },
+        {
+          "id": 9,
+          "time_base": "1/48000",
+          "start": 4320000,
+          "start_time": "90.000000",
+          "end": 5568000,
+          "end_time": "116.000000",
+          "tags": {
+            "title": "The finished short"
+          }
+        },
+        {
+          "id": 10,
+          "time_base": "1/48000",
+          "start": 5568000,
+          "start_time": "116.000000",
+          "end": 5952000,
+          "end_time": "124.000000",
+          "tags": {
+            "title": "YOUR TURN TO DIRECT."
+          }
+        }
+      ]
+    },
+    {
+      "file": "wait-for-me.mkv",
+      "sha256": "dc809674d8dbf73dbbc6443e4bd5268fb989ae4ea80b31fe717bc3b325435e38",
+      "frames": 1560,
+      "dimensions": [
+        640,
+        448
+      ],
+      "duration": 26.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -22.7,
+      "truePeakDbfs": -12.0,
+      "fullDecode": true,
+      "chapters": []
+    },
+    {
+      "file": "wait-for-me.mp4",
+      "sha256": "8d1698ab2d39198a25987614f413db7f4173bbbe26ee22a42e831037877ee2a9",
+      "frames": 1560,
+      "dimensions": [
+        1600,
+        1120
+      ],
+      "duration": 26.0,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "audioRate": 48000,
+      "lufs": -17.1,
+      "truePeakDbfs": -5.6,
+      "fullDecode": true,
+      "chapters": []
+    }
+  ],
+  "limits": "Decode/cadence/audio metering; no claim of physical listening or user creative approval."
+}

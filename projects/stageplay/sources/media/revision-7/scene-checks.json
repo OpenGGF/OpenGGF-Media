@@ -1,0 +1,73 @@
+{
+  "frames": 1560,
+  "worldPolicy": "LIVE",
+  "platformChanges": [
+    [
+      0,
+      "sonic",
+      -1
+    ],
+    [
+      0,
+      "tails",
+      -1
+    ],
+    [
+      15,
+      "sonic",
+      179
+    ],
+    [
+      16,
+      "tails",
+      179
+    ],
+    [
+      241,
+      "sonic",
+      -1
+    ],
+    [
+      293,
+      "sonic",
+      166
+    ],
+    [
+      661,
+      "sonic",
+      -1
+    ],
+    [
+      728,
+      "sonic",
+      179
+    ],
+    [
+      1141,
+      "sonic",
+      -1
+    ],
+    [
+      1146,
+      "tails",
+      -1
+    ],
+    [
+      1199,
+      "sonic",
+      166
+    ],
+    [
+      1204,
+      "tails",
+      166
+    ]
+  ],
+  "deaths": 0,
+  "hurt": 0,
+  "waitTimeouts": 0,
+  "actorCentresOutsideSafeArea": 0,
+  "cleanViewMatchesNativeStateEveryFrame": true,
+  "generatorMatchesAllThreeSources": true,
+  "limits": "Authored starting positions and inputs. Native route observation, not general pathfinding, a cold level completion or ROM parity."
+}

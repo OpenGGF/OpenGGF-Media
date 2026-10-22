@@ -1,5 +1,48 @@
 # OpenGGF Stageplay
 
+## Your first scene — tutorial/promo, 2026-10-22
+
+Revision seven is a **124-second tutorial for first-time creators**, ending with
+the complete **26-second Wait for me** short at 01:30. Sonic rushes ahead, leaves
+Tails behind, comes back, then counts them into a crossing together. The lesson
+shows how story purpose, set/cast, movement, landing waits, group framing and
+named dialogue produce that performance. It also provides a clear first step:
+open the supplied portable scene in either Stageplay editor and change one choice.
+
+- [Production notes, audience and rebuild](sources/media/revision-7/README.md)
+- [Editable screenplay](sources/media/revision-7/wait-for-me.screenplay.json)
+  and [portable scene](sources/media/revision-7/wait-for-me.stageplay)
+- [Scene generator](sources/media/revision-7/direct_scene.py),
+  [capture driver](sources/media/revision-7/capture.py) and
+  [tutorial compositor](sources/media/revision-7/assemble_tutorial.py)
+- [Chapters](sources/media/revision-7/chapters.json),
+  [native outcome checks](sources/media/revision-7/scene-checks.json),
+  [decoded-media measurements](sources/media/revision-7/decoded-media-checks.json),
+  [source/review provenance](sources/media/revision-7/provenance.json) and
+  [external asset hashes](sources/media/revision-7/external-assets.json)
+
+The user liked the working Stageplay features but found the previous story
+incoherent and wanted more than characters jumping around. That criticism
+supersedes the creative direction of the earlier One More Take films. Their
+technical results remain bounded evidence, not creative acceptance.
+
+The instructional cards and simplified track diagram use actual scene values;
+they are editorial explanations, not a recording or imitation of editor controls.
+The clean view matches all 1,560 native world/actor/camera samples in the story.
+All intended platform contacts occur without deaths or timed-out waits. Five final
+MKV/MP4 files decode completely. The final tutorial has 7,440 frames at 60 fps,
+11 chapters and stereo audio; normal-speed browser playback reaches the end with
+zero reported dropped frames. Its encoded audio measures −21.7 LUFS / −6.0 dBTP.
+Physical listening and user creative approval are not claimed.
+
+A retained [framing draft](sources/media/revision-7/take-2-framing/README.md) clipped
+the return-jump apex; the final take raises the group framing and clears dialogue
+before takeoff. The sources preserve that correction rather than hiding the draft.
+
+External movies are `revision-7/stageplay-first-scene-tutorial.mp4` and
+`revision-7/wait-for-me.mp4` under `stageplay/media`. These catalog entries identify
+external files; they do not upload videos or make them public downloads.
+
 ## One More Take — camera correction, 2026-10-22
 
 Revision six corrects the vertical foreground mismatch the user found in the

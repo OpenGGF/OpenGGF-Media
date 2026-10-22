@@ -1,0 +1,258 @@
+{
+  "root": "stageplay/media",
+  "production": "revision-7",
+  "assets": [
+    {
+      "path": "cards/00.png",
+      "bytes": 41541,
+      "sha256": "d84d0f5ad0a31ad9fddde13ffeaad2abda3f0b7e7e3ee5a54de95c8b3285c59e",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/01.png",
+      "bytes": 92863,
+      "sha256": "bb548aad5d51f093f3aefb34a16dd037c9c0cb754b5a82d037bf790f41080cc0",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/02.png",
+      "bytes": 93515,
+      "sha256": "f66a751692740427b2ff65d50fa6be0f38032f71055914704d05da97045f7ee2",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/03.png",
+      "bytes": 103892,
+      "sha256": "5816b9dc432db797b0ddc18a459b9cd3a99395a5294eec73c03cb8962e935745",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/04.png",
+      "bytes": 104085,
+      "sha256": "48189199ec337e912808fc5b3e94ceb368d3f7e8ddda238ecd0d9a446df1f290",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/05.png",
+      "bytes": 103498,
+      "sha256": "b1712dec38336ede0ad5ba735b0dc53e4041cea2712684a8809a5f34ef417b8d",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/06.png",
+      "bytes": 105128,
+      "sha256": "3db26c805b352c697075ba804bc21c1833168889794587be8f4dd2375eee4fab",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/07.png",
+      "bytes": 110137,
+      "sha256": "7325d6c14a09e22e1aed71cc079bc05af98479bbbbd1b948dfe7051869005f04",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/08.png",
+      "bytes": 39901,
+      "sha256": "299eee37246851758edbe5fd95f1e72a5e82d26eeda005c044916814ff78c891",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "cards/10.png",
+      "bytes": 88689,
+      "sha256": "9d4e2dcb340638944f7c3daf1ae36e573715fedca3323a93733cf8139382974c",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "directing-view.jsonl",
+      "bytes": 29539608,
+      "sha256": "9fd8d338ccdf74cffb8341dcc90995e1508e108c2dd021531454032206ce9796",
+      "kind": "LIVE native world telemetry"
+    },
+    {
+      "path": "directing-view.mkv",
+      "bytes": 83982806,
+      "sha256": "224f4cd922a45059398c7569365d5cff62b8dbc5804484c15a76a3cd80787e72",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "music-bed.jsonl",
+      "bytes": 2338475,
+      "sha256": "76e5d4d90f2d8c6a73de9b98dd99303b527beb9355e69ff07ff12e6afaef0bba",
+      "kind": "TERRAIN_ONLY authored audio-bed samples"
+    },
+    {
+      "path": "music-bed.mkv",
+      "bytes": 260904556,
+      "sha256": "dbdba1d2a1e613eb4758fde4db9a30f41dae8b3a1a2604f622aacd3a4caa3fab",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "review-apex.png",
+      "bytes": 1187483,
+      "sha256": "97a07714277da5eb917f347e55efb4852b96789d0626f32623f96e1667d33285",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "review-cuts.png",
+      "bytes": 2926774,
+      "sha256": "e50d1a28bd0ddde30a735686d10d0891a64bd687806696c4c043c35b96ee8900",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "stageplay-first-scene-tutorial.mp4",
+      "bytes": 28354484,
+      "sha256": "216f9984790ab6dd06f1d2ce82c8922049dd701474c752360bdd8cb93ffaa8bf",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "story-review.png",
+      "bytes": 110352,
+      "sha256": "19cae9f3d92a48d1d3c5c071f7fb542ac7cd450691b23f9ea34ccd1dc2489d46",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/apex-review.png",
+      "bytes": 17462,
+      "sha256": "736e00987cca27ffd4fa9faedfba67d74c123cf165c78a3495dd5f0a513dacbb",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/00.png",
+      "bytes": 41541,
+      "sha256": "d84d0f5ad0a31ad9fddde13ffeaad2abda3f0b7e7e3ee5a54de95c8b3285c59e",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/01.png",
+      "bytes": 92860,
+      "sha256": "78d5c3824172a369621bd22dd9fd0c308ad1dd209145e276fefb1de3c4614313",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/02.png",
+      "bytes": 93514,
+      "sha256": "6121b68a0030773958e351f9976a5b55a2a5cb0df7a892a57e0ce93fbd80a836",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/03.png",
+      "bytes": 103891,
+      "sha256": "f3b4048ca7a941c512e67b5138e30dce05653d37054a7e5c1e05af8f3b92d9ec",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/04.png",
+      "bytes": 104084,
+      "sha256": "be94872fa3d59b687076b6f4a252ca738dd39388c25bd3526efaec2ed9ab7527",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/05.png",
+      "bytes": 103497,
+      "sha256": "b3af5d4f1c9d58ba5b0473f79485c4bd5325e50891529c4e2044e35a1ffe827a",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/06.png",
+      "bytes": 105126,
+      "sha256": "b08c34aa50a75dbdfe1eb2c8bbd0328cbb77cf61be9752fb7bdcff13eebb7c58",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/07.png",
+      "bytes": 110136,
+      "sha256": "6ccab333451a56786dbc9336371419ac8b9af25c91e81664beebfec76e240452",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/08.png",
+      "bytes": 39901,
+      "sha256": "299eee37246851758edbe5fd95f1e72a5e82d26eeda005c044916814ff78c891",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/cards/10.png",
+      "bytes": 88689,
+      "sha256": "9d4e2dcb340638944f7c3daf1ae36e573715fedca3323a93733cf8139382974c",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/directing-view.jsonl",
+      "bytes": 29539770,
+      "sha256": "c590491668f60b5533d5a97a690945d40e5dfd8aacfa265dddfa461033ea48b4",
+      "kind": "LIVE native world telemetry"
+    },
+    {
+      "path": "take-2-framing/directing-view.mkv",
+      "bytes": 85036595,
+      "sha256": "70c9b028abf9eaaa1de4bb5a455f3057d586c319d8e3fb21be3bd9397c496cce",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/stageplay-first-scene-tutorial.mp4",
+      "bytes": 30465329,
+      "sha256": "32c90e445e0c40763f088b9b23a65e53f977a05ba03b655689f01b644443f188",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/tutorial-review.png",
+      "bytes": 1888788,
+      "sha256": "012fe1bfed922426607d593cfdedf6b472cf180954d1c42c71da929d7eaf0425",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/wait-for-me.jsonl",
+      "bytes": 29927340,
+      "sha256": "3e4be58a0bac1617e62fe4950511332d0bff42d30cacdc8432d2ac55e21fa608",
+      "kind": "LIVE native world telemetry"
+    },
+    {
+      "path": "take-2-framing/wait-for-me.mkv",
+      "bytes": 81383661,
+      "sha256": "dc809674d8dbf73dbbc6443e4bd5268fb989ae4ea80b31fe717bc3b325435e38",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "take-2-framing/wait-for-me.mp4",
+      "bytes": 7373809,
+      "sha256": "8d1698ab2d39198a25987614f413db7f4173bbbe26ee22a42e831037877ee2a9",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "tutorial-review.png",
+      "bytes": 1854909,
+      "sha256": "dde37ee3b68cdbb2bb0967cd3143802fece0da5f98af51b2becd6f44b4159d2a",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "wait-for-me-take1.jsonl",
+      "bytes": 29927224,
+      "sha256": "52d70b7f34788e541b71c2e758bd1bc02d2ba096b0d169cd2cb9ccf4ee284f41",
+      "kind": "LIVE native world telemetry"
+    },
+    {
+      "path": "wait-for-me-take1.mkv",
+      "bytes": 81383661,
+      "sha256": "3b69a60afe43f13491d1fbd6ad062162c710cc89b45647bb85b3c31bc1828f0d",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "wait-for-me.jsonl",
+      "bytes": 29907743,
+      "sha256": "f12e12bc0719880f84e511064f39c5ee6f7cf25587ae7fac549de15b7d7ae957",
+      "kind": "LIVE native world telemetry"
+    },
+    {
+      "path": "wait-for-me.mkv",
+      "bytes": 80008398,
+      "sha256": "cf16e2f726ad94b3b5f5692ff23be8815245d65e0bbff0a0f3c0c1f6a19940b6",
+      "kind": "external media / editorial or review image"
+    },
+    {
+      "path": "wait-for-me.mp4",
+      "bytes": 6592171,
+      "sha256": "4a645b286db9fce2a36a3a87cb1cc92916bb400eff68c9e1ed0a6bca0cf0e1ae",
+      "kind": "external media / editorial or review image"
+    }
+  ]
+}

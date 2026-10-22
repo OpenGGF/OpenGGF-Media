@@ -1,0 +1,112 @@
+[
+  {
+    "startFrame": 0,
+    "endFrame": 360,
+    "title": "MAKE A SCENE.",
+    "source": "wait-for-me.mkv",
+    "sourceStartFrame": 330,
+    "sourceEndFrame": 690,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "full scene"
+  },
+  {
+    "startFrame": 360,
+    "endFrame": 1020,
+    "title": "01  GIVE IT A REASON",
+    "source": "directing-view.mkv",
+    "sourceStartFrame": 0,
+    "sourceEndFrame": 660,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "directing notes"
+  },
+  {
+    "startFrame": 1020,
+    "endFrame": 1740,
+    "title": "02  CHOOSE SET + CAST",
+    "source": "directing-view.mkv",
+    "sourceStartFrame": 0,
+    "sourceEndFrame": 720,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "directing notes"
+  },
+  {
+    "startFrame": 1740,
+    "endFrame": 2460,
+    "title": "03  DIRECT THE MOVEMENT",
+    "source": "directing-view.mkv",
+    "sourceStartFrame": 120,
+    "sourceEndFrame": 840,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "directing notes"
+  },
+  {
+    "startFrame": 2460,
+    "endFrame": 3180,
+    "title": "04  WAIT FOR THE RESULT",
+    "source": "directing-view.mkv",
+    "sourceStartFrame": 840,
+    "sourceEndFrame": 1560,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "directing notes"
+  },
+  {
+    "startFrame": 3180,
+    "endFrame": 3900,
+    "title": "05  KEEP BOTH IN FRAME",
+    "source": "directing-view.mkv",
+    "sourceStartFrame": 240,
+    "sourceEndFrame": 960,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "directing notes"
+  },
+  {
+    "startFrame": 3900,
+    "endFrame": 4620,
+    "title": "06  GIVE THEM A VOICE",
+    "source": "wait-for-me.mkv",
+    "sourceStartFrame": 480,
+    "sourceEndFrame": 1200,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "directing notes"
+  },
+  {
+    "startFrame": 4620,
+    "endFrame": 5220,
+    "title": "07  PREVIEW, THEN SHARE",
+    "source": "directing-view.mkv",
+    "sourceStartFrame": 480,
+    "sourceEndFrame": 1080,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "directing notes"
+  },
+  {
+    "startFrame": 5220,
+    "endFrame": 5400,
+    "title": "WAIT FOR ME",
+    "source": "directing-view.mkv",
+    "sourceStartFrame": 0,
+    "sourceEndFrame": 180,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "full scene"
+  },
+  {
+    "startFrame": 5400,
+    "endFrame": 6960,
+    "title": "The finished short",
+    "source": "wait-for-me.mkv",
+    "sourceStartFrame": 0,
+    "sourceEndFrame": 1560,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "full scene"
+  },
+  {
+    "startFrame": 6960,
+    "endFrame": 7440,
+    "title": "YOUR TURN TO DIRECT.",
+    "source": "directing-view.mkv",
+    "sourceStartFrame": 1080,
+    "sourceEndFrame": 1560,
+    "sourceKind": "authored Stageplay LIVE",
+    "layout": "full scene"
+  }
+]

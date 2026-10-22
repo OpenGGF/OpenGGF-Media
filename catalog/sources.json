@@ -55219,5 +55219,253 @@
     "bytes": 36392,
     "sha256": "f1766dfabb85a9f20dba4dedb8f3820a9f39e7a20b40af13bbc330611e791023",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/README.md",
+    "root": "stageplay/media",
+    "original_path": "revision-7/README.md",
+    "bytes": 6694,
+    "sha256": "bc5e8d36ecdbeef87f31c66b9c0467937e733fee7b3ab9d77d69de43a509d9ee",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/assemble_tutorial.py",
+    "root": "stageplay/media",
+    "original_path": "revision-7/assemble_tutorial.py",
+    "bytes": 12967,
+    "sha256": "5b088d6ead5e05a03026bd7d9ff7e78a4c0b91c654695fdca92abff37b64c3a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/assembly.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/assembly.json",
+    "bytes": 3979,
+    "sha256": "b5d9a8eacf28964af54885dcfef2953b00e291a3cc06d676080ae8b0208b5edb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/capture.py",
+    "root": "stageplay/media",
+    "original_path": "revision-7/capture.py",
+    "bytes": 1824,
+    "sha256": "c7441eaaeebebff64a7814594b118e69503a9d8b9b7687c7709dbe34f4ec7f24",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/chapters.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/chapters.json",
+    "bytes": 2833,
+    "sha256": "cacdea9723bc416cc5c361e65b152d65ec17043b187d44f8e8efce1cafb157e1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/decoded-media-checks.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/decoded-media-checks.json",
+    "bytes": 5192,
+    "sha256": "0db3ba3c4b4e1427dbe3cbfad789a81683365ccf10afd30d389a3bb5b4961343",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/direct_scene.py",
+    "root": "stageplay/media",
+    "original_path": "revision-7/direct_scene.py",
+    "bytes": 3478,
+    "sha256": "e5bfbac1d45bdbc6d9f33d368f29a8f1b6325a3787b575e8aa603baed76349a7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/directing-view.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/directing-view.screenplay.json",
+    "bytes": 6866,
+    "sha256": "bedf904cb7f0b1a6aa104f0940768d6a374f37b6c1a83327a05c30e0f23fcb88",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/directing-view.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-7/directing-view.stageplay",
+    "bytes": 7032,
+    "sha256": "6c92524111a79ef74d61c9d0d6fec7575a82d6822abb94a49224c0bdaab072e2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/external-assets.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/external-assets.json",
+    "bytes": 9218,
+    "sha256": "1403404f27e047bad16385a5a68ff6a1205b542eff8f70367fb6c34865bf2f5b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/music-bed.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/music-bed.screenplay.json",
+    "bytes": 552,
+    "sha256": "cc7f2a677f41dc133fd30c27b079f0175c8920a48bf751bea1552c550c7eb584",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/music-bed.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-7/music-bed.stageplay",
+    "bytes": 633,
+    "sha256": "a0494edf34122fa88f9538c76fb579f9540ac244c3aaa17838ed3ad1b12985ca",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/provenance.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/provenance.json",
+    "bytes": 2625,
+    "sha256": "658e2c0f1c2539a497afc8af406c435eb771f4328a4300ef21cb8006d2710054",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/review_frames.py",
+    "root": "stageplay/media",
+    "original_path": "revision-7/review_frames.py",
+    "bytes": 1321,
+    "sha256": "4e90ba81c222c20f99e25747cfdcbe8e132404288f764a7d8b110b7678bfc4af",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/scene-checks.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/scene-checks.json",
+    "bytes": 975,
+    "sha256": "2b7b4d8752270e1eca65ae5005afb9833c6f03a8feef03b8a59b7b112bbabe68",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/README.md",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/README.md",
+    "bytes": 399,
+    "sha256": "495336dae71f9fa130460b5c3fdfd6c29e865050bf63e23165640fa3d56dfa18",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/assemble_tutorial.py",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/assemble_tutorial.py",
+    "bytes": 12967,
+    "sha256": "5b088d6ead5e05a03026bd7d9ff7e78a4c0b91c654695fdca92abff37b64c3a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/assembly.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/assembly.json",
+    "bytes": 3979,
+    "sha256": "1b7f88e2718bb6241eb11b7926ef4012132c34b74a29fef1feec15ad13687883",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/chapters.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/chapters.json",
+    "bytes": 2833,
+    "sha256": "cacdea9723bc416cc5c361e65b152d65ec17043b187d44f8e8efce1cafb157e1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/decoded-media-checks.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/decoded-media-checks.json",
+    "bytes": 5192,
+    "sha256": "c660cbf3221d033b1334cd7c21d1411bea860118ad78689a36cf67cc9cdf4a01",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/direct_scene.py",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/direct_scene.py",
+    "bytes": 3479,
+    "sha256": "87e266d635e1ba3b6d37d3ec35f880eb13e302178b0f5a26fac2beca0e759dd1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/directing-view.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/directing-view.screenplay.json",
+    "bytes": 6867,
+    "sha256": "bb6c36fdd6f48a772c53c85cf6d1c4608ad1c6d356702fbd0dd57c560d06381d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/directing-view.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/directing-view.stageplay",
+    "bytes": 7033,
+    "sha256": "fae1d0f1a5c94c49f2ab45fc226fa123c93299e807ce200853d7e2e128da8e62",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/wait-for-me.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/wait-for-me.screenplay.json",
+    "bytes": 9262,
+    "sha256": "2f72290faa3b831bda45fa54527486838f4cf59300026ca3657fb4f6a2b5c2fa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/take-2-framing/wait-for-me.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-7/take-2-framing/wait-for-me.stageplay",
+    "bytes": 8957,
+    "sha256": "929d31a7bfa45bdb9c521da344ab669b4f429ce45833557803621c14e25a86de",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/verify_media.py",
+    "root": "stageplay/media",
+    "original_path": "revision-7/verify_media.py",
+    "bytes": 2756,
+    "sha256": "b747258d711575aa0b8e750772620e23e89cdff384f6cec5ddeb65e9929810d9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/verify_scene.py",
+    "root": "stageplay/media",
+    "original_path": "revision-7/verify_scene.py",
+    "bytes": 2431,
+    "sha256": "3c8f58a386a998eb7da3b271f1942506362ec3aeab560760938eebd8a62b225f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/wait-for-me-take1.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/wait-for-me-take1.screenplay.json",
+    "bytes": 8702,
+    "sha256": "12f7b8cf6f627ed3da83f341ba352c1144fd2545853fa5ab2e8a9ae9286a144a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/wait-for-me-take1.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-7/wait-for-me-take1.stageplay",
+    "bytes": 8285,
+    "sha256": "665310a6669a92d5faf23a9981b0097f9cc0016c884b61e27303e8d28a48ccaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/wait-for-me.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-7/wait-for-me.screenplay.json",
+    "bytes": 9261,
+    "sha256": "538b3c644e21df6259556381f1c12980da7990f724073e831f57d4f211673ff7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-7/wait-for-me.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-7/wait-for-me.stageplay",
+    "bytes": 8956,
+    "sha256": "c0acbffbcf0096b51270a1dca21fc336fb2ce3605951b1ab100a5df3fb807703",
+    "snapshot": "byte-copy"
   }
 ]

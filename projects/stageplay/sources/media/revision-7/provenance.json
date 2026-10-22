@@ -1,0 +1,49 @@
+{
+  "status": "Rendered and verified; user creative acceptance pending",
+  "audience": "First-time creators; directing concepts",
+  "engineRuntime": "efa7875f8c60885dad0458a2cfbe77c0cd49a4de",
+  "engineRuntimeIntegration": "38c2736ccf1a0372cf3df3edbd7ba1d6393e5340",
+  "sceneAndGuidanceCommit": "7d35d4a7b",
+  "engineJar": "../revision-6/engine/OpenGGF-stageplay-live-efa7875f.jar",
+  "engineJarSha256": "2c93d2a1bd3a1d19f63ab4b372e9f964399593260582e2aec1af4125b6f396cb",
+  "rom": {
+    "game": "s3k",
+    "sha1": "cfbf98c36c776677290a872547ac47c53d2761d6"
+  },
+  "form": "Authored LIVE scene with positioned starts and native inputs; editorial conceptual tutorial, not a captured editor operation or cold gameplay route.",
+  "review": {
+    "finalBrowser": {
+      "duration": 124,
+      "rate": 1,
+      "ended": true,
+      "totalFrames": 7440,
+      "droppedFrames": 0,
+      "error": null,
+      "muted": true
+    },
+    "visualScope": "Complete rate-one playback with bounded snapshots, sampled instructional layouts, both sides of all ten cuts, and dense return-jump apex samples. Native all-frame camera/actor and support checks supplement visual review.",
+    "rejectedDraft": "take-2-framing: return apex clips top (centre Y 7.71); final camera offsetY 0 instead of 15 and return line ends at frame 655 before takeoff at 661.",
+    "physicalAudioListening": false,
+    "creativeAcceptance": false
+  },
+  "validation": {
+    "sceneReport": "scene-checks.json",
+    "mediaReport": "decoded-media-checks.json",
+    "selection": "Change-based plan selected 3565 smoke classes from unclassified examples. Replaced by direct compile/simulate/render checks because no runtime/build/test policy changes.",
+    "engineSuiteRun": false
+  },
+  "notes": [
+    "One 26-second world, not unrelated ability excerpts.",
+    "Instructional clean capture matches actual native world and camera for all 1560 frames.",
+    "Timeline is a simplified explanatory diagram; the playhead represents source-scene time.",
+    "Target outline uses actual placement 166 and directed camera samples.",
+    "Both editors accept the same portable scene. No editor automation was performed in this production.",
+    "Initial floor snapping is disabled for the short drop onto the moving lift.",
+    "Earlier revision-six features remain working within prior validation; story direction is superseded."
+  ],
+  "limits": [
+    "No general pathfinder, full cold-route completion or ROM parity claim.",
+    "LIVE backgrounds retain native camera phase.",
+    "No voiceover; dialogue is text, with original ROM music and native captured effects."
+  ]
+}
