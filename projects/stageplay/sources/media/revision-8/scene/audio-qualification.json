@@ -1,0 +1,95 @@
+{
+  "musicFreeQualification": "Supported MUSIC_STOP at frame zero, no later music cues; owner inspection confirms removal of both SMPS and streamed foreground music. Initial ten captured frames are exactly silent. Retained PCM is native world SFX/ambience with a measurable DC floor, not a second music bed.",
+  "firstNonzeroFrame": 13.0,
+  "windows": [
+    {
+      "startSeconds": 0,
+      "endSeconds": 0.16666666666666666,
+      "label": "first ten frames",
+      "rms": 0.0,
+      "dcMean": 0.0,
+      "acRms": 0.0,
+      "peak": 0,
+      "nonzeroFraction": 0.0
+    },
+    {
+      "startSeconds": 1,
+      "endSeconds": 2,
+      "label": "before first jump",
+      "rms": 1164.3789954171923,
+      "dcMean": 217.65051041666666,
+      "acRms": 1143.8560662444006,
+      "peak": 4309,
+      "nonzeroFraction": 0.9996666666666667
+    },
+    {
+      "startSeconds": 3,
+      "endSeconds": 4,
+      "label": "before first jump",
+      "rms": 1145.8579931467657,
+      "dcMean": 202.78208333333333,
+      "acRms": 1127.7721255365936,
+      "peak": 4175,
+      "nonzeroFraction": 0.999625
+    },
+    {
+      "startSeconds": 24,
+      "endSeconds": 25,
+      "label": "DC-dominated quiet interval",
+      "rms": 290.0136679250365,
+      "dcMean": 286.67495833333334,
+      "acRms": 43.879332810731405,
+      "peak": 423,
+      "nonzeroFraction": 1.0
+    },
+    {
+      "startSeconds": 26,
+      "endSeconds": 27,
+      "label": "tail beginning",
+      "rms": 1187.2350076350372,
+      "dcMean": 197.60860416666668,
+      "acRms": 1170.6740805678874,
+      "peak": 3777,
+      "nonzeroFraction": 0.999625
+    },
+    {
+      "startSeconds": 33,
+      "endSeconds": 34,
+      "label": "tail ending",
+      "rms": 1061.6591934914895,
+      "dcMean": 212.70954166666667,
+      "acRms": 1040.132152184979,
+      "peak": 4033,
+      "nonzeroFraction": 0.999625
+    }
+  ],
+  "ownerChain": [
+    {
+      "file": "src/main/java/com/openggf/stageplay/runtime/StageplayAudio.java",
+      "method": "dispatch",
+      "behavior": "MUSIC_STOP dispatches audio.stopMusic()."
+    },
+    {
+      "file": "src/main/java/com/openggf/audio/AudioManager.java",
+      "method": "stopMusic",
+      "behavior": "Records StopMusic, calls backend.stopPlayback()."
+    },
+    {
+      "file": "src/main/java/com/openggf/audio/AbstractSmpsAudioBackend.java",
+      "method": "stopPlayback / stopForegroundNow / stopStream",
+      "behavior": "Stops and closes current SMPS driver/stream; pending StopForeground also stops streamedMusicPort, clears foreground/music stack and sets currentMusicId=-1. Later native SFX can own a separate standalone stream."
+    },
+    {
+      "file": "src/main/java/com/openggf/game/sonic3k/objects/S3kDezLightningObjectInstance.java",
+      "method": "startFlash",
+      "behavior": "Repeated native visible lightning flashes request LIGHTNING SFX 0x79; nearby world objects remain active during the ride."
+    },
+    {
+      "file": "src/main/java/com/openggf/audio/HeadlessSmpsAudioBackend.java",
+      "method": "device hooks",
+      "behavior": "Device hooks are no-ops; offline presentation producer supplies captured PCM."
+    }
+  ],
+  "interpretation": "99% nonzero is not 99% music: native world ambience repeats throughout this LIVE route; one quiet window has RMS 290, DC 287 and AC RMS 44. Initial exact silence plus stop owner and absence of later music cues qualifies the stem. Owner inspection supports lightning as an ambience source; this audit does not identify every PCM sample or certify perceived mix quality.",
+  "limits": "PCM metering and owner inspection only. No physical listening, perceptual certification or per-voice native audio export. Keep the one continuous music-bed WAV as the sole editorial music owner."
+}

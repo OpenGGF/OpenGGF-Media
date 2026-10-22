@@ -1,6 +1,44 @@
 # OpenGGF Stageplay
 
-## Your first scene — tutorial/promo, 2026-10-22
+## Story-first directing tutorial — revision eight, 2026-10-22
+
+The revised **75-second tutorial** opens with the complete **26-second Wait for me**
+short, then explains one continuous performance, compares a real jump-hold change,
+and ends over a new moving-platform ride. Native 4× footage fills a larger view;
+one readable note accompanies each beat. Tails' flight is acknowledged, Sonic
+reacts, and the count finishes immediately before native takeoff. The count lesson
+shows its matching dialogue instead of hiding the reveal being taught.
+
+- [Production notes and rebuild](sources/media/revision-8/README.md)
+- [Scene manifest and source identities](sources/media/revision-8/scene/manifest.json)
+- [Screenplay](sources/media/revision-8/scene/take-3/story.screenplay.json) and
+  [portable scene](sources/media/revision-8/scene/take-3/story.stageplay)
+- [Compositor](sources/media/revision-8/edit/build_edit.py),
+  [final edit inputs](sources/media/revision-8/edit/final-manifest.json) and
+  [exact chapters](sources/media/revision-8/edit/candidate-02/chapters.json)
+- [Native outcomes](sources/media/revision-8/scene/scene-checks.json),
+  [SFX qualification](sources/media/revision-8/scene/audio-qualification.json) and
+  [encoded measurements](sources/media/revision-8/edit/candidate-02/verification.json)
+
+Changing only Sonic's first jump hold from 20 to 8 frames lowers its native apex
+20.34375 pixels and lands eight frames earlier; both attempts reach the same lift.
+The soundtrack uses one uninterrupted ROM bed and separate native SFX. This is an
+authored LIVE scene with native physics, not general pathfinding or cold level
+completion. The sources preserve rejected panel/framing takes and the first edit's
+teaching gap. The earlier Opus 5.5 review used sampled frames and audio measurements;
+that review did not certify normal-speed motion or physical listening.
+
+The final tutorial fully decodes to 4,500 frames at 1080p60 and completes 1×
+browser playback with zero reported drops. Its AAC measures −17.3 LUFS / −4.6 dBTP;
+sectional results are retained. Bounded visual review covered cuts, contacts,
+reactions and count timing. Physical listening and user acceptance are not claimed.
+
+External final movies are `revision-8/edit/candidate-02/tutorial.mp4` and
+`revision-8/scene/wait-for-me-standalone.mp4` under `stageplay/media`. Raw captures,
+telemetry, audio, fonts and the exact engine package remain external too. Catalog
+entries identify those files; they do not provide public video downloads.
+
+## Earlier first-scene tutorial — revision seven, 2026-10-22
 
 Revision seven is a **124-second tutorial for first-time creators**, ending with
 the complete **26-second Wait for me** short at 01:30. Sonic rushes ahead, leaves

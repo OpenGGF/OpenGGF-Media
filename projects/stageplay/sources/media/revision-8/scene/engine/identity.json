@@ -1,0 +1,32 @@
+{
+  "runtimeSourceCommit": "1a5ae4adf487efe224f466f936d7fd8a8eded2e5",
+  "sceneCommit": "4ddc820715ce8e8080d44ce8f9e14adc4d307f61",
+  "sceneBranch": "stageplay-scene-revision",
+  "engineWorktree": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-fa5adf0d",
+  "jar": {
+    "path": "engine/OpenGGF-1a5ae4ad.jar",
+    "sha256": "e49c005936c538963b49bae90b64b588686fc8ce92a70a913dc7a2a0c26d45f7",
+    "bytes": 28585789
+  },
+  "rom": {
+    "originalPath": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+    "sha1": "cfbf98c36c776677290a872547ac47c53d2761d6",
+    "sha256": "fba0677fde9f76df93f3e98d6310d8af68b9847bde16e253d73cd4dd8134ed23",
+    "crc32": "63522553",
+    "bytes": 4194304
+  },
+  "javaHome": "/usr/lib/jvm/java-25-openjdk",
+  "build": {
+    "command": "JAVA_HOME=/usr/lib/jvm/java-25-openjdk python3 tools/testing/maven_queue.py -Dmse=off package -DskipTests",
+    "result": "BUILD SUCCESS",
+    "executionSeconds": 88,
+    "tests": "skipped by explicit task scope; no broad/baseline/full suite"
+  },
+  "capture": {
+    "display": "DISPLAY and WAYLAND_DISPLAY removed",
+    "gl": "surfaceless-egl",
+    "audio": "HeadlessSmpsAudioBackend / NoDeviceAudioSink; offline PCM only",
+    "scale": 2
+  },
+  "priorRevision7": "7d35d4a7b"
+}

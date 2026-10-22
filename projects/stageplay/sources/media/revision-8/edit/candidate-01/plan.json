@@ -1,0 +1,13 @@
+{
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "frames": 4500,
+  "seconds": 75.0,
+  "manifest": "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-8/scene/manifest.json",
+  "provisional": false,
+  "audio": "One continuous ROM bed. Only explicit SFX paths; never combined capture audio.",
+  "music": "/home/farrell/scratch/agent-tmp/codex/stageplay-delivery/revision-8/scene/continuous-music.wav",
+  "musicGainDb": 9.0,
+  "sfxGainDb": 3.0
+}

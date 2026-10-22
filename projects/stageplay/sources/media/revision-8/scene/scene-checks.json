@@ -1,0 +1,251 @@
+{
+  "storyFrames": 1560,
+  "totalFrames": 2040,
+  "worldPolicy": "LIVE",
+  "platformChanges": [
+    [
+      0,
+      "sonic",
+      -1
+    ],
+    [
+      0,
+      "tails",
+      -1
+    ],
+    [
+      15,
+      "sonic",
+      179
+    ],
+    [
+      16,
+      "tails",
+      179
+    ],
+    [
+      241,
+      "sonic",
+      -1
+    ],
+    [
+      293,
+      "sonic",
+      166
+    ],
+    [
+      661,
+      "sonic",
+      -1
+    ],
+    [
+      728,
+      "sonic",
+      179
+    ],
+    [
+      1141,
+      "sonic",
+      -1
+    ],
+    [
+      1146,
+      "tails",
+      -1
+    ],
+    [
+      1199,
+      "sonic",
+      166
+    ],
+    [
+      1204,
+      "tails",
+      166
+    ]
+  ],
+  "dialogue": [
+    {
+      "startFrame": 25,
+      "endFrame": 150,
+      "speaker": "Tails",
+      "text": "Other lift. Together, okay?",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 85
+    },
+    {
+      "startFrame": 160,
+      "endFrame": 235,
+      "speaker": "Sonic",
+      "text": "Race you there!",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 188
+    },
+    {
+      "startFrame": 340,
+      "endFrame": 520,
+      "speaker": "Tails",
+      "text": "You forgot the \"together\" bit.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 406
+    },
+    {
+      "startFrame": 550,
+      "endFrame": 645,
+      "speaker": "Sonic",
+      "text": "Oh. Coming back!",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 584
+    },
+    {
+      "startFrame": 780,
+      "endFrame": 945,
+      "speaker": "Tails",
+      "text": "I could just fly over.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 822
+    },
+    {
+      "startFrame": 950,
+      "endFrame": 1060,
+      "speaker": "Sonic",
+      "text": "This time, together.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 992
+    },
+    {
+      "startFrame": 1065,
+      "endFrame": 1170,
+      "speaker": "Sonic",
+      "text": "One. Two. Three!",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 1140
+    },
+    {
+      "startFrame": 1240,
+      "endFrame": 1385,
+      "speaker": "Tails",
+      "text": "See? Teamwork.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 1270
+    },
+    {
+      "startFrame": 1395,
+      "endFrame": 1550,
+      "speaker": "Sonic",
+      "text": "My slowest personal best.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 1443
+    }
+  ],
+  "countThreeBeginsFrame": 1135,
+  "reactions": {
+    "sonicCrouch": [
+      535,
+      580
+    ],
+    "tailsLookUp": [
+      390,
+      480
+    ],
+    "intervalsEndExclusive": true
+  },
+  "tail": {
+    "startFrame": 1560,
+    "endFrame": 2040,
+    "platform": 166,
+    "platformYRange": [
+      1936,
+      1999
+    ]
+  },
+  "deaths": 0,
+  "hurt": 0,
+  "waitTimeouts": 0,
+  "allFrameWorldActorPuppetCameraEquivalentVariants": [
+    "story",
+    "clean",
+    "story-sfx",
+    "clean-sfx"
+  ],
+  "geometryClearancesPixels": {
+    "bodyToPanel": 7.2693603200000325,
+    "bodyToViewport": 2.7076949004301696,
+    "supportToPanel": 30.000000000000455
+  },
+  "geometryMethod": "Every-frame actor centre envelopes: Sonic +/-20, Tails +/-24; support +/-16 vertically; panel rectangles. Positive gaps establish conservative body/panel separation, not exact accessory/pointer pixel masks. Selected rendered contact/apex reviews supplement this check.",
+  "comparison": {
+    "change": {
+      "path": "/shots/0/actions/sonic/3/holdFrames",
+      "before": 20,
+      "after": 8
+    },
+    "sourceInterval": {
+      "startFrame": 180,
+      "endFrame": 450,
+      "endExclusive": true
+    },
+    "outcome": {
+      "hold20": {
+        "apexY": 1869.40625,
+        "apexFrame": 271,
+        "landingFrame": 293
+      },
+      "hold8": {
+        "apexY": 1889.75,
+        "apexFrame": 267,
+        "landingFrame": 285
+      }
+    },
+    "apexHeightDifferencePixels": 20.34375,
+    "landingEarlierFrames": 8,
+    "interpretation": "Both land on placement 166 safely. Shorter hold makes a lower arc and lands eight frames earlier. Same native approach/camera rules; no pathfinding claim."
+  },
+  "generatorMatchesAllSixSources": true,
+  "limits": "Authored initial placements and native inputs. Bounded LIVE route observation; not general pathfinding, cold level completion, ROM parity, engine-suite coverage, full-motion human review or physical audio listening."
+}

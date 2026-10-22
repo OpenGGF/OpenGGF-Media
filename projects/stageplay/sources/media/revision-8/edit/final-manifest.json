@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "provisional": false,
+  "fps": 60,
+  "native": {
+    "width": 320,
+    "height": 224
+  },
+  "captured": {
+    "width": 640,
+    "height": 448,
+    "scale": 2
+  },
+  "storyFrames": 1560,
+  "totalFrames": 2040,
+  "paths": {
+    "story": "../scene/take-3/story.mkv",
+    "clean": "../scene/take-3/clean-sfx.mkv",
+    "sfx": "../scene/native-sfx.wav",
+    "comparison": "../scene/take-3/comparison-hold8.mkv",
+    "comparisonSfx": "../scene/comparison-native-sfx.wav",
+    "dialogueSfx": "../scene/take-3/story-sfx.mkv",
+    "cleanWithMusic": "../scene/take-3/clean.mkv",
+    "music": "../scene/continuous-music.wav",
+    "musicCapture": "../scene/take-3/music-bed.mkv",
+    "screenplay": "../scene/take-3/story.screenplay.json",
+    "scene": "../scene/take-3/story.stageplay",
+    "nativeState": "../scene/take-3/story.jsonl",
+    "comparisonState": "../scene/take-3/comparison-hold8.jsonl",
+    "standalone": "../scene/wait-for-me-standalone.mp4"
+  },
+  "tutorialNotes": [
+    {
+      "startFrame": 0,
+      "endFrame": 240,
+      "title": "GIVE THEM A REASON",
+      "body": "Two friends, one promise: cross together.",
+      "command": "DEZ2 \u00b7 LIVE \u00b7 Sonic + Tails"
+    },
+    {
+      "startFrame": 240,
+      "endFrame": 535,
+      "title": "LET A MOVE CHANGE THINGS",
+      "body": "Sonic rushes ahead. Tails calls him back.",
+      "command": "MOVE_TO .65 \u00b7 JUMP hold 20"
+    },
+    {
+      "startFrame": 535,
+      "endFrame": 780,
+      "title": "MAKE THE REPLY VISIBLE",
+      "body": "A crouch gives the apology a beat. Then Sonic returns.",
+      "command": "CROUCH 45 \u00b7 return at 660"
+    },
+    {
+      "startFrame": 780,
+      "endFrame": 1065,
+      "title": "CHOOSE THE SHARED ARRIVAL",
+      "body": "Tails can fly. Sonic chooses company over speed.",
+      "command": "WAIT ON_OBJECT \u00b7 timeout 180"
+    },
+    {
+      "startFrame": 1065,
+      "endFrame": 1240,
+      "title": "COUNT INTO THE JUMP",
+      "body": "The final word meets takeoff.",
+      "command": "Three! at 1135\u20131140 \u00b7 jump 1141",
+      "source": "story"
+    },
+    {
+      "startFrame": 1240,
+      "endFrame": 1560,
+      "title": "WATCH THE CONSEQUENCE",
+      "body": "Both board the lift. Native contact carries the last reply.",
+      "command": "ON_OBJECT 166 \u00b7 frames 1199/1204"
+    }
+  ],
+  "comparison": {
+    "startFrame": 180,
+    "endFrame": 450,
+    "variantStartFrame": 180,
+    "change": "Change one value: first jump hold, 20 to 8 frames.",
+    "outcome": "20.34 px lower arc. Lands 8 frames earlier. Both reach the lift.",
+    "labelA": "A \u00b7 HOLD 20",
+    "labelB": "B \u00b7 HOLD 8",
+    "commandA": "JUMP \u00b7 holdFrames: 20",
+    "commandB": "JUMP \u00b7 holdFrames: 8"
+  },
+  "endcard": {
+    "frames": 480,
+    "samplePath": "examples/stageplay-demo/src/main/resources/scenes/wait-for-me.stageplay",
+    "url": "github.com/OpenGGF/OpenGGF",
+    "status": "Development preview"
+  },
+  "events": {
+    "initialBoarding": {
+      "sonic": 15,
+      "tails": 16
+    },
+    "firstJump": 241,
+    "firstApex": 271,
+    "firstLand": 293,
+    "sonicReaction": {
+      "startFrame": 535,
+      "endFrame": 580
+    },
+    "returnJump": 661,
+    "returnLand": 728,
+    "countThreeStart": 1135,
+    "countThreeFullyRevealed": 1140,
+    "sharedJump": {
+      "sonic": 1141,
+      "tails": 1146
+    },
+    "sharedLand": {
+      "sonic": 1199,
+      "tails": 1204
+    },
+    "storyEnd": 1560,
+    "tailEnd": 2040
+  },
+  "dialogue": [
+    {
+      "startFrame": 25,
+      "endFrame": 150,
+      "speaker": "Tails",
+      "text": "Other lift. Together, okay?",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 85
+    },
+    {
+      "startFrame": 160,
+      "endFrame": 235,
+      "speaker": "Sonic",
+      "text": "Race you there!",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 188
+    },
+    {
+      "startFrame": 340,
+      "endFrame": 520,
+      "speaker": "Tails",
+      "text": "You forgot the \"together\" bit.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 406
+    },
+    {
+      "startFrame": 550,
+      "endFrame": 645,
+      "speaker": "Sonic",
+      "text": "Oh. Coming back!",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 584
+    },
+    {
+      "startFrame": 780,
+      "endFrame": 945,
+      "speaker": "Tails",
+      "text": "I could just fly over.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 822
+    },
+    {
+      "startFrame": 950,
+      "endFrame": 1060,
+      "speaker": "Sonic",
+      "text": "This time, together.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 992
+    },
+    {
+      "startFrame": 1065,
+      "endFrame": 1170,
+      "speaker": "Sonic",
+      "text": "One. Two. Three!",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 1140
+    },
+    {
+      "startFrame": 1240,
+      "endFrame": 1385,
+      "speaker": "Tails",
+      "text": "See? Teamwork.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 1270
+    },
+    {
+      "startFrame": 1395,
+      "endFrame": 1550,
+      "speaker": "Sonic",
+      "text": "My slowest personal best.",
+      "panel": {
+        "x": 8,
+        "y": 0,
+        "width": 304,
+        "height": 48
+      },
+      "fullyRevealedFrame": 1443
+    }
+  ],
+  "platformChanges": [
+    [
+      0,
+      "sonic",
+      -1
+    ],
+    [
+      0,
+      "tails",
+      -1
+    ],
+    [
+      15,
+      "sonic",
+      179
+    ],
+    [
+      16,
+      "tails",
+      179
+    ],
+    [
+      241,
+      "sonic",
+      -1
+    ],
+    [
+      293,
+      "sonic",
+      166
+    ],
+    [
+      661,
+      "sonic",
+      -1
+    ],
+    [
+      728,
+      "sonic",
+      179
+    ],
+    [
+      1141,
+      "sonic",
+      -1
+    ],
+    [
+      1146,
+      "tails",
+      -1
+    ],
+    [
+      1199,
+      "sonic",
+      166
+    ],
+    [
+      1204,
+      "tails",
+      166
+    ]
+  ],
+  "comparisonMeasurements": {
+    "change": {
+      "path": "/shots/0/actions/sonic/3/holdFrames",
+      "before": 20,
+      "after": 8
+    },
+    "sourceInterval": {
+      "startFrame": 180,
+      "endFrame": 450,
+      "endExclusive": true
+    },
+    "outcome": {
+      "hold20": {
+        "apexY": 1869.40625,
+        "apexFrame": 271,
+        "landingFrame": 293
+      },
+      "hold8": {
+        "apexY": 1889.75,
+        "apexFrame": 267,
+        "landingFrame": 285
+      }
+    },
+    "apexHeightDifferencePixels": 20.34375,
+    "landingEarlierFrames": 8,
+    "interpretation": "Both land on placement 166 safely. Shorter hold makes a lower arc and lands eight frames earlier. Same native approach/camera rules; no pathfinding claim."
+  },
+  "tail": {
+    "startFrame": 1560,
+    "endFrame": 2040,
+    "platform": 166,
+    "platformYRange": [
+      1936,
+      1999
+    ]
+  },
+  "provenance": {
+    "runtimeSourceCommit": "1a5ae4adf487efe224f466f936d7fd8a8eded2e5",
+    "sceneCommit": "4ddc820715ce8e8080d44ce8f9e14adc4d307f61",
+    "sceneBranch": "stageplay-scene-revision",
+    "engineWorktree": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-fa5adf0d",
+    "jar": {
+      "path": "engine/OpenGGF-1a5ae4ad.jar",
+      "sha256": "e49c005936c538963b49bae90b64b588686fc8ce92a70a913dc7a2a0c26d45f7",
+      "bytes": 28585789
+    },
+    "rom": {
+      "originalPath": "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen",
+      "sha1": "cfbf98c36c776677290a872547ac47c53d2761d6",
+      "sha256": "fba0677fde9f76df93f3e98d6310d8af68b9847bde16e253d73cd4dd8134ed23",
+      "crc32": "63522553",
+      "bytes": 4194304
+    },
+    "javaHome": "/usr/lib/jvm/java-25-openjdk",
+    "build": {
+      "command": "JAVA_HOME=/usr/lib/jvm/java-25-openjdk python3 tools/testing/maven_queue.py -Dmse=off package -DskipTests",
+      "result": "BUILD SUCCESS",
+      "executionSeconds": 88,
+      "tests": "skipped by explicit task scope; no broad/baseline/full suite"
+    },
+    "capture": {
+      "display": "DISPLAY and WAYLAND_DISPLAY removed",
+      "gl": "surfaceless-egl",
+      "audio": "HeadlessSmpsAudioBackend / NoDeviceAudioSink; offline PCM only",
+      "scale": 2
+    },
+    "priorRevision7": "7d35d4a7b"
+  },
+  "verification": {
+    "scene": "scene-checks.json",
+    "media": "media-checks.json",
+    "audio": "audio-qualification.json",
+    "geometryMethod": "Every-frame actor centre envelopes: Sonic +/-20, Tails +/-24; support +/-16 vertically; panel rectangles. Positive gaps establish conservative body/panel separation, not exact accessory/pointer pixel masks. Selected rendered contact/apex reviews supplement this check.",
+    "noEngineSuite": "Scene-data task: package skip-tests, structural validation, native simulations, six full renders and decodes; no baseline/broad/full suite requested or run.",
+    "musicQualification": "Supported MUSIC_STOP at frame zero, no later music cues; owner inspection confirms removal of both SMPS and streamed foreground music. Initial ten captured frames are exactly silent. Retained PCM is native world SFX/ambience with a measurable DC floor, not a second music bed.",
+    "limits": "Authored initial placements and native inputs. Bounded LIVE route observation; not general pathfinding, cold level completion, ROM parity, engine-suite coverage, full-motion human review or physical audio listening."
+  },
+  "audioPolicy": {
+    "music": "continuous-music.wav is the sole tutorial music owner; uninterrupted 96-second ROM track 23",
+    "sfx": "Use native-sfx.wav and comparison-native-sfx.wav only; includes native world ambience/DC floor. Never mix combined source audio into a second bed.",
+    "standalone": "Original combined story.mkv is retained for standalone playback."
+  },
+  "assets": [
+    {
+      "path": "README.md",
+      "bytes": 7472,
+      "sha256": "800ffd993e4c58f664e56cb6a6a9d8341f55e54312f62a444263e5056587568f"
+    },
+    {
+      "path": "audio-qualification.json",
+      "bytes": 3741,
+      "sha256": "7bc6380a495a8eec74f0c37711cae35c7545c4145fa004d75ae2d6de5f52482d"
+    },
+    {
+      "path": "capture.py",
+      "bytes": 1835,
+      "sha256": "c55875f2efd10cecda709e9577ca798e9a6b695dd9044ca500e6e181757821d2"
+    },
+    {
+      "path": "comparison-native-sfx.wav",
+      "bytes": 6528078,
+      "sha256": "183a20ae7aa08e2322277a331c347ff14c89be97b9aae193a90d138f47a50702"
+    },
+    {
+      "path": "continuous-music.wav",
+      "bytes": 18432078,
+      "sha256": "9205c443afc5e4861c153d6470ff2439afa13c47b8a4b5c3918946a62ea9caf5"
+    },
+    {
+      "path": "direct_scene.py",
+      "bytes": 4286,
+      "sha256": "6f5613e6be376cb8bbe89df5bf04b39b8dd7cadccf6574ef33d96ffcc037edfa"
+    },
+    {
+      "path": "engine/OpenGGF-1a5ae4ad.jar",
+      "bytes": 28585789,
+      "sha256": "e49c005936c538963b49bae90b64b588686fc8ce92a70a913dc7a2a0c26d45f7"
+    },
+    {
+      "path": "engine/identity.json",
+      "bytes": 1265,
+      "sha256": "b0f6bccf6024e3c0d31aa8c676b09b90d8d79f1f7b4d6142308999c010d2b60e"
+    },
+    {
+      "path": "media-checks.json",
+      "bytes": 3740,
+      "sha256": "45f2424bba29036272d5334930eaf52e1650ade54f60ae56d88433f9cbf77858"
+    },
+    {
+      "path": "native-sfx.wav",
+      "bytes": 6528078,
+      "sha256": "abf8887dd12f8a02c3ceb9aeafd98c708c49ea7a0a739fd3215b6333224b6199"
+    },
+    {
+      "path": "publish_manifest.py",
+      "bytes": 6787,
+      "sha256": "4508af3e0c01251fe3aee1c90d7964b2fc8e35df16e125ec122bbcb1cb8bab55"
+    },
+    {
+      "path": "qualify_audio.py",
+      "bytes": 3162,
+      "sha256": "74968d5215335e5e63d35e9811c4e7831f2e0b60634be51d3c7e7d7ef49da8b7"
+    },
+    {
+      "path": "review-comparison.png",
+      "bytes": 85770,
+      "sha256": "e0be7a99fa3ec026fc916e6d8c2169661afa24025c814ae896ed66ec30116e94"
+    },
+    {
+      "path": "review-contact-arcs.png",
+      "bytes": 207037,
+      "sha256": "dee54e95a305e22a7dee04461df4142fd34dea90699eb479897ec70e3acc4ce0"
+    },
+    {
+      "path": "review_frames.py",
+      "bytes": 1269,
+      "sha256": "d6d42b7f93991664fe46a71731fdca82c45b76e0d16df50df3cb86506b0ca9a6"
+    },
+    {
+      "path": "scene-checks.json",
+      "bytes": 4989,
+      "sha256": "5e70f019d2f0080469f018fa99826b38f54eb826197eb762ff3db71a33ebd898"
+    },
+    {
+      "path": "take-1/clean-sfx.screenplay.json",
+      "bytes": 7001,
+      "sha256": "665eba9e2b56a8fbb20e81f12e9071e6f3c67fa93ae653425baed3483055d543"
+    },
+    {
+      "path": "take-1/clean.screenplay.json",
+      "bytes": 7052,
+      "sha256": "98052fa59f0cab610d9924093e003c4fbe6f6307f13ca4a84a76449187801044"
+    },
+    {
+      "path": "take-1/comparison-hold8.screenplay.json",
+      "bytes": 7000,
+      "sha256": "b6832453055b7c04943535430ba90250f50632f90c2448c7bdade0e704f78a16"
+    },
+    {
+      "path": "take-1/story-sfx.screenplay.json",
+      "bytes": 9984,
+      "sha256": "005d04355670adb1c3ac43c16ca5e21b060200aaf32594af462cab17ea792bed"
+    },
+    {
+      "path": "take-1/story.screenplay.json",
+      "bytes": 10035,
+      "sha256": "251bd4fc6d508a98f48eaeafe540617ab9ba201a630b890d24ade75774fe4a9d"
+    },
+    {
+      "path": "take-2/clean-sfx.screenplay.json",
+      "bytes": 7001,
+      "sha256": "665eba9e2b56a8fbb20e81f12e9071e6f3c67fa93ae653425baed3483055d543"
+    },
+    {
+      "path": "take-2/clean.screenplay.json",
+      "bytes": 7052,
+      "sha256": "98052fa59f0cab610d9924093e003c4fbe6f6307f13ca4a84a76449187801044"
+    },
+    {
+      "path": "take-2/comparison-hold8.jsonl",
+      "bytes": 38569334,
+      "sha256": "fce6fd3cefc4b7ea4f914bbc067a9ec5f2f2a6c9c046df66614ee283f819f144"
+    },
+    {
+      "path": "take-2/comparison-hold8.screenplay.json",
+      "bytes": 7000,
+      "sha256": "b6832453055b7c04943535430ba90250f50632f90c2448c7bdade0e704f78a16"
+    },
+    {
+      "path": "take-2/comparison-hold8.stageplay",
+      "bytes": 7455,
+      "sha256": "89ab01b608487496f4f997d12cde7fc1f82f77bc2f2640fb3609c922dc76c501"
+    },
+    {
+      "path": "take-2/story-sfx.screenplay.json",
+      "bytes": 9984,
+      "sha256": "2289742ff7a3e192d618490494f1b7a67e01cb0d6c2b600c360dac4b30ccf8de"
+    },
+    {
+      "path": "take-2/story.jsonl",
+      "bytes": 39106695,
+      "sha256": "18298a5436744ae10b7147c08e317b95af064c4b3b938c409287eb22f8d1bf70"
+    },
+    {
+      "path": "take-2/story.screenplay.json",
+      "bytes": 10035,
+      "sha256": "e4791a88257a5cb3808345c987ac90d242512c7bb7c5b05655ddd6e756ee516b"
+    },
+    {
+      "path": "take-2/story.stageplay",
+      "bytes": 9661,
+      "sha256": "52b58b22f7bc355bca824eae1ca9e39f070555bd9f70965a716c8dd89f9265df"
+    },
+    {
+      "path": "take-3/clean-sfx.jsonl",
+      "bytes": 38730494,
+      "sha256": "1fbd934711d1ed7229b5607a681f20876ce8fa6bd8da22063ff45e9f1cce895f"
+    },
+    {
+      "path": "take-3/clean-sfx.mkv",
+      "bytes": 108793120,
+      "sha256": "18a33268889d413093326588e59932ac714fd08ae589634c4f440e2abdf22a06"
+    },
+    {
+      "path": "take-3/clean-sfx.screenplay.json",
+      "bytes": 7001,
+      "sha256": "665eba9e2b56a8fbb20e81f12e9071e6f3c67fa93ae653425baed3483055d543"
+    },
+    {
+      "path": "take-3/clean-sfx.stageplay",
+      "bytes": 7456,
+      "sha256": "04bc00edfd6f5e2c53563926774f1be305aa12ebe2034cfdb7bc3e2cfb1e1d41"
+    },
+    {
+      "path": "take-3/clean.jsonl",
+      "bytes": 38730494,
+      "sha256": "17016be43679af408dbda98389a6f47f1adb0c0b44318b895c2b5dbe7002d320"
+    },
+    {
+      "path": "take-3/clean.mkv",
+      "bytes": 110383093,
+      "sha256": "bd0fafb370083335f1aec8449bde7c59409de53df543f663286084de2d310d1f"
+    },
+    {
+      "path": "take-3/clean.screenplay.json",
+      "bytes": 7052,
+      "sha256": "98052fa59f0cab610d9924093e003c4fbe6f6307f13ca4a84a76449187801044"
+    },
+    {
+      "path": "take-3/clean.stageplay",
+      "bytes": 7456,
+      "sha256": "dc1f55ce9c5780eaa6484791ba0e6d0cc27b90005d910369b88832dfc8077a13"
+    },
+    {
+      "path": "take-3/comparison-hold8.jsonl",
+      "bytes": 38569334,
+      "sha256": "fce6fd3cefc4b7ea4f914bbc067a9ec5f2f2a6c9c046df66614ee283f819f144"
+    },
+    {
+      "path": "take-3/comparison-hold8.mkv",
+      "bytes": 108618140,
+      "sha256": "0f4ee5fe136b2972aa063dd499c6b3613b71dafcc0390926ea09642f1dab8d36"
+    },
+    {
+      "path": "take-3/comparison-hold8.screenplay.json",
+      "bytes": 7000,
+      "sha256": "b6832453055b7c04943535430ba90250f50632f90c2448c7bdade0e704f78a16"
+    },
+    {
+      "path": "take-3/comparison-hold8.stageplay",
+      "bytes": 7455,
+      "sha256": "89ab01b608487496f4f997d12cde7fc1f82f77bc2f2640fb3609c922dc76c501"
+    },
+    {
+      "path": "take-3/music-bed.jsonl",
+      "bytes": 2290735,
+      "sha256": "406d4e12b50ba83e901070f8461cfa2e999ba4395060a8bd85ad1e8081bcf8c8"
+    },
+    {
+      "path": "take-3/music-bed.mkv",
+      "bytes": 255563699,
+      "sha256": "de329faeb95abaa6308991471a51ce82c4657d47e9565745f2254a423981c825"
+    },
+    {
+      "path": "take-3/music-bed.screenplay.json",
+      "bytes": 549,
+      "sha256": "59c1bd97e4225a3c5cdb9dcbf8906bd0b23d8d5fb9cf9a87364588913b750f8a"
+    },
+    {
+      "path": "take-3/music-bed.stageplay",
+      "bytes": 630,
+      "sha256": "85dbe9ed16c01f09140e48cee68fbb3c695829ae742f9b4c8f85c46c807f7cf7"
+    },
+    {
+      "path": "take-3/story-sfx.jsonl",
+      "bytes": 39087520,
+      "sha256": "b93c7c21570bdab7844753d04607b80ed3e9242d4a1993e88fef546fb1fd098e"
+    },
+    {
+      "path": "take-3/story-sfx.mkv",
+      "bytes": 115852301,
+      "sha256": "dcdd798493a479d5d9234a854043feefa07222fc5502252f62dbd4d9302696aa"
+    },
+    {
+      "path": "take-3/story-sfx.screenplay.json",
+      "bytes": 9984,
+      "sha256": "efd4cde293801b92879585f3436e7640f100033f8ad4c6b8a051d92077888653"
+    },
+    {
+      "path": "take-3/story-sfx.stageplay",
+      "bytes": 9661,
+      "sha256": "af2f3aa91b13db27d1f9099c49f4704ee8d39ed086faeee741cf1888a945cbf6"
+    },
+    {
+      "path": "take-3/story.jsonl",
+      "bytes": 39087520,
+      "sha256": "1021369b5b07e87e754060bb4c3dd93a30c43c259664dcba6b4599cd32595dfb"
+    },
+    {
+      "path": "take-3/story.mkv",
+      "bytes": 117442274,
+      "sha256": "dd00d3fd2e255aa9cfcfd7d7405835ca9553d16242425947b2bbee3b36a6c8de"
+    },
+    {
+      "path": "take-3/story.screenplay.json",
+      "bytes": 10035,
+      "sha256": "9d70000935e5e267c593c2542f23ee63b71e4ecfc6501a94188b255c42adbbc2"
+    },
+    {
+      "path": "take-3/story.stageplay",
+      "bytes": 9661,
+      "sha256": "04f413d80690cbb727674f9a9740f40354fcd53b880239f563ba95c49bd76357"
+    },
+    {
+      "path": "verify_media.py",
+      "bytes": 3651,
+      "sha256": "a8a6be754c00a65b482967bd7c1ebdfbc2798b12f06595c512927bb02e0fd872"
+    },
+    {
+      "path": "verify_scene.py",
+      "bytes": 5854,
+      "sha256": "e1c070672b6f508feca75999841886da661f5fec47cd7b8aef3df2b9f14cf1e3"
+    },
+    {
+      "path": "wait-for-me-standalone.mp4",
+      "bytes": 2197617,
+      "sha256": "15f24a04809fc19375bd0efd0f937c856ced07fe7c856b3af21197e26f112ae7"
+    }
+  ],
+  "editorialRevision": {
+    "sourceManifest": "../scene/manifest.json",
+    "change": "Count lesson uses matching dialogue source at identical source frames, so reveal timing remains visible; all other notes use clean view. Native state/camera equality established in scene checks."
+  }
+}

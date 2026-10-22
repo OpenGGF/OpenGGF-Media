@@ -1,0 +1,34 @@
+{
+  "version": 3,
+  "name": "Continuous DEZ2 music bed",
+  "width": 320,
+  "height": 224,
+  "cast": [],
+  "shots": [
+    {
+      "id": "bed",
+      "durationFrames": 5760,
+      "set": {
+        "gameId": "s3k",
+        "zone": 11,
+        "act": 1
+      },
+      "camera": [
+        {
+          "frame": 0,
+          "x": 5268,
+          "y": 1824
+        }
+      ],
+      "actors": {},
+      "audio": [
+        {
+          "frame": 0,
+          "kind": "ROM_MUSIC",
+          "gameId": "s3k",
+          "soundId": 23
+        }
+      ]
+    }
+  ]
+}

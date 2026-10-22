@@ -55467,5 +55467,421 @@
     "bytes": 8956,
     "sha256": "c0acbffbcf0096b51270a1dca21fc336fb2ce3605951b1ab100a5df3fb807703",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/BRIEF.md",
+    "root": "stageplay/media",
+    "original_path": "revision-8/BRIEF.md",
+    "bytes": 1926,
+    "sha256": "23da83d5d9fcf03583fcea5ac3aae5da66e8ca2b06a7e03057f4d6c3760646fb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/README.md",
+    "root": "stageplay/media",
+    "original_path": "revision-8/README.md",
+    "bytes": 4630,
+    "sha256": "28eaf43df596225c7be4e484f9af8b09ee488b52ffac55dba2ab9a12a3b124c2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/README.md",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/README.md",
+    "bytes": 7760,
+    "sha256": "317929114edd323c822aa24a0bfe0c794dfa5614f2c1cd7bd39b2a1b9291e873",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/build_edit.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/build_edit.py",
+    "bytes": 11057,
+    "sha256": "2f897e81b294274e36d7219a30fce43a44af97967ec22017141e4f707cbeb7fb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/candidate-01/chapters.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/candidate-01/chapters.json",
+    "bytes": 7381,
+    "sha256": "bb43b424bb0da8c72a0be506f75e7c4e599a9e3d1516e6c406250f696b9e9e86",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/candidate-01/plan.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/candidate-01/plan.json",
+    "bytes": 461,
+    "sha256": "3e61e9cefd488a98334d0f0d47a32713bce47b9978c09d6bc2ffe732ec0fbd39",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/candidate-01/verification.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/candidate-01/verification.json",
+    "bytes": 2370,
+    "sha256": "b02743dc972253169e6c5134f126b25d2e9ca1fe81b539173f64a39c86b0def5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/candidate-02/chapters.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/candidate-02/chapters.json",
+    "bytes": 7377,
+    "sha256": "406151f64407c0358267c60aa0295d189bc91a5de61caa02f078e6a54e3fca7a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/candidate-02/plan.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/candidate-02/plan.json",
+    "bytes": 466,
+    "sha256": "c765a0f496faeb64e2279b0caf38256fe9eb7b072df215b91b5f6add2178f49f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/candidate-02/verification.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/candidate-02/verification.json",
+    "bytes": 2370,
+    "sha256": "bfc977eaadb32d649bbf02bb5d5506443c223ca57825f77a6c3eb732b7ee9e9a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/final-manifest.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/final-manifest.json",
+    "bytes": 19649,
+    "sha256": "b04ffbd2d354f7ec44ac87d346cf3723129c6b4c514480e89ccaf12d5ac65573",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/edit/provisional-manifest.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/edit/provisional-manifest.json",
+    "bytes": 1395,
+    "sha256": "706dca5d63e868e71ebb4926372772484299b216a9161c2cfa2890c06897d09c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/production-provenance.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/production-provenance.json",
+    "bytes": 2154,
+    "sha256": "af43fec9c3ee7847c51bc9b5cea1dcd437b1c0f97acd0faf1c98ad23a3de067c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/review_edit.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/review_edit.py",
+    "bytes": 1297,
+    "sha256": "e0c4b65f9f7d5b3812ffe7343b0cec87f18ff03b1a40a1c8a55d85b20b1ebc96",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/README.md",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/README.md",
+    "bytes": 7472,
+    "sha256": "800ffd993e4c58f664e56cb6a6a9d8341f55e54312f62a444263e5056587568f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/audio-qualification.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/audio-qualification.json",
+    "bytes": 3741,
+    "sha256": "7bc6380a495a8eec74f0c37711cae35c7545c4145fa004d75ae2d6de5f52482d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/capture.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/capture.py",
+    "bytes": 1835,
+    "sha256": "c55875f2efd10cecda709e9577ca798e9a6b695dd9044ca500e6e181757821d2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/direct_scene.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/direct_scene.py",
+    "bytes": 4286,
+    "sha256": "6f5613e6be376cb8bbe89df5bf04b39b8dd7cadccf6574ef33d96ffcc037edfa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/engine/identity.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/engine/identity.json",
+    "bytes": 1265,
+    "sha256": "b0f6bccf6024e3c0d31aa8c676b09b90d8d79f1f7b4d6142308999c010d2b60e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/manifest.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/manifest.json",
+    "bytes": 19209,
+    "sha256": "c0640b18a3b2e7c661281d9db40b31e17aa898b0bcf5fd94911b2af841a392e6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/media-checks.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/media-checks.json",
+    "bytes": 3740,
+    "sha256": "45f2424bba29036272d5334930eaf52e1650ade54f60ae56d88433f9cbf77858",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/publish_manifest.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/publish_manifest.py",
+    "bytes": 6787,
+    "sha256": "4508af3e0c01251fe3aee1c90d7964b2fc8e35df16e125ec122bbcb1cb8bab55",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/qualify_audio.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/qualify_audio.py",
+    "bytes": 3162,
+    "sha256": "74968d5215335e5e63d35e9811c4e7831f2e0b60634be51d3c7e7d7ef49da8b7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/review_frames.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/review_frames.py",
+    "bytes": 1269,
+    "sha256": "d6d42b7f93991664fe46a71731fdca82c45b76e0d16df50df3cb86506b0ca9a6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/scene-checks.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/scene-checks.json",
+    "bytes": 4989,
+    "sha256": "5e70f019d2f0080469f018fa99826b38f54eb826197eb762ff3db71a33ebd898",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-1/clean-sfx.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-1/clean-sfx.screenplay.json",
+    "bytes": 7001,
+    "sha256": "665eba9e2b56a8fbb20e81f12e9071e6f3c67fa93ae653425baed3483055d543",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-1/clean.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-1/clean.screenplay.json",
+    "bytes": 7052,
+    "sha256": "98052fa59f0cab610d9924093e003c4fbe6f6307f13ca4a84a76449187801044",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-1/comparison-hold8.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-1/comparison-hold8.screenplay.json",
+    "bytes": 7000,
+    "sha256": "b6832453055b7c04943535430ba90250f50632f90c2448c7bdade0e704f78a16",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-1/story-sfx.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-1/story-sfx.screenplay.json",
+    "bytes": 9984,
+    "sha256": "005d04355670adb1c3ac43c16ca5e21b060200aaf32594af462cab17ea792bed",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-1/story.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-1/story.screenplay.json",
+    "bytes": 10035,
+    "sha256": "251bd4fc6d508a98f48eaeafe540617ab9ba201a630b890d24ade75774fe4a9d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-2/clean-sfx.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-2/clean-sfx.screenplay.json",
+    "bytes": 7001,
+    "sha256": "665eba9e2b56a8fbb20e81f12e9071e6f3c67fa93ae653425baed3483055d543",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-2/clean.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-2/clean.screenplay.json",
+    "bytes": 7052,
+    "sha256": "98052fa59f0cab610d9924093e003c4fbe6f6307f13ca4a84a76449187801044",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-2/comparison-hold8.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-2/comparison-hold8.screenplay.json",
+    "bytes": 7000,
+    "sha256": "b6832453055b7c04943535430ba90250f50632f90c2448c7bdade0e704f78a16",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-2/comparison-hold8.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-2/comparison-hold8.stageplay",
+    "bytes": 7455,
+    "sha256": "89ab01b608487496f4f997d12cde7fc1f82f77bc2f2640fb3609c922dc76c501",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-2/story-sfx.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-2/story-sfx.screenplay.json",
+    "bytes": 9984,
+    "sha256": "2289742ff7a3e192d618490494f1b7a67e01cb0d6c2b600c360dac4b30ccf8de",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-2/story.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-2/story.screenplay.json",
+    "bytes": 10035,
+    "sha256": "e4791a88257a5cb3808345c987ac90d242512c7bb7c5b05655ddd6e756ee516b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-2/story.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-2/story.stageplay",
+    "bytes": 9661,
+    "sha256": "52b58b22f7bc355bca824eae1ca9e39f070555bd9f70965a716c8dd89f9265df",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/clean-sfx.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/clean-sfx.screenplay.json",
+    "bytes": 7001,
+    "sha256": "665eba9e2b56a8fbb20e81f12e9071e6f3c67fa93ae653425baed3483055d543",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/clean-sfx.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/clean-sfx.stageplay",
+    "bytes": 7456,
+    "sha256": "04bc00edfd6f5e2c53563926774f1be305aa12ebe2034cfdb7bc3e2cfb1e1d41",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/clean.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/clean.screenplay.json",
+    "bytes": 7052,
+    "sha256": "98052fa59f0cab610d9924093e003c4fbe6f6307f13ca4a84a76449187801044",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/clean.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/clean.stageplay",
+    "bytes": 7456,
+    "sha256": "dc1f55ce9c5780eaa6484791ba0e6d0cc27b90005d910369b88832dfc8077a13",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/comparison-hold8.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/comparison-hold8.screenplay.json",
+    "bytes": 7000,
+    "sha256": "b6832453055b7c04943535430ba90250f50632f90c2448c7bdade0e704f78a16",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/comparison-hold8.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/comparison-hold8.stageplay",
+    "bytes": 7455,
+    "sha256": "89ab01b608487496f4f997d12cde7fc1f82f77bc2f2640fb3609c922dc76c501",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/music-bed.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/music-bed.screenplay.json",
+    "bytes": 549,
+    "sha256": "59c1bd97e4225a3c5cdb9dcbf8906bd0b23d8d5fb9cf9a87364588913b750f8a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/music-bed.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/music-bed.stageplay",
+    "bytes": 630,
+    "sha256": "85dbe9ed16c01f09140e48cee68fbb3c695829ae742f9b4c8f85c46c807f7cf7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/story-sfx.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/story-sfx.screenplay.json",
+    "bytes": 9984,
+    "sha256": "efd4cde293801b92879585f3436e7640f100033f8ad4c6b8a051d92077888653",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/story-sfx.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/story-sfx.stageplay",
+    "bytes": 9661,
+    "sha256": "af2f3aa91b13db27d1f9099c49f4704ee8d39ed086faeee741cf1888a945cbf6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/story.screenplay.json",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/story.screenplay.json",
+    "bytes": 10035,
+    "sha256": "9d70000935e5e267c593c2542f23ee63b71e4ecfc6501a94188b255c42adbbc2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/take-3/story.stageplay",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/take-3/story.stageplay",
+    "bytes": 9661,
+    "sha256": "04f413d80690cbb727674f9a9740f40354fcd53b880239f563ba95c49bd76357",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/verify_media.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/verify_media.py",
+    "bytes": 3651,
+    "sha256": "a8a6be754c00a65b482967bd7c1ebdfbc2798b12f06595c512927bb02e0fd872",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/scene/verify_scene.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/scene/verify_scene.py",
+    "bytes": 5854,
+    "sha256": "e1c070672b6f508feca75999841886da661f5fec47cd7b8aef3df2b9f14cf1e3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay/sources/media/revision-8/verify_edit.py",
+    "root": "stageplay/media",
+    "original_path": "revision-8/verify_edit.py",
+    "bytes": 2810,
+    "sha256": "ae7f10265cf11b6a46dbedc6bb0cdee386cb0b88aeec5f9fddbf81cfcf2dd4f7",
+    "snapshot": "byte-copy"
   }
 ]

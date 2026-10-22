@@ -1,0 +1,98 @@
+{
+  "file": "edit/candidate-02/tutorial.mp4",
+  "sha256": "d101d8b0ce25f961b8658439ddc0b1eb9714c38ee2f943be62182294f4b8a5d4",
+  "frames": 4500,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": "60/1",
+  "seconds": 75.0,
+  "chapters": 11,
+  "audioChannels": 2,
+  "fullDecode": "passed",
+  "encodedAudio": {
+    "integratedLufs": -17.3,
+    "truePeakDbfs": -4.6
+  },
+  "sections": [
+    {
+      "title": "The finished short",
+      "startSeconds": 0.0,
+      "endSeconds": 26.0,
+      "integratedLufs": -16.7,
+      "truePeakDbfs": -5.2
+    },
+    {
+      "title": "DIRECT A CHOICE",
+      "startSeconds": 26.0,
+      "endSeconds": 32.0,
+      "integratedLufs": -20.3,
+      "truePeakDbfs": -5.9
+    },
+    {
+      "title": "GIVE THEM A REASON",
+      "startSeconds": 32.0,
+      "endSeconds": 36.0,
+      "integratedLufs": -17.4,
+      "truePeakDbfs": -4.9
+    },
+    {
+      "title": "LET A MOVE CHANGE THINGS",
+      "startSeconds": 36.0,
+      "endSeconds": 40.916666666666664,
+      "integratedLufs": -18.0,
+      "truePeakDbfs": -4.6
+    },
+    {
+      "title": "MAKE THE REPLY VISIBLE",
+      "startSeconds": 40.916666666666664,
+      "endSeconds": 45.0,
+      "integratedLufs": -16.9,
+      "truePeakDbfs": -5.1
+    },
+    {
+      "title": "CHOOSE THE SHARED ARRIVAL",
+      "startSeconds": 45.0,
+      "endSeconds": 49.75,
+      "integratedLufs": -16.7,
+      "truePeakDbfs": -6.0
+    },
+    {
+      "title": "COUNT INTO THE JUMP",
+      "startSeconds": 49.75,
+      "endSeconds": 52.666666666666664,
+      "integratedLufs": -16.5,
+      "truePeakDbfs": -5.3
+    },
+    {
+      "title": "WATCH THE CONSEQUENCE",
+      "startSeconds": 52.666666666666664,
+      "endSeconds": 58.0,
+      "integratedLufs": -16.8,
+      "truePeakDbfs": -5.2
+    },
+    {
+      "title": "A \u00b7 HOLD 20",
+      "startSeconds": 58.0,
+      "endSeconds": 62.5,
+      "integratedLufs": -17.2,
+      "truePeakDbfs": -6.1
+    },
+    {
+      "title": "B \u00b7 HOLD 8",
+      "startSeconds": 62.5,
+      "endSeconds": 67.0,
+      "integratedLufs": -17.4,
+      "truePeakDbfs": -5.8
+    },
+    {
+      "title": "YOUR TURN.",
+      "startSeconds": 67.0,
+      "endSeconds": 75.0,
+      "integratedLufs": -18.4,
+      "truePeakDbfs": -5.1
+    }
+  ],
+  "limits": "Encoded measurements only. Full-rate motion review and visual inspection recorded separately; no physical listening claim."
+}

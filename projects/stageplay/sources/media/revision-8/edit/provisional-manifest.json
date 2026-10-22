@@ -1,0 +1,49 @@
+{
+  "provisional": true,
+  "fps": 60,
+  "storyFrames": 1560,
+  "totalFrames": 2040,
+  "paths": {
+    "story": "../../revision-7/wait-for-me.mkv",
+    "clean": "../../revision-7/directing-view.mkv",
+    "comparison": "../../revision-7/directing-view.mkv"
+  },
+  "tutorialNotes": [
+    {
+      "startFrame": 0,
+      "endFrame": 360,
+      "title": "GIVE IT A REASON",
+      "body": "One wants to race. One wants to cross together.",
+      "command": "Choose a goal before a move."
+    },
+    {
+      "startFrame": 360,
+      "endFrame": 720,
+      "title": "LET A REPLY MATTER",
+      "body": "Tails speaks. Sonic changes his next move.",
+      "command": "Dialogue + a visible reaction"
+    },
+    {
+      "startFrame": 720,
+      "endFrame": 1080,
+      "title": "DIRECT THE ATTEMPT",
+      "body": "Aim for a destination. Let native movement do the work.",
+      "command": "MOVE_TO \u00b7 JUMP \u00b7 WAIT"
+    },
+    {
+      "startFrame": 1080,
+      "endFrame": 1560,
+      "title": "WAIT FOR THE RESULT",
+      "body": "Let the landing finish before the next instruction.",
+      "command": "WAIT: ON_OBJECT"
+    }
+  ],
+  "comparison": {
+    "startFrame": 720,
+    "endFrame": 1020,
+    "change": "PROVISIONAL LAYOUT ONLY. Real scene A/B pending.",
+    "outcome": "Same provisional source; no comparison claim.",
+    "labelA": "A \u00b7 ORIGINAL",
+    "labelB": "B \u00b7 ONE CHANGE"
+  }
+}

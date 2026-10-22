@@ -1,0 +1,51 @@
+{
+  "runtimeCommit": "1a5ae4adf487efe224f466f936d7fd8a8eded2e5",
+  "sceneCommit": "4ddc820715ce8e8080d44ce8f9e14adc4d307f61",
+  "engineDeliveryCommit": "94c40570a15a11b70caf7456e9b0d0a8eec8a9b4",
+  "sceneEvidence": "scene/manifest.json",
+  "edit": "edit/candidate-02/plan.json",
+  "fonts": [
+    {
+      "path": "/usr/share/fonts/TTF/FiraSansCompressed-HeavyItalic.ttf",
+      "sha256": "d90978e735829bcb5218e221f4371c54ba3192b166c872a1f1e213fc74916fb1",
+      "bytes": 559652,
+      "license": "SIL Open Font License; external, not redistributed"
+    },
+    {
+      "path": "/usr/share/fonts/TTF/FiraSans-Medium.ttf",
+      "sha256": "7e7acee3fda79ae2cc3ec899f14f7a5b9e988b27a88f31a81a8ad4cb870b8987",
+      "bytes": 488960,
+      "license": "SIL Open Font License; external, not redistributed"
+    }
+  ],
+  "review": {
+    "priorOpus55": "Sampled images, screenplay and loudness; no normal-speed playback or physical listening.",
+    "standaloneBrowser": {
+      "frames": 1560,
+      "rate": 1,
+      "ended": true,
+      "droppedFrames": 0,
+      "error": null
+    },
+    "scope": "Bounded agent visual inspection plus complete browser playback, not human creative approval.",
+    "supersededCandidate01": {
+      "frames": 4500,
+      "rate": 1,
+      "ended": true,
+      "droppedFrames": 0,
+      "reason": "Count-in note used clean footage, hiding the reveal it explained; replaced that interval with matching dialogue picture."
+    },
+    "finalTutorialBrowser": {
+      "frames": 4500,
+      "time": 75,
+      "rate": 1,
+      "ended": true,
+      "droppedFrames": 0,
+      "error": null
+    },
+    "visualScope": "All cut boundaries, selected full-size layouts, native contact/apex images and bounded snapshots during complete 1x playback. Return arc, dialogue separation, count reveal and A/B outcome inspected. Not continuous human viewing or physical hearing."
+  },
+  "editSourceSha256": "2f897e81b294274e36d7219a30fce43a44af97967ec22017141e4f707cbeb7fb",
+  "editManifestSha256": "b04ffbd2d354f7ec44ac87d346cf3723129c6b4c514480e89ccaf12d5ac65573",
+  "finalOutputSha256": "d101d8b0ce25f961b8658439ddc0b1eb9714c38ee2f943be62182294f4b8a5d4"
+}

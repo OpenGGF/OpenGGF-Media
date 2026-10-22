@@ -1,0 +1,126 @@
+{
+  "captures": {
+    "story": {
+      "path": "take-3/story.mkv",
+      "frames": 2040,
+      "width": 640,
+      "height": 448,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "sampleRate": "48000",
+      "fullDecode": "passed",
+      "streamHashes": {
+        "v:0": "SHA256=bea87b1ecfcc2e20040f1ad30404225c14b8afe6e6cc048c1d66c1b0155e559b",
+        "a:0": "SHA256=11069e0acb1085e12e7218b9c35bec74bba5f0e326e7e7211cca9aca512f63b1"
+      }
+    },
+    "clean": {
+      "path": "take-3/clean.mkv",
+      "frames": 2040,
+      "width": 640,
+      "height": 448,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "sampleRate": "48000",
+      "fullDecode": "passed",
+      "streamHashes": {
+        "v:0": "SHA256=a2cf20be8900ee8c8a5de1eed717e08b4568dd720b17f3f2ca4faa47c1760247",
+        "a:0": "SHA256=11069e0acb1085e12e7218b9c35bec74bba5f0e326e7e7211cca9aca512f63b1"
+      }
+    },
+    "story-sfx": {
+      "path": "take-3/story-sfx.mkv",
+      "frames": 2040,
+      "width": 640,
+      "height": 448,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "sampleRate": "48000",
+      "fullDecode": "passed",
+      "streamHashes": {
+        "v:0": "SHA256=bea87b1ecfcc2e20040f1ad30404225c14b8afe6e6cc048c1d66c1b0155e559b",
+        "a:0": "SHA256=321052c0a0fa55741562611f574c403a80222f026f006b690064d0cd623aead8"
+      }
+    },
+    "clean-sfx": {
+      "path": "take-3/clean-sfx.mkv",
+      "frames": 2040,
+      "width": 640,
+      "height": 448,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "sampleRate": "48000",
+      "fullDecode": "passed",
+      "streamHashes": {
+        "v:0": "SHA256=a2cf20be8900ee8c8a5de1eed717e08b4568dd720b17f3f2ca4faa47c1760247",
+        "a:0": "SHA256=321052c0a0fa55741562611f574c403a80222f026f006b690064d0cd623aead8"
+      }
+    },
+    "comparison-hold8": {
+      "path": "take-3/comparison-hold8.mkv",
+      "frames": 2040,
+      "width": 640,
+      "height": 448,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "sampleRate": "48000",
+      "fullDecode": "passed",
+      "streamHashes": {
+        "v:0": "SHA256=632779e5ca13696b4c2e864e20346656cd1d091d1563d21cf364f177a032c01c",
+        "a:0": "SHA256=166cac0d1d277549b9306273f2230db669110b560e7cd3c1233975101255231d"
+      }
+    },
+    "music-bed": {
+      "path": "take-3/music-bed.mkv",
+      "frames": 5760,
+      "width": 640,
+      "height": 448,
+      "fps": "60/1",
+      "audioChannels": 2,
+      "sampleRate": "48000",
+      "fullDecode": "passed",
+      "streamHashes": {
+        "v:0": "SHA256=dabda0beccbdc9d098881b0ce3fa7510a502b95e2073ed065ea6e658c65b5a22",
+        "a:0": "SHA256=d27fdec5bb6ed644a400d0dc6814b30f89d1752fc6e619c2b0e5c4651e82b3dc"
+      }
+    }
+  },
+  "waves": {
+    "native-sfx.wav": {
+      "frames": 1632000,
+      "rate": 48000,
+      "channels": 2,
+      "peakSample": 4718,
+      "nonzeroSamples": 3242329,
+      "totalSamples": 3264000
+    },
+    "comparison-native-sfx.wav": {
+      "frames": 1632000,
+      "rate": 48000,
+      "channels": 2,
+      "peakSample": 4718,
+      "nonzeroSamples": 3242335,
+      "totalSamples": 3264000
+    },
+    "continuous-music.wav": {
+      "frames": 4608000,
+      "rate": 48000,
+      "channels": 2,
+      "peakSample": 5958,
+      "nonzeroSamples": 9212897,
+      "totalSamples": 9216000
+    }
+  },
+  "standalone": {
+    "path": "wait-for-me-standalone.mp4",
+    "frames": 1560,
+    "width": 1280,
+    "height": 896,
+    "fps": 60,
+    "fullDecode": "passed"
+  },
+  "videoMusicStopMatchesEveryDecodedPixel": true,
+  "sfxPcmMatchesDialogueAndClean": true,
+  "musicAndSfxAreDistinct": true,
+  "limits": "Decoded media and deterministic stream equality. No physical listening, loudness mastering or normal-speed creative review; parent owns final edit review."
+}
