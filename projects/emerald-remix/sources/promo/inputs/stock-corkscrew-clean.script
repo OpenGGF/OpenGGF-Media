@@ -1,0 +1,7 @@
+# Same four-rev approach as remix; after the two original twists, jump the stock run-out spring.
+40 -
+8 D
+repeat 4 { 3 D+A; 3 D }
+108 R
+24 R+A
+696 R

@@ -222,5 +222,17 @@
     "original": "/usr/share/fonts/TTF",
     "archive": "",
     "notes": "Fira Sans Compressed Heavy Italic and Fira Sans Medium used by revision-three and revision-five editorial accents; exact hashes and SIL OFL notice location in production provenance. External fonts are not redistributed."
+  },
+  {
+    "id": "emerald-remix/promo",
+    "original": "/home/farrell/Videos/OGGF/emerald-remix-promo",
+    "archive": "projects/emerald-remix/sources/promo",
+    "notes": "Finished Emerald Remix promo; byte-preserved final edit plus explicitly superseded production history. Local footage/art/audio remain external; external-assets.json records file and sequence hashes."
+  },
+  {
+    "id": "emerald-remix/fonts",
+    "original": "/usr/share/fonts/TTF",
+    "archive": "",
+    "notes": "External Fira editorial faces. Current installed bytes hashed at archive time; historical font-file identity was not recorded during rendering. Supply separately under their own licence; no fonts redistributed."
   }
 ]

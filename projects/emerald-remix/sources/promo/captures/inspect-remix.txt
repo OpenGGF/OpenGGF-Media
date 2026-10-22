@@ -1,0 +1,18 @@
+IDENTITY module=jdk.proxy2.$Proxy8 zone=0 act=0
+OBJECT id=65 x=2384 y=624 subtype=50
+OBJECT id=65 x=3316 y=440 subtype=3
+OBJECT id=6 x=4288 y=640 subtype=0
+OBJECT id=6 x=4672 y=640 subtype=0
+OBJECT id=65 x=4808 y=846 subtype=18
+OBJECT id=6 x=5056 y=640 subtype=0
+OBJECT id=65 x=6000 y=496 subtype=50
+OBJECT id=65 x=6088 y=944 subtype=18
+OBJECT id=65 x=6728 y=720 subtype=18
+OBJECT id=65 x=7568 y=672 subtype=58
+OBJECT id=65 x=7760 y=648 subtype=32
+OBJECT id=65 x=7824 y=896 subtype=50
+OBJECT id=65 x=7920 y=512 subtype=2
+OBJECT id=65 x=9232 y=416 subtype=50
+OBJECT id=6 x=9664 y=640 subtype=0
+OBJECT id=65 x=10032 y=672 subtype=50
+OBJECT id=13 x=10688 y=739 subtype=0

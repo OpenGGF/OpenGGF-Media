@@ -1,0 +1,14 @@
+# OpenGGF configuration — only the settings you changed.
+# Every other setting uses its built-in default; see config.yaml.example
+# beside this file for the full documented list. Indentation is
+# significant (YAML). This file is rewritten cleanly on save.
+configFormat: 2
+
+# ── ROMs ──
+roms:
+  sonic2: "/home/farrell/code/projects/OpenGGF/.worktrees/promo-coach/s2.gen"   # Filename of the Sonic 2 ROM
+  directory: "/home/farrell/code/projects/OpenGGF/.worktrees/promo-coach"   # Directory scanned for ROM images (*.gen, *.bin, *.md); images are identified by size and header
+
+# ── mods ──
+mods:
+  skipModZoneTitleCards: true   # Skip unsupported title cards when entering additive mod zones

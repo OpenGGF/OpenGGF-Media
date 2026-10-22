@@ -1,0 +1,13 @@
+{
+  "status": "retained rough-cut source",
+  "windows_end_exclusive": [
+    [
+      100,
+      1079
+    ]
+  ],
+  "frames": 1250,
+  "hurt_dead_in_windows": 0,
+  "fps": 60,
+  "decode": "passed"
+}

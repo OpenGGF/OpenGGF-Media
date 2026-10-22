@@ -1,0 +1,47 @@
+{
+  "source_commit": "8aa692b045c195ef8a42896b6bbc9549158470c0",
+  "track": "Sonic 2 Emerald Hill Zone (2P)",
+  "music_id_hex": "91",
+  "render": "accurate FM core; NTSC; full SMPS mix; not gameplay audio",
+  "sample_rate": 48000,
+  "channels": 2,
+  "raw_duration_seconds": 76.0,
+  "bpm": 106.63416863432099,
+  "first_beat_seconds": 0.04071119047619047,
+  "period_seconds": 0.5626714285714285,
+  "first_attack_over_initial_baseline_seconds": 0.034333333333333334,
+  "initial_dc_baseline": [
+    0.0087890625,
+    0.0087890625
+  ],
+  "onset_threshold_above_baseline": 0.01,
+  "phase_distance_from_first_material_ms": 6.3778571428571365,
+  "independent_24_second_windows": [
+    {
+      "start_seconds": 0,
+      "bpm": 106.63416863432099,
+      "first_beat_seconds": 0.04071119047619047
+    },
+    {
+      "start_seconds": 18,
+      "bpm": 106.60169039823347,
+      "first_beat_seconds": 18.040714047619048
+    },
+    {
+      "start_seconds": 36,
+      "bpm": 106.65041517483051,
+      "first_beat_seconds": 36.05008619047619
+    }
+  ],
+  "sections_are": "spectral novelty candidates, not certified musical downbeats",
+  "review_frames": 4222,
+  "review_duration_seconds": 70.36666666666666,
+  "review_highpass_hz": 20,
+  "review_gain_db": 6,
+  "review_fade_out_seconds": 2,
+  "sha256": {
+    "audio/raw/s2-music-91-mix.wav": "7f1b6d145f83bbe15a5cfd8ce59de5ba823248421cd471055cd230fd6d45d640",
+    "audio/emerald-remix-review-bed.wav": "eb4e45d0140f52bb3c97b6962d1d36d2ef84395530d9d613133f8ba7e0e441bb"
+  },
+  "phase_review": "PCM onset comparison performed; no physical listening or bar/downbeat confirmation performed. Audition before footage lock."
+}

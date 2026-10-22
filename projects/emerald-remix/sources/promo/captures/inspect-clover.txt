@@ -1,0 +1,3 @@
+IDENTITY module=jdk.proxy2.$Proxy8 zone=11 act=0
+OBJECT id=65 x=1832 y=568 subtype=2
+OBJECT id=13 x=5016 y=544 subtype=0

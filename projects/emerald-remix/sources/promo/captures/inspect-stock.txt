@@ -1,0 +1,19 @@
+IDENTITY module=com.openggf.game.sonic2.Sonic2GameModule zone=0 act=0
+OBJECT id=65 x=1928 y=752 subtype=16
+OBJECT id=65 x=2220 y=568 subtype=3
+OBJECT id=65 x=2896 y=624 subtype=50
+OBJECT id=65 x=3828 y=440 subtype=3
+OBJECT id=6 x=4800 y=640 subtype=0
+OBJECT id=65 x=5744 y=496 subtype=50
+OBJECT id=65 x=5832 y=944 subtype=18
+OBJECT id=65 x=6472 y=720 subtype=18
+OBJECT id=65 x=7312 y=672 subtype=58
+OBJECT id=65 x=7504 y=648 subtype=32
+OBJECT id=65 x=7568 y=896 subtype=50
+OBJECT id=65 x=7664 y=512 subtype=2
+OBJECT id=65 x=8976 y=416 subtype=50
+OBJECT id=6 x=9408 y=640 subtype=0
+OBJECT id=6 x=9792 y=640 subtype=0
+OBJECT id=65 x=9928 y=846 subtype=18
+OBJECT id=65 x=10160 y=672 subtype=50
+OBJECT id=13 x=10816 y=739 subtype=0

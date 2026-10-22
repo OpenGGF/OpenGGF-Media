@@ -55883,5 +55883,1733 @@
     "bytes": 2810,
     "sha256": "ae7f10265cf11b6a46dbedc6bb0cdee386cb0b88aeec5f9fddbf81cfcf2dd4f7",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/BEAT_SHEET.md",
+    "root": "emerald-remix/promo",
+    "original_path": "BEAT_SHEET.md",
+    "bytes": 3942,
+    "sha256": "fdb7d324368a2f92b29ccb5f59465dfa869c4279917f80839921086b0c84a061",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/BEAT_SHEET_REVISED.md",
+    "root": "emerald-remix/promo",
+    "original_path": "BEAT_SHEET_REVISED.md",
+    "bytes": 4617,
+    "sha256": "56261889e492f4ce0d8db193bd15830835dc6437b2fc5f75bec399df6bab2489",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/BRIEF.md",
+    "root": "emerald-remix/promo",
+    "original_path": "BRIEF.md",
+    "bytes": 7191,
+    "sha256": "c90085baff3e6a5659ba066546b48b572193019f5d42dfd42cbdd150ddb5c4ac",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/CAPTURE_PLAN.md",
+    "root": "emerald-remix/promo",
+    "original_path": "CAPTURE_PLAN.md",
+    "bytes": 8244,
+    "sha256": "10053ccdf767fa9298a816149154af44637ac708250d983f18043d8a64e84b64",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/RESEARCH.md",
+    "root": "emerald-remix/promo",
+    "original_path": "RESEARCH.md",
+    "bytes": 5474,
+    "sha256": "c03a3a0684277c22724d416c01c7901abc54253076d5c95a3f7284c1a39f3b7e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/SHOT_LIST.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "SHOT_LIST.csv",
+    "bytes": 6112,
+    "sha256": "a0e81ee7c037813650da7ac15a1ab6d37b648d677c20e9f8713e95d53e172c0c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/STATUS.capture-session.md",
+    "root": "emerald-remix/promo",
+    "original_path": "STATUS.capture-session.md",
+    "bytes": 16853,
+    "sha256": "afbdefafc4471dcffbe8935b49fd9fabac08b9facf1bdd6c5e6f8483c8c48245",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/STATUS.md",
+    "root": "emerald-remix/promo",
+    "original_path": "STATUS.md",
+    "bytes": 19951,
+    "sha256": "1be43679f1e0a02e3f6cd4e8444d2639e46f01d8ad986fc5f480235f24299512",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/STATUS.planning-session.md",
+    "root": "emerald-remix/promo",
+    "original_path": "STATUS.planning-session.md",
+    "bytes": 8632,
+    "sha256": "d005184d1980b2f6d49ea8e4906e9e15d52a2d20d77775e51a12f9aef561ea62",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/audio/MUSIC.md",
+    "root": "emerald-remix/promo",
+    "original_path": "audio/MUSIC.md",
+    "bytes": 4684,
+    "sha256": "a37f5d92884716a369905bbeb32a4bfca7f833f2df691433343342fd9c8a9f6e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/audio/analysis.json",
+    "root": "emerald-remix/promo",
+    "original_path": "audio/analysis.json",
+    "bytes": 1653,
+    "sha256": "5eb89a1f30c4975a9e99a8c052e0521be99e1ae8f2549da18b924c2e763e7bb5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/audio/beats.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "audio/beats.csv",
+    "bytes": 3039,
+    "sha256": "e7036bee83f6d70828e7d5a5161e2d107fb4462ac47e1ea2daae751d8b52768c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/audio/section-candidates.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "audio/section-candidates.csv",
+    "bytes": 509,
+    "sha256": "0a95666f41e70e11ee069bbb1875a7f6ed6558ae7ff09b9878e3ca46309f114f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-default-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-default-final/provenance.json",
+    "bytes": 11423,
+    "sha256": "1b636c9fb43f65f9bc80bf4cd5a0cd99ab3f0cd923840d5baa9c1bff4a2d4af9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-default-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-default-final/state.csv",
+    "bytes": 94672,
+    "sha256": "3ba43db3201be71401d1a49cfd4df127ed71551c738f806396e055101c1649a5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-end-scout01/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-end-scout01/provenance.json",
+    "bytes": 10486,
+    "sha256": "d879fe29c13ada09d061bec7a00ddb13a5796922609afbad36722d2ad23642ce",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-end-scout01/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-end-scout01/state.csv",
+    "bytes": 50980,
+    "sha256": "9ff8409270ba4302bc32345da727aa5c6f9e97788faed9f503b2a7c12626a3ce",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-end-scout02/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-end-scout02/provenance.json",
+    "bytes": 11266,
+    "sha256": "00d5d75fe62986479bc3d5048dc73f276f9378f834bb230997dc20158c9e577b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-end-scout02/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-end-scout02/state.csv",
+    "bytes": 49891,
+    "sha256": "c7533ce1520257ff1be8a6366be36f94e9a7261d6d2a1c6fb9e630c2ab283979",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-route-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-route-final/provenance.json",
+    "bytes": 11628,
+    "sha256": "f55459ad433118de62b21f8bd659a8a530b25c0c50fd93a7d814d759977329ef",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-route-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-route-final/source-review.json",
+    "bytes": 1449,
+    "sha256": "f3623212bd44c6b799fe908f99ba3b9b3ee5dc2741ab4d5e9ed955edf66d86b0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-route-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-route-final/state.csv",
+    "bytes": 112790,
+    "sha256": "a833f8c828244925d409757cd32039b414aef4afd5c2cc28a55d1a64b9ac5117",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout01/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout01/provenance.json",
+    "bytes": 10450,
+    "sha256": "c1bf9b2695573b78c49da21701ee4d16c09fe5db99dc112eee17c44bfde41f90",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout01/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout01/state.csv",
+    "bytes": 111019,
+    "sha256": "d8a97d709285d44fae526410aee7b347270b46483d10aaf907a901852f129d8c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout02/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout02/provenance.json",
+    "bytes": 10637,
+    "sha256": "b16cfe574796e3691bceb9bdc557f83b4471d50d4d71def5b8e8f97e78e9226f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout02/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout02/state.csv",
+    "bytes": 141394,
+    "sha256": "fd6428bd2570ffe2129e9bde0191766b5e2c0a1ac96075249432d43be6041278",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout03/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout03/provenance.json",
+    "bytes": 10638,
+    "sha256": "0f41902f16059b16d73e3c467a65159aef3b8a9a2c4a168ef5fe0380c3f60503",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout03/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout03/state.csv",
+    "bytes": 141483,
+    "sha256": "66a673e2b51815675b57e5cf967ef3875876bae4c448d42cb97b4e1d70489d7c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout04/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout04/provenance.json",
+    "bytes": 10636,
+    "sha256": "20ba0dabb4f41f989c44f5102f53708215fec2cda853298aacf99421ac8816f3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout04/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout04/state.csv",
+    "bytes": 143704,
+    "sha256": "d60cecb0cecf052aa532927e1cb1845560ed5dab2ebb6c71daca105d4798543c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout05/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout05/provenance.json",
+    "bytes": 10632,
+    "sha256": "34ed3682aadb09a1af71337ea522016c1f7be3213729a9958b1e2e6d59fe87f3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-scout05/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-scout05/state.csv",
+    "bytes": 143590,
+    "sha256": "54438e31059f4ed839eb679a764ba42b44c5c232c45c34cbff3010445b4afb81",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-clean/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-clean/provenance.json",
+    "bytes": 11431,
+    "sha256": "891aaeae125c1a9d7aa93de187671699d12798eaad15f3ebca7645383cdb20dc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-clean/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-clean/state.csv",
+    "bytes": 100310,
+    "sha256": "f275dcd57bbd60229a709250258606e13570a5d004a8f18608e1ed69eef5749f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-final/provenance.json",
+    "bytes": 11426,
+    "sha256": "052205da83a0ce00df243082d9c20f621d1ec035b799b040745d145ba7f16a42",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-final/state.csv",
+    "bytes": 112941,
+    "sha256": "4736b1820058daa2493547334d2e348883878bdd0a0dff266880de20979a92bb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-route-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-route-final/provenance.json",
+    "bytes": 11411,
+    "sha256": "69dd0f950b6c75af1d4f87caf5fe34febe44c9fcdecf1d28a6dbc6edc6be37fe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-route-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-route-final/source-review.json",
+    "bytes": 194,
+    "sha256": "e68d352d5d39a8f2cfeb5ce1a99d94ec2bd9d03f72cd2404018307895fab151e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-route-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-route-final/state.csv",
+    "bytes": 101322,
+    "sha256": "52a9074b7e0f87d5d9984ddc8d49aed9940e306bb43e515cea20fbd28f141331",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-scout04/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-scout04/provenance.json",
+    "bytes": 11267,
+    "sha256": "2af95f69cdb9c243a4656f0b1b1367f1dee41a6dc5df8c803a8fc6241aa48d0d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-shipping-scout04/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-shipping-scout04/state.csv",
+    "bytes": 89797,
+    "sha256": "c2a8320f7e374876c41bb149b1fde42bf0d322a83742abdd2e53765ce69c92d1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-tail-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-tail-final/provenance.json",
+    "bytes": 11412,
+    "sha256": "cae4be76e5c2ad063f7cb1fd7fb9a9da862f5762583efa3292b18e036ecaaeff",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-tail-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-tail-final/source-review.json",
+    "bytes": 1187,
+    "sha256": "06779e166ad710b42bfe538dc5095d8926b548ac6b5cfeca5d6c3ccef6e7cd82",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/clover-tail-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/clover-tail-final/state.csv",
+    "bytes": 40891,
+    "sha256": "3a4f37724dccdc95774a0ee4ea3ac26ab1fc9beba81a9ce9250c1161cae8add5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/inspect-clover.txt",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/inspect-clover.txt",
+    "bytes": 121,
+    "sha256": "257d0fe65fde872dc9100fb14f9d2cfedef4eaf7bb1492a4666c77b1ae12b066",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/inspect-remix.txt",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/inspect-remix.txt",
+    "bytes": 668,
+    "sha256": "9c47d62f95c409f133d52a923f2180a222b3798a95ee652d3c78ce3013259dce",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/inspect-stock.txt",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/inspect-stock.txt",
+    "bytes": 728,
+    "sha256": "2e4e255afc1cfda735288a5a6824b935c145b734041a6bcd62e40efbae2b7898",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-corkscrew-scout01/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-corkscrew-scout01/provenance.json",
+    "bytes": 10511,
+    "sha256": "4dd21ae0533dcb974fde9a76d24f2a2b050f8979a1ca3d89c7a87c082c947df5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-corkscrew-scout01/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-corkscrew-scout01/state.csv",
+    "bytes": 70930,
+    "sha256": "52e940491fd857fd89d72a50bbf85fb1614fff09041bbf6db779f7b62b1ae07c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-corkscrew-scout02/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-corkscrew-scout02/provenance.json",
+    "bytes": 10512,
+    "sha256": "586931688b8d4f2aa46abb4d3fc1f6b9be261c231ffdde2daa2e1fec368289ef",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-corkscrew-scout02/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-corkscrew-scout02/state.csv",
+    "bytes": 74165,
+    "sha256": "4cca084bbfaa762f476b5d8a93c5f51cbe3caee7fb8887a1cdb870f57b3c6e72",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-corkscrew-scout03/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-corkscrew-scout03/provenance.json",
+    "bytes": 10511,
+    "sha256": "ceaf0a3981facdeffe1cd13cd75c8944dbebd6f88e9fa23eaf420e86ac7cfceb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-corkscrew-scout03/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-corkscrew-scout03/state.csv",
+    "bytes": 71659,
+    "sha256": "67f8b218cfd2ebdf35ff3069cff2645f72778d699ce4189b64458e328ea7d301",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-dash-wide-scout/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-dash-wide-scout/provenance.json",
+    "bytes": 11312,
+    "sha256": "93ada46d4c35ba0127400739c1c12815da9ce2307f1ce8ab97013292ecec2840",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-dash-wide-scout/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-dash-wide-scout/state.csv",
+    "bytes": 31999,
+    "sha256": "9a47c01159fc0763c0f21d345775c7104fe45ac195ed0e6734668e4edee78a40",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-land-scout08/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-land-scout08/provenance.json",
+    "bytes": 11296,
+    "sha256": "b6586b087fff160ed11aefca6ae993eee303298a79e36a3a0363b74f0ef79e9b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-land-scout08/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-land-scout08/state.csv",
+    "bytes": 35430,
+    "sha256": "e07959590385b51bd9029fe6f6147d297727fb871a41833becd19d94734bfb90",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-land-scout09/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-land-scout09/provenance.json",
+    "bytes": 11296,
+    "sha256": "cb71e69ebe06d73f5e9447d87b84e9e4527c694e56fafdab99f1c45d502f691c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-land-scout09/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-land-scout09/state.csv",
+    "bytes": 35175,
+    "sha256": "a3ae82512e42cc874395a85ff4265e9053ab0ffe37e754d007c7f56e5a6da78d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-opening-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-opening-final/provenance.json",
+    "bytes": 11367,
+    "sha256": "060754c34052351696fdccb197a7c5aa1464059529ae0476e12d804dffa7de5f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-opening-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-opening-final/source-review.json",
+    "bytes": 1211,
+    "sha256": "02c800c4e1911ae924b94c5190cda01ab577cfdea856d3d57192e87f501de173",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-opening-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-opening-final/state.csv",
+    "bytes": 73501,
+    "sha256": "db1b8985382a011396780c722282b09c8bf93480670132e34c36b24fcd5f3d22",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-run-scout02/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-run-scout02/provenance.json",
+    "bytes": 11291,
+    "sha256": "024d8689f58b73b18f9fd4ffe3d9cd871ec95e485ab6d8bba86980c74f534905",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-run-scout02/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-run-scout02/state.csv",
+    "bytes": 41452,
+    "sha256": "88eb95d3e7a6708dec82f43b6e9c63feffde18a44185beab9a370ba14191614e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-run-scout05/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-run-scout05/provenance.json",
+    "bytes": 11291,
+    "sha256": "fbcbffc57c979e14fb8a02a9deab323a9f2b2c082cc1a083aed58c888ec8264f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-run-scout05/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-run-scout05/state.csv",
+    "bytes": 33981,
+    "sha256": "ef304fc7e943f5cb51753aa962cb7da2b04b24842019e2789d2c924c2b39075d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-run-scout06/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-run-scout06/provenance.json",
+    "bytes": 11291,
+    "sha256": "5a9de29d5daddedb6aafc6524c4d69caaf52b38358bea1ccbea662668477f6c7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-run-scout06/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-run-scout06/state.csv",
+    "bytes": 33811,
+    "sha256": "1247d5c4059e7dbdd9615f4cfd668d8729d2009052a303b1826f84de1b788324",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-run-scout10/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-run-scout10/provenance.json",
+    "bytes": 11291,
+    "sha256": "69f5b4f7245705b2568426a35e639aedd4a53178664f7000a7ec25d1c113c63c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-run-scout10/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-run-scout10/state.csv",
+    "bytes": 36199,
+    "sha256": "a1f57362a410c6abb5997667dd38477e8e5b8777108e300829f4afb1c2f4797c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-scout01/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-scout01/provenance.json",
+    "bytes": 10302,
+    "sha256": "6a86950612b9c11b2f8002f8a6f4da64cad41c9f2e53ecd1010dd07b8055e647",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-scout01/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-scout01/state.csv",
+    "bytes": 180932,
+    "sha256": "5def2553d36c9ee04180845bd6024b927f3f2199b6a3898125fb0010e1ad29f0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-scout02/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-scout02/provenance.json",
+    "bytes": 10328,
+    "sha256": "ee2341556ddc05c07c8c259b0324d38b88ccd28c3043da4b2245ebaf1e478f8c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-scout02/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-scout02/state.csv",
+    "bytes": 120560,
+    "sha256": "ded9af69ffec299332b9aa2b2e1fc7f3962d78e28e8330df3082cbbdf17601e0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-scout03/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-scout03/provenance.json",
+    "bytes": 10428,
+    "sha256": "0f1bc0931f9b0d199f6abe622b780972d5337a35daec3194447790d9778d7195",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-scout03/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-scout03/state.csv",
+    "bytes": 120560,
+    "sha256": "fd9896bca0b618657e08a9397cb8135477746e213d80eec8acc666c47698ae70",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-scout04/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-scout04/provenance.json",
+    "bytes": 10404,
+    "sha256": "e79155af79b95585123474050cf1e236058a1419ee60693a8773f88ac50aae56",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-scout04/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-scout04/state.csv",
+    "bytes": 191652,
+    "sha256": "408f383cb37bbdac4629efb97d61be0bd2dc69fb978746ee06fb7bb52909fc08",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-single-scout01/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-single-scout01/provenance.json",
+    "bytes": 10497,
+    "sha256": "b8d36148209aa12d4345eae66c2e22a2a46a281287735348c3ac12113980ccde",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-single-scout01/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-single-scout01/state.csv",
+    "bytes": 47146,
+    "sha256": "c4333b1d70692d70c2a2bd51909b7ab1abf4268c8b4d8875e06c8b416c1a149d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-triple-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-triple-final/provenance.json",
+    "bytes": 11423,
+    "sha256": "32e5250f63b81bebfa32626dfce937dd5b68ea72af4256493d20269d8e151f3a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-triple-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-triple-final/source-review.json",
+    "bytes": 1248,
+    "sha256": "69bbcad839d20df9688ee21d947448150f44fd76afc6f3d20dd6615e0fd515ae",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-triple-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-triple-final/state.csv",
+    "bytes": 74165,
+    "sha256": "4cca084bbfaa762f476b5d8a93c5f51cbe3caee7fb8887a1cdb870f57b3c6e72",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-hero-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-hero-final/provenance.json",
+    "bytes": 11441,
+    "sha256": "4c3cf2ea15f33bc765a9d4564ce4ad27c60241ed6cd2dd4ccc28d7bf224fc719",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-hero-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-hero-final/source-review.json",
+    "bytes": 225,
+    "sha256": "a33fee022056c1af847666b54c7ce8feca89d9efe2fae2137f42f2e4788b49f0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-hero-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-hero-final/state.csv",
+    "bytes": 32171,
+    "sha256": "56f85bf3ec9c32b98440a2f33a4f89d92f317f6c8e67e5bf40839d23022269b5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-scout01/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-scout01/provenance.json",
+    "bytes": 11311,
+    "sha256": "42e30eb1364c9a6d6b97d640eff73d28ffeb1b3e2625727d44507aeaa235e234",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-scout01/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-scout01/state.csv",
+    "bytes": 40312,
+    "sha256": "cd2defb74f15b4a315a489d604591f8b79490f16404036a5753364285f7962ae",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-scout03/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-scout03/provenance.json",
+    "bytes": 11311,
+    "sha256": "99c938e89daa518958407ecefb0c18aa32995bafc8a9a1ae448bdafa8c945564",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-scout03/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-scout03/state.csv",
+    "bytes": 34306,
+    "sha256": "5e493bbd84dcdc5903f57186ad9fddd782e7923e506537f53aabbc2546350150",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-scout04/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-scout04/provenance.json",
+    "bytes": 11311,
+    "sha256": "fe73a869cb362a2386fa67037076349fefc0a58b8bcb8c490cd7ad0d0528d3e3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-scout04/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-scout04/state.csv",
+    "bytes": 33531,
+    "sha256": "879401bff589cfb89316ff1949e96a00e371d7a6e45e548608bd42e5dadba4f6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-scout07/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-scout07/provenance.json",
+    "bytes": 11311,
+    "sha256": "fb35d1077ea1d2b5ff48d16b14ecf466f8461ecf2bece26d619a25a279c1cdde",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-scout07/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-scout07/state.csv",
+    "bytes": 35452,
+    "sha256": "0599760d6dc85f1bdd3b1260289d3294740ea110a159d2ced2cae1fd7bd9778c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-wide-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-wide-final/provenance.json",
+    "bytes": 11441,
+    "sha256": "c82653fc6ce36be56b0a15d123f122dec2649927f29c62a29b722cfb5a9cabc0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-wide-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-wide-final/source-review.json",
+    "bytes": 191,
+    "sha256": "b0be9c3208d2db02800880b9401f62aeda37aa7adfd05bcd96f4d729ae4b27bf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/remix-tumble-wide-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/remix-tumble-wide-final/state.csv",
+    "bytes": 32171,
+    "sha256": "95c5b4d24e9f4321bfb6b632ed278ff8da665354fddcac5b92fb9201cea4cccc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-final/provenance.json",
+    "bytes": 11246,
+    "sha256": "1149f40418ebc7c230a88dae60b9e5b96dfaad3bdff1b393f3273779f3f27352",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-final/source-review.json",
+    "bytes": 1188,
+    "sha256": "b5f58694b38aa09f2f8e86b68b00db8f1a835889f1aa53fb2d4dfeb53208a488",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-final/state.csv",
+    "bytes": 52123,
+    "sha256": "b33fd69b9d81051af80412a4a10e9ff43f15027bee1d947b03162756694e1fc8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-scout01/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-scout01/provenance.json",
+    "bytes": 10312,
+    "sha256": "d05392738098075be80eae13f7f2af122e79107fd02018dc66cc86e1db2e962d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-scout01/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-scout01/state.csv",
+    "bytes": 72155,
+    "sha256": "5958697ae9fefd37bd88286decb4da662dcc541ef0ebba3601b54f2864e790d8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-scout02/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-scout02/provenance.json",
+    "bytes": 10313,
+    "sha256": "52bd2836f6be0100d7540ad9b7f576c0d4af8e723f5f1b6693b0d799c248bc83",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-scout02/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-scout02/state.csv",
+    "bytes": 73008,
+    "sha256": "a9d3baaba9664d7e951e266b59179b5bb18dd8d1076288fe8895ea3648886673",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-scout03/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-scout03/provenance.json",
+    "bytes": 10312,
+    "sha256": "423983ce678f858f4983550cf5ce73a5432768f9b40c15ab0393150268932b84",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-scout03/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-scout03/state.csv",
+    "bytes": 72609,
+    "sha256": "d4c091dc4c3e1ea2e120da7f091131e8ddb93d634ac304ecc32dba44fff630fe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-scout04/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-scout04/provenance.json",
+    "bytes": 10320,
+    "sha256": "e92d3f7a4201ed200fe617c694c1d2dbdea30b8966d431478334ff1f38387599",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-double-scout04/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-double-scout04/state.csv",
+    "bytes": 48223,
+    "sha256": "e88579cab7f5ab81f672810d538919acad0a3853a4508044b433bef07c40d396",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-opening-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-opening-final/provenance.json",
+    "bytes": 11189,
+    "sha256": "2dedd347f31593e6ed322f4333ad68780b251fd84517b4cfc1facac090c653ca",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-opening-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-opening-final/source-review.json",
+    "bytes": 1179,
+    "sha256": "1ff449963350b1b2f25c789846fb72cd9d69fa5d49e848669a2256b0f624a06e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-opening-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-opening-final/state.csv",
+    "bytes": 73677,
+    "sha256": "1c9dcf53028c3997b1905d479c60a3d252e3c5e1c231f285e481bbbdb7ebae30",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-opening-scout02/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-opening-scout02/provenance.json",
+    "bytes": 10259,
+    "sha256": "24270b20054dbd1a797cd09ddd19e1f966d5d5d889480cc4ff2fa5cbbb091706",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-opening-scout02/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-opening-scout02/state.csv",
+    "bytes": 72884,
+    "sha256": "121bfb3bc0d849b2c15374079c6c9eae63153a7f5ed7bf6b5276e8f272e2a787",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-opening-scout03/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-opening-scout03/provenance.json",
+    "bytes": 10261,
+    "sha256": "f82bb5eb3f1d47087a89e779be21ddcddf87942a8eea73b6cd2929a0a8998ec5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-opening-scout03/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-opening-scout03/state.csv",
+    "bytes": 73677,
+    "sha256": "1c9dcf53028c3997b1905d479c60a3d252e3c5e1c231f285e481bbbdb7ebae30",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-scout01/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-scout01/provenance.json",
+    "bytes": 10224,
+    "sha256": "a9a89eabf9050dc6e3ec58540a926ed895b1f2a9e360c49b15a9069e581bf06a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-scout01/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-scout01/state.csv",
+    "bytes": 191394,
+    "sha256": "95eee1e0712f0ada535c3cdf3308ccb7a2afab51ee15371526348fb713c05831",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-titlecard-reference/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-titlecard-reference/provenance.json",
+    "bytes": 11335,
+    "sha256": "844dc06654027e94361d150abefe33373d2e577ef25d2079c232c15da97e04f7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-titlecard-reference/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-titlecard-reference/source-review.json",
+    "bytes": 156,
+    "sha256": "4577efc8accb9e2cb1496828ac05e9cb41e19839321db9b90e0b08971800cbb0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-titlecard-reference/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-titlecard-reference/state.csv",
+    "bytes": 18295,
+    "sha256": "208cc949554c67c1873ca778523bc69a3f95368cc7884676eea18ae00ee329a9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-tumble-wide-exit-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-tumble-wide-exit-final/provenance.json",
+    "bytes": 11360,
+    "sha256": "50fe90bd093533b301c8bb6e2d7b9101771dae56a9ec6a924af11df951daead6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-tumble-wide-exit-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-tumble-wide-exit-final/state.csv",
+    "bytes": 32371,
+    "sha256": "ebfd7a2913647fad3b1bed25617e21164d91830d0033e9eba64d571f8d9a03a4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-tumble-wide-exit02-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-tumble-wide-exit02-final/provenance.json",
+    "bytes": 11319,
+    "sha256": "e27fc5d5ec54c6404e99241988bfe60f9d379c65afedd3e44e8900dc7c8937fb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-tumble-wide-exit02-final/source-review.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-tumble-wide-exit02-final/source-review.json",
+    "bytes": 191,
+    "sha256": "b0be9c3208d2db02800880b9401f62aeda37aa7adfd05bcd96f4d729ae4b27bf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-tumble-wide-exit02-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-tumble-wide-exit02-final/state.csv",
+    "bytes": 32487,
+    "sha256": "16d835bfa5560e7ea512b3bfe8acfb4a8b1a403194e670f446a24a4498ba8e2a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-tumble-wide-final/provenance.json",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-tumble-wide-final/provenance.json",
+    "bytes": 11321,
+    "sha256": "940ee8999ec165c4dcd216157a2482d25b3b3228b8075df334371d07f348d586",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/captures/stock-tumble-wide-final/state.csv",
+    "root": "emerald-remix/promo",
+    "original_path": "captures/stock-tumble-wide-final/state.csv",
+    "bytes": 32339,
+    "sha256": "cb4239542adc22126970566d6c615016a18fd45ba1fb8b38c5d8d4c92155ab43",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/chapters-round5.json",
+    "root": "emerald-remix/promo",
+    "original_path": "chapters-round5.json",
+    "bytes": 3487,
+    "sha256": "7e5caca0587cd4276bc07cd1a039016d336584e4449fd4d79ae506a8504a4155",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/chapters.json",
+    "root": "emerald-remix/promo",
+    "original_path": "chapters.json",
+    "bytes": 2598,
+    "sha256": "c38c1d198519bea89cf7e1d7d779c6c21f3b27a98399bf8c2245efb823db3522",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/design/review.html",
+    "root": "emerald-remix/promo",
+    "original_path": "design/review.html",
+    "bytes": 4280,
+    "sha256": "6627c49aa2c9484353f99bf02673b1f34bb592cf1062f0dfcee547ff5cda861d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/design/revision/type-sampling.json",
+    "root": "emerald-remix/promo",
+    "original_path": "design/revision/type-sampling.json",
+    "bytes": 405,
+    "sha256": "70958f8292c44b14be2856b1b07dbcb46141e006497f98162420f029add09448",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/edit.py",
+    "root": "emerald-remix/promo",
+    "original_path": "edit.py",
+    "bytes": 12980,
+    "sha256": "538dfe1b303701318c76ee04a9860fe1d364d307a6819a2cfc11d57ae1a50c23",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/edit.r5.py",
+    "root": "emerald-remix/promo",
+    "original_path": "edit.r5.py",
+    "bytes": 12744,
+    "sha256": "bbd2d0b521837d7855cb95a1bffabe02cd6c6c37105bca659d7348921a34bc63",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-card-scout.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-card-scout.bk2",
+    "bytes": 660,
+    "sha256": "b1ae9a4141ef90a77ef51afce278156c74ff54affed3f325b42a58e8e5108ceb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-card-scout.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-card-scout.script",
+    "bytes": 79,
+    "sha256": "96d6730a49d5a370f2f2c37fe3412fc764d84c6b331fac8df3fc4748cc56761d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-card02.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-card02.bk2",
+    "bytes": 704,
+    "sha256": "829da6b7dd312b585527dd12d86b6b68295392555a73aca72faa6850a12fb603",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-card02.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-card02.script",
+    "bytes": 78,
+    "sha256": "15e74363cdccec3cba72b576acb0e9e5446f68a484d1256dbc491fc3d35ef027",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-default.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-default.bk2",
+    "bytes": 701,
+    "sha256": "992f26a80c4b245bc778ee43da147387f295bc03535bfc0281b1b8dfc75a9301",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-default.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-default.script",
+    "bytes": 49,
+    "sha256": "cac07da7bf0e0af023ff1fa19bddf76ad8545d14dcfcc94e5fb0b973198937a8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-end-scout.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-end-scout.bk2",
+    "bytes": 576,
+    "sha256": "13f1e4b42fc6ec70251146d6a053c19d064bcfa29c210eb597eb51333e7fcfbe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-end-scout.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-end-scout.script",
+    "bytes": 91,
+    "sha256": "561a6cd28bea41a4c366ff3ad01636b72a899b745e9ab6f934e1ce5037de8030",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-route02.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-route02.script",
+    "bytes": 165,
+    "sha256": "634292ad588760186ad7b1f4e346bf69f1a48c1fe69076786060ad650b06341a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-route03.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-route03.bk2",
+    "bytes": 714,
+    "sha256": "50c7dc3e59ddfcaaaa7b567b1aad8d3b134a6c90007d65c8f3b8f9668745ef2b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-route03.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-route03.script",
+    "bytes": 100,
+    "sha256": "3edec797b8d8427a4a41ae117bcb83717e180cf2bf2c6084fec7e74d555810b7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-route04.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-route04.bk2",
+    "bytes": 722,
+    "sha256": "c771f3d4516e328e2e177637aef734960695632f73a0cd2ce870b21c50310f99",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-route04.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-route04.script",
+    "bytes": 128,
+    "sha256": "610f9b50532b0b7cb71c500ee98923e06201dc6e6229ab2ff735e0c0c6f5edb1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-route05.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-route05.bk2",
+    "bytes": 734,
+    "sha256": "46e4aaf84d158153c87a7d62e12e12bdfd03119fef6d5ef79638262c4b5a7ff6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-route05.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-route05.script",
+    "bytes": 139,
+    "sha256": "b80fba74e3388cda2a9885c90d709d1c1db41d68a8d23df5e9ccbcf8c358ff2d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-shipping.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-shipping.bk2",
+    "bytes": 727,
+    "sha256": "fa9695cbe97bb797b578472f96bcbdeef69cb7625722c14698b093843c237f29",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-shipping.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-shipping.script",
+    "bytes": 49,
+    "sha256": "7b6e4534606ca0292767f13b50d51bbed2828c5278ccd85cae4cf51eb9b5c626",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-shipping02.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-shipping02.bk2",
+    "bytes": 725,
+    "sha256": "8d1776e52e5ad042a8f928869cf1cc322adbf04a7af34d4b66a45b42c44a68aa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-shipping02.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-shipping02.script",
+    "bytes": 49,
+    "sha256": "9fe9c5631648e6c97e711c06d94a27c0627b1a154b93ff467d974ceac66b115e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-shipping03.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-shipping03.bk2",
+    "bytes": 721,
+    "sha256": "cd4d487781a251f9e7467e63844db6757e9d98a5c039879adffdfddb406b6f77",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-shipping03.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-shipping03.script",
+    "bytes": 49,
+    "sha256": "8ded34a0451672a5715b840de1b193507168684a54f52eff8e27f1e290ffaca9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-tail-run.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-tail-run.bk2",
+    "bytes": 569,
+    "sha256": "ed05188e8c113ad64e7b9739a54f28fc3bca53b755f1579513d458d46e816ed2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/clover-tail-run.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/clover-tail-run.script",
+    "bytes": 92,
+    "sha256": "36d17261cb35a34009211503fc9a0439c3d0a1982db532e14372ebb50fd6835d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-dash.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-dash.bk2",
+    "bytes": 608,
+    "sha256": "9a3f33b9188b04017d54b2d303676a1c65677293e8e0d5d2be37bf1b18facf04",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-dash.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-dash.script",
+    "bytes": 130,
+    "sha256": "3c2913a467174ad48179286302c6473b4f067136f66a9e6549ed91db1cfbc7f2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-land-run.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-land-run.script",
+    "bytes": 6,
+    "sha256": "8b315c15094ee695735a2e5cea08ed07beffa1727e8e10e99f711db2cf246ff3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-run.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-run.bk2",
+    "bytes": 597,
+    "sha256": "93958049e8690fca8a67ed6fc58afcac3e41aaf0f22979ea981dd985b87760ac",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-run.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-run.script",
+    "bytes": 98,
+    "sha256": "eaf41455cebf6d283df07b2d9929b0257d446a7b1d3ec7adbc7e5087333c51d0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-tumble01.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-tumble01.bk2",
+    "bytes": 608,
+    "sha256": "d363ebaf6df765ce276f7874aacc26e2be7ff5f01c68db5274bfa4bc6931678c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-tumble01.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-tumble01.script",
+    "bytes": 50,
+    "sha256": "26fe536c45b29b4b47a76e8f0aa0895c4911d38dcf7ce296e5477d96ac5fd24b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-tumble02.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-tumble02.bk2",
+    "bytes": 603,
+    "sha256": "e6957114d8150e55134a0e5889a2bc852586baa03e8e594bd044566fc5655eb5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-tumble02.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-tumble02.script",
+    "bytes": 49,
+    "sha256": "dd19ad77ccadc5cdb76e740ce68b9922baec9c8916f81a61f75e6c96c762e159",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-tumble03.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-tumble03.bk2",
+    "bytes": 600,
+    "sha256": "789ff0299d90034685e114fab4b70cb5c4610f27c8a64f2147cd29b71e3456e2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/corkscrew-tumble03.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/corkscrew-tumble03.script",
+    "bytes": 49,
+    "sha256": "0bd0c36a02cfdcccd03ec5a59f2ee265ac977670c6146e3ee76b76275b405d2f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/remix-route02.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/remix-route02.bk2",
+    "bytes": 781,
+    "sha256": "0d4d44ad6920ac20b0951b47fab9fa4c9962599c17dba822cd1aa98e7c777d36",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/remix-route02.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/remix-route02.script",
+    "bytes": 80,
+    "sha256": "9588c78420ce2ebf934307e2ca076d9afec94a6005b40ae480562bb61465f0c1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/remix-route03.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/remix-route03.bk2",
+    "bytes": 790,
+    "sha256": "ea5ea10a3c094a6581debb5e7afa17c0643ab512e1f06d86f0a4d5c06bd4a9d2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/remix-route03.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/remix-route03.script",
+    "bytes": 113,
+    "sha256": "74a556aa689b89fe436806b8f431171e240c155d2634611702afaa98071e1691",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/remix-route04.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/remix-route04.bk2",
+    "bytes": 790,
+    "sha256": "1d513e5f965ca23e46386011bf9d7abbfab7bdb0c86b32b16e5ac181dd767efe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/remix-route04.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/remix-route04.script",
+    "bytes": 33,
+    "sha256": "48da2bd90c04142817be9ff0adea83f81156227edfe37466e8564ad93e38581e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/scout-right.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/scout-right.bk2",
+    "bytes": 773,
+    "sha256": "5e457f630d7cf637e302f2a63ef56495631099e4bd24c84c12206463bfc6a549",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/scout-right.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/scout-right.script",
+    "bytes": 85,
+    "sha256": "cb7c7672e8022e3ce8f70399b9a38a181f0c486363e3e0d9870ed6b498233d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-corkscrew-clean.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-corkscrew-clean.bk2",
+    "bytes": 618,
+    "sha256": "63149d9a7ff904eb08ad2f44bbe9c8f95e56b83e0d0442535558c4d370d35554",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-corkscrew-clean.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-corkscrew-clean.script",
+    "bytes": 149,
+    "sha256": "aa01e0697cc6885bc589f0dbf92ebd5e5457b0e2a7f6f9e0645fc416cf166d60",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-opening.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-opening.bk2",
+    "bytes": 613,
+    "sha256": "3f4417b52db05c8ff6251327754e5a507deadc0b7656534c15087c39bc483f62",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-opening.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-opening.script",
+    "bytes": 122,
+    "sha256": "4be32a53c025e57c215fb6d4c1722cfb1e506974bc568296bdf41325485cb3df",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-opening02.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-opening02.bk2",
+    "bytes": 614,
+    "sha256": "605fb53d4b4e797c2bbe0f82b7531d5c1d26fb347b0a9c1a60e7951fc0ffad8e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-opening02.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-opening02.script",
+    "bytes": 115,
+    "sha256": "3d1fda0887d6647675d9e24a37e362d691be5a291acceafcaab51a1dc08354f4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-tumble-exit.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-tumble-exit.bk2",
+    "bytes": 551,
+    "sha256": "a60cdde1ac8d62027fe2899deafca78c35bcdfabd29a10050ad9a624fc560531",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-tumble-exit.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-tumble-exit.script",
+    "bytes": 19,
+    "sha256": "71eca6ea27d25e267cd5c5608df95d8894bb00543d3bfc9807f68ce3600eed07",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-tumble-exit02.bk2",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-tumble-exit02.bk2",
+    "bytes": 556,
+    "sha256": "4aefeffa9e17672d3ec6420eab725165d91a285817737e3f71c34ec409114ffa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/inputs/stock-tumble-exit02.script",
+    "root": "emerald-remix/promo",
+    "original_path": "inputs/stock-tumble-exit02.script",
+    "bytes": 19,
+    "sha256": "aec4950a09ec935d499ad915ecac0f75c221b1b3648a65f7328eb14de72e7de3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/previews/ranges.json",
+    "root": "emerald-remix/promo",
+    "original_path": "previews/ranges.json",
+    "bytes": 819,
+    "sha256": "0db15e1ea42fc14cdbd094c0faeb0a0d9fe1fb80e20cc8a58be802a1aba4582c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/previews/review-round5.html",
+    "root": "emerald-remix/promo",
+    "original_path": "previews/review-round5.html",
+    "bytes": 1197,
+    "sha256": "2df97e5d2a1f4a1428c3e07d3f777add64d1f68aae44a87c48de514511bf71ec",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/previews/review.html",
+    "root": "emerald-remix/promo",
+    "original_path": "previews/review.html",
+    "bytes": 871,
+    "sha256": "5cfde20a5ad2ceb87417a8cb5f7a163f89b815c59777b89ea16b568f7707c84e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/previews/transition-frames/ranges.json",
+    "root": "emerald-remix/promo",
+    "original_path": "previews/transition-frames/ranges.json",
+    "bytes": 2193,
+    "sha256": "ca3e6a127d64ac32d93cd3099b541f37a6f318ba5ee7de290328414e329b9496",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/revisions/round4/STATUS.md",
+    "root": "emerald-remix/promo",
+    "original_path": "revisions/round4/STATUS.md",
+    "bytes": 15737,
+    "sha256": "e0791a436c6d0917a88314e06ea42cbb016fd6028a965f5dd7b2a15e53548f34",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/revisions/round4/edit.py",
+    "root": "emerald-remix/promo",
+    "original_path": "revisions/round4/edit.py",
+    "bytes": 9080,
+    "sha256": "aee7a37e5751fc3b3c712dffa788e3191b833a186fe58f635b416ba2340e2684",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/revisions/round4/render_previews.py",
+    "root": "emerald-remix/promo",
+    "original_path": "revisions/round4/render_previews.py",
+    "bytes": 1904,
+    "sha256": "1fe9a95afdb1fe57b039115a4141c3282446c91f656f24a8b84e612d0d01bb51",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/ExtractTitleFont.java",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/ExtractTitleFont.java",
+    "bytes": 2242,
+    "sha256": "13ab7bef241271f3ae7dbcf803027fee0fec8fcb16603bbcab2f429f0833f24a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/InspectLayout.java",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/InspectLayout.java",
+    "bytes": 1048,
+    "sha256": "c0799af16dc767495b0946c2c36403ab95e1a22af3d32a16f520390066bda457",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/analyse_music.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/analyse_music.py",
+    "bytes": 3411,
+    "sha256": "262d5df7704c4e078c519b71b32bb8046305ba54798c83a1223b16b595340811",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/capture-config.yaml",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/capture-config.yaml",
+    "bytes": 710,
+    "sha256": "4d0f703f60a4b60c708ba2c8ddac0fecb20b7b4394dc7e5e0fd8f0672c6f2ec5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/capture.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/capture.py",
+    "bytes": 4273,
+    "sha256": "07038dbf00c85f39acf51be1c3209e8302dd6c0f4862b8ae1d0c643404f10ef9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/commands.jsonl",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/commands.jsonl",
+    "bytes": 695490,
+    "sha256": "5b97fb880504702f27ab9923d25e39a7946a84768087684dc9357c6e4769bef2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/contact_sheet.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/contact_sheet.py",
+    "bytes": 2103,
+    "sha256": "615542ae188ab66e85f01bebda01c930a16830912a45d1caddc4747e0a592516",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/extract_title_font.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/extract_title_font.py",
+    "bytes": 742,
+    "sha256": "18205a1488fbb34b535d9f78a3f611207c57392e7a73bba5409b80f99dfe9d65",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/inspect_sources.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/inspect_sources.py",
+    "bytes": 2908,
+    "sha256": "67cffa570d248796d84e88cc6bced761a1455b8ba568aa83189c1f2da4edf2c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/manifest_round5.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/manifest_round5.py",
+    "bytes": 1812,
+    "sha256": "e63eb9ee57e3a81014826e58211365591e462bab776030943a53a6ce84b9deae",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/prepare_revision.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/prepare_revision.py",
+    "bytes": 4327,
+    "sha256": "a9d2211c7ccb037c493fca1809ea09e9877907f8d3b835bd5428718d4b4c2218",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/prepare_round5.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/prepare_round5.py",
+    "bytes": 1613,
+    "sha256": "cbf6773a4a1fbf6d1d4c8c2dd3a4fa923d2140c5e7f37f43685cc572423d9a7e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/render_music.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/render_music.py",
+    "bytes": 1331,
+    "sha256": "e953db5ace9b48ba4af65fd49c91b9b3d76c8e825bd10438dc1f26cd9f5e6f2d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/render_previews.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/render_previews.py",
+    "bytes": 233,
+    "sha256": "404c31854f9cd924910acba1bf0023fa708184f083d44aaed2d6328ee7fd162a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/render_round5.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/render_round5.py",
+    "bytes": 2000,
+    "sha256": "922df782e82c533dc8c5bd7354d979d3805acee40ee4756d71608e5f92430f03",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/render_spring.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/render_spring.py",
+    "bytes": 894,
+    "sha256": "3d42794a83ae2c5277f0d2925ff160d3357f00f6137953b8a27e5ca5ba22f683",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/render_stingers.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/render_stingers.py",
+    "bytes": 992,
+    "sha256": "a0b2fa56989fff258762ed67b31a84ee6c9ed9e7e61879eec17bf3b3361f9994",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/review_round5.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/review_round5.py",
+    "bytes": 1371,
+    "sha256": "0325de0555650ecd4cdf0fdcfb13dc3ef2b7ce2b35a6bbfa8ab1d620e3b08aa7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/review_sources.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/review_sources.py",
+    "bytes": 1792,
+    "sha256": "bd436b05c1fcdebac6074dfc1199791957a4e1e7ba466b9da0df480b91fa0384",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/update_beat_sheet.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/update_beat_sheet.py",
+    "bytes": 5144,
+    "sha256": "074be2201df61d8cc587e5a3d7557a299cdd4ef32d8124ca8c0fa05077a33b12",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/update_revision_docs.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/update_revision_docs.py",
+    "bytes": 5513,
+    "sha256": "c5947d097960fdd6548f5930e751e562e5a391efbd6c2e94fa79e6ac4c5dac54",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/verify_revision.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/verify_revision.py",
+    "bytes": 2029,
+    "sha256": "2b53ea4e0fa63a94b94d4e167dbce3177c457ef880da96b42a29ff4b8625151f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/write_capture_status.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/write_capture_status.py",
+    "bytes": 16915,
+    "sha256": "3cad7503efd2d9ee43491ef11cf9156f4d727a17d3c834e4ace12cc649f90d0f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/emerald-remix/sources/promo/scripts/write_plan.py",
+    "root": "emerald-remix/promo",
+    "original_path": "scripts/write_plan.py",
+    "bytes": 38881,
+    "sha256": "658b6e09e922910b9728887d7f2da22c48c7a42ea8a9ff378a6c449428104c98",
+    "snapshot": "byte-copy"
   }
 ]
