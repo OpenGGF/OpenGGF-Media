@@ -1,0 +1,5 @@
+# Positioned upstream approach: settle onto terrain, native four-rev spindash, then Right.
+40 -
+8 D
+repeat 4 { 3 D+A; 3 D }
+828 R

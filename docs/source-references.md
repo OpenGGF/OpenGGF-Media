@@ -23,3 +23,9 @@ The [Second Strike AIZ development edit](../projects/second-strike/sources/aiz-c
 pins its original development HEAD, staged source tree and separate creator
 artifact in local provenance. It is an editable unrendered production, not an
 engine integration or whole-campaign qualification.
+
+The [Emerald Remix finished promo](../projects/emerald-remix/README.md) pins its
+compositor to OpenGGF `7d7246fbe`, preserves the coaching commit range
+`f11ad311f..7d7246fbe`, and keeps the individual capture commits in their original
+provenance. Its final edit, three post-round-5 coach fixes and exact loudness
+normalisation encode are preserved separately from the superseded rough records.

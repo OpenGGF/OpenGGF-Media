@@ -1,0 +1,85 @@
+{
+  "frames": 1400,
+  "seconds": 23.333333333333332,
+  "source_png_size": [
+    400,
+    224
+  ],
+  "review_mp4_size": [
+    1200,
+    672
+  ],
+  "fps": "60/1",
+  "audio": "none",
+  "hurt_frames": 0,
+  "dead_frames": 0,
+  "source_picks_end_exclusive": [
+    [
+      0,
+      270
+    ],
+    [
+      270,
+      810
+    ],
+    [
+      810,
+      1215
+    ]
+  ],
+  "first": {
+    "frame": "0",
+    "x": "96",
+    "y": "544",
+    "xvel": "0",
+    "yvel": "0",
+    "gspeed": "0",
+    "air": "0",
+    "rolling": "0",
+    "spindash": "0",
+    "hurt": "0",
+    "dead": "0",
+    "rings": "0",
+    "mapping_frame": "0",
+    "cam_x": "0",
+    "cam_y": "448",
+    "sk_present": "0",
+    "sk_x": "",
+    "sk_y": "",
+    "high_priority": "0",
+    "mode": "TITLE_CARD",
+    "input": "|...R....|........|"
+  },
+  "last": {
+    "frame": "1399",
+    "x": "5160",
+    "y": "556",
+    "xvel": "0",
+    "yvel": "0",
+    "gspeed": "0",
+    "air": "0",
+    "rolling": "0",
+    "spindash": "0",
+    "hurt": "0",
+    "dead": "0",
+    "rings": "50",
+    "mapping_frame": "16",
+    "cam_x": "4800",
+    "cam_y": "460",
+    "sk_present": "0",
+    "sk_x": "",
+    "sk_y": "",
+    "high_priority": "0",
+    "mode": "LEVEL",
+    "input": "|...R....|........|"
+  },
+  "decode": "passed",
+  "spring_launch_candidates": [
+    530,
+    531
+  ],
+  "upper_ledge_landings": [
+    601
+  ],
+  "card_status": "REJECTED: native mod name glyph mapping corrupt; gameplay after f145 is clear"
+}

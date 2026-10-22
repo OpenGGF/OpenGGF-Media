@@ -1,0 +1,239 @@
+{
+  "snapshot_date": "2026-10-22",
+  "media_base": "c2f0c0218a2fa97a204ed527a36810babadb4b41",
+  "production_authorship": "GPT-6.1-Sol under Claude Opus 5.5 coaching (production task record and supplied archive brief)",
+  "engine_checkout": "/home/farrell/code/projects/OpenGGF/.worktrees/promo-coach",
+  "engine_branch": "feature/ai-promo-skill-coaching",
+  "compositor_commit": "7d7246fbe0913683b88d114b4081d73fc039b80a",
+  "engine_status_at_inspection": "clean",
+  "coaching_commits": [
+    {
+      "commit": "f11ad311fa66016a1729435db21de655aa153600",
+      "summary": "showcase defaults and visible proof"
+    },
+    {
+      "commit": "2f18020dae5ad9b1c59918cc5d15c474a9bb10ba",
+      "summary": "stacked split and capture lessons"
+    },
+    {
+      "commit": "3693326049c0d61cc637246541ed6017e1772c9a",
+      "summary": "HUD and bitmap-type lessons"
+    },
+    {
+      "commit": "c6d96fb37ac372663a3a4b284945e064d58e1eea",
+      "summary": "bare-stretch checks and bitmap effects"
+    },
+    {
+      "commit": "7d7246fbe0913683b88d114b4081d73fc039b80a",
+      "summary": "caption-independent accompaniment checks"
+    }
+  ],
+  "final_edit": {
+    "path": "sources/promo/edit.py",
+    "sha256": "538dfe1b303701318c76ee04a9860fe1d364d307a6819a2cfc11d57ae1a50c23",
+    "supersedes": "sources/promo/edit.r5.py",
+    "post_round5_fixes": [
+      "Construction header exits before CLOVER VALLEY band arrives",
+      "Pickup panel removed; native RINGS HUD already counts",
+      "End-card status: Development example"
+    ]
+  },
+  "historical_authority": "Original STATUS.md is the pre-coach-fix round-5 rough record; BEAT_SHEET_REVISED.md is round 4. Final edit and this README describe final delivery. Original sources have not been rewritten.",
+  "final_encode": {
+    "source": "out/emerald-remix-master.mp4",
+    "destination": "out/emerald-remix-promo.mp4",
+    "cwd": "/home/farrell/Videos/OGGF/emerald-remix-promo/out",
+    "command": "ffmpeg -i emerald-remix-master.mp4 -c:v libx264 -preset slow -crf 20 -tune animation -pix_fmt yuv420p -af \"loudnorm=I=-14:TP=-1.5:LRA=11:measured_I=-13.35:measured_TP=-1.62:measured_LRA=1.70:measured_thresh=-23.44:offset=0.14:linear=true,aresample=48000\" -c:a aac -b:a 192k -movflags +faststart emerald-remix-promo.mp4",
+    "authority": "exact command supplied with approved archive task"
+  },
+  "final_assets": [
+    {
+      "root": "emerald-remix/promo",
+      "path": "out/emerald-remix-master.mp4",
+      "kind": "final picture / pre-normalisation master",
+      "bytes": 117057278,
+      "files": 1,
+      "sha256": "f8213608d0a2be84a25d08b71ad8dad42f9bba13073d0fa7304b8675833e9463"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "out/emerald-remix-promo.mp4",
+      "kind": "delivered final film",
+      "bytes": 68182054,
+      "files": 1,
+      "sha256": "3385ed5c3ae71a73b52c13539d95328df782c28fba0249f121d9bb47d8c72d16"
+    }
+  ],
+  "observed_final_probe": {
+    "command": [
+      "ffprobe",
+      "-v",
+      "error",
+      "-show_entries",
+      "stream=index,codec_type,codec_name,width,height,pix_fmt,r_frame_rate,nb_frames,sample_rate,channels,bit_rate:format=duration,size",
+      "-of",
+      "json",
+      "out/emerald-remix-promo.mp4"
+    ],
+    "cwd": "/home/farrell/Videos/OGGF/emerald-remix-promo",
+    "video_codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "fps": "60/1",
+    "video_frames": 2501,
+    "duration_seconds": 41.683333,
+    "bytes": 68182054,
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "audio_bitrate_observed": 193248
+  },
+  "observed_final_audio": {
+    "command": [
+      "ffmpeg",
+      "-hide_banner",
+      "-nostats",
+      "-i",
+      "out/emerald-remix-promo.mp4",
+      "-af",
+      "ebur128=peak=true",
+      "-f",
+      "null",
+      "-"
+    ],
+    "cwd": "/home/farrell/Videos/OGGF/emerald-remix-promo",
+    "exit_code": 0,
+    "decoded_video_frames": 2501,
+    "integrated_lufs": -13.9,
+    "loudness_range_lu": 1.6,
+    "true_peak_dbfs": -2.3,
+    "scope": "Archive-time full-file decoded measurement of final AAC, not physical listening or new visual acceptance."
+  },
+  "selected_capture_provenance": [
+    {
+      "capture": "remix-tumble-hero-final",
+      "provenance": "sources/promo/captures/remix-tumble-hero-final/provenance.json",
+      "source_sha": "2f18020dae5ad9b1c59918cc5d15c474a9bb10ba",
+      "source_status": "",
+      "source_kind": "normal gameplay with scripted BK2 input",
+      "entry": "positioned direct act load; start centre 3808,560; no ring, velocity, clock or immunity seeds",
+      "width": 400,
+      "fps": 60,
+      "stride": 1,
+      "audio": "silent; no --audio",
+      "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+      "input_sha256": "93958049e8690fca8a67ed6fc58afcac3e41aaf0f22979ea981dd985b87760ac",
+      "mod_sha256": "de1817fbf2950bf565b28c0f334f1de22b45cbd9e57a0cd8cba3cadf2e09e280"
+    },
+    {
+      "capture": "stock-tumble-wide-exit02-final",
+      "provenance": "sources/promo/captures/stock-tumble-wide-exit02-final/provenance.json",
+      "source_sha": "2f18020dae5ad9b1c59918cc5d15c474a9bb10ba",
+      "source_status": "",
+      "source_kind": "normal gameplay with scripted BK2 input",
+      "entry": "positioned direct act load; start centre 8928,560; no ring, velocity, clock or immunity seeds",
+      "width": 800,
+      "fps": 60,
+      "stride": 1,
+      "audio": "silent; no --audio",
+      "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+      "input_sha256": "4aefeffa9e17672d3ec6420eab725165d91a285817737e3f71c34ec409114ffa",
+      "mod_sha256": null
+    },
+    {
+      "capture": "remix-tumble-wide-final",
+      "provenance": "sources/promo/captures/remix-tumble-wide-final/provenance.json",
+      "source_sha": "2f18020dae5ad9b1c59918cc5d15c474a9bb10ba",
+      "source_status": "",
+      "source_kind": "normal gameplay with scripted BK2 input",
+      "entry": "positioned direct act load; start centre 3808,560; no ring, velocity, clock or immunity seeds",
+      "width": 800,
+      "fps": 60,
+      "stride": 1,
+      "audio": "silent; no --audio",
+      "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+      "input_sha256": "93958049e8690fca8a67ed6fc58afcac3e41aaf0f22979ea981dd985b87760ac",
+      "mod_sha256": "de1817fbf2950bf565b28c0f334f1de22b45cbd9e57a0cd8cba3cadf2e09e280"
+    },
+    {
+      "capture": "stock-opening-final",
+      "provenance": "sources/promo/captures/stock-opening-final/provenance.json",
+      "source_sha": "f11ad311fa66016a1729435db21de655aa153600",
+      "source_status": "",
+      "source_kind": "normal gameplay with scripted BK2 input",
+      "entry": "cold direct act load; no position, rings, velocity, clock or immunity writes",
+      "width": 400,
+      "fps": 60,
+      "stride": 1,
+      "audio": "silent; no --audio",
+      "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+      "input_sha256": "605fb53d4b4e797c2bbe0f82b7531d5c1d26fb347b0a9c1a60e7951fc0ffad8e",
+      "mod_sha256": null
+    },
+    {
+      "capture": "remix-opening-final",
+      "provenance": "sources/promo/captures/remix-opening-final/provenance.json",
+      "source_sha": "f11ad311fa66016a1729435db21de655aa153600",
+      "source_status": "",
+      "source_kind": "normal gameplay with scripted BK2 input",
+      "entry": "cold direct act load; no position, rings, velocity, clock or immunity writes",
+      "width": 400,
+      "fps": 60,
+      "stride": 1,
+      "audio": "silent; no --audio",
+      "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+      "input_sha256": "1d513e5f965ca23e46386011bf9d7abbfab7bdb0c86b32b16e5ac181dd767efe",
+      "mod_sha256": "de1817fbf2950bf565b28c0f334f1de22b45cbd9e57a0cd8cba3cadf2e09e280"
+    },
+    {
+      "capture": "clover-shipping-route-final",
+      "provenance": "sources/promo/captures/clover-shipping-route-final/provenance.json",
+      "source_sha": "2f18020dae5ad9b1c59918cc5d15c474a9bb10ba",
+      "source_status": "",
+      "source_kind": "normal gameplay with scripted BK2 input",
+      "entry": "cold direct act load; no position, rings, velocity, clock or immunity writes",
+      "width": 400,
+      "fps": 60,
+      "stride": 1,
+      "audio": "silent; no --audio",
+      "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+      "input_sha256": "cd4d487781a251f9e7467e63844db6757e9d98a5c039879adffdfddb406b6f77",
+      "mod_sha256": "de1817fbf2950bf565b28c0f334f1de22b45cbd9e57a0cd8cba3cadf2e09e280"
+    },
+    {
+      "capture": "clover-tail-final",
+      "provenance": "sources/promo/captures/clover-tail-final/provenance.json",
+      "source_sha": "f11ad311fa66016a1729435db21de655aa153600",
+      "source_status": "",
+      "source_kind": "normal gameplay with scripted BK2 input",
+      "entry": "positioned direct act load; start centre 3456,480; no ring, velocity, clock or immunity seeds",
+      "width": 400,
+      "fps": 60,
+      "stride": 1,
+      "audio": "silent; no --audio",
+      "rom_sha1": "8bca5dcef1af3e00098666fd892dc1c2a76333f9",
+      "input_sha256": "ed05188e8c113ad64e7b9739a54f28fc3bca53b755f1579513d458d46e816ed2",
+      "mod_sha256": "de1817fbf2950bf565b28c0f334f1de22b45cbd9e57a0cd8cba3cadf2e09e280"
+    }
+  ],
+  "inventory": {
+    "preserved_source_files": 216,
+    "preserved_source_bytes": 5295023,
+    "external_entries": 204,
+    "external_files": 19000,
+    "external_bytes": 1341832974,
+    "frame_sequences": 50,
+    "excluded_work_files": {
+      "__pycache__": 1,
+      "build": 77,
+      "scripts": 1
+    }
+  },
+  "coverage_limits": [
+    "No engine build/test, gameplay replay or parity certification was performed for the archive.",
+    "Historical rough/previews review is preserved as recorded; no film re-render or fresh visual acceptance pass.",
+    "Installed Fira font hashes are archive-time observations; render-time font-file identity was not recorded.",
+    "No remote push, integration or engine-branch merge is claimed."
+  ]
+}

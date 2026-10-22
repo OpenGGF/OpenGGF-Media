@@ -1,0 +1,6 @@
+# Shared opening jump; stock-specific jump immediately after quarter-pipe landing.
+110 R
+24 R+A
+196 R
+24 R+A
+546 R

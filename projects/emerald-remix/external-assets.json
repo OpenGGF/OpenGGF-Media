@@ -1,0 +1,1642 @@
+{
+  "project": "emerald-remix",
+  "snapshot_date": "2026-10-22",
+  "notes": "External bytes were hashed at archive time, not uploaded. build/ render work and Python caches are excluded. Original capture CSV and provenance are small preserved sources, not external bulk state.",
+  "sequence_hash": "inventory_sha256 is SHA-256 over sorted immediate PNG basenames; for each file append UTF-8 basename + NUL + decimal byte length + NUL + lowercase SHA-256 of file bytes + LF. No media bytes are concatenated. This hashes both names and contents; it is not a single-file sha256.",
+  "assets": [
+    {
+      "root": "emerald-remix/fonts",
+      "path": "FiraSansCompressed-Heavy.ttf",
+      "kind": "external editorial font",
+      "bytes": 550312,
+      "files": 1,
+      "sha256": "9d5ca89c4747c879e3379c5e4ccb4b060dbdd78b441cef419c3463a420203ddd",
+      "usage": "superseded round-5 pickup counter (title role)"
+    },
+    {
+      "root": "emerald-remix/fonts",
+      "path": "FiraSansCondensed-BoldItalic.ttf",
+      "kind": "external editorial font",
+      "bytes": 534712,
+      "files": 1,
+      "sha256": "4470462ba3a7653b1ebfae85951f867126e2035dcd7a690fe75db19b7fcc5d58",
+      "usage": "final end-card status, URL and disclaimer (sub role)"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "audio/emerald-remix-review-bed.wav",
+      "kind": "ROM-derived audio",
+      "bytes": 13510478,
+      "files": 1,
+      "sha256": "eb4e45d0140f52bb3c97b6962d1d36d2ef84395530d9d613133f8ba7e0e441bb"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "audio/raw/s2-music-91-mix.wav",
+      "kind": "ROM-derived audio",
+      "bytes": 14592044,
+      "files": 1,
+      "sha256": "7f1b6d145f83bbe15a5cfd8ce59de5ba823248421cd471055cd230fd6d45d640"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "audio/stingers/s2-sfx-b5-mix.wav",
+      "kind": "ROM-derived audio",
+      "bytes": 121644,
+      "files": 1,
+      "sha256": "96b2cc56c9deec58d6cfb31d2a2b94ee81a6b4c4938195d13d655065f3f148df"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "audio/stingers/s2-sfx-bc-mix.wav",
+      "kind": "ROM-derived audio",
+      "bytes": 278444,
+      "files": 1,
+      "sha256": "aae8a782067938bc40cae529bffd525a084835a86e1385a0446fa4cee4293c5f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "audio/stingers/s2-sfx-c3-mix.wav",
+      "kind": "ROM-derived audio",
+      "bytes": 204844,
+      "files": 1,
+      "sha256": "574c5b459a204795b25bbe0eecc1d82b8b042fcfdfd46b4395dd0bd154049aa5"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "audio/stingers/s2-sfx-cc-mix.wav",
+      "kind": "ROM-derived audio",
+      "bytes": 204844,
+      "files": 1,
+      "sha256": "4b3ebcefcfff1ac59ea5bf9fe6e3c0bcd051af93a520a5bf0cadb1f53c789ed6"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-default-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 3404103,
+      "files": 1,
+      "sha256": "1fc60fbee44adad32ab4c18082556e86be4c19df060dd95f6a8eea44c4d8b2af"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-default-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 15252350,
+      "files": 1200,
+      "inventory_sha256": "2bcd255fe1c5f7913edc4123214af4f57a43f77ab4b3e8330b8cf7288a0a5b03"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-end-scout01/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 270716,
+      "files": 1,
+      "sha256": "a06c69a35a61fc6bc3cc4454c5395b217bb4db35b2d717a85e185a75ba9aac57"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-end-scout01/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 1145385,
+      "files": 80,
+      "inventory_sha256": "f09ffa63212b60611705c68b4b04f01d739c7693217e798c11beef7fc90133aa"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-end-scout02/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 393138,
+      "files": 1,
+      "sha256": "d2738e164bc55ceeee96854d60fb23be8c883ef87caea43b2aace4ceea4986db"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-end-scout02/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 1542416,
+      "files": 80,
+      "inventory_sha256": "25b3fd4cc3a6be7db9bb7aeef6ef98d4b27aadb4262e6d65cde98b1345dad502"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-route-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 8713677,
+      "files": 1,
+      "sha256": "83a9fb826574a62d62e552a3a38bd9496565dbd737668d34626fe2b4e6d1fae6"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-route-final/contact-00000-00269.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 193035,
+      "files": 1,
+      "sha256": "c7ce5263c90741691ad3a3eebf2d0ca0f85cb99f918fea4b3a1e525cfd31bd98"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-route-final/contact-00270-00809.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 266062,
+      "files": 1,
+      "sha256": "eede937b95990d4f9775355941622da38e19d395d1ae8cb805049c2dfafee2de"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-route-final/contact-00410-00949.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 261954,
+      "files": 1,
+      "sha256": "b6a56d6a16b53550bdb725c8807f070b6b007bc4c14933e62b5d711bbef0a464"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-route-final/contact-00800-01204.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 306064,
+      "files": 1,
+      "sha256": "093a4aeb014aae200fb994018bf73bfe6b405ecbe402e053f651a6f98e697ce5"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-route-final/contact-00810-01214.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 307476,
+      "files": 1,
+      "sha256": "b90a788c73b993691e5f6080440c9a978ab5c505cdad6109e270a489d9b4a1d9"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-route-final/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 319248,
+      "files": 1,
+      "sha256": "a69ea361ef9d742199a9c832f91d2a59543e0a79ecec71bc59a65928a2ddeb56"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-route-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 20310165,
+      "files": 1400,
+      "inventory_sha256": "97c71fea9ee3505621c99554302945f4820e6d992eabe80fe87d7b77412054a9"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout01/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 196519,
+      "files": 1,
+      "sha256": "b14cc7d74434ca42e3240a18fa53c51ef62d65dcdba39d403c251854aeb7c304"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout01/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 1478645,
+      "files": 120,
+      "inventory_sha256": "c09739e10292fa5dbf1fe46c1fd6856a3de511b68376ed9164ba877c0db755bb"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout02/contact-00000-00160.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 96181,
+      "files": 1,
+      "sha256": "f270885f5d6022ea648248274c65cc9e0d986dd06a02a5c12183118542f0873a"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout02/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 193841,
+      "files": 1,
+      "sha256": "817fdb526551a6c7fc6af34486427dd6f38a1f3424321f658289d9d519825ed6"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout02/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 2252670,
+      "files": 180,
+      "inventory_sha256": "7bb83408058d1e5e313aa7af5045586ba68a32753e99c91bdbfd5cf6ee9da203"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout03/contact-00280-00900.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 207882,
+      "files": 1,
+      "sha256": "93f5ddb6a8129d7c5ca42bfeaa6d5e3eab28ddb11fb5002d0efdca510b33673c"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout03/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 199421,
+      "files": 1,
+      "sha256": "8643d8c617babb3c7824ae35c216c29a2f4fe02afc7dc868dbedd5fdb76cd9ae"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout03/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 2135093,
+      "files": 180,
+      "inventory_sha256": "98dc4e44318be702244570a0c471c16a0d9bc3d66edc7ceb831a9a6b5cd0e665"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout04/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 231076,
+      "files": 1,
+      "sha256": "99bf8cc80b0202b322f3b3c68b567d38038da7e280d96df1d02956d1f4467075"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout04/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 2819645,
+      "files": 225,
+      "inventory_sha256": "99399e8a6afff2bcd184fb6833dcc6ba879e3eb12047730bdc4327b2aa689f45"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout05/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 363856,
+      "files": 1,
+      "sha256": "2a6823ee3069eb3bbe4ca9dc38dfc70ff882ebcbd2fe477466a517c2bbd90b69"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-scout05/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3921444,
+      "files": 225,
+      "inventory_sha256": "0d7178438e6e8132a388ce823ac473cd7c31ef325c44a315b15def73aa613719"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-clean/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 5624149,
+      "files": 1,
+      "sha256": "00a220fb50e42b047852434294e13b402406fc43d7f02ffa730ea4b4cd7c2560"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-clean/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 15743123,
+      "files": 1250,
+      "inventory_sha256": "188e4531a802b9d3edb19b145d261ffa67829473ce3ce5969d8880ea3b308af3"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 8515910,
+      "files": 1,
+      "sha256": "dfae787faf912e32ce2fb1829896bd54cbc5544751b3019c382136a5bc40737f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 20968051,
+      "files": 1400,
+      "inventory_sha256": "8be50f661116f0e6010b6b7844ab9a34378410c33ac82abd840e0fba2f75afd4"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-route-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 8247674,
+      "files": 1,
+      "sha256": "c44eb69c91c851b0b8b5999c23a4f3e2569469844826ed6f065db2624f22783f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-route-final/contact-00020-01099.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 298881,
+      "files": 1,
+      "sha256": "c172fe49895970603285349e575ae6c8ebf875e8ca01a87464f1516f85e700a9"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-route-final/contact-00100-01078.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 301274,
+      "files": 1,
+      "sha256": "b47beda9435712909ec283e1d9cea4522470dcc576f3e3dbd3929d8b6319328c"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-route-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 18681455,
+      "files": 1250,
+      "inventory_sha256": "eb3cdd6adfd697a6472a03568c2074a6ae38d6408de867b2602a8ae15af8226f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-shipping-scout04/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 7228379,
+      "files": 550,
+      "inventory_sha256": "8b1dd970e60b1b321f03c07defcf35e34b3c5d84147059891c04bf62a61bf4cb"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-tail-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 3137780,
+      "files": 1,
+      "sha256": "085984d484a6bb1c716bd5daa614732087f7b47a17cd6bc4e4950ce62cd530da"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-tail-final/contact-00030-00434.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 338016,
+      "files": 1,
+      "sha256": "da60dff7e663b487b4969b51717dab241a74de77185d0d457f50348d2a81ba82"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-tail-final/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 363443,
+      "files": 1,
+      "sha256": "3922cb06accddd436c0a1ef7c26c7f787d13d58aaef44f5e17843dea0f7c1444"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/clover-tail-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 9129448,
+      "files": 520,
+      "inventory_sha256": "a3a6f0eb8c2a640b9135dd046d93292de1af370779c45fa6a16cf8091eda3915"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-corkscrew-scout01/contact-00000-00650.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 418648,
+      "files": 1,
+      "sha256": "7d121218954c3c21c6e2d0a19204461410a84d1fd7c762dc0b78f516e09dd483"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-corkscrew-scout01/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 391607,
+      "files": 1,
+      "sha256": "be97d1e01cb3e4c123137b38929ed1e912c5d4e844c859c6a010f64308b6a8a3"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-corkscrew-scout01/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3507756,
+      "files": 150,
+      "inventory_sha256": "a4719836833aa3dcb77546717ea1584bfd65708ba024d4f0b4987a36ca711491"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-corkscrew-scout02/contact-00050-00300.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 491158,
+      "files": 1,
+      "sha256": "cb6134d5cc8f67726a27dca1bc5914fd6e53c6b9a9989f29eb960f127aae033c"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-corkscrew-scout02/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 484784,
+      "files": 1,
+      "sha256": "a0e5b3695127f0eb2c4c00b9325084a533cf7101f0ae90dc5aa14bcc491e2bed"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-corkscrew-scout02/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3607451,
+      "files": 150,
+      "inventory_sha256": "3e15c967349415da517125c0011f1aa40f3be71c8bb5bd97c0c784310baf75b3"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-corkscrew-scout03/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 422319,
+      "files": 1,
+      "sha256": "b0842fe632359cdb166c0efb5f89905a3c0d77d17136953ef1af3f2b3e851906"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-corkscrew-scout03/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3464961,
+      "files": 150,
+      "inventory_sha256": "997c786ba2c7082246b68bfb387723ef73efd7d5e6572663ffde099c2acee008"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-dash-wide-scout/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 8466692,
+      "files": 200,
+      "inventory_sha256": "aa4b20f10e6ba8dcd695b3437aa347b9e7ba34cdf1f7ad8e761e2b09a7a25d54"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-land-scout08/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 8441816,
+      "files": 220,
+      "inventory_sha256": "3ce4971cf2467ca7ef5e488b31dec39d429e46eaf358b9aca4bb40aeda5eec28"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-land-scout09/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 8482131,
+      "files": 220,
+      "inventory_sha256": "35f581182dbab8d5e07c66625eb262dcfb893283d8efc885a5a631b7c5fda837"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-opening-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 20140586,
+      "files": 1,
+      "sha256": "84c34a14c580cba1737fe090118951af362d10a4d08941c8decebfdea87d955e"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-opening-final/contact-00000-00269.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 432078,
+      "files": 1,
+      "sha256": "eb1bdea31e61d4b747967e7d3f842c168b22f9257e43c09c7d05a829b3a6fd61"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-opening-final/contact-00160-00868.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 484392,
+      "files": 1,
+      "sha256": "48400259348e9d20ffcc1fcc7e027fc60522acd4fa8638d92080d0e725ae0fd7"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-opening-final/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 481514,
+      "files": 1,
+      "sha256": "42f49d575b7cc54efb90d7b96090acf8978b230809bd4d4f5da62e85a5c810a0"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-opening-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 20615551,
+      "files": 900,
+      "inventory_sha256": "36110ff0bad5c057f1c21a5f62ee5c6c779a9b4d1ff46c9fff8f4977d703db4e"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-run-scout02/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 9217660,
+      "files": 250,
+      "inventory_sha256": "33d922779466be25f92e53dc5b7f683bb22c54b3e6e0eef0f41e5c08301d2175"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-run-scout05/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 7728716,
+      "files": 220,
+      "inventory_sha256": "6c4bf97c92fc4ea5aee2d597713a3d04824ca2e651f48a6f2b860330ab3d0a9f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-run-scout06/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 8816658,
+      "files": 210,
+      "inventory_sha256": "941e27180a8705dc32fa16455cb1fecc322513f4ce2aa0b43e8685ff2339cb75"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-run-scout10/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 9489334,
+      "files": 220,
+      "inventory_sha256": "36662a520bdcc1d9220a912d3d4dd5778ea4c3a2382818bfe410da62c77e8167"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout01/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 319265,
+      "files": 1,
+      "sha256": "614826acad57194f23c6fe54da5eb488babc29ea066d01bede4daf94782a009c"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout01/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3442344,
+      "files": 160,
+      "inventory_sha256": "829c4d2268dffc852e56d344fc8c0bbf0a1c655c407ce7c6df686529987a508b"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout02/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 389568,
+      "files": 1,
+      "sha256": "b72fff31be05d18488a6a54d985b23ef210e16e99516ab26c8f5ffa1d1699866"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout02/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3118899,
+      "files": 128,
+      "inventory_sha256": "603a8774c73dc1229f4a3b7de38a62b3dcda8706e24515dcc57e0c03a5dd6e12"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout03/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 389723,
+      "files": 1,
+      "sha256": "47bb17a5af3ee10be33fd4e8ed364975765e8e124d5b776645dec5d34d55f9ff"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout03/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3118899,
+      "files": 128,
+      "inventory_sha256": "603a8774c73dc1229f4a3b7de38a62b3dcda8706e24515dcc57e0c03a5dd6e12"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout04/contact-00720-01350.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 453105,
+      "files": 1,
+      "sha256": "ad532cab06b5980c32f4d30b4d0741df57bf7d05395878ed7c4645fcceba0bf1"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout04/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 424126,
+      "files": 1,
+      "sha256": "64bd64ab849a9a17b84ea6a73aadb847cb5beaced6c7cd1abdb942e6315cbc28"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-scout04/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 4645078,
+      "files": 200,
+      "inventory_sha256": "f3dafa74a214fc2c9a20a54f9cb0757cbb85f17c970fae8e20257095a9f7c61c"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-single-scout01/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 380355,
+      "files": 1,
+      "sha256": "893bea20dd2862401e2a23eb73307b22ff4564ca61c9db2e8889012bdcbec814"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-single-scout01/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 2365828,
+      "files": 100,
+      "inventory_sha256": "b400b859a569a92d9c41b637843bd3cd7ceac97f29c5ed9d17dc5892fc6e4271"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-triple-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 22126274,
+      "files": 1,
+      "sha256": "c0c8af590db8b105b498549c2a57163788b8aa706cf0de7bc8b4c97d225c7b81"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-triple-final/contact-00048-00452.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 469904,
+      "files": 1,
+      "sha256": "23c387008e6cf23810724bdcb88fa3f19611ffd1744d552f0767bf36fd7df49f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-triple-final/contact-00048-00587.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 474150,
+      "files": 1,
+      "sha256": "07c916fa0875c5f58d04e800181d7728cdc69f665cf96d02694a270973e7e7cc"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-triple-final/contact-00094-00230.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 491006,
+      "files": 1,
+      "sha256": "7830573799aedeb8f98cf1e5ec4e04ffdb8edf9815965d7b06ac04534624ee96"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-triple-final/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 480860,
+      "files": 1,
+      "sha256": "adaae91331302efb3701bacf8268d09b64ed2af1523d121359ff1a544060f6bd"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-triple-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 21613332,
+      "files": 900,
+      "inventory_sha256": "d1a19dc832aa8b5a725e7eabf35cbed3c55bc6e2e128bd5762f3878ca5a3e100"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-hero-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 11847128,
+      "files": 1,
+      "sha256": "17cb7541a6bfac673fa9361321cbfdd8bc8fff948d9995c97e380bfbb84892a7"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-hero-final/contact-00065-00334.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 493156,
+      "files": 1,
+      "sha256": "c3cdd58daa7d4e9a102cf06aa0a11059a9ae4982623fbd1a6316c46f95b617e4"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-hero-final/contact-00103-00239.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 481380,
+      "files": 1,
+      "sha256": "a7234734f4ce308d50fe7882c13e34f9e6b66da15453260869d00396cbefbaa2"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-hero-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 9884039,
+      "files": 390,
+      "inventory_sha256": "bec0876a47009df0ce2484d9a9fdd60331d4aba49feb5fd27afec857fd878ba1"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-scout01/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 10243173,
+      "files": 250,
+      "inventory_sha256": "4522a62b5f4b6ae4c2b2e998d31f080114af9f98113544efbc9bfac9fd24d0cc"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-scout03/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 7653658,
+      "files": 210,
+      "inventory_sha256": "c3fb28e423cee42055fba14f903eb476765e998c4a628a766f8f2cbfede0c414"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-scout04/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 8856589,
+      "files": 210,
+      "inventory_sha256": "752ff5bc415db03ed9e841f2c34f94d01eacdc7805fab856bf17606fae92f404"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-scout07/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 9245907,
+      "files": 220,
+      "inventory_sha256": "c8d5511e69ca4dab54c9ff963fb745fbb14ea75f5959a97be4a04a133455ed22"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-wide-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 22294634,
+      "files": 1,
+      "sha256": "cd66b22f536c52f8cf565e333fe48e5c57d20ece4cda7fec36298d98d32a5970"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-wide-final/contact-00050-00319.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 595991,
+      "files": 1,
+      "sha256": "2f6f530104bef76ec667c08c207768565e836efad1024e2e986268e78af3f3c7"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/remix-tumble-wide-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 16657877,
+      "files": 390,
+      "inventory_sha256": "ec295ed070c5eeaba876fc1cc8efe6e5df119da3de6fe072b1996dc0e320f9ee"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 11114518,
+      "files": 1,
+      "sha256": "8fadc7fceed6bf9d7bb53f838a806c7cee4c74566c22f7cfb0286bc335b7ec54"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-final/contact-00048-00317.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 475074,
+      "files": 1,
+      "sha256": "f2be60c670c4f6d88ea3faf6e633c5f2f8a6cc286e290ac55aa1e5daac73c271"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-final/contact-00048-00452.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 522926,
+      "files": 1,
+      "sha256": "7f264e6f37ad437743016422251c08db57c6ace911d6e5f61ebbc16137ad22f0"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-final/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 562063,
+      "files": 1,
+      "sha256": "33693fbcffea6c39b9de9deed9cc4c3a85eb256d064cff7461a190d438c27a97"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 18450353,
+      "files": 650,
+      "inventory_sha256": "d2301857773de2ef73589ac1c56c34d40904cdadca1625d24bc5dad2eb80b957"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout01/contact-00000-00650.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 489864,
+      "files": 1,
+      "sha256": "3a6e1295e81c05f6f79ee71925d343643236a23bf7d1e1d92c4cb2270d6ad233"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout01/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 522978,
+      "files": 1,
+      "sha256": "b41f5d627c5eefa10c7fa40a7adc82d955447e96576321739f759ce0cbae36d6"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout01/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 4007109,
+      "files": 150,
+      "inventory_sha256": "8cb1a6482893b55a507abbd89f48689a36f37529bcf38472eea325ef8f24b38d"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout02/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 549548,
+      "files": 1,
+      "sha256": "0f11feecf994de745f6e53cb38d987aeedb2d3b0ed10b9ebe1cbcd71b18fcec6"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout02/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 4046257,
+      "files": 150,
+      "inventory_sha256": "e893248464602ce6e7b21082c64f783ec9adb95fee1a43e780b46cbd47d79af9"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout03/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 520201,
+      "files": 1,
+      "sha256": "fd2c5caa1573b2ace65ff1e6019b0fe3c83db3504fd021bb4d1fe9fc0f6a9930"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout03/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3734929,
+      "files": 150,
+      "inventory_sha256": "c749e6f88259e910a85746a3a5adf954c3e8ba7247ee9ed31fba7a2a97b6c1d8"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout04/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 548315,
+      "files": 1,
+      "sha256": "6303571a2d9b2e637b503b1bed7d6e5f089fc35065e650fe81f5a398ef88b934"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-double-scout04/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 2795881,
+      "files": 100,
+      "inventory_sha256": "488d8fe53e95052d99f89aefdb23e7435d1d4fabfe0f8744cc8d0d39dfd2879d"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-opening-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 21067858,
+      "files": 1,
+      "sha256": "964fb90825d183a24644e79513c5bb650a72565b3bd8e48fa7bdff091d912f32"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-opening-final/contact-00160-00868.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 487528,
+      "files": 1,
+      "sha256": "e8cc3bf1d66c2c95757ef8e7817ee17c4706e6a60c4d57856c1173462781281c"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-opening-final/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 482287,
+      "files": 1,
+      "sha256": "3e199752e581ba7300de7882d3229c7ba5d9c8e495479f2b8e917a15918683ce"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-opening-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 20244034,
+      "files": 900,
+      "inventory_sha256": "15c2f4d9f46b109a441dde1b4c2da321d3a198cb8f632c6ad73bf30200a74a89"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-opening-scout02/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 471327,
+      "files": 1,
+      "sha256": "8533cd5f319593d908b5fc1b78e9586ee903047d9026297cb09b11136a15781f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-opening-scout02/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3348217,
+      "files": 150,
+      "inventory_sha256": "0fdf2753078d8829fe0a6b5522032972138b9322060563dad9df5a4cf02fd43c"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-opening-scout03/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 472761,
+      "files": 1,
+      "sha256": "4572021b1fad0dbf961786b072bfc6db96ef42f8af582736bda5cf3ca6cd4903"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-opening-scout03/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3374144,
+      "files": 150,
+      "inventory_sha256": "2367e450e2149237fbca68519effc7fcca3baed7840a9ad9b7c9053a5970d109"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-scout01/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 421788,
+      "files": 1,
+      "sha256": "5b5a91fab1e8492707baf298e633dbdc58b8edec971973b4453bc26099925710"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-scout01/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 4593393,
+      "files": 200,
+      "inventory_sha256": "e658488874b9e21f8911ac9a3d6ccca03ca9ae0ca8bff4faef570937448dcdb1"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-titlecard-reference/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 2026506,
+      "files": 1,
+      "sha256": "acd5420a1b440392de5dcb1ea1ee64343901fb1038b6bb9092a5e928084c7a12"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-titlecard-reference/contact-00020-00150.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 224779,
+      "files": 1,
+      "sha256": "ff0431792f54f1cc33358d55169ccd2a9c0dab6cd3e09e272c9db108c876e9d8"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-titlecard-reference/contact-sheet.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 286586,
+      "files": 1,
+      "sha256": "d203229b33851cb4a2901b809b19a4be3c2cdfe108f8a391e12b2a71018ec2d4"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-titlecard-reference/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 3775405,
+      "files": 240,
+      "inventory_sha256": "4f941bd409b5288a3a6d15761a7ff8e92fe2630d09eedc2bea286f5ee0b2a3c3"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-tumble-wide-exit-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 23544922,
+      "files": 1,
+      "sha256": "96387c10a591585f5fc6ddb44e159b6e9d8a2eadce42b74cfdaffbf9bd50ff78"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-tumble-wide-exit-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 15971047,
+      "files": 390,
+      "inventory_sha256": "a9eae8584380fa67d06bc91f401f0c891703956f17e07806786e689ef3852f50"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-tumble-wide-exit02-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 25295509,
+      "files": 1,
+      "sha256": "d670c986ff778e5a6bf8bf020a8346dffe7d767461420c9f8c86dd9e44b5dcd3"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-tumble-wide-exit02-final/contact-00050-00319.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 594802,
+      "files": 1,
+      "sha256": "ddde13c61883777d47f87d2a5f72fcd1e02e90b62a39034fee03cacaed214a77"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-tumble-wide-exit02-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 26008697,
+      "files": 390,
+      "inventory_sha256": "773a785ed554e8b368154bf7bf37881d5695fbcb1941faf38c028a95d86be4a7"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-tumble-wide-final/capture.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 22898321,
+      "files": 1,
+      "sha256": "1806cfa775170f5f072fe9974e531fe428701c332fbbdc9dd9061cc75ee0c69a"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "captures/stock-tumble-wide-final/frames/*.png",
+      "kind": "frame-sequence",
+      "bytes": 15999487,
+      "files": 390,
+      "inventory_sha256": "40c4e84fe0d1f8c85f16b984658d7fc2387fc8df44d97e496b266f217cf0e512"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/clover-layout-reference.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 17843,
+      "files": 1,
+      "sha256": "c3d67d238c596c69e6ab38533fde876fd3409b2abb94b9ccae06bebc2ceb2ec3"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/native-card-treatment.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 4680,
+      "files": 1,
+      "sha256": "efa7d68d9d59969cae9688c150d83899414af46b7c7af9f073ba07a27186e07b"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/revision/clover-pixel-function.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 190,
+      "files": 1,
+      "sha256": "e0161ea484047b36fea6381e4b605ccb08e51048f0dd23d0abbd780a57cf3ae6"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/revision/flower-pixel-function.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 198,
+      "files": 1,
+      "sha256": "35bbd313d13dee36b4539dd0a80b543e061e9ad0b8f84fab228417f26df227c1"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/revision/rom-triple-art.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 33833,
+      "files": 1,
+      "sha256": "c8f9e4bac9cdadec1ff9ecabda86061448a92a3ef188b43d0f6f4166e596bd6a"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/revision/rom-triple-strip.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 30831,
+      "files": 1,
+      "sha256": "0ba05ad875368d311a12fd2fa92668c82f12d790245f129b16d8f7c13a48381d"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/A.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 182,
+      "files": 1,
+      "sha256": "3378cae4d28a95152c0b5c20aacf482bd45a40368a2006a9949960e3582f1bc6"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/B.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 193,
+      "files": 1,
+      "sha256": "75be8c9c6c65b992d47d51334aa970977b4e605d0c016546163878005c120aa1"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/C.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 198,
+      "files": 1,
+      "sha256": "ca232510877693e6e03a6a74efcfcd1f2e3b60dce50260cbf5e7b5558802fa91"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/D.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 208,
+      "files": 1,
+      "sha256": "d45c9a5f905cbe5cbf2867fb66a34b59d35e69cb85a31b94386ac079f3b6ade8"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/E.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 160,
+      "files": 1,
+      "sha256": "6735f994e0d2fc40124c3b66ef48153385e45576e5af500702445b9fdd880b94"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/F.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 145,
+      "files": 1,
+      "sha256": "cfd793f7ba969c4037d8eac716c36e2a44ddba2e52da3c664f80acde1735db71"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/G.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 222,
+      "files": 1,
+      "sha256": "3f115bb68bd8abde98b61469df0e6671b28eff77f3c0152886f1901bf74e0ed4"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/H.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 148,
+      "files": 1,
+      "sha256": "26f7e3260e3bab99fc668de1e0faff98711eccb56aa144b15f292e6e8627e306"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/I.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 112,
+      "files": 1,
+      "sha256": "eb546d44a4977dd27b70efd54e35a95cee3233999b9e8ce26d38c11fe31b3feb"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/J.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 185,
+      "files": 1,
+      "sha256": "ad37c486e7d18256e3878a674717f1b3e0b7274fad6733d997a7bad10fc6f235"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/K.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 170,
+      "files": 1,
+      "sha256": "570a7212e67aa370f7beaf91fd0236fe91926d5a38ea37eaa5a5fc20ef0d08b7"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/L.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 138,
+      "files": 1,
+      "sha256": "2db76169fa27ec9f6cb17a6b2fc7017c1616a00e34aca2f8b25fa10eab9a9e17"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/M.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 204,
+      "files": 1,
+      "sha256": "57efa7033148ba252471df9e19bd8263a2af4979db1e0fb43316fd47f6aa5c91"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/N.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 207,
+      "files": 1,
+      "sha256": "a9b1e1c9328c5f091b92283c47acf101fae9db608fecf115e593273fcd23978d"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/O.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 212,
+      "files": 1,
+      "sha256": "147b3a957be79a81327fbd1f0fd7d98f2acc44469e536442f235eed6d8029e97"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/P.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 177,
+      "files": 1,
+      "sha256": "be03972bb08c70dbe043ee149cb80b812f9e70edd1d117816c77300ffcb57b9a"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/Q.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 212,
+      "files": 1,
+      "sha256": "e07b604d8e2a994760eb76e5ebc7b711c2e4673182899ab28b2db313d63fa72a"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/R.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 203,
+      "files": 1,
+      "sha256": "3c3646b6e1a83f8b2b5fa00ecf0b1edbc92b8c6d98b9b5d3c51643cdcbeba560"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/S.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 160,
+      "files": 1,
+      "sha256": "bebb0b04ed78ba92fb9e191065cbe1a00b9f064479ee8970230953077e422e51"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/T.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 145,
+      "files": 1,
+      "sha256": "bdcbd7a70b217116146c689e4a5829609d5637483d46600b04c7b67020ca2383"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/U.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 158,
+      "files": 1,
+      "sha256": "a1fcc51f39235479509d334ca3fdf485f20bd498746e79912dfcea33b036d647"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/V.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 180,
+      "files": 1,
+      "sha256": "8b58395834ffe294ef193859f4985195c4fc8d85269d7480f31419885dc47e1f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/W.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 213,
+      "files": 1,
+      "sha256": "5a1a2ab38fd8f16d9b973ca0784e883abb8c3a70183ada6969c4c6e21bcad9ad"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/X.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 191,
+      "files": 1,
+      "sha256": "0654763e4a8bfcca71ed053db153228b7b5ea9d20798ba520546dc59a892acd7"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/Y.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 150,
+      "files": 1,
+      "sha256": "442c0f97451da1d396327a331dbf8591f7deda577fb0c357dc859c7cbbc979a4"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/Z.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 185,
+      "files": 1,
+      "sha256": "5ee7aeef636e798a2cc7ade93a3f7d8081b504fff72cc3954cc220a918a38965"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/logo-test.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 2526,
+      "files": 1,
+      "sha256": "2a8b74f8655476dc0939b96f9a351f9d1229486db68c542d491f35901d2900a6"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/rom-title-font/s2-title-font.txt",
+      "kind": "ROM-extracted glyph data",
+      "bytes": 7304,
+      "files": 1,
+      "sha256": "fd44caad966f46235918758b2e927bd2b1c4de5cb565218b5c3db106292ff98b"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/round5/scene-background.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 9395,
+      "files": 1,
+      "sha256": "a3c993b34b03d26c6e82cf254eaf3f9c82275e6a2c197e4d2da1c1fc4030fab9"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/round5/scene-foreground.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 21192,
+      "files": 1,
+      "sha256": "9681635a176dd5824c3e539c1cf0a80a9fc08767b656cd61a9cb904032d7e3ff"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/round5/whole-foreground.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 68842,
+      "files": 1,
+      "sha256": "f32af484495cb8dc92ec9801126fba4dfb4abd00f47bed49efef5f43546ed7c1"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "design/round5/whole-landscape.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 54859,
+      "files": 1,
+      "sha256": "7c9dd80e2868476f0a7594d7838ff8da0dd1af99f582925df35d598a90996a64"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "out/emerald-remix-master.mp4",
+      "kind": "final picture / pre-normalisation master",
+      "bytes": 117057278,
+      "files": 1,
+      "sha256": "f8213608d0a2be84a25d08b71ad8dad42f9bba13073d0fa7304b8675833e9463"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "out/emerald-remix-promo.mp4",
+      "kind": "delivered final film",
+      "bytes": 68182054,
+      "files": 1,
+      "sha256": "3385ed5c3ae71a73b52c13539d95328df782c28fba0249f121d9bb47d8c72d16"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "out/emerald-remix-rough.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 110235966,
+      "files": 1,
+      "sha256": "f7e77630314ae68a4aef35d915646b529155b9472d9b598cfd181f51765703a4"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "out/emerald-remix-round4.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 138044312,
+      "files": 1,
+      "sha256": "964b3478041c88dd04c71e9237982f7bca7eaf4eed16cef8ba8c5777ebf0756e"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/clover-entrance.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 4767305,
+      "files": 1,
+      "sha256": "513d84fcec2e0d420c80991d7fdeb68a68d2478af34907295fdde54deddd6948"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/clover-finish.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 8330383,
+      "files": 1,
+      "sha256": "8906a9e57221dfda4c5cd169eadfd2eca5a0133dc6b143189abdf45b277c1e83"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/clover-high-road.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 7059822,
+      "files": 1,
+      "sha256": "109b6ba02e74d0bd032011b74c2de102b08eae2990f9a94a138adb65101ceb7d"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/clover-jump-goal.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 5877707,
+      "files": 1,
+      "sha256": "19f4939427789a693a78a9aa36f1ed6d96bbb459ead23510b87ef901c41f142e"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/clover-pixels.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 7359089,
+      "files": 1,
+      "sha256": "54a6893602189d08b1d18fe18dec7fbe16d27051f616a4bb3623092dd73b618e"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/clover-spring-rings.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 7219784,
+      "files": 1,
+      "sha256": "0e158e2244cf334210b7f983674f4fdbf0cf7487fe2b5801e0829d7b88b973a3"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/cold-open.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 15306402,
+      "files": 1,
+      "sha256": "7ec1f1089e272f7b310db84e98cff0f028b07550b732e9959585902af2e21771"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/comparison.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 59032581,
+      "files": 1,
+      "sha256": "1bc0e2eddc0bfae7a4675212c79009dc59f1e940febbc2a6fb32f58d165ac3bd"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/drawn-by-code.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 3840624,
+      "files": 1,
+      "sha256": "b81a5a64ba114928e3cc7a56d53d8dde4c8777a8e077154f9ac5f07cec86fbf2"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/encoded-round5/00551.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 627438,
+      "files": 1,
+      "sha256": "0664d1506a15673af0589a236f04deed6ce8bf192c73e8e4bb96852df590d81e"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/encoded-round5/00620.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 522827,
+      "files": 1,
+      "sha256": "448ea0b218d805f0cb594f01f4c003691e6795b3d2a190082560974e34b28d26"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/encoded-round5/01310.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 679177,
+      "files": 1,
+      "sha256": "aea4e04a03f7118ddf8afce58042bdd5b015089631e7bc15c6f5d7cfbd4e11c2"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/encoded-round5/01410.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 1018274,
+      "files": 1,
+      "sha256": "e070bac5457fcfac997d0a25cdef3a90a7a7340435f65726b3028a65b15abea4"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/encoded-round5/01565.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 590856,
+      "files": 1,
+      "sha256": "eb3a8a3fc136666cde07cc20626ac7c613f2a55b29d771b0b14e40fb6a977f08"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/encoded-round5/01700.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 591326,
+      "files": 1,
+      "sha256": "b7d6aaa590a02dc01ebba0ac8c7cf9c20464b8fbcd98efd91e9a74c08a3f41b4"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/encoded-round5/02040.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 342714,
+      "files": 1,
+      "sha256": "27ecbaa6e14fe3def373afe3bed3aaa1bf60192c920fcb13bb6472ae32718901"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/encoded-round5/02240.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 506961,
+      "files": 1,
+      "sha256": "425d4644b48778557dc0c26d115c75ec4d13c2a748eb6bf5dd411ab539ad859b"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/end-card.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 3000790,
+      "files": 1,
+      "sha256": "40df013cac17c8c986af1c110ed7242558cd356d105e57c6969d44ee43051b23"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/remix-build-run.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 19150369,
+      "files": 1,
+      "sha256": "64dd1d329b6a4ce602c1832220fdfcf8e2de90560b9dbd133e8e307b06b9d56a"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/title-drop.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 13002886,
+      "files": 1,
+      "sha256": "9aa17ec220ed149b254dff0947f3a0c41bffc9fc910ea370aecdffad4fa6eae1"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-00137.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 1000742,
+      "files": 1,
+      "sha256": "71de6d447a49aa22dd012c229a82267454a22bae23f2f624e457d59a9dbccf0f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-00408.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 1180369,
+      "files": 1,
+      "sha256": "0c1dc6b4533b68286d016e6544a55c4912c76d0b1930960ed48af949554a1608"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-00543.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 655408,
+      "files": 1,
+      "sha256": "7e1a647aac4faea50ab5afac46691075be74ac4949aa66e6ac8055ee32f05f1a"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-00813.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 443362,
+      "files": 1,
+      "sha256": "0825a13b9570416b0af32686ffe59041bd491c5875abeae9f3bfe50c70279c4f"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-00948.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 549180,
+      "files": 1,
+      "sha256": "657c6f56055b6ac401dc41a058d5fe5ba81647aa26723209392c9515fcba14da"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-01218.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 539712,
+      "files": 1,
+      "sha256": "74132096c7f44b07a358c63611cc6c12873397e8ad2225a6e7abcae757882d7b"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-01488.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 288340,
+      "files": 1,
+      "sha256": "88cdb299788936c066690366a8ea78e04d9111b8710fe6843f0994eb585c8ebb"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-01758.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 489796,
+      "files": 1,
+      "sha256": "eb02c36adec1b2148f61d818d34ed36e65d38068e530b0b4e3daf3c8fb53ecd8"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-01893.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 361971,
+      "files": 1,
+      "sha256": "a72aea9c7314b372b4f43aafa3460faf13b93355ef989b71c2f931dfda8a988d"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/transition-frames/cut-02096.png",
+      "kind": "external artwork / ROM-derived glyph or editorial/review image",
+      "bytes": 425855,
+      "files": 1,
+      "sha256": "2b7b9e5f183b4f079bdd2902cb5395e009c355bdda7eefc4617a329717d07bf0"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/triple-payoff.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 18532722,
+      "files": 1,
+      "sha256": "10b5981a03962488c4effb2ffad5bb326890ce83cacd011b16861540e817ad75"
+    },
+    {
+      "root": "emerald-remix/promo",
+      "path": "previews/type-and-strip.mp4",
+      "kind": "superseded rough / section preview or capture viewing copy",
+      "bytes": 10933800,
+      "files": 1,
+      "sha256": "c4f7a9ee605f93d39f5de5ee52c18943919322538f8351d8d7f4199fb7d30461"
+    }
+  ]
+}

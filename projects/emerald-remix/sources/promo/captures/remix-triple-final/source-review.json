@@ -1,0 +1,77 @@
+{
+  "frames": 900,
+  "seconds": 15.0,
+  "source_png_size": [
+    400,
+    224
+  ],
+  "review_mp4_size": [
+    1200,
+    672
+  ],
+  "fps": "60/1",
+  "audio": "none",
+  "hurt_frames": 0,
+  "dead_frames": 0,
+  "source_picks_end_exclusive": [
+    [
+      48,
+      588
+    ],
+    [
+      94,
+      231
+    ],
+    [
+      48,
+      453
+    ]
+  ],
+  "first": {
+    "frame": "0",
+    "x": "3904",
+    "y": "600",
+    "xvel": "0",
+    "yvel": "0",
+    "gspeed": "0",
+    "air": "1",
+    "rolling": "0",
+    "spindash": "0",
+    "hurt": "0",
+    "dead": "0",
+    "rings": "0",
+    "mapping_frame": "1",
+    "cam_x": "3704",
+    "cam_y": "504",
+    "sk_present": "0",
+    "sk_x": "",
+    "sk_y": "",
+    "high_priority": "0",
+    "mode": "LEVEL",
+    "input": "|........|........|"
+  },
+  "last": {
+    "frame": "899",
+    "x": "7046",
+    "y": "549",
+    "xvel": "-1256",
+    "yvel": "-246",
+    "gspeed": "1281",
+    "air": "0",
+    "rolling": "0",
+    "spindash": "0",
+    "hurt": "0",
+    "dead": "0",
+    "rings": "32",
+    "mapping_frame": "20",
+    "cam_x": "6866",
+    "cam_y": "453",
+    "sk_present": "0",
+    "sk_x": "",
+    "sk_y": "",
+    "high_priority": "0",
+    "mode": "LEVEL",
+    "input": "|...R....|........|"
+  },
+  "decode": "passed"
+}

@@ -14448,3 +14448,207 @@ stageplay,stageplay/media,revision-8/scene/take-3/story-sfx.mkv,video,115852301,
 stageplay,stageplay/media,revision-8/scene/take-3/story.jsonl,stageplay-live-native-world-telemetry,39087520,1
 stageplay,stageplay/media,revision-8/scene/take-3/story.mkv,video,117442274,1
 stageplay,stageplay/media,revision-8/scene/wait-for-me-standalone.mp4,video,2197617,1
+emerald-remix,emerald-remix/fonts,FiraSansCompressed-Heavy.ttf,external editorial font,550312,1
+emerald-remix,emerald-remix/fonts,FiraSansCondensed-BoldItalic.ttf,external editorial font,534712,1
+emerald-remix,emerald-remix/promo,audio/emerald-remix-review-bed.wav,ROM-derived audio,13510478,1
+emerald-remix,emerald-remix/promo,audio/raw/s2-music-91-mix.wav,ROM-derived audio,14592044,1
+emerald-remix,emerald-remix/promo,audio/stingers/s2-sfx-b5-mix.wav,ROM-derived audio,121644,1
+emerald-remix,emerald-remix/promo,audio/stingers/s2-sfx-bc-mix.wav,ROM-derived audio,278444,1
+emerald-remix,emerald-remix/promo,audio/stingers/s2-sfx-c3-mix.wav,ROM-derived audio,204844,1
+emerald-remix,emerald-remix/promo,audio/stingers/s2-sfx-cc-mix.wav,ROM-derived audio,204844,1
+emerald-remix,emerald-remix/promo,captures/clover-default-final/capture.mp4,superseded rough / section preview or capture viewing copy,3404103,1
+emerald-remix,emerald-remix/promo,captures/clover-default-final/frames/*.png,frame-sequence,15252350,1200
+emerald-remix,emerald-remix/promo,captures/clover-end-scout01/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,270716,1
+emerald-remix,emerald-remix/promo,captures/clover-end-scout01/frames/*.png,frame-sequence,1145385,80
+emerald-remix,emerald-remix/promo,captures/clover-end-scout02/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,393138,1
+emerald-remix,emerald-remix/promo,captures/clover-end-scout02/frames/*.png,frame-sequence,1542416,80
+emerald-remix,emerald-remix/promo,captures/clover-route-final/capture.mp4,superseded rough / section preview or capture viewing copy,8713677,1
+emerald-remix,emerald-remix/promo,captures/clover-route-final/contact-00000-00269.png,external artwork / ROM-derived glyph or editorial/review image,193035,1
+emerald-remix,emerald-remix/promo,captures/clover-route-final/contact-00270-00809.png,external artwork / ROM-derived glyph or editorial/review image,266062,1
+emerald-remix,emerald-remix/promo,captures/clover-route-final/contact-00410-00949.png,external artwork / ROM-derived glyph or editorial/review image,261954,1
+emerald-remix,emerald-remix/promo,captures/clover-route-final/contact-00800-01204.png,external artwork / ROM-derived glyph or editorial/review image,306064,1
+emerald-remix,emerald-remix/promo,captures/clover-route-final/contact-00810-01214.png,external artwork / ROM-derived glyph or editorial/review image,307476,1
+emerald-remix,emerald-remix/promo,captures/clover-route-final/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,319248,1
+emerald-remix,emerald-remix/promo,captures/clover-route-final/frames/*.png,frame-sequence,20310165,1400
+emerald-remix,emerald-remix/promo,captures/clover-scout01/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,196519,1
+emerald-remix,emerald-remix/promo,captures/clover-scout01/frames/*.png,frame-sequence,1478645,120
+emerald-remix,emerald-remix/promo,captures/clover-scout02/contact-00000-00160.png,external artwork / ROM-derived glyph or editorial/review image,96181,1
+emerald-remix,emerald-remix/promo,captures/clover-scout02/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,193841,1
+emerald-remix,emerald-remix/promo,captures/clover-scout02/frames/*.png,frame-sequence,2252670,180
+emerald-remix,emerald-remix/promo,captures/clover-scout03/contact-00280-00900.png,external artwork / ROM-derived glyph or editorial/review image,207882,1
+emerald-remix,emerald-remix/promo,captures/clover-scout03/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,199421,1
+emerald-remix,emerald-remix/promo,captures/clover-scout03/frames/*.png,frame-sequence,2135093,180
+emerald-remix,emerald-remix/promo,captures/clover-scout04/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,231076,1
+emerald-remix,emerald-remix/promo,captures/clover-scout04/frames/*.png,frame-sequence,2819645,225
+emerald-remix,emerald-remix/promo,captures/clover-scout05/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,363856,1
+emerald-remix,emerald-remix/promo,captures/clover-scout05/frames/*.png,frame-sequence,3921444,225
+emerald-remix,emerald-remix/promo,captures/clover-shipping-clean/capture.mp4,superseded rough / section preview or capture viewing copy,5624149,1
+emerald-remix,emerald-remix/promo,captures/clover-shipping-clean/frames/*.png,frame-sequence,15743123,1250
+emerald-remix,emerald-remix/promo,captures/clover-shipping-final/capture.mp4,superseded rough / section preview or capture viewing copy,8515910,1
+emerald-remix,emerald-remix/promo,captures/clover-shipping-final/frames/*.png,frame-sequence,20968051,1400
+emerald-remix,emerald-remix/promo,captures/clover-shipping-route-final/capture.mp4,superseded rough / section preview or capture viewing copy,8247674,1
+emerald-remix,emerald-remix/promo,captures/clover-shipping-route-final/contact-00020-01099.png,external artwork / ROM-derived glyph or editorial/review image,298881,1
+emerald-remix,emerald-remix/promo,captures/clover-shipping-route-final/contact-00100-01078.png,external artwork / ROM-derived glyph or editorial/review image,301274,1
+emerald-remix,emerald-remix/promo,captures/clover-shipping-route-final/frames/*.png,frame-sequence,18681455,1250
+emerald-remix,emerald-remix/promo,captures/clover-shipping-scout04/frames/*.png,frame-sequence,7228379,550
+emerald-remix,emerald-remix/promo,captures/clover-tail-final/capture.mp4,superseded rough / section preview or capture viewing copy,3137780,1
+emerald-remix,emerald-remix/promo,captures/clover-tail-final/contact-00030-00434.png,external artwork / ROM-derived glyph or editorial/review image,338016,1
+emerald-remix,emerald-remix/promo,captures/clover-tail-final/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,363443,1
+emerald-remix,emerald-remix/promo,captures/clover-tail-final/frames/*.png,frame-sequence,9129448,520
+emerald-remix,emerald-remix/promo,captures/remix-corkscrew-scout01/contact-00000-00650.png,external artwork / ROM-derived glyph or editorial/review image,418648,1
+emerald-remix,emerald-remix/promo,captures/remix-corkscrew-scout01/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,391607,1
+emerald-remix,emerald-remix/promo,captures/remix-corkscrew-scout01/frames/*.png,frame-sequence,3507756,150
+emerald-remix,emerald-remix/promo,captures/remix-corkscrew-scout02/contact-00050-00300.png,external artwork / ROM-derived glyph or editorial/review image,491158,1
+emerald-remix,emerald-remix/promo,captures/remix-corkscrew-scout02/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,484784,1
+emerald-remix,emerald-remix/promo,captures/remix-corkscrew-scout02/frames/*.png,frame-sequence,3607451,150
+emerald-remix,emerald-remix/promo,captures/remix-corkscrew-scout03/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,422319,1
+emerald-remix,emerald-remix/promo,captures/remix-corkscrew-scout03/frames/*.png,frame-sequence,3464961,150
+emerald-remix,emerald-remix/promo,captures/remix-dash-wide-scout/frames/*.png,frame-sequence,8466692,200
+emerald-remix,emerald-remix/promo,captures/remix-land-scout08/frames/*.png,frame-sequence,8441816,220
+emerald-remix,emerald-remix/promo,captures/remix-land-scout09/frames/*.png,frame-sequence,8482131,220
+emerald-remix,emerald-remix/promo,captures/remix-opening-final/capture.mp4,superseded rough / section preview or capture viewing copy,20140586,1
+emerald-remix,emerald-remix/promo,captures/remix-opening-final/contact-00000-00269.png,external artwork / ROM-derived glyph or editorial/review image,432078,1
+emerald-remix,emerald-remix/promo,captures/remix-opening-final/contact-00160-00868.png,external artwork / ROM-derived glyph or editorial/review image,484392,1
+emerald-remix,emerald-remix/promo,captures/remix-opening-final/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,481514,1
+emerald-remix,emerald-remix/promo,captures/remix-opening-final/frames/*.png,frame-sequence,20615551,900
+emerald-remix,emerald-remix/promo,captures/remix-run-scout02/frames/*.png,frame-sequence,9217660,250
+emerald-remix,emerald-remix/promo,captures/remix-run-scout05/frames/*.png,frame-sequence,7728716,220
+emerald-remix,emerald-remix/promo,captures/remix-run-scout06/frames/*.png,frame-sequence,8816658,210
+emerald-remix,emerald-remix/promo,captures/remix-run-scout10/frames/*.png,frame-sequence,9489334,220
+emerald-remix,emerald-remix/promo,captures/remix-scout01/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,319265,1
+emerald-remix,emerald-remix/promo,captures/remix-scout01/frames/*.png,frame-sequence,3442344,160
+emerald-remix,emerald-remix/promo,captures/remix-scout02/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,389568,1
+emerald-remix,emerald-remix/promo,captures/remix-scout02/frames/*.png,frame-sequence,3118899,128
+emerald-remix,emerald-remix/promo,captures/remix-scout03/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,389723,1
+emerald-remix,emerald-remix/promo,captures/remix-scout03/frames/*.png,frame-sequence,3118899,128
+emerald-remix,emerald-remix/promo,captures/remix-scout04/contact-00720-01350.png,external artwork / ROM-derived glyph or editorial/review image,453105,1
+emerald-remix,emerald-remix/promo,captures/remix-scout04/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,424126,1
+emerald-remix,emerald-remix/promo,captures/remix-scout04/frames/*.png,frame-sequence,4645078,200
+emerald-remix,emerald-remix/promo,captures/remix-single-scout01/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,380355,1
+emerald-remix,emerald-remix/promo,captures/remix-single-scout01/frames/*.png,frame-sequence,2365828,100
+emerald-remix,emerald-remix/promo,captures/remix-triple-final/capture.mp4,superseded rough / section preview or capture viewing copy,22126274,1
+emerald-remix,emerald-remix/promo,captures/remix-triple-final/contact-00048-00452.png,external artwork / ROM-derived glyph or editorial/review image,469904,1
+emerald-remix,emerald-remix/promo,captures/remix-triple-final/contact-00048-00587.png,external artwork / ROM-derived glyph or editorial/review image,474150,1
+emerald-remix,emerald-remix/promo,captures/remix-triple-final/contact-00094-00230.png,external artwork / ROM-derived glyph or editorial/review image,491006,1
+emerald-remix,emerald-remix/promo,captures/remix-triple-final/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,480860,1
+emerald-remix,emerald-remix/promo,captures/remix-triple-final/frames/*.png,frame-sequence,21613332,900
+emerald-remix,emerald-remix/promo,captures/remix-tumble-hero-final/capture.mp4,superseded rough / section preview or capture viewing copy,11847128,1
+emerald-remix,emerald-remix/promo,captures/remix-tumble-hero-final/contact-00065-00334.png,external artwork / ROM-derived glyph or editorial/review image,493156,1
+emerald-remix,emerald-remix/promo,captures/remix-tumble-hero-final/contact-00103-00239.png,external artwork / ROM-derived glyph or editorial/review image,481380,1
+emerald-remix,emerald-remix/promo,captures/remix-tumble-hero-final/frames/*.png,frame-sequence,9884039,390
+emerald-remix,emerald-remix/promo,captures/remix-tumble-scout01/frames/*.png,frame-sequence,10243173,250
+emerald-remix,emerald-remix/promo,captures/remix-tumble-scout03/frames/*.png,frame-sequence,7653658,210
+emerald-remix,emerald-remix/promo,captures/remix-tumble-scout04/frames/*.png,frame-sequence,8856589,210
+emerald-remix,emerald-remix/promo,captures/remix-tumble-scout07/frames/*.png,frame-sequence,9245907,220
+emerald-remix,emerald-remix/promo,captures/remix-tumble-wide-final/capture.mp4,superseded rough / section preview or capture viewing copy,22294634,1
+emerald-remix,emerald-remix/promo,captures/remix-tumble-wide-final/contact-00050-00319.png,external artwork / ROM-derived glyph or editorial/review image,595991,1
+emerald-remix,emerald-remix/promo,captures/remix-tumble-wide-final/frames/*.png,frame-sequence,16657877,390
+emerald-remix,emerald-remix/promo,captures/stock-double-final/capture.mp4,superseded rough / section preview or capture viewing copy,11114518,1
+emerald-remix,emerald-remix/promo,captures/stock-double-final/contact-00048-00317.png,external artwork / ROM-derived glyph or editorial/review image,475074,1
+emerald-remix,emerald-remix/promo,captures/stock-double-final/contact-00048-00452.png,external artwork / ROM-derived glyph or editorial/review image,522926,1
+emerald-remix,emerald-remix/promo,captures/stock-double-final/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,562063,1
+emerald-remix,emerald-remix/promo,captures/stock-double-final/frames/*.png,frame-sequence,18450353,650
+emerald-remix,emerald-remix/promo,captures/stock-double-scout01/contact-00000-00650.png,external artwork / ROM-derived glyph or editorial/review image,489864,1
+emerald-remix,emerald-remix/promo,captures/stock-double-scout01/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,522978,1
+emerald-remix,emerald-remix/promo,captures/stock-double-scout01/frames/*.png,frame-sequence,4007109,150
+emerald-remix,emerald-remix/promo,captures/stock-double-scout02/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,549548,1
+emerald-remix,emerald-remix/promo,captures/stock-double-scout02/frames/*.png,frame-sequence,4046257,150
+emerald-remix,emerald-remix/promo,captures/stock-double-scout03/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,520201,1
+emerald-remix,emerald-remix/promo,captures/stock-double-scout03/frames/*.png,frame-sequence,3734929,150
+emerald-remix,emerald-remix/promo,captures/stock-double-scout04/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,548315,1
+emerald-remix,emerald-remix/promo,captures/stock-double-scout04/frames/*.png,frame-sequence,2795881,100
+emerald-remix,emerald-remix/promo,captures/stock-opening-final/capture.mp4,superseded rough / section preview or capture viewing copy,21067858,1
+emerald-remix,emerald-remix/promo,captures/stock-opening-final/contact-00160-00868.png,external artwork / ROM-derived glyph or editorial/review image,487528,1
+emerald-remix,emerald-remix/promo,captures/stock-opening-final/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,482287,1
+emerald-remix,emerald-remix/promo,captures/stock-opening-final/frames/*.png,frame-sequence,20244034,900
+emerald-remix,emerald-remix/promo,captures/stock-opening-scout02/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,471327,1
+emerald-remix,emerald-remix/promo,captures/stock-opening-scout02/frames/*.png,frame-sequence,3348217,150
+emerald-remix,emerald-remix/promo,captures/stock-opening-scout03/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,472761,1
+emerald-remix,emerald-remix/promo,captures/stock-opening-scout03/frames/*.png,frame-sequence,3374144,150
+emerald-remix,emerald-remix/promo,captures/stock-scout01/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,421788,1
+emerald-remix,emerald-remix/promo,captures/stock-scout01/frames/*.png,frame-sequence,4593393,200
+emerald-remix,emerald-remix/promo,captures/stock-titlecard-reference/capture.mp4,superseded rough / section preview or capture viewing copy,2026506,1
+emerald-remix,emerald-remix/promo,captures/stock-titlecard-reference/contact-00020-00150.png,external artwork / ROM-derived glyph or editorial/review image,224779,1
+emerald-remix,emerald-remix/promo,captures/stock-titlecard-reference/contact-sheet.png,external artwork / ROM-derived glyph or editorial/review image,286586,1
+emerald-remix,emerald-remix/promo,captures/stock-titlecard-reference/frames/*.png,frame-sequence,3775405,240
+emerald-remix,emerald-remix/promo,captures/stock-tumble-wide-exit-final/capture.mp4,superseded rough / section preview or capture viewing copy,23544922,1
+emerald-remix,emerald-remix/promo,captures/stock-tumble-wide-exit-final/frames/*.png,frame-sequence,15971047,390
+emerald-remix,emerald-remix/promo,captures/stock-tumble-wide-exit02-final/capture.mp4,superseded rough / section preview or capture viewing copy,25295509,1
+emerald-remix,emerald-remix/promo,captures/stock-tumble-wide-exit02-final/contact-00050-00319.png,external artwork / ROM-derived glyph or editorial/review image,594802,1
+emerald-remix,emerald-remix/promo,captures/stock-tumble-wide-exit02-final/frames/*.png,frame-sequence,26008697,390
+emerald-remix,emerald-remix/promo,captures/stock-tumble-wide-final/capture.mp4,superseded rough / section preview or capture viewing copy,22898321,1
+emerald-remix,emerald-remix/promo,captures/stock-tumble-wide-final/frames/*.png,frame-sequence,15999487,390
+emerald-remix,emerald-remix/promo,design/clover-layout-reference.png,external artwork / ROM-derived glyph or editorial/review image,17843,1
+emerald-remix,emerald-remix/promo,design/native-card-treatment.png,external artwork / ROM-derived glyph or editorial/review image,4680,1
+emerald-remix,emerald-remix/promo,design/revision/clover-pixel-function.png,external artwork / ROM-derived glyph or editorial/review image,190,1
+emerald-remix,emerald-remix/promo,design/revision/flower-pixel-function.png,external artwork / ROM-derived glyph or editorial/review image,198,1
+emerald-remix,emerald-remix/promo,design/revision/rom-triple-art.png,external artwork / ROM-derived glyph or editorial/review image,33833,1
+emerald-remix,emerald-remix/promo,design/revision/rom-triple-strip.png,external artwork / ROM-derived glyph or editorial/review image,30831,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/A.png,external artwork / ROM-derived glyph or editorial/review image,182,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/B.png,external artwork / ROM-derived glyph or editorial/review image,193,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/C.png,external artwork / ROM-derived glyph or editorial/review image,198,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/D.png,external artwork / ROM-derived glyph or editorial/review image,208,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/E.png,external artwork / ROM-derived glyph or editorial/review image,160,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/F.png,external artwork / ROM-derived glyph or editorial/review image,145,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/G.png,external artwork / ROM-derived glyph or editorial/review image,222,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/H.png,external artwork / ROM-derived glyph or editorial/review image,148,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/I.png,external artwork / ROM-derived glyph or editorial/review image,112,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/J.png,external artwork / ROM-derived glyph or editorial/review image,185,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/K.png,external artwork / ROM-derived glyph or editorial/review image,170,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/L.png,external artwork / ROM-derived glyph or editorial/review image,138,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/M.png,external artwork / ROM-derived glyph or editorial/review image,204,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/N.png,external artwork / ROM-derived glyph or editorial/review image,207,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/O.png,external artwork / ROM-derived glyph or editorial/review image,212,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/P.png,external artwork / ROM-derived glyph or editorial/review image,177,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/Q.png,external artwork / ROM-derived glyph or editorial/review image,212,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/R.png,external artwork / ROM-derived glyph or editorial/review image,203,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/S.png,external artwork / ROM-derived glyph or editorial/review image,160,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/T.png,external artwork / ROM-derived glyph or editorial/review image,145,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/U.png,external artwork / ROM-derived glyph or editorial/review image,158,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/V.png,external artwork / ROM-derived glyph or editorial/review image,180,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/W.png,external artwork / ROM-derived glyph or editorial/review image,213,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/X.png,external artwork / ROM-derived glyph or editorial/review image,191,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/Y.png,external artwork / ROM-derived glyph or editorial/review image,150,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/Z.png,external artwork / ROM-derived glyph or editorial/review image,185,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/logo-test.png,external artwork / ROM-derived glyph or editorial/review image,2526,1
+emerald-remix,emerald-remix/promo,design/rom-title-font/s2-title-font.txt,ROM-extracted glyph data,7304,1
+emerald-remix,emerald-remix/promo,design/round5/scene-background.png,external artwork / ROM-derived glyph or editorial/review image,9395,1
+emerald-remix,emerald-remix/promo,design/round5/scene-foreground.png,external artwork / ROM-derived glyph or editorial/review image,21192,1
+emerald-remix,emerald-remix/promo,design/round5/whole-foreground.png,external artwork / ROM-derived glyph or editorial/review image,68842,1
+emerald-remix,emerald-remix/promo,design/round5/whole-landscape.png,external artwork / ROM-derived glyph or editorial/review image,54859,1
+emerald-remix,emerald-remix/promo,out/emerald-remix-master.mp4,final picture / pre-normalisation master,117057278,1
+emerald-remix,emerald-remix/promo,out/emerald-remix-promo.mp4,delivered final film,68182054,1
+emerald-remix,emerald-remix/promo,out/emerald-remix-rough.mp4,superseded rough / section preview or capture viewing copy,110235966,1
+emerald-remix,emerald-remix/promo,out/emerald-remix-round4.mp4,superseded rough / section preview or capture viewing copy,138044312,1
+emerald-remix,emerald-remix/promo,previews/clover-entrance.mp4,superseded rough / section preview or capture viewing copy,4767305,1
+emerald-remix,emerald-remix/promo,previews/clover-finish.mp4,superseded rough / section preview or capture viewing copy,8330383,1
+emerald-remix,emerald-remix/promo,previews/clover-high-road.mp4,superseded rough / section preview or capture viewing copy,7059822,1
+emerald-remix,emerald-remix/promo,previews/clover-jump-goal.mp4,superseded rough / section preview or capture viewing copy,5877707,1
+emerald-remix,emerald-remix/promo,previews/clover-pixels.mp4,superseded rough / section preview or capture viewing copy,7359089,1
+emerald-remix,emerald-remix/promo,previews/clover-spring-rings.mp4,superseded rough / section preview or capture viewing copy,7219784,1
+emerald-remix,emerald-remix/promo,previews/cold-open.mp4,superseded rough / section preview or capture viewing copy,15306402,1
+emerald-remix,emerald-remix/promo,previews/comparison.mp4,superseded rough / section preview or capture viewing copy,59032581,1
+emerald-remix,emerald-remix/promo,previews/drawn-by-code.mp4,superseded rough / section preview or capture viewing copy,3840624,1
+emerald-remix,emerald-remix/promo,previews/encoded-round5/00551.png,external artwork / ROM-derived glyph or editorial/review image,627438,1
+emerald-remix,emerald-remix/promo,previews/encoded-round5/00620.png,external artwork / ROM-derived glyph or editorial/review image,522827,1
+emerald-remix,emerald-remix/promo,previews/encoded-round5/01310.png,external artwork / ROM-derived glyph or editorial/review image,679177,1
+emerald-remix,emerald-remix/promo,previews/encoded-round5/01410.png,external artwork / ROM-derived glyph or editorial/review image,1018274,1
+emerald-remix,emerald-remix/promo,previews/encoded-round5/01565.png,external artwork / ROM-derived glyph or editorial/review image,590856,1
+emerald-remix,emerald-remix/promo,previews/encoded-round5/01700.png,external artwork / ROM-derived glyph or editorial/review image,591326,1
+emerald-remix,emerald-remix/promo,previews/encoded-round5/02040.png,external artwork / ROM-derived glyph or editorial/review image,342714,1
+emerald-remix,emerald-remix/promo,previews/encoded-round5/02240.png,external artwork / ROM-derived glyph or editorial/review image,506961,1
+emerald-remix,emerald-remix/promo,previews/end-card.mp4,superseded rough / section preview or capture viewing copy,3000790,1
+emerald-remix,emerald-remix/promo,previews/remix-build-run.mp4,superseded rough / section preview or capture viewing copy,19150369,1
+emerald-remix,emerald-remix/promo,previews/title-drop.mp4,superseded rough / section preview or capture viewing copy,13002886,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-00137.png,external artwork / ROM-derived glyph or editorial/review image,1000742,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-00408.png,external artwork / ROM-derived glyph or editorial/review image,1180369,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-00543.png,external artwork / ROM-derived glyph or editorial/review image,655408,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-00813.png,external artwork / ROM-derived glyph or editorial/review image,443362,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-00948.png,external artwork / ROM-derived glyph or editorial/review image,549180,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-01218.png,external artwork / ROM-derived glyph or editorial/review image,539712,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-01488.png,external artwork / ROM-derived glyph or editorial/review image,288340,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-01758.png,external artwork / ROM-derived glyph or editorial/review image,489796,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-01893.png,external artwork / ROM-derived glyph or editorial/review image,361971,1
+emerald-remix,emerald-remix/promo,previews/transition-frames/cut-02096.png,external artwork / ROM-derived glyph or editorial/review image,425855,1
+emerald-remix,emerald-remix/promo,previews/triple-payoff.mp4,superseded rough / section preview or capture viewing copy,18532722,1
+emerald-remix,emerald-remix/promo,previews/type-and-strip.mp4,superseded rough / section preview or capture viewing copy,10933800,1

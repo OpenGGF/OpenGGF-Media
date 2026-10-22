@@ -187,5 +187,12 @@
     "notes": "Revision 8: 75-second story-first directing tutorial, revised 26-second short, continuous annotated pass and measured native jump-hold comparison. Sources, native outcomes, decoded-media and bounded motion review preserved; physical listening/user acceptance not claimed. Earlier revisions remain identified.",
     "source_files": 170,
     "catalog_entries": 205
+  },
+  {
+    "id": "emerald-remix",
+    "title": "Emerald Remix coached promo",
+    "notes": "Finished 41.683-second film: final post-round-5 edit and exact final encode, with rejected plans/round-4/round-5 sources, user feedback and bounded historical review. Produced by GPT-6.1-Sol under Claude Opus 5.5 coaching; film/art/audio remain external.",
+    "source_files": 216,
+    "catalog_entries": 204
   }
 ]

@@ -1,0 +1,10 @@
+<!doctype html><meta charset="utf-8"><title>Emerald Remix round 5 review</title>
+<style>*{box-sizing:border-box}body{margin:0;background:#0b1439;color:white;font:16px sans-serif}nav{height:36px;display:flex;gap:12px;align-items:center;padding:0 12px}button{background:#3057ce;color:white;border:0;padding:6px}video{display:block;width:1920px;height:1080px} </style>
+<nav id="nav"></nav><video id="v" controls preload="auto"></video><script>
+const files=['comparison','type-and-strip','triple-payoff','drawn-by-code','clover-spring-rings','clover-jump-goal','end-card','whole'];
+let v=document.querySelector('video');for(let n of files){let b=document.createElement('button');b.textContent=n;b.onclick=()=>load(n);nav.append(b)}
+function load(n){v.src=n==='whole'?'../out/emerald-remix-rough.mp4':n+'.mp4';v.playbackRate=1;v.load();document.title=n+' | Emerald Remix r5';}
+load('comparison');
+window.events=[];for(let t of ['playing','waiting','ended','error'])v.addEventListener(t,()=>events.push([t,v.currentTime]));
+window.samples=[];function sample(now,meta){samples.push([meta.mediaTime,meta.presentedFrames]);v.requestVideoFrameCallback(sample)}v.requestVideoFrameCallback(sample);
+</script>

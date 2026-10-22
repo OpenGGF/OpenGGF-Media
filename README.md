@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**27 production groups · 6,979 preserved source files · approximately 162 GiB of
+**28 production groups · 7,195 preserved source files · approximately 163 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -38,16 +38,18 @@ this repository contains their production sources and location catalog.
 | [Sonic 3&K Chaos Mode demo and card-gallery revisions](projects/sonic3k-chaos-mode/) | 706 | 293 |
 | [Second Strike gameplay reels and AIZ development edit](projects/second-strike/) | 39 | 18 |
 | [OpenGGF Stageplay original short and directing promo](projects/stageplay/) | 170 | 205 |
+| [Emerald Remix coached promo](projects/emerald-remix/) | 216 | 204 |
 | [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
 
 The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later
 collections cover zone bring-ups, ending sequences, Slay the Robotnik, Putt-Putt
 Paradise, Flappy Tails, Typing of the Hedgehog, Sitar Hero, Starpost Valley,
-Mutator Lab, Chaos Mode, Second Strike and Stageplay. Retained drafts and revisions remain identifiable;
+Mutator Lab, Chaos Mode, Second Strike, Stageplay and Emerald Remix. Retained drafts and revisions remain identifiable;
 Chaos Mode retains its earlier reels alongside the focused revision-4 gallery:
 twenty representative effects, twelve zones and qualified native DAC/SFX capture.
 Second Strike also retains a separately identified47-second AIZ development
-excerpt with bounded render review beside its earlier delivered film.
+excerpt with bounded render review beside its earlier delivered film. Emerald Remix
+retains its finished 41.683-second edit, rejected revisions and coached production history.
 
 ## Use the archive
 

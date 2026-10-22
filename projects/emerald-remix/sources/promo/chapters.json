@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Cold open",
+    "out_in": 0,
+    "out_out": 137,
+    "source": "remix-tumble-hero-final",
+    "source_in": 103,
+    "source_out": 240,
+    "fps": 60,
+    "note": "Best tumble poses, unchanged native motion."
+  },
+  {
+    "name": "Two versus three",
+    "out_in": 137,
+    "out_out": 408,
+    "source": "stock-tumble-wide-exit02-final + remix-tumble-wide-final",
+    "source_in": 50,
+    "source_out": 321,
+    "fps": 60,
+    "note": "ONE / TWO / THREE follows measured crests; native palette restored."
+  },
+  {
+    "name": "New route",
+    "out_in": 408,
+    "out_out": 543,
+    "source": "stock-opening-final + remix-opening-final",
+    "source_in": 195,
+    "source_out": 330,
+    "fps": 60,
+    "note": "One brief comparison; labels moved clear of the native HUD."
+  },
+  {
+    "name": "Title slam",
+    "out_in": 543,
+    "out_out": 813,
+    "source": "remix-opening-final",
+    "source_in": 0,
+    "source_out": 270,
+    "fps": 60,
+    "note": "Preserved flash, C3 stinger and 26-frame camera slam; native white/grey/black type."
+  },
+  {
+    "name": "ROM strip assembly",
+    "out_in": 813,
+    "out_out": 948,
+    "source": "editorial ROM-art diagram",
+    "source_in": null,
+    "source_out": null,
+    "fps": 60,
+    "note": "Actual foreground pieces from remixed world x4096\u20135248, split at x4864: double + single. They arrive separately and join; this is a diagram, not gameplay."
+  },
+  {
+    "name": "Run the triple",
+    "out_in": 948,
+    "out_out": 1218,
+    "source": "remix-tumble-hero-final",
+    "source_in": 65,
+    "source_out": 335,
+    "fps": 60,
+    "note": "NOW RUN IT clears quickly; complete unrolled triple stays uninterrupted."
+  },
+  {
+    "name": "Clover route",
+    "out_in": 1218,
+    "out_out": 2028,
+    "source": "clover-shipping-route-final",
+    "source_in": 100,
+    "source_out": 910,
+    "fps": 60,
+    "note": "Continuous native spring, upper landing, ring line and step jump."
+  },
+  {
+    "name": "Clover finish",
+    "out_in": 2028,
+    "out_out": 2197,
+    "source": "clover-shipping-route-final",
+    "source_in": 910,
+    "source_out": 1079,
+    "fps": 60,
+    "note": "Exact source continuation; held 1.25x crop at (160,89.6) keeps the 400px capture from revealing beyond the native right bound, while preserving top HUD rows. Sonic exits the cropped view."
+  },
+  {
+    "name": "End card",
+    "out_in": 2197,
+    "out_out": 2602,
+    "source": "clover-tail-final",
+    "source_in": 30,
+    "source_out": 435,
+    "fps": 60,
+    "note": "Fresh moving run-out; native logo and practical source URL/status/disclaimer."
+  }
+]

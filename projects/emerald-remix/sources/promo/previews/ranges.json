@@ -1,0 +1,65 @@
+{
+  "comparison": {
+    "in": 125,
+    "out": 555,
+    "fps": 60,
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  "type-and-strip": {
+    "in": 525,
+    "out": 966,
+    "fps": 60,
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  "triple-payoff": {
+    "in": 930,
+    "out": 1236,
+    "fps": 60,
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  "drawn-by-code": {
+    "in": 1194,
+    "out": 1528,
+    "fps": 60,
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  "clover-spring-rings": {
+    "in": 1464,
+    "out": 1788,
+    "fps": 60,
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  "clover-jump-goal": {
+    "in": 1734,
+    "out": 2126,
+    "fps": 60,
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  "end-card": {
+    "in": 2072,
+    "out": 2501,
+    "fps": 60,
+    "size": [
+      1920,
+      1080
+    ]
+  }
+}

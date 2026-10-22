@@ -1,0 +1,31 @@
+{
+  "reference": "captures/stock-titlecard-reference/frames/00062.png",
+  "palette_indices": {
+    "1": [
+      0,
+      0,
+      0
+    ],
+    "6": [
+      255,
+      255,
+      255
+    ],
+    "7": [
+      182,
+      182,
+      182
+    ],
+    "8": [
+      146,
+      146,
+      146
+    ]
+  },
+  "native_black_shadow_offset": [
+    2,
+    2
+  ],
+  "additional_outline": false,
+  "additional_drop": false
+}
