@@ -234,5 +234,17 @@
     "original": "/usr/share/fonts/TTF",
     "archive": "",
     "notes": "External Fira editorial faces. Current installed bytes hashed at archive time; historical font-file identity was not recorded during rendering. Supply separately under their own licence; no fonts redistributed."
+  },
+  {
+    "id": "time-attack-promo/promo",
+    "original": "/home/farrell/Videos/OGGF/ta-promo-a",
+    "archive": "projects/time-attack-promo/sources/promo",
+    "notes": "Film A, the multiplayer Time Attack promo: byte-preserved edit, capture driver, records and revision history. Footage, ROM-derived audio and plates remain external."
+  },
+  {
+    "id": "time-attack-promo/fonts",
+    "original": "/home/farrell/Videos/OGGF/ta-promo-a/fonts",
+    "archive": "",
+    "notes": "External Fira/Anton editorial faces; hashed, not redistributed."
   }
 ]

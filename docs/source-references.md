@@ -29,3 +29,8 @@ compositor to OpenGGF `7d7246fbe`, preserves the coaching commit range
 `f11ad311f..7d7246fbe`, and keeps the individual capture commits in their original
 provenance. Its final edit, three post-round-5 coach fixes and exact loudness
 normalisation encode are preserved separately from the superseded rough records.
+
+The [multiplayer Time Attack promo](../projects/time-attack-promo/README.md) records
+each capture's OpenGGF commit in its `source-commit.txt`. The current takes are develop
+`62521a43a` (lobby, names, profile) and `f829713b1` (races). The capture driver
+compiled against them is preserved in the archive and was never committed to the engine.

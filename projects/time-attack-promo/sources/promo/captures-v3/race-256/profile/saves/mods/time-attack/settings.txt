@@ -1,0 +1,4 @@
+displayName=Capture Player
+masterUrl=ws://127.0.0.1:46055/master
+masterTrustInsecure=false
+minimap=true

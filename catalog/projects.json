@@ -194,5 +194,12 @@
     "notes": "Finished 41.683-second film: final post-round-5 edit and exact final encode, with rejected plans/round-4/round-5 sources, user feedback and bounded historical review. Produced by GPT-6.1-Sol under Claude Opus 5.5 coaching; film/art/audio remain external.",
     "source_files": 216,
     "catalog_entries": 204
+  },
+  {
+    "id": "time-attack-promo",
+    "title": "Multiplayer Time Attack promo",
+    "notes": "Film A, the delivered multiplayer Time Attack promo, with its edit, capture driver, capture records and every superseded edit revision; film/footage/audio remain external.",
+    "source_files": 231,
+    "catalog_entries": 205
   }
 ]

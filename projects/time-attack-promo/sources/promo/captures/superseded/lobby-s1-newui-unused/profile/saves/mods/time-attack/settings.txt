@@ -1,0 +1,4 @@
+displayName=疾風の刃
+lookBase=06E
+hostPort=45933
+minimap=true

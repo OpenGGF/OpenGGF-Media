@@ -1,0 +1,1 @@
+race /home/farrell/Videos/OGGF/ta-promo-a/route/ghz1.route 75 clean intl 9 classes=classes

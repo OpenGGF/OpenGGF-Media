@@ -1,0 +1,10 @@
+# Time Attack settings
+retryKey=82
+hostPort=40513
+lastJoinAddress=
+displayName=疾風の刃
+masterUrl=
+masterTrustInsecure=false
+minimap=true
+readyRule=DEFAULT_BY_SIZE
+lookBase=06E

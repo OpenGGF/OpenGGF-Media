@@ -14652,3 +14652,208 @@ emerald-remix,emerald-remix/promo,previews/transition-frames/cut-01893.png,exter
 emerald-remix,emerald-remix/promo,previews/transition-frames/cut-02096.png,external artwork / ROM-derived glyph or editorial/review image,425855,1
 emerald-remix,emerald-remix/promo,previews/triple-payoff.mp4,superseded rough / section preview or capture viewing copy,18532722,1
 emerald-remix,emerald-remix/promo,previews/type-and-strip.mp4,superseded rough / section preview or capture viewing copy,10933800,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/base-lobby-s3k/fixture.patch,media dependency,0,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/base-lobby-s3k/lobby.mp4,media dependency,4872145,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/base-lobby-s3k/state.csv,generated state/diagnostic data,105089,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1/audio.pcm,capture audio (ROM-derived),6188800,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1/state.csv,generated state/diagnostic data,130670,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1/video.mkv,superseded capture,108545462,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1-newui-unused/audio.pcm,capture audio (ROM-derived),6198400,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1-newui-unused/state.csv,generated state/diagnostic data,130887,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1-newui-unused/video.mkv,superseded capture,111337758,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1-v2/audio.pcm,capture audio (ROM-derived),6188800,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1-v2/state.csv,generated state/diagnostic data,130670,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1-v2/video.mkv,superseded capture,108293421,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2/audio.pcm,capture audio (ROM-derived),6009600,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2/state.csv,generated state/diagnostic data,126448,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2/video.mkv,superseded capture,88925969,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2-newui-unused/audio.pcm,capture audio (ROM-derived),6003200,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2-newui-unused/state.csv,generated state/diagnostic data,126305,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2-newui-unused/video.mkv,superseded capture,87673718,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2-v2/audio.pcm,capture audio (ROM-derived),5987200,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2-v2/state.csv,generated state/diagnostic data,125940,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2-v2/video.mkv,superseded capture,88492844,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile/audio.pcm,capture audio (ROM-derived),8201600,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile/state.csv,generated state/diagnostic data,173095,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile/video.mkv,superseded capture,115207186,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-newui-v2/audio.pcm,capture audio (ROM-derived),8204800,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-newui-v2/state.csv,generated state/diagnostic data,173171,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-newui-v2/video.mkv,superseded capture,113341291,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-v2/audio.pcm,capture audio (ROM-derived),8188800,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-v2/state.csv,generated state/diagnostic data,172801,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-v2/video.mkv,superseded capture,114963968,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-v2-superseded/audio.pcm,capture audio (ROM-derived),8128000,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-v2-superseded/state.csv,generated state/diagnostic data,171895,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-v2-superseded/video.mkv,superseded capture,112292484,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-newui-unused/audio.pcm,capture audio (ROM-derived),5993600,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-newui-unused/state.csv,generated state/diagnostic data,120344,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-newui-unused/video.mkv,superseded capture,112062695,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-v1/audio.pcm,capture audio (ROM-derived),6102400,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-v1/state.csv,generated state/diagnostic data,122940,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-v1/video.mkv,superseded capture,114959676,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-v2/audio.pcm,capture audio (ROM-derived),6000000,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-v2/state.csv,generated state/diagnostic data,120454,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-v2/video.mkv,superseded capture,113597331,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-256-v2/audio.pcm,capture audio (ROM-derived),20697600,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-256-v2/state.csv,generated state/diagnostic data,1351781,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-256-v2/video.mkv,superseded capture,424828653,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean/audio.pcm,capture audio (ROM-derived),25830400,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean/state.csv,generated state/diagnostic data,723943,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean/video.mkv,superseded capture,564199715,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean2/audio.pcm,capture audio (ROM-derived),25840000,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean2/state.csv,generated state/diagnostic data,1466446,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean2/video.mkv,superseded capture,564502953,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean3-newui-v2/audio.pcm,capture audio (ROM-derived),25843200,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean3-newui-v2/state.csv,generated state/diagnostic data,1486374,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean3-newui-v2/video.mkv,superseded capture,571114882,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean3-v2/audio.pcm,capture audio (ROM-derived),25833600,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean3-v2/state.csv,generated state/diagnostic data,1486799,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean3-v2/video.mkv,superseded capture,568619840,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-death-v2/audio.pcm,capture audio (ROM-derived),8451200,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-death-v2/state.csv,generated state/diagnostic data,209081,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-death-v2/video.mkv,superseded capture,151349410,1
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s1/audio.pcm,capture audio (ROM-derived),6195200,1
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s1/video.mkv,lossless capture,111152097,1
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s2/audio.pcm,capture audio (ROM-derived),6038400,1
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s2/video.mkv,lossless capture,87323579,1
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s3k-profile/audio.pcm,capture audio (ROM-derived),8201600,1
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s3k-profile/video.mkv,lossless capture,112828425,1
+time-attack-promo,time-attack-promo/promo,captures-v3/names-relay/audio.pcm,capture audio (ROM-derived),5996800,1
+time-attack-promo,time-attack-promo/promo,captures-v3/names-relay/video.mkv,lossless capture,112252084,1
+time-attack-promo,time-attack-promo/promo,captures-v3/race-256/audio.pcm,capture audio (ROM-derived),20700800,1
+time-attack-promo,time-attack-promo/promo,captures-v3/race-256/state.csv,generated state/diagnostic data,1355774,1
+time-attack-promo,time-attack-promo/promo,captures-v3/race-256/video.mkv,lossless capture,421603046,1
+time-attack-promo,time-attack-promo/promo,captures-v3/race-clean3/audio.pcm,capture audio (ROM-derived),25830400,1
+time-attack-promo,time-attack-promo/promo,captures-v3/race-clean3/state.csv,generated state/diagnostic data,1485967,1
+time-attack-promo,time-attack-promo/promo,captures-v3/race-clean3/video.mkv,lossless capture,565622286,1
+time-attack-promo,time-attack-promo/promo,captures-v3/race-death/audio.pcm,capture audio (ROM-derived),8454400,1
+time-attack-promo,time-attack-promo/promo,captures-v3/race-death/video.mkv,lossless capture,148467086,1
+time-attack-promo,time-attack-promo/fonts,fonts/Anton-Regular.ttf,external editorial font,170812,1
+time-attack-promo,time-attack-promo/fonts,fonts/FiraSans-Bold.ttf,external editorial font,489720,1
+time-attack-promo,time-attack-promo/fonts,fonts/FiraSans-BoldItalic.ttf,external editorial font,506864,1
+time-attack-promo,time-attack-promo/fonts,fonts/FiraSansCondensed-BoldItalic.ttf,external editorial font,514400,1
+time-attack-promo,time-attack-promo/fonts,fonts/FiraSansExtraCondensed-Black.ttf,external editorial font,516808,1
+time-attack-promo,time-attack-promo/fonts,fonts/FiraSansExtraCondensed-BlackItalic.ttf,external editorial font,539564,1
+time-attack-promo,time-attack-promo/promo,music/clean/bed-alz-live.wav,ROM-derived audio,19203278,1
+time-attack-promo,time-attack-promo/promo,music/clean/bed-alz.wav,ROM-derived audio,19200078,1
+time-attack-promo,time-attack-promo/promo,music/clean/s1-sfx-a0.wav,ROM-derived audio,86478,1
+time-attack-promo,time-attack-promo/promo,music/clean/s1-sfx-a3.wav,ROM-derived audio,176078,1
+time-attack-promo,time-attack-promo/promo,music/clean/s1-sfx-b5-centre.wav,ROM-derived audio,121678,1
+time-attack-promo,time-attack-promo/promo,music/clean/s1-sfx-b5.wav,ROM-derived audio,121678,1
+time-attack-promo,time-attack-promo/promo,music/clean/s1-sfx-cf.wav,ROM-derived audio,352078,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-33.wav,ROM-derived audio,121678,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-34.wav,ROM-derived audio,121678,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-5b.wav,ROM-derived audio,9678,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-62.wav,ROM-derived audio,86478,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-63.wav,ROM-derived audio,92878,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-6a.wav,ROM-derived audio,371278,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-ab.wav,ROM-derived audio,240078,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-b0.wav,ROM-derived audio,332878,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-b3.wav,ROM-derived audio,185678,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-b6.wav,ROM-derived audio,275278,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-b8.wav,ROM-derived audio,464078,1
+time-attack-promo,time-attack-promo/promo,music/clean/s3k-sfx-b9.wav,ROM-derived audio,291278,1
+time-attack-promo,time-attack-promo/promo,music/live/probe-mask0.wav,ROM-derived audio,5760044,1
+time-attack-promo,time-attack-promo/promo,music/live/probe-mask20.wav,ROM-derived audio,5760044,1
+time-attack-promo,time-attack-promo/promo,music/live/s3k-music-20-live.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-20/s3k-music-20-fm.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-20/s3k-music-20-mix.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-20/s3k-music-20-ym-writes.txt,ROM-derived audio,15979494,1
+time-attack-promo,time-attack-promo/promo,music/s3k-21/s3k-music-21-fm.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-21/s3k-music-21-mix.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-21/s3k-music-21-ym-writes.txt,ROM-derived audio,19971609,1
+time-attack-promo,time-attack-promo/promo,music/s3k-23/s3k-music-23-fm.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-23/s3k-music-23-mix.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-23/s3k-music-23-ym-writes.txt,ROM-derived audio,16268604,1
+time-attack-promo,time-attack-promo/promo,music/s3k-24/s3k-music-24-fm.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-24/s3k-music-24-mix.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-24/s3k-music-24-ym-writes.txt,ROM-derived audio,9337408,1
+time-attack-promo,time-attack-promo/promo,music/s3k-2D/s3k-music-2d-fm.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-2D/s3k-music-2d-mix.wav,ROM-derived audio,19200044,1
+time-attack-promo,time-attack-promo/promo,music/s3k-2D/s3k-music-2d-ym-writes.txt,ROM-derived audio,11571890,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-a0-fm.wav,ROM-derived audio,86444,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-a0-mix.wav,ROM-derived audio,86444,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-a0-ym-writes.txt,ROM-derived audio,62,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-a3-fm.wav,ROM-derived audio,176044,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-a3-mix.wav,ROM-derived audio,176044,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-a3-ym-writes.txt,ROM-derived audio,3689,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-b5-fm.wav,ROM-derived audio,121644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-b5-mix.wav,ROM-derived audio,121644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-b5-ym-writes.txt,ROM-derived audio,552,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-cf-fm.wav,ROM-derived audio,352044,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-cf-mix.wav,ROM-derived audio,352044,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s1/s1-sfx-cf-ym-writes.txt,ROM-derived audio,4250,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-33-fm.wav,ROM-derived audio,121644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-33-mix.wav,ROM-derived audio,121644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-33-ym-writes.txt,ROM-derived audio,1585,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-34-fm.wav,ROM-derived audio,121644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-34-mix.wav,ROM-derived audio,121644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-34-ym-writes.txt,ROM-derived audio,1585,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-5b-fm.wav,ROM-derived audio,9644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-5b-mix.wav,ROM-derived audio,9644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-5b-ym-writes.txt,ROM-derived audio,62,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-62-fm.wav,ROM-derived audio,86444,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-62-mix.wav,ROM-derived audio,86444,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-62-ym-writes.txt,ROM-derived audio,63,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-63-fm.wav,ROM-derived audio,92844,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-63-mix.wav,ROM-derived audio,92844,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-63-ym-writes.txt,ROM-derived audio,1295,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-6a-fm.wav,ROM-derived audio,371244,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-6a-mix.wav,ROM-derived audio,371244,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-6a-ym-writes.txt,ROM-derived audio,3705,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-ab-fm.wav,ROM-derived audio,240044,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-ab-mix.wav,ROM-derived audio,240044,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-ab-ym-writes.txt,ROM-derived audio,3901,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b0-fm.wav,ROM-derived audio,332844,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b0-mix.wav,ROM-derived audio,332844,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b0-ym-writes.txt,ROM-derived audio,4846,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b3-fm.wav,ROM-derived audio,185644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b3-mix.wav,ROM-derived audio,185644,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b3-ym-writes.txt,ROM-derived audio,4095,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b6-fm.wav,ROM-derived audio,275244,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b6-mix.wav,ROM-derived audio,275244,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b6-ym-writes.txt,ROM-derived audio,905,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b8-fm.wav,ROM-derived audio,464044,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b8-mix.wav,ROM-derived audio,464044,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b8-ym-writes.txt,ROM-derived audio,64,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b9-fm.wav,ROM-derived audio,291244,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b9-mix.wav,ROM-derived audio,291244,1
+time-attack-promo,time-attack-promo/promo,music/sfx/s3k/s3k-sfx-b9-ym-writes.txt,ROM-derived audio,6155,1
+time-attack-promo,time-attack-promo/promo,out/openggf-multiplayer-time-attack-promo.mp4,delivered final film,158073487,1
+time-attack-promo,time-attack-promo/promo,out/openggf-time-attack-promo.mp4,final picture / pre-normalisation master,158079578,1
+time-attack-promo,time-attack-promo/promo,probes/holdright.txt,generated state/diagnostic data,12137,1
+time-attack-promo,time-attack-promo/promo,probes/ghz1-right/state.csv,generated state/diagnostic data,19394,1
+time-attack-promo,time-attack-promo/promo,review/short-term.txt,generated state/diagnostic data,47209,1
+time-attack-promo,time-attack-promo/promo,captures/superseded/base-lobby-s3k/*.png,frame-sequence,115395,13
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1/*.png,frame-sequence,23502,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1-newui-unused/*.png,frame-sequence,23123,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s1-v2/*.png,frame-sequence,22796,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2/*.png,frame-sequence,23258,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2-newui-unused/*.png,frame-sequence,22969,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s2-v2/*.png,frame-sequence,22441,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile/*.png,frame-sequence,21793,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-newui-v2/*.png,frame-sequence,21426,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-v2/*.png,frame-sequence,21757,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/lobby-s3k-profile-v2-superseded/*.png,frame-sequence,21167,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-newui-unused/*.png,frame-sequence,22701,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-v1/*.png,frame-sequence,22652,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/names-relay-v2/*.png,frame-sequence,22704,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-256-v2/*.png,frame-sequence,22559,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean/*.png,frame-sequence,22994,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean2/*.png,frame-sequence,22660,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean3-newui-v2/*.png,frame-sequence,22055,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-clean3-v2/*.png,frame-sequence,22733,4
+time-attack-promo,time-attack-promo/promo,captures/superseded/race-death-v2/*.png,frame-sequence,22411,4
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s1/*.png,frame-sequence,22999,4
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s2/*.png,frame-sequence,23159,4
+time-attack-promo,time-attack-promo/promo,captures-v3/lobby-s3k-profile/*.png,frame-sequence,20802,4
+time-attack-promo,time-attack-promo/promo,captures-v3/names-relay/*.png,frame-sequence,23338,4
+time-attack-promo,time-attack-promo/promo,captures-v3/race-256/*.png,frame-sequence,22843,4
+time-attack-promo,time-attack-promo/promo,captures-v3/race-clean3/*.png,frame-sequence,23291,4
+time-attack-promo,time-attack-promo/promo,captures-v3/race-death/*.png,frame-sequence,22396,4
+time-attack-promo,time-attack-promo/promo,design/plates/*.png,external artwork / editorial plates,12563,58
+time-attack-promo,time-attack-promo/promo,design/plates-typed/*.png,external artwork / editorial plates,1634,11
+time-attack-promo,time-attack-promo/promo,probes/ghz1-right/frames/*.png,frame-sequence,28009,1
+time-attack-promo,time-attack-promo/promo,review/*.png,frame-sequence,12526698,38
+time-attack-promo,time-attack-promo/promo,review/v1/*.png,frame-sequence,14678691,4
+time-attack-promo,time-attack-promo/promo,review/v2/*.png,frame-sequence,14703923,4

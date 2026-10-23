@@ -1,0 +1,1 @@
+namesrelay /home/farrell/Videos/OGGF/ta-promo-a/route/ghz1.route classes=classes
