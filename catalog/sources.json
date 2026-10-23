@@ -57611,5 +57611,1853 @@
     "bytes": 38881,
     "sha256": "658b6e09e922910b9728887d7f2da22c48c7a42ea8a9ff378a6c449428104c98",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/DIRECTOR.md",
+    "root": "time-attack-promo/promo",
+    "original_path": "DIRECTOR.md",
+    "bytes": 9129,
+    "sha256": "874f49151da6fb189063e49967cbb8566aa726d95878e8ad9d0100db2fd39da2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/PROVENANCE.md",
+    "root": "time-attack-promo/promo",
+    "original_path": "PROVENANCE.md",
+    "bytes": 16326,
+    "sha256": "b2aefa5f3063b6b8d9577b3064d4575c8576d97dbc3a7eff1f7258a42d2059ec",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/lobby-s1/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/lobby-s1/edit-chapters.csv",
+    "bytes": 180,
+    "sha256": "ebe58fe7ae69cd72084f71e11d7cc80dfcd46e08e595a1db57a304da3ebf4ed8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/lobby-s2/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/lobby-s2/edit-chapters.csv",
+    "bytes": 179,
+    "sha256": "2cad64b838220842a408df2cf12021979ca062039018c57e28f6a40ec12bd820",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/lobby-s3k-profile/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/lobby-s3k-profile/edit-chapters.csv",
+    "bytes": 252,
+    "sha256": "7a5ffcc26b6f9050d1f9d6298420e3c338e9f65c250f686c7631bf12f463712f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/lobby-s3k-profile-newui/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/lobby-s3k-profile-newui/edit-chapters.csv",
+    "bytes": 252,
+    "sha256": "906b526b7577201cbcd18aee3f60a1bc34db67a1df9b644b4a3f1bb689ece6c8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/names-relay/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/names-relay/edit-chapters.csv",
+    "bytes": 144,
+    "sha256": "38a8a0bc913ecac52da6dd4aef73612e137866bf2cf65130a04b5db3326c8395",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/race-256/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/race-256/edit-chapters.csv",
+    "bytes": 131,
+    "sha256": "28cc1f35a0135f3bdc962468d8cb852c1e72bf1f86f222356270c9e17aa55df3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/race-clean3/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/race-clean3/edit-chapters.csv",
+    "bytes": 180,
+    "sha256": "47387780ba96d172b9002002338ac81609021537f854230f74a66690c31788ae",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/race-clean3-newui/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/race-clean3-newui/edit-chapters.csv",
+    "bytes": 180,
+    "sha256": "82fc1cfaf805f69dd0c30c942d2d5890226d0bac9eb0e4c4afd41914730c76d5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/race-death/edit-chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/race-death/edit-chapters.csv",
+    "bytes": 138,
+    "sha256": "c945478360323fabbec462a91a6e2963dcdeaa0adae4e4c7fe898411417c4957",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/base-lobby-s3k/exit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/base-lobby-s3k/exit.txt",
+    "bytes": 7,
+    "sha256": "19eaf43821a7660ec323a87c8457bf74823beb296c39f5e01aa8a683aa50f061",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/base-lobby-s3k/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/base-lobby-s3k/result.txt",
+    "bytes": 41,
+    "sha256": "cc1b73e94008f5e1eede7319f00485b392dbf7c1c84bdf21c51a185d7da18177",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/base-lobby-s3k/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/base-lobby-s3k/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/base-lobby-s3k/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/base-lobby-s3k/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 68,
+    "sha256": "5a20119eaeb84d00691762a832cc5170f78e8a4409c8c6535d8d066e745de48c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1/args.txt",
+    "bytes": 9,
+    "sha256": "3ec2741505f5e1dc76e95f62bc99affa6421e7e42cf1ebcd8d260880c6e392f7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1/chapters.csv",
+    "bytes": 180,
+    "sha256": "ebe58fe7ae69cd72084f71e11d7cc80dfcd46e08e595a1db57a304da3ebf4ed8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1/result.txt",
+    "bytes": 25,
+    "sha256": "6a94e4ef19e3960f8aec161bfb8cac8cc9b30826c7f76cd3f40e59cf69c0538a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 66,
+    "sha256": "99a0da80658619e441802b212f689e3b68850b6c7fa7762a9c224060461f5abc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-newui-unused/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-newui-unused/args.txt",
+    "bytes": 25,
+    "sha256": "97ad74a71a60560a15dcec4b48d409f5671ac6ad0b05c20a9f0a7259f446ace0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-newui-unused/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-newui-unused/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-newui-unused/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-newui-unused/chapters.csv",
+    "bytes": 180,
+    "sha256": "9461f4c638740268d901af081bac3e312e78a7a62c0ee43f268ca150e8be4b27",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-newui-unused/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-newui-unused/result.txt",
+    "bytes": 25,
+    "sha256": "ed4a442baed3ea968f8ac3cae1f14c30ec9a07a77833e351d6f9feb9b2bd945d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-newui-unused/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-newui-unused/source-commit.txt",
+    "bytes": 41,
+    "sha256": "58ccebc8250828637a6f9dbe6eaca1019f7eef6d4cf2d8d8e9cd6b3b02a86b08",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-newui-unused/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-newui-unused/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-newui-unused/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-newui-unused/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 66,
+    "sha256": "4c74af8dc85a5d0d627579deb70d3fa156763e87431a659b9074b81666bba03c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-v2/args.txt",
+    "bytes": 25,
+    "sha256": "97ad74a71a60560a15dcec4b48d409f5671ac6ad0b05c20a9f0a7259f446ace0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-v2/chapters.csv",
+    "bytes": 180,
+    "sha256": "ebe58fe7ae69cd72084f71e11d7cc80dfcd46e08e595a1db57a304da3ebf4ed8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-v2/result.txt",
+    "bytes": 25,
+    "sha256": "6a94e4ef19e3960f8aec161bfb8cac8cc9b30826c7f76cd3f40e59cf69c0538a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s1-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s1-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 66,
+    "sha256": "bb5c0dd76f202b8582fd1a7ed1fff6d155ad98c7cc3f729abbb4bee17a9cb741",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2/args.txt",
+    "bytes": 9,
+    "sha256": "35ea4bbd5c439e5ed80461e2aace200ccffe3ba20900c94e181a5b951c67f160",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2/chapters.csv",
+    "bytes": 179,
+    "sha256": "50855b5b58fa9cf7facefb76bf2527bcb5c0d4464e3c2345d03b34c061ede3d3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2/result.txt",
+    "bytes": 25,
+    "sha256": "4c8971336d0050bd59ae9007212f88eb0d953c900d42de6e9d667a32517ec6cb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 66,
+    "sha256": "00c1bc76359af27049d1d92062dae334f2f76cda518ec88aa604bf5ca3ac0532",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-newui-unused/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-newui-unused/args.txt",
+    "bytes": 25,
+    "sha256": "07c6d150fad72a7ebf3d3bf09215a566500f5559d76f27233c82e27f5c4cd5e7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-newui-unused/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-newui-unused/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-newui-unused/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-newui-unused/chapters.csv",
+    "bytes": 179,
+    "sha256": "7110db3e01aaa244b9f8c2a5be2a49d035f83d82f3bb3adf387af7f866d77521",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-newui-unused/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-newui-unused/result.txt",
+    "bytes": 25,
+    "sha256": "1d85e187cf6dcb607d1b8e012b7e24dd6db5e0c040eb7d87dbb27fdb2fbbdb96",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-newui-unused/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-newui-unused/source-commit.txt",
+    "bytes": 41,
+    "sha256": "58ccebc8250828637a6f9dbe6eaca1019f7eef6d4cf2d8d8e9cd6b3b02a86b08",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-newui-unused/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-newui-unused/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-newui-unused/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-newui-unused/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 66,
+    "sha256": "1c50daf2096f2729b1bfb2091629d2301913999faf6c52c8fbbc745be55a1904",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-v2/args.txt",
+    "bytes": 25,
+    "sha256": "07c6d150fad72a7ebf3d3bf09215a566500f5559d76f27233c82e27f5c4cd5e7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-v2/chapters.csv",
+    "bytes": 179,
+    "sha256": "2cad64b838220842a408df2cf12021979ca062039018c57e28f6a40ec12bd820",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-v2/result.txt",
+    "bytes": 25,
+    "sha256": "0779491a0578734174b32786f95ba9a7d49dd11b4ce44642dbc4d6c880d1fcce",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s2-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s2-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 66,
+    "sha256": "5639c9654cd1a3981612d3ed79f568e788629a5564ada506ee302edde34c1331",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile/args.txt",
+    "bytes": 18,
+    "sha256": "01a3d75744fa9a22d96bf72f2b41e4bac8bb6455c424fd8abc78f696ca44b83c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile/chapters.csv",
+    "bytes": 252,
+    "sha256": "c9c8ab123c44bc34faca752963aa1539ebbf6f6a338c85b6f62c1c50b87e8513",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile/result.txt",
+    "bytes": 25,
+    "sha256": "4ad06693e14f7c9d8cd02477195847cba81b225b614fd2551e172df1dd0339ac",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 181,
+    "sha256": "75e733a10aa7564084dfe8f4a6fb490b58701e9ec85f38452eaedb93dcbacffc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-newui-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-newui-v2/args.txt",
+    "bytes": 34,
+    "sha256": "f52cbc91fb8001a80ef6c55e67247a7eea7b85e2d9a20f513d2d119f04026459",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-newui-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-newui-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-newui-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-newui-v2/chapters.csv",
+    "bytes": 252,
+    "sha256": "906b526b7577201cbcd18aee3f60a1bc34db67a1df9b644b4a3f1bb689ece6c8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-newui-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-newui-v2/result.txt",
+    "bytes": 25,
+    "sha256": "c5747d848a96214de585576b8c413fae4646c5ed114cdccd3f3b634091290c8c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-newui-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-newui-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "58ccebc8250828637a6f9dbe6eaca1019f7eef6d4cf2d8d8e9cd6b3b02a86b08",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-newui-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-newui-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-newui-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-newui-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 181,
+    "sha256": "348c35df6702bba290ae41964d329c597c6869da6d813de6d504310e7de367a6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2/args.txt",
+    "bytes": 34,
+    "sha256": "f52cbc91fb8001a80ef6c55e67247a7eea7b85e2d9a20f513d2d119f04026459",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2/chapters.csv",
+    "bytes": 252,
+    "sha256": "7a5ffcc26b6f9050d1f9d6298420e3c338e9f65c250f686c7631bf12f463712f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2/result.txt",
+    "bytes": 25,
+    "sha256": "aa739ef5ffa98f8d820f90dce33d442013e50739aa62663e452e897d0f80c706",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 181,
+    "sha256": "192c619b12c14782514163b02bba35e3baae0c35687b695d1ed7743e6af29361",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2-superseded/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2-superseded/args.txt",
+    "bytes": 18,
+    "sha256": "01a3d75744fa9a22d96bf72f2b41e4bac8bb6455c424fd8abc78f696ca44b83c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2-superseded/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2-superseded/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2-superseded/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2-superseded/chapters.csv",
+    "bytes": 252,
+    "sha256": "cc8c40331e93e6d45bb17fb41cd2235b6c8b3b6b6d1ce2679cbe1873d166f932",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2-superseded/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2-superseded/result.txt",
+    "bytes": 25,
+    "sha256": "eee8cf9142a394967b12decb7d31baa9abfb81afe25923c5d5a9ce63b5e7130c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2-superseded/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2-superseded/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2-superseded/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2-superseded/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/lobby-s3k-profile-v2-superseded/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/lobby-s3k-profile-v2-superseded/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 181,
+    "sha256": "67f7fb0d42d18cdd262d94e4fa8aeceb681d33c50c368c938f83cdeda6daf9c7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-newui-unused/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-newui-unused/args.txt",
+    "bytes": 81,
+    "sha256": "dc4df253b7a5eacff60ab5a58fad5e6c9f83ba4b93db21d6b07677f3677e86f3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-newui-unused/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-newui-unused/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-newui-unused/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-newui-unused/chapters.csv",
+    "bytes": 144,
+    "sha256": "b1472522b4977a5c6161b105a35d0dc76dd294e4b7a967dc1c07c9087d5f1ce8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-newui-unused/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-newui-unused/result.txt",
+    "bytes": 25,
+    "sha256": "0a52d49e92af68383ba4dc9ec4accb804acf6fbfcc2d9fb46a545b4fdbe1701b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-newui-unused/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-newui-unused/source-commit.txt",
+    "bytes": 41,
+    "sha256": "58ccebc8250828637a6f9dbe6eaca1019f7eef6d4cf2d8d8e9cd6b3b02a86b08",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-newui-unused/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-newui-unused/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-newui-unused/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-newui-unused/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "219d15baf0dd673fc2d5b576be2a4262aa2a66317ede298652fa96582ae5cd8d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v1/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v1/args.txt",
+    "bytes": 81,
+    "sha256": "dc4df253b7a5eacff60ab5a58fad5e6c9f83ba4b93db21d6b07677f3677e86f3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v1/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v1/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v1/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v1/chapters.csv",
+    "bytes": 144,
+    "sha256": "b5330e1c3cce75d46b1c1f3bae87ed9f735a75f1b4963be34be6247ae3a98aee",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v1/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v1/result.txt",
+    "bytes": 25,
+    "sha256": "f0d56838123338f4097fdf97bffd6e000fd9b33bca4f3ad8c33a23b200d0ca1a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v1/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v1/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v1/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v1/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v1/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v1/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "cac708035d5b1c4cf11618b9bea0435947e2985d7be139f4904ab4af57c48202",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v2/args.txt",
+    "bytes": 81,
+    "sha256": "dc4df253b7a5eacff60ab5a58fad5e6c9f83ba4b93db21d6b07677f3677e86f3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v2/chapters.csv",
+    "bytes": 144,
+    "sha256": "38a8a0bc913ecac52da6dd4aef73612e137866bf2cf65130a04b5db3326c8395",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v2/result.txt",
+    "bytes": 25,
+    "sha256": "61bc33994b9f5206bb7df28bd5405cffad5d029cc3f1a714f931a8c738bc35f1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/names-relay-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/names-relay-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "2f67bc90373845a0c667940b866c7a340914369872315d3291903dd19db60fab",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-256-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-256-v2/args.txt",
+    "bytes": 77,
+    "sha256": "843f57b76eb7eee0c70288ab66ba295ca9a1538b2d4d2e35e7a1f1eb9f3f7e61",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-256-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-256-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-256-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-256-v2/chapters.csv",
+    "bytes": 131,
+    "sha256": "28cc1f35a0135f3bdc962468d8cb852c1e72bf1f86f222356270c9e17aa55df3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-256-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-256-v2/result.txt",
+    "bytes": 25,
+    "sha256": "0d7d84cf020e959dfff8bba57d75779b4e8603a7be6ff2a5e0217db88d7c255b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-256-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-256-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-256-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-256-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-256-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-256-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 104,
+    "sha256": "d43b2d206889ff1245038ce0ae25efcd3e1968ae6afab997336d57be670bd921",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean/args.txt",
+    "bytes": 75,
+    "sha256": "2a47fd8c7d42eb0caac9ca9d488fd732b0cd3821868529e99f445bc06f43ab7b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean/chapters.csv",
+    "bytes": 180,
+    "sha256": "a1401680622b0ea82b57df1e5b4795cb2de8feae6cac4aef69d57be5a4dd22d7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean/result.txt",
+    "bytes": 25,
+    "sha256": "cb40b42c0d59dfbd4b56adf35c8fb5d5b3d7db3c37114580146791506be29d79",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "593959771109b6198ae9422ffb97f7092a61573a234772434f3fe915f91637b8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean2/args.txt",
+    "bytes": 75,
+    "sha256": "2a47fd8c7d42eb0caac9ca9d488fd732b0cd3821868529e99f445bc06f43ab7b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean2/chapters.csv",
+    "bytes": 180,
+    "sha256": "7a79cf070f76f295cefc596a96dd66b82f36c86b0d0c59d752b9360e9ba8e884",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean2/result.txt",
+    "bytes": 25,
+    "sha256": "bf1b98bb54473bc165edd09290c965e9217bd81e2eb2938d4620716d28fd4f83",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "e642e7ba480f1c84f43ce24e16104979fbb7ac7e154ff8777bb14dbd24b9b81e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-newui-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-newui-v2/args.txt",
+    "bytes": 91,
+    "sha256": "466c3e5733f16fc40c158498c7879fe1f1d137d493d73500cde5a76330f6aa55",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-newui-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-newui-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-newui-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-newui-v2/chapters.csv",
+    "bytes": 180,
+    "sha256": "82fc1cfaf805f69dd0c30c942d2d5890226d0bac9eb0e4c4afd41914730c76d5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-newui-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-newui-v2/result.txt",
+    "bytes": 25,
+    "sha256": "5dc5b460b417195ebab1898831a14620b3c58dc226f7d6e4201c0453b4e19db4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-newui-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-newui-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "58ccebc8250828637a6f9dbe6eaca1019f7eef6d4cf2d8d8e9cd6b3b02a86b08",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-newui-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-newui-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-newui-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-newui-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "d4f63a784d10cc80b672bbf87b78c00be645a415ef4e305762ef21e4748b4a7b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-v2/args.txt",
+    "bytes": 96,
+    "sha256": "551feeb47a35ddf62faeceb6b895fa299f1357f6881ae58cc8de96f929835be8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-v2/chapters.csv",
+    "bytes": 180,
+    "sha256": "47387780ba96d172b9002002338ac81609021537f854230f74a66690c31788ae",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-v2/result.txt",
+    "bytes": 25,
+    "sha256": "542e24f9ff4cf0d56d65d1c8ab3cd46af3955ae460aaa0d775103fcd6e716445",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-clean3-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-clean3-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "b9a0e4b573b9a4ddb4117503c8c75eee44cf60197e5fb0cdf0ea314f0a366c6b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-death-v2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-death-v2/args.txt",
+    "bytes": 76,
+    "sha256": "cf3fe5679abefa32c287dd5d3e34b1a53f03f0e2fbf8b7d3b2925539b00aaf9c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-death-v2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-death-v2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-death-v2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-death-v2/chapters.csv",
+    "bytes": 138,
+    "sha256": "c945478360323fabbec462a91a6e2963dcdeaa0adae4e4c7fe898411417c4957",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-death-v2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-death-v2/result.txt",
+    "bytes": 25,
+    "sha256": "0bbc054c86d4989aa8e131e9e437658a3e7380a93500d347af1c1a84f0967542",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-death-v2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-death-v2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "a08ee851b1eeb2d062d49f8488a8d191d2687f926305b4b0bcccc666e1509d35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-death-v2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-death-v2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures/superseded/race-death-v2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures/superseded/race-death-v2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "4766fe2edeadb6a34e1efecf8b3f405b50ae539362aee9a269d8f5c2936a5f58",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s1/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s1/args.txt",
+    "bytes": 25,
+    "sha256": "97ad74a71a60560a15dcec4b48d409f5671ac6ad0b05c20a9f0a7259f446ace0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s1/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s1/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s1/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s1/chapters.csv",
+    "bytes": 180,
+    "sha256": "b4a35c8f2eb146427a568a847c9106b8df1424f56431f7fc577ff74cb5179427",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s1/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s1/result.txt",
+    "bytes": 25,
+    "sha256": "37e39d5e52d6745d3b28f534c04debe97e4c9b365865e965336276be6ccbf6d9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s1/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s1/source-commit.txt",
+    "bytes": 41,
+    "sha256": "6ef8e6a057e3a41b3b0680d79c89a779ccdb92cedfcf5d4b8b16002367f8eb0d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s1/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s1/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s1/state.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s1/state.csv",
+    "bytes": 130808,
+    "sha256": "914cdd1ecce57baf3e256a355360c1b7807f85c202c0c2f7252881fd59490a82",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s1/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s1/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 66,
+    "sha256": "aa6be160adc32a255b699a965c183e05eedfa28dc4074fa3e21a00c2ff368af1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s2/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s2/args.txt",
+    "bytes": 25,
+    "sha256": "07c6d150fad72a7ebf3d3bf09215a566500f5559d76f27233c82e27f5c4cd5e7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s2/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s2/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s2/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s2/chapters.csv",
+    "bytes": 179,
+    "sha256": "ee5f772e082928ad7c1350bc61eb325a7d7efe5c408230aff6a35584647c2415",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s2/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s2/result.txt",
+    "bytes": 25,
+    "sha256": "bf4e3657c0367d7834571c55092b2818e62cbb503032ccbcb0d4d4ac995730af",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s2/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s2/source-commit.txt",
+    "bytes": 41,
+    "sha256": "6ef8e6a057e3a41b3b0680d79c89a779ccdb92cedfcf5d4b8b16002367f8eb0d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s2/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s2/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s2/state.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s2/state.csv",
+    "bytes": 127124,
+    "sha256": "a1f6b5ffdae1e3847f0980ae5d65524bb04c43d346dd0d0c5db24b6118d7d63c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s2/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s2/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 66,
+    "sha256": "5f72c8706fa279f107df22baf037a0d969584bd97af570d66b6b179dd2fed1db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s3k-profile/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s3k-profile/args.txt",
+    "bytes": 34,
+    "sha256": "f52cbc91fb8001a80ef6c55e67247a7eea7b85e2d9a20f513d2d119f04026459",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s3k-profile/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s3k-profile/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s3k-profile/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s3k-profile/chapters.csv",
+    "bytes": 252,
+    "sha256": "c9c8ab123c44bc34faca752963aa1539ebbf6f6a338c85b6f62c1c50b87e8513",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s3k-profile/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s3k-profile/result.txt",
+    "bytes": 25,
+    "sha256": "4ad06693e14f7c9d8cd02477195847cba81b225b614fd2551e172df1dd0339ac",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s3k-profile/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s3k-profile/source-commit.txt",
+    "bytes": 41,
+    "sha256": "6ef8e6a057e3a41b3b0680d79c89a779ccdb92cedfcf5d4b8b16002367f8eb0d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s3k-profile/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s3k-profile/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s3k-profile/state.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s3k-profile/state.csv",
+    "bytes": 173095,
+    "sha256": "31986ebc46c3a374e47ad6776f19e7b71136115369404e83bcb8cf5115021378",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/lobby-s3k-profile/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/lobby-s3k-profile/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 181,
+    "sha256": "35fe96ff9790ad896edce399099a1d3b497e0678481a309826f68f52b08c1da8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/names-relay/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/names-relay/args.txt",
+    "bytes": 81,
+    "sha256": "dc4df253b7a5eacff60ab5a58fad5e6c9f83ba4b93db21d6b07677f3677e86f3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/names-relay/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/names-relay/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/names-relay/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/names-relay/chapters.csv",
+    "bytes": 144,
+    "sha256": "278fca5d8b736cf6dec2b8f2050a1346d813c9953f0bc4e09b52a83f480b2cd0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/names-relay/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/names-relay/result.txt",
+    "bytes": 25,
+    "sha256": "019a2ac7844df839f151d3337cfe270e8c88f5b8b286eeb4d465084c8b052f6c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/names-relay/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/names-relay/source-commit.txt",
+    "bytes": 41,
+    "sha256": "6ef8e6a057e3a41b3b0680d79c89a779ccdb92cedfcf5d4b8b16002367f8eb0d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/names-relay/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/names-relay/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/names-relay/state.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/names-relay/state.csv",
+    "bytes": 120399,
+    "sha256": "34218eb395270565e53281aac880ed0df176b561d415be6bbe98f07853972731",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/names-relay/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/names-relay/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "60f6696b12ce2d830bcc5c161f7425c4814c19acff862ea59291569aee119a74",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-256/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-256/args.txt",
+    "bytes": 93,
+    "sha256": "a54ec343fad74a52843a5efb25912c0859208155766953c22a07b367302ed306",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-256/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-256/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-256/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-256/chapters.csv",
+    "bytes": 131,
+    "sha256": "0463a95334d2d8d55b57c3f47f39b123b06265c78a6a1e80dee7b098f81e276c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-256/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-256/result.txt",
+    "bytes": 25,
+    "sha256": "43114833d41b8da3ffcf8b22b3454f5d15944f2f1b37c9a5788c61485fb71bdc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-256/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-256/source-commit.txt",
+    "bytes": 41,
+    "sha256": "d85ed46dc34938871482659f000a62082fabef46fc4d41249f050203a1e64be1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-256/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-256/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-256/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-256/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 104,
+    "sha256": "587eeefbe4303e845a9a5397243133aeb0f7ba93d9f3bf96277d471b312fb689",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-clean3/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-clean3/args.txt",
+    "bytes": 91,
+    "sha256": "466c3e5733f16fc40c158498c7879fe1f1d137d493d73500cde5a76330f6aa55",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-clean3/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-clean3/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-clean3/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-clean3/chapters.csv",
+    "bytes": 180,
+    "sha256": "47d18fd7bd16592d68c4f505d7cbd4d2284d637bba85484a4cc5512ae608bf7f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-clean3/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-clean3/result.txt",
+    "bytes": 25,
+    "sha256": "cb40b42c0d59dfbd4b56adf35c8fb5d5b3d7db3c37114580146791506be29d79",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-clean3/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-clean3/source-commit.txt",
+    "bytes": 41,
+    "sha256": "d85ed46dc34938871482659f000a62082fabef46fc4d41249f050203a1e64be1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-clean3/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-clean3/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-clean3/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-clean3/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "309e0174b605d9b403dba23f45b160baaa99d38d2b455fe3bbd349d67b3f1f1f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-death/args.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-death/args.txt",
+    "bytes": 92,
+    "sha256": "9c468cf2bc0f10c3f6a6b99b8c95fe07b1bf4408cf2b352c981e83371e60790a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-death/audio-rate.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-death/audio-rate.txt",
+    "bytes": 6,
+    "sha256": "2d49661ef80ea1c88c5c58e0853fee703a97492ce2c736e8cc98d7a4c3186add",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-death/chapters.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-death/chapters.csv",
+    "bytes": 138,
+    "sha256": "c603462722fb3910146ab0e7e92abd95cf63974ac07abd88cd5eac41cb21ec1c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-death/result.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-death/result.txt",
+    "bytes": 25,
+    "sha256": "5b45d86cd37c91922e9cf8f5a9d93a26a96fed9a57f36d0c72a75062dcf84066",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-death/source-commit.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-death/source-commit.txt",
+    "bytes": 41,
+    "sha256": "d85ed46dc34938871482659f000a62082fabef46fc4d41249f050203a1e64be1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-death/source-status.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-death/source-status.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-death/state.csv",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-death/state.csv",
+    "bytes": 400259,
+    "sha256": "f6c2058f81b21de60bdf1b90ff58196fe033e7d8d881afeaa46cbca8c11b11ae",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/captures-v3/race-death/profile/saves/mods/time-attack/settings.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "captures-v3/race-death/profile/saves/mods/time-attack/settings.txt",
+    "bytes": 115,
+    "sha256": "73d5f5706e839b008ff0148e5fa25f7a69227039438c6c82b19c78d2738308fb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/design/s2-title-font.txt",
+    "root": "time-attack-promo/promo",
+    "original_path": "design/s2-title-font.txt",
+    "bytes": 7304,
+    "sha256": "fd44caad966f46235918758b2e927bd2b1c4de5cb565218b5c3db106292ff98b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/design/plates/index.tsv",
+    "root": "time-attack-promo/promo",
+    "original_path": "design/plates/index.tsv",
+    "bytes": 1344,
+    "sha256": "3fb531270a0af4a0996ce21e3c8230382c8d98184582f1ac6c15bdaa5742edc9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/design/plates-typed/index.tsv",
+    "root": "time-attack-promo/promo",
+    "original_path": "design/plates-typed/index.tsv",
+    "bytes": 166,
+    "sha256": "48dce1978df47f6ef6e5cfa8bec7ebba659a8a9adb64fdb34303ef4b35ac6410",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/capmap.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/capmap.py",
+    "bytes": 1805,
+    "sha256": "b74530b733c637dd445928acbf915e07b211fdac8fbac3e4d5e14cabec4a1ce2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/edit.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/edit.py",
+    "bytes": 29626,
+    "sha256": "b74ef5e8d842b8a7fa2000140d07b1eec2a76f578c243187d8aae3a4f5715562",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/edit.v1-audio.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/edit.v1-audio.py",
+    "bytes": 24102,
+    "sha256": "7c351ec8e92dc575d10f9a802f416226fd6ee50ed46f164020a6d3f9aaa868c9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/edit.v2-audio.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/edit.v2-audio.py",
+    "bytes": 24663,
+    "sha256": "8457792b200eabb447da2f476dea92451a13e2d5272e5936f7f44cdda8ff815b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/edit.v3-oldlobby.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/edit.v3-oldlobby.py",
+    "bytes": 25874,
+    "sha256": "a42830436d3972b8d64de1a7fa9d063c9d0d51192f57218315e3c49b3c5eb5ed",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/edit.v4-hudtype.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/edit.v4-hudtype.py",
+    "bytes": 26314,
+    "sha256": "0945fe724bec3e08bed33d4f3ab25f67b544d4475e4200adaab69d18e056cd65",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/edit.v5-before-recapture-framing.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/edit.v5-before-recapture-framing.py",
+    "bytes": 28393,
+    "sha256": "5f888aa7927663dfbb00e483b8e3d41412b5ffc658193c3a4ab024f85b31aa22",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/finalize.sh",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/finalize.sh",
+    "bytes": 1973,
+    "sha256": "c779dba3a9bd132003bbe961a01c4903b40ad467298f3fff60b09a7bf694c08d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/prep.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/prep.py",
+    "bytes": 2755,
+    "sha256": "9a6ef748db2d1c9e4b04437b24a2f2d7da6539aa14fb446188932adeccaeb660",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/prep.v3-oldlobby.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/prep.v3-oldlobby.py",
+    "bytes": 2103,
+    "sha256": "a5ea0c45f93457cbefdf1fde0097321d15d6e0bead582002b3d561ae0b22c26b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/edit/template.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "edit/template.py",
+    "bytes": 1571,
+    "sha256": "b7000f7ddfca742ec7bd89b0e6c2e20cbc7e16adb1f72ec6898c81af02ca0cee",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/route/ghz1.route",
+    "root": "time-attack-promo/promo",
+    "original_path": "route/ghz1.route",
+    "bytes": 22622,
+    "sha256": "ce874af7c3a67130e1c7482c6204a170cc8398c60308f2cf26785796dea037bf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/archive_to_media.py",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/archive_to_media.py",
+    "bytes": 8193,
+    "sha256": "0009546320ea5a13876fe28b3147354bd9e6bd78613ee57629c437528585845f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/capture-all-v3.sh",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/capture-all-v3.sh",
+    "bytes": 572,
+    "sha256": "e3f9ca1cc319c2432853fa2da5a666374965f8dd2e00d6a4d21e04d458608680",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/run-promo-newui.sh",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/run-promo-newui.sh",
+    "bytes": 1023,
+    "sha256": "0a90b92e7dff389e6dd15e0f2a0d1466549d6f0d32e86448b0d0f3fee21e8510",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/run-promo-v3.sh",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/run-promo-v3.sh",
+    "bytes": 1030,
+    "sha256": "82493f7ae05068fd890a2536aef4aadf2e0a2b0741203397d4d22c584dcec3dc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/run-promo.sh",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/run-promo.sh",
+    "bytes": 1021,
+    "sha256": "b881c3ab5bdc8ce8952c909e5bd09c62da15e7b5dc245af12d25dccba80c7c35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/run-tool.sh",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/run-tool.sh",
+    "bytes": 781,
+    "sha256": "7565e1f0bf280ec2f2549ed072c2f346ef33b7713153b19cbbc85538258f4595",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/sheet.sh",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/sheet.sh",
+    "bytes": 492,
+    "sha256": "8676f9cb30e03ec61dd118d59e7009a8f8eab458a800491ae26f8ffafeead9a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/driver/audio/DacProbe.java",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/driver/audio/DacProbe.java",
+    "bytes": 3556,
+    "sha256": "f9f8d0e8cc48b11fbc53e385a7a08acea6f44328aa36189ecb793720517ffdcf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/driver/audio/LiveMusicRender.java",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/driver/audio/LiveMusicRender.java",
+    "bytes": 1628,
+    "sha256": "5cd09afcd04f53b1f297e24ab45574a2e3e69ff87c6dfdfaa32bf0ca9bb88b5f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/driver/openggf/racing/server/tools/PromoCapture.java",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/driver/openggf/racing/server/tools/PromoCapture.java",
+    "bytes": 31333,
+    "sha256": "ff7a3a33438be9910a228a26a4a8411de859a1672774db398615656a9a14f3e8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/driver/openggf/racing/server/tools/PromoPeers.java",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/driver/openggf/racing/server/tools/PromoPeers.java",
+    "bytes": 15110,
+    "sha256": "773a3cf713614701c2c7deceeb8903721499df1bd1d310ed4132593ea160eacd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/sources/promo/scripts/driver/promo/NameplateDump.java",
+    "root": "time-attack-promo/promo",
+    "original_path": "scripts/driver/promo/NameplateDump.java",
+    "bytes": 1713,
+    "sha256": "d55b044e6325f785d146af8c299f85d56f794801dd3192b18e7217412e97463b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/time-attack-promo/README.md",
+    "root": "time-attack-promo/promo",
+    "original_path": "",
+    "bytes": 4243,
+    "sha256": "677b286d1d6dce4faf285501052933b5feea6d5e7f248cc4ed0e618021e6fdeb",
+    "snapshot": "archive-authored"
+  },
+  {
+    "path": "projects/time-attack-promo/external-assets.json",
+    "root": "time-attack-promo/promo",
+    "original_path": "",
+    "bytes": 51766,
+    "sha256": "f0ee33f799b1e6617800014864aa289bcfc68d38803fcf62e84da0e2efd10bda",
+    "snapshot": "archive-authored"
   }
 ]

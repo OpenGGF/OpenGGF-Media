@@ -1,0 +1,1648 @@
+{
+ "project": "time-attack-promo",
+ "snapshot_date": "2026-10-23",
+ "notes": "External bytes hashed at archive time, not uploaded. edit/build render work, capture cwd/profile trees, compiled driver classes and Python caches are excluded.",
+ "sequence_hash": "inventory_sha256 is SHA-256 over sorted PNG basenames; for each file append UTF-8 basename + NUL + decimal byte length + NUL + lowercase SHA-256 + LF.",
+ "assets": [
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/base-lobby-s3k/fixture.patch",
+   "kind": "media dependency",
+   "bytes": 0,
+   "files": 1,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/base-lobby-s3k/lobby.mp4",
+   "kind": "media dependency",
+   "bytes": 4872145,
+   "files": 1,
+   "sha256": "754bc933cffecb31a674648e1440acfbf5c7da3ef032d89f1044bc7e43bb2471"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/base-lobby-s3k/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 105089,
+   "files": 1,
+   "sha256": "bddf88d07039c18a2c4c50b0041982f900718aefe77ac627661ad82ddbc46ff9"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6188800,
+   "files": 1,
+   "sha256": "84c3ea1798d74622af7af8034b85f2253bbc20a1eb8eb35efcbe983ee903212c"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 130670,
+   "files": 1,
+   "sha256": "907417a1c6de7986ddc529e8144d047ad8508fd859fc1ed7b67e676bb86180d9"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 108545462,
+   "files": 1,
+   "sha256": "494158570280a595046ed90dc15b212ef214578907048a86e157dd1b41ab682e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1-newui-unused/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6198400,
+   "files": 1,
+   "sha256": "b2a01d3771cfe110d8ad583def441d336263ad13519be20c16ebb59536665f90"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1-newui-unused/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 130887,
+   "files": 1,
+   "sha256": "41c873e25e894f1ec1af8b5b452ce8f68033a17117aa8d7ef3549546dd9e8c17"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1-newui-unused/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 111337758,
+   "files": 1,
+   "sha256": "a168b3e88e3598fef357fe88a410864c97581e8a531259fd97bfc0ff4426ce5d"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6188800,
+   "files": 1,
+   "sha256": "84c3ea1798d74622af7af8034b85f2253bbc20a1eb8eb35efcbe983ee903212c"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 130670,
+   "files": 1,
+   "sha256": "907417a1c6de7986ddc529e8144d047ad8508fd859fc1ed7b67e676bb86180d9"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 108293421,
+   "files": 1,
+   "sha256": "f0c934d218b80b68d0a5d3925928cfb4f88ec4d53fe657badc256e8b18869daf"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6009600,
+   "files": 1,
+   "sha256": "3fbb9d2092462f27465db9973b1e7616d9410be7e3e6483907228a30def58660"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 126448,
+   "files": 1,
+   "sha256": "b73c25715052906406b1db53ae3913cd2434e29cf577996fb32c221191380700"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 88925969,
+   "files": 1,
+   "sha256": "37b3109148023c49bb29f140cc58940cc452f43e53d2ff5fae2c7a2199b2ee0e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2-newui-unused/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6003200,
+   "files": 1,
+   "sha256": "9c075b486d2718ca65573aa6c76cd634db4f925b90e50e0e238802db1f91b284"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2-newui-unused/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 126305,
+   "files": 1,
+   "sha256": "4c3cad21e16ed2bc3e2a0874071c716cc3915ec144e54e4f9e1bfcd224e3e2e0"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2-newui-unused/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 87673718,
+   "files": 1,
+   "sha256": "e063bc7205fd1d284eadffe016f336b6f0ba0746215302b7da6d6245202ddc83"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 5987200,
+   "files": 1,
+   "sha256": "548e99b6f2098c9c4c07edbf43fcc4c5ace82ef2ddc60c885c3f4b8f5e9eed29"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 125940,
+   "files": 1,
+   "sha256": "82b438c7fcaeb666b2e49e66d48a439d3a87639baefa5f7add16c3ba132e3936"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 88492844,
+   "files": 1,
+   "sha256": "9c59f9aa5af8abfc041ee84ffe867772e6af20ffcc6895a82ab8ed8974a83acc"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 8201600,
+   "files": 1,
+   "sha256": "ba3ceb64fa4529760d53da6dea7707ac959345795229adc39e5ea8f7cb80eb1e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 173095,
+   "files": 1,
+   "sha256": "31986ebc46c3a374e47ad6776f19e7b71136115369404e83bcb8cf5115021378"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 115207186,
+   "files": 1,
+   "sha256": "8adf7dbbdde1950d6ce250da41e67660598586e10e1e70cc7a6d0c96217e9c10"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-newui-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 8204800,
+   "files": 1,
+   "sha256": "63dd69d025399887b6bd1bbce26fe290d405ddfb0a90829066fd2deefd4f102f"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-newui-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 173171,
+   "files": 1,
+   "sha256": "724de82ec22da6fa2fa6f52898f3b8df3190b7d4e05e51ed75dcea72fc700818"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-newui-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 113341291,
+   "files": 1,
+   "sha256": "739087838090f76518ae74ab322e8a8852c5f167c85722dd9237e59f63160447"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 8188800,
+   "files": 1,
+   "sha256": "c20f2e728ba2d6e4e9e27530c18b2f2654e1df87fd1471f99b2528cb9ae73a65"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 172801,
+   "files": 1,
+   "sha256": "aa997eb3e476d8e7e039fa36cafc6c6dadf03af82b50ac7a26ed4d565f5e7c9b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 114963968,
+   "files": 1,
+   "sha256": "8a8b927b68e9fade61cc29a6897c7c1ad39b9b9ba7cf48e000b75dff919a29e4"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-v2-superseded/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 8128000,
+   "files": 1,
+   "sha256": "1167a23431bfb2e3d7457d6216578a2431475d0fe7dd54696c3b55d5e783f550"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-v2-superseded/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 171895,
+   "files": 1,
+   "sha256": "a15e9944ac7c1718f1e27ad7a994d21e008ea21d467dc9dc1a75c3a66d67d59a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-v2-superseded/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 112292484,
+   "files": 1,
+   "sha256": "e70aef51044e2bb9af989b50c173681172fdafedbff0a43751006b68d96a16e1"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-newui-unused/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 5993600,
+   "files": 1,
+   "sha256": "8cf003c026eb01833079867aaa34a5a26c0879dd7937bffd7916f4e799e999f8"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-newui-unused/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 120344,
+   "files": 1,
+   "sha256": "e6fdd2363c167d7dc0d508adb60442f8e76d969fd85ba2b5c224600f97d3a36b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-newui-unused/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 112062695,
+   "files": 1,
+   "sha256": "fba6795e2b3a8e87ed093c5342a086d5e60e257253265533f2fd1ccab5cb18a5"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-v1/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6102400,
+   "files": 1,
+   "sha256": "2bc19ce44e7afdb0804221d77ca076f97b398aecbb29534e89c0630e1132b22d"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-v1/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 122940,
+   "files": 1,
+   "sha256": "7f25afcedc11abdf12d212445ee8df2f041939927eb77f5290a2c9f8d8c8e1de"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-v1/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 114959676,
+   "files": 1,
+   "sha256": "22e900b8303c6a5a8f6481a3348260898215c3c433ac0b5e2cbb483dd2333914"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6000000,
+   "files": 1,
+   "sha256": "08613de63feecb424e5a9b94269a71cf66b142aa3d6f19c6a156ade0b1469a91"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 120454,
+   "files": 1,
+   "sha256": "e467bd544c1891d1976213f76a33b46b113a13cc2757fc13325aa88c01109f36"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 113597331,
+   "files": 1,
+   "sha256": "66e463cb317f2c0b780af46a1bc7cc209ddeebd28a93df602e36af965db3d710"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-256-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 20697600,
+   "files": 1,
+   "sha256": "107729b7622ac8cbd419136c6e65a4f536c670c426492a21fb095e5e166f9113"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-256-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 1351781,
+   "files": 1,
+   "sha256": "6594ac528e8a40dd1bda391ff2668637dbcaa16fd52e2af794244f42ec9c6731"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-256-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 424828653,
+   "files": 1,
+   "sha256": "ec672110d66a599c80ce19c085fedf9f2b95b11ed2d5ff527e79aa6ec76aa376"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 25830400,
+   "files": 1,
+   "sha256": "f61f61ee3fdb278ecde36f287451e74d37c71c205399d1bc4ad5dad35998d57f"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 723943,
+   "files": 1,
+   "sha256": "8a92c94999283076d5490ed81af5ea2867bd5cff2b4f91771904135b9fe0433a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 564199715,
+   "files": 1,
+   "sha256": "6f400ec0a55dfd8204852c8ca57994d402dedbd0821b1b244ffa7c62efbc9f6f"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 25840000,
+   "files": 1,
+   "sha256": "91b7d14ea02b193daf4079f678b4f4524ddf60c54c4691bf39e2ec3a6006a468"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 1466446,
+   "files": 1,
+   "sha256": "3b95cb8e42ab4b0e444a516b251757074068955ebfd9c9312ac6cbb687d5338b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 564502953,
+   "files": 1,
+   "sha256": "4908ce3f2076a73721b4961af43e9a703b5af632762a792e30d08c40203a54d1"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean3-newui-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 25843200,
+   "files": 1,
+   "sha256": "2eb8250e9bcd07572abe0cb9bce0cb7157c71de025a72c4dd9f3e603589dc88b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean3-newui-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 1486374,
+   "files": 1,
+   "sha256": "66096104ad1b78109bb5ce8b1d0ddfb13cfb5f82b619c8279dae6e90adfb3a81"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean3-newui-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 571114882,
+   "files": 1,
+   "sha256": "ff3cc51adea6081e28e3edea07de603e98dba5bd8763d84230f9d911e7363898"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean3-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 25833600,
+   "files": 1,
+   "sha256": "ba72f05d3aac3f01946897f4ede61eebf80ff5bcbedba2c7f22e354aebda4492"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean3-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 1486799,
+   "files": 1,
+   "sha256": "a9c828a2cce101c2837af7dd70ed3517074a1a107313564f868fc9b07a44952d"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean3-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 568619840,
+   "files": 1,
+   "sha256": "1ed9eda2bc06c9711bba0d2e6176f0c904e8541f69e3546259028bd1a8e38b9b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-death-v2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 8451200,
+   "files": 1,
+   "sha256": "42790a4c44041eff57e5d805cd1ec5b0707dfd6e9e14c9be08c46fcd4717cdf2"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-death-v2/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 209081,
+   "files": 1,
+   "sha256": "8964da8a976f1ae74b61c4f6abe969ccaddebcc30c82a2ff98220640b96f3ba0"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-death-v2/video.mkv",
+   "kind": "superseded capture",
+   "bytes": 151349410,
+   "files": 1,
+   "sha256": "1f8cece61baf2f435263a1cac28946de4c1a70a6df75c877e67ac4dd34dad9ac"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s1/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6195200,
+   "files": 1,
+   "sha256": "486cce85f96c8542ad0b721f1e521c369dfa56f4e0d4dc7003436ff0830d210a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s1/video.mkv",
+   "kind": "lossless capture",
+   "bytes": 111152097,
+   "files": 1,
+   "sha256": "84c52d1f30b1eeed8c7553ffd9bce55b597854345306b6c0d9e3441898a24d82"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s2/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 6038400,
+   "files": 1,
+   "sha256": "cf05a266d4d28315b934cccc37444a86c8ac24ca21a0b7936e12046663825262"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s2/video.mkv",
+   "kind": "lossless capture",
+   "bytes": 87323579,
+   "files": 1,
+   "sha256": "748703310f29019684fc7f4be62e57b6be973ea1eb9e2f2bf4751af98ab7ec04"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s3k-profile/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 8201600,
+   "files": 1,
+   "sha256": "01191f070e8e6770d6de0a7ddebe65e6f02052a31b1dc189b8e5f02618d7dde5"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s3k-profile/video.mkv",
+   "kind": "lossless capture",
+   "bytes": 112828425,
+   "files": 1,
+   "sha256": "5b19c87bc4f62d9454406e8fb981139c95717427508a78b3a455af1718430ad8"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/names-relay/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 5996800,
+   "files": 1,
+   "sha256": "f911533bee143bcbfb12341ba0144902bb0ce524e19bac9722f33816240065aa"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/names-relay/video.mkv",
+   "kind": "lossless capture",
+   "bytes": 112252084,
+   "files": 1,
+   "sha256": "7b703af7ef415949d97294f4ef412bf4b4c380a91fd1126a8270db2480f64288"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-256/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 20700800,
+   "files": 1,
+   "sha256": "31dafcd8d43352fac9f8e99381f6368bfee3755143cda4fc20141857f55b89f7"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-256/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 1355774,
+   "files": 1,
+   "sha256": "99d6f6d3e07c97c6f96a7e4733b597e361d976fe1ac9b409907018ad832f5b70"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-256/video.mkv",
+   "kind": "lossless capture",
+   "bytes": 421603046,
+   "files": 1,
+   "sha256": "10ea74f4ae61bbeb7a131bf50ea01b8fb8a6e0a57be6167d0856945c153c61ba"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-clean3/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 25830400,
+   "files": 1,
+   "sha256": "b56f87c6addfdc170938a1700a7e34d9c6a2b445170f84d678739a53efe95242"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-clean3/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 1485967,
+   "files": 1,
+   "sha256": "e865facb4d5a70bebae45f08a8f5f12bea0f61de2ce8bbdf9c82f0b8eb6e2122"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-clean3/video.mkv",
+   "kind": "lossless capture",
+   "bytes": 565622286,
+   "files": 1,
+   "sha256": "3ebfe56f0406466c34d057be6f78278ea93c6f9190b57fba0b0aaa229bd1f5aa"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-death/audio.pcm",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 8454400,
+   "files": 1,
+   "sha256": "3cf3f47ba09d06ba0862a5e60eea1f19cdad25fbb64e71f490b6c8ed9602792e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-death/video.mkv",
+   "kind": "lossless capture",
+   "bytes": 148467086,
+   "files": 1,
+   "sha256": "249b776d0765a695b87963498669b8ae9fbc47cd032aa249b0d4451df033ba5d"
+  },
+  {
+   "root": "time-attack-promo/fonts",
+   "path": "fonts/Anton-Regular.ttf",
+   "kind": "external editorial font",
+   "bytes": 170812,
+   "files": 1,
+   "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+  },
+  {
+   "root": "time-attack-promo/fonts",
+   "path": "fonts/FiraSans-Bold.ttf",
+   "kind": "external editorial font",
+   "bytes": 489720,
+   "files": 1,
+   "sha256": "a4d8e149ecdd4874a0726eb0af894488b3b31c423d6b0017c8f415ed1b795b45"
+  },
+  {
+   "root": "time-attack-promo/fonts",
+   "path": "fonts/FiraSans-BoldItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 506864,
+   "files": 1,
+   "sha256": "1b96c16db9819bcaa9d588068bb397bb6e977c4874965d3d50d789a1943757eb"
+  },
+  {
+   "root": "time-attack-promo/fonts",
+   "path": "fonts/FiraSansCondensed-BoldItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 514400,
+   "files": 1,
+   "sha256": "aebe32d2d821890e0d66443ca2dc59b237ff34a575048696a96516d857ae0da6"
+  },
+  {
+   "root": "time-attack-promo/fonts",
+   "path": "fonts/FiraSansExtraCondensed-Black.ttf",
+   "kind": "external editorial font",
+   "bytes": 516808,
+   "files": 1,
+   "sha256": "9792878489db97d068aaf115cab50bdadd1e843274ff51b3786ca8102ba16a87"
+  },
+  {
+   "root": "time-attack-promo/fonts",
+   "path": "fonts/FiraSansExtraCondensed-BlackItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 539564,
+   "files": 1,
+   "sha256": "9ca866c1aff106aeb850e22dc1541ea35c0cf6862b25869a452a833fe6821fb1"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/bed-alz-live.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19203278,
+   "files": 1,
+   "sha256": "f59426817a7b2ceb8884247426c4d2ce0f3ba31e563c44efc2f309ac6e51e91c"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/bed-alz.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200078,
+   "files": 1,
+   "sha256": "230e655bd18d60c600e94b4847094ba234b2bdd9dc7e13e49203a8766e738217"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s1-sfx-a0.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 86478,
+   "files": 1,
+   "sha256": "e46a51138fdf1248ac7792a4f80aaea2647f0b00d3dd0997884f0da26c1a2091"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s1-sfx-a3.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 176078,
+   "files": 1,
+   "sha256": "beff0afd77a63fc7d97d124d6eedc25a3c9c8a213f76badee7bb7b3136d65ae7"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s1-sfx-b5-centre.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121678,
+   "files": 1,
+   "sha256": "215309ccebbbfd9db2d855fa1b30adc2ba0fd2788309df519f48dee94f9a0af1"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s1-sfx-b5.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121678,
+   "files": 1,
+   "sha256": "738b405ed5408087a50c7148e5355ed1c97d8d66532d9137bc6f9a2b25a14556"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s1-sfx-cf.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 352078,
+   "files": 1,
+   "sha256": "80f8e8c61cf78d2bcc9e2b82f753c6e6b8236b222f673b4703e774599d8a8448"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-33.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121678,
+   "files": 1,
+   "sha256": "cce081a1e69338b2980f201a12e1bd072a66e5abbe245cd40071eb5023ec698f"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-34.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121678,
+   "files": 1,
+   "sha256": "176b82bcb8e6422c9c7e88b2ce08a3e61f695367082d182babc3f367e7f0ee5c"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-5b.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 9678,
+   "files": 1,
+   "sha256": "e50ba521ddfc1b58cf6030e4cbd3e83826383c3ee356e212b29ed5c3b80ce7d0"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-62.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 86478,
+   "files": 1,
+   "sha256": "e4fb79634ba69a5bd37c525ba21e1c6e7afd3eca89dec6ed1c9b05ec94df73b1"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-63.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 92878,
+   "files": 1,
+   "sha256": "8fef091ca83fc21c3bedde2a383da8a81c816bed3cc262d8653893bca38afd8a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-6a.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 371278,
+   "files": 1,
+   "sha256": "d5c469a2776b0b4f42a0c3f103fa2d8702701a47ef01100e2dc283d47541d301"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-ab.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 240078,
+   "files": 1,
+   "sha256": "913a371802e79b49df1447202ad2fedfa2cbe69276d0e0b94323fe90e1d553f5"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-b0.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 332878,
+   "files": 1,
+   "sha256": "24a3a1b9f72c41f43610b94c26c77b8094975474a3b4eaec518a5016cf47bac9"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-b3.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 185678,
+   "files": 1,
+   "sha256": "1223ae145b4bee6711ee4ed1b380793cf53eb7874e79b9a6d4c6e406de22fb34"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-b6.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 275278,
+   "files": 1,
+   "sha256": "a168d519798ce7d455f9a48f99c83325884cf5477ee2775aa19452ebd64aa523"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-b8.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 464078,
+   "files": 1,
+   "sha256": "cf5d4daafa152e9ddaeadcf5417c8f504aec2a480065879079c26f929e6bba8d"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/clean/s3k-sfx-b9.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 291278,
+   "files": 1,
+   "sha256": "a2f5cf476a48965e82a61210ece7b5a3f063bfd79ae92569e5a03cbc5c424357"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/live/probe-mask0.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 5760044,
+   "files": 1,
+   "sha256": "63a9ad33922589c1e67c76c5ea145f6155f3d8e934071487e951ef750550ba8a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/live/probe-mask20.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 5760044,
+   "files": 1,
+   "sha256": "22a0c3bd5aa4adc8ec663c664104baacb9091b49d43dc81c868ec932110e3035"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/live/s3k-music-20-live.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "7c2f017831a93a4563381c19a68249de3f5b92164a03beec7204e1b4e99b00fe"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-20/s3k-music-20-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "8e9eaa225fff8b1118ad291bde2a04a6a2b61b6de2d3b2346a0f6d3e94d21826"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-20/s3k-music-20-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "a081a743b33b773fb2996c97a935406732842cd2bfff121be2ba2d6d24f202af"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-20/s3k-music-20-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 15979494,
+   "files": 1,
+   "sha256": "7087cb39fc5a4d953ee340e9d66b7df0afe3807793cff53010ab24cac496bfab"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-21/s3k-music-21-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "df237d05cfef02f480c9a7e4faecab35a8e1db20a68c22dcba10b5e45106048a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-21/s3k-music-21-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "267147547393f8b57fbfc13865a923ee346074a5e1c36b3423081daafd85d86e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-21/s3k-music-21-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 19971609,
+   "files": 1,
+   "sha256": "e1b96638aad3f0f9847d684baacb21d50a44626d6556a72d51569152f8606971"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-23/s3k-music-23-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "ad3a036afe33c0908e48c34da779f17f619dfeef471a1a27e8c3ac791d940367"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-23/s3k-music-23-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "51692add7d19656b255039d2afb32a9a238f82dd11d4db5595d986245cad4058"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-23/s3k-music-23-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 16268604,
+   "files": 1,
+   "sha256": "8220f9d3149537c56ee0f18ce8be888d271f9ee82cded43c2e8ad66c92a74257"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-24/s3k-music-24-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "734e36e213171c4f07f0d869af05f2589283039401e09bcc90af9fd9cff5de0f"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-24/s3k-music-24-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "9650023e812ae8a78acdd247949f2473147a3dbbb42b76925ad3be09f0c59870"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-24/s3k-music-24-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 9337408,
+   "files": 1,
+   "sha256": "aa520c4ccac70965978077e7a153985a6338ad30ddec392f6ef4ca030980a860"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-2D/s3k-music-2d-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "7e46f44f17de96b2ae5ac0915d12cd46fd9d29a7d92f472f84d876f3e967e1fa"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-2D/s3k-music-2d-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "362f339be45ef315467ff760144ce1a09f957e1773ef490f795f28544ad104a2"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/s3k-2D/s3k-music-2d-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 11571890,
+   "files": 1,
+   "sha256": "6c3a39f0616ac18454f1a9974757a897bc8cb62eb1aa378a606f60836de4c550"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-a0-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 86444,
+   "files": 1,
+   "sha256": "8998c15844247f4a0b3bd26d06ef9491236a138f759a6ff3d4d4e7a568a3ce36"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-a0-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 86444,
+   "files": 1,
+   "sha256": "3160b0ecee9101f60b105ec5f810c779f4002421f04c6be3b850abd02f8898d1"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-a0-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 62,
+   "files": 1,
+   "sha256": "9039c4de38d1ecd35205c3aa75af03045c0cc58261ade6999fbc1bbcde5b4180"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-a3-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 176044,
+   "files": 1,
+   "sha256": "d0880f84bdadd2e5b217b7770fb24fffa5aa2658526b955152397a88f41eb8a5"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-a3-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 176044,
+   "files": 1,
+   "sha256": "d0880f84bdadd2e5b217b7770fb24fffa5aa2658526b955152397a88f41eb8a5"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-a3-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 3689,
+   "files": 1,
+   "sha256": "266615dd5ef89ca34aafd74686c4078b02c9d2299d89e022764f9959df71ae90"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-b5-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121644,
+   "files": 1,
+   "sha256": "96b2cc56c9deec58d6cfb31d2a2b94ee81a6b4c4938195d13d655065f3f148df"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-b5-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121644,
+   "files": 1,
+   "sha256": "96b2cc56c9deec58d6cfb31d2a2b94ee81a6b4c4938195d13d655065f3f148df"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-b5-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 552,
+   "files": 1,
+   "sha256": "a628d2eabb7144113d20f67cd90711c93616113d2b8eee6e7fd11ce4163be789"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-cf-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 352044,
+   "files": 1,
+   "sha256": "8114004c3c2db8602fbbcf963e248352c2194a10ce6109c39c41a6dbb87b1bf0"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-cf-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 352044,
+   "files": 1,
+   "sha256": "8114004c3c2db8602fbbcf963e248352c2194a10ce6109c39c41a6dbb87b1bf0"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s1/s1-sfx-cf-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 4250,
+   "files": 1,
+   "sha256": "2a9cca0b92ed33168829ea9edfd26f5c7c203f64cfb81ea1aaaeb934ee810045"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-33-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121644,
+   "files": 1,
+   "sha256": "e4a424f3dd53884b6f2c65be656594824653976ed9c9f78f7747724ec80739e5"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-33-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121644,
+   "files": 1,
+   "sha256": "e4a424f3dd53884b6f2c65be656594824653976ed9c9f78f7747724ec80739e5"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-33-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 1585,
+   "files": 1,
+   "sha256": "be6e1788fce7fa69db14b2011f76ae725e7b5fe6bda387cef7b4c481cbeab57e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-34-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121644,
+   "files": 1,
+   "sha256": "0a42e4e55ea4488ef5d731f7afd94bf51515556deb50cda7d4d81e8e2a3e1339"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-34-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121644,
+   "files": 1,
+   "sha256": "0a42e4e55ea4488ef5d731f7afd94bf51515556deb50cda7d4d81e8e2a3e1339"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-34-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 1585,
+   "files": 1,
+   "sha256": "24198e9ebcd96de192ef096edb94d968345ecd4f5465c8fc84371b5f1b65b6fc"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-5b-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 9644,
+   "files": 1,
+   "sha256": "a5237b56ab84e42589c924d767cab1c38046c90eac305a5557dac21a7f07dad1"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-5b-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 9644,
+   "files": 1,
+   "sha256": "7898e1b14a5901ece5fc5cc85a2c449f7b00f203fccb6e65f76c1a3a1b920375"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-5b-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 62,
+   "files": 1,
+   "sha256": "6bd838aa8c26b985a014480ffbd28cee436b9e3aa763046eb559448912b9d8d2"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-62-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 86444,
+   "files": 1,
+   "sha256": "581a5e84e42d8e4984ef6fc63d076da1fd9626679df37de2ef465da1434148df"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-62-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 86444,
+   "files": 1,
+   "sha256": "f6bee4c3ff9bf8b77f2c2ed39d01961ff68f97746b987285a8e6d0ec5beb1f16"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-62-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 63,
+   "files": 1,
+   "sha256": "8f70e6dc4148de330502d300876bacab22a3e75573194dee31de5e23a45cd978"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-63-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 92844,
+   "files": 1,
+   "sha256": "ff68369745ccd5ab2b62ab057f1d27ea28d7eed0aa29e3e14868d6eb9c33b4d3"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-63-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 92844,
+   "files": 1,
+   "sha256": "ff68369745ccd5ab2b62ab057f1d27ea28d7eed0aa29e3e14868d6eb9c33b4d3"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-63-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 1295,
+   "files": 1,
+   "sha256": "7335cbdca7575f5a17d8ce743a972977a384e02d7f38e4ef610a39b96e84cfcd"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-6a-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 371244,
+   "files": 1,
+   "sha256": "c9ed4e128f9824b41c7af048b38b7a3558e4fe559d9c4c836397aa8ea6db5035"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-6a-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 371244,
+   "files": 1,
+   "sha256": "c9ed4e128f9824b41c7af048b38b7a3558e4fe559d9c4c836397aa8ea6db5035"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-6a-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 3705,
+   "files": 1,
+   "sha256": "6467dfc57d9ab5531ca3a8e3489c9725a1f6a078f1148e7e1df27b0ffadf17e8"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-ab-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 240044,
+   "files": 1,
+   "sha256": "dec694e6e1587b449397a4a14a02fc14691e4011dad94e4d8d077b08eff9377b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-ab-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 240044,
+   "files": 1,
+   "sha256": "dec694e6e1587b449397a4a14a02fc14691e4011dad94e4d8d077b08eff9377b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-ab-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 3901,
+   "files": 1,
+   "sha256": "423d092d7a760f06b2c499da9bbdddf12942e25fccdbee4bd2789cbbc9c36403"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b0-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 332844,
+   "files": 1,
+   "sha256": "6ab6309dbe8a23d62a5bfa06e445f41d2d012767806e81123f1b7bcd18dd3e41"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b0-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 332844,
+   "files": 1,
+   "sha256": "6ab6309dbe8a23d62a5bfa06e445f41d2d012767806e81123f1b7bcd18dd3e41"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b0-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 4846,
+   "files": 1,
+   "sha256": "5c8bdb2acbf10268f8c4de07a960cfc005315a0d45c4cc72db637128bc70d4a8"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b3-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 185644,
+   "files": 1,
+   "sha256": "eedfdedb4c3a447640df1e18b3b8ea58fe77b3aa8256c9948b0682317aab440a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b3-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 185644,
+   "files": 1,
+   "sha256": "eedfdedb4c3a447640df1e18b3b8ea58fe77b3aa8256c9948b0682317aab440a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b3-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 4095,
+   "files": 1,
+   "sha256": "5681e8ec87df8bdb618855981c7bf544daf4186cdd8659649bb2cb17df738a58"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b6-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 275244,
+   "files": 1,
+   "sha256": "3c3a8a3372b54822d519c68ef27270dad884adf0f815382a9db0912b185ddb45"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b6-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 275244,
+   "files": 1,
+   "sha256": "51985c18be284f833fddbf40d143e32ef11c8d7bf1eebb7f9585ef558f4b98d8"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b6-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 905,
+   "files": 1,
+   "sha256": "eb2b511e67db43e7b9c67a819844f643a9166028ea84c550dec8186ae2036f75"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b8-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 464044,
+   "files": 1,
+   "sha256": "02bafa91c1e76a0975f8a6d848275035799d5ef0edacbf06c731fe844058d6f1"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b8-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 464044,
+   "files": 1,
+   "sha256": "4411fde0634c2a7933c3d3659b05ec5be692ca802c55d084bca4834820c0863b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b8-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 64,
+   "files": 1,
+   "sha256": "d524ec314358baec1508496414dd457cca079c7238d4704859ec274a81d75c63"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b9-fm.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 291244,
+   "files": 1,
+   "sha256": "70f54fbcb9859d98e1cca9be333d0b0822b93ae537e9d78304fbf94d527166ca"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b9-mix.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 291244,
+   "files": 1,
+   "sha256": "70f54fbcb9859d98e1cca9be333d0b0822b93ae537e9d78304fbf94d527166ca"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "music/sfx/s3k/s3k-sfx-b9-ym-writes.txt",
+   "kind": "ROM-derived audio",
+   "bytes": 6155,
+   "files": 1,
+   "sha256": "b1ce92555fdb2f645032ac214bb43f9b50fdbc4baff7028809f9021da5e3ce5f"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "out/openggf-multiplayer-time-attack-promo.mp4",
+   "kind": "delivered final film",
+   "bytes": 158073487,
+   "files": 1,
+   "sha256": "2fd11bd0dfcab706e0ba0743fc3528805931aa5fcc23985e040d94a18ab6740f"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "out/openggf-time-attack-promo.mp4",
+   "kind": "final picture / pre-normalisation master",
+   "bytes": 158079578,
+   "files": 1,
+   "sha256": "6cbe4845ec14ca14f0ad8a2fa1d8c029a1a4a56b6169cf8cf46cf68c5daee8ee"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "probes/holdright.txt",
+   "kind": "generated state/diagnostic data",
+   "bytes": 12137,
+   "files": 1,
+   "sha256": "98d8ef4a0c85534e7c27a88a03d316e87b1565b38630291427cde10fa4170a55"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "probes/ghz1-right/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 19394,
+   "files": 1,
+   "sha256": "834cb8ee22bdf461bc6d4fabc52c34f85c200ee85989d540459ae0ac0f55a3d0"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "review/short-term.txt",
+   "kind": "generated state/diagnostic data",
+   "bytes": 47209,
+   "files": 1,
+   "sha256": "732cc3185bb6266b0cf7f2f0a8f54d9c98119f8b9378721e2541f82c11a4b636"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/base-lobby-s3k/*.png",
+   "kind": "frame-sequence",
+   "bytes": 115395,
+   "files": 13,
+   "inventory_sha256": "fed2d6f49c75eef6e0ac6ff46cb9cd582b7d14f95f591c51829755dfa7bf2d39"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1/*.png",
+   "kind": "frame-sequence",
+   "bytes": 23502,
+   "files": 4,
+   "inventory_sha256": "585ff41b871f4e76a9fa99e530491c3798edfaa0cd8c01ddec945463d8881e1c"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1-newui-unused/*.png",
+   "kind": "frame-sequence",
+   "bytes": 23123,
+   "files": 4,
+   "inventory_sha256": "b4fc3da191a9d1576bb16a41cf855048971d81939ed368cc933a4833d45fcfb9"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s1-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22796,
+   "files": 4,
+   "inventory_sha256": "7bddbc18ff223b2fd7d6231d8b6b63ca061bded8a51a582c35ed71826c8627a4"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 23258,
+   "files": 4,
+   "inventory_sha256": "27a949eee26f738dea322ab336ecc3efaaa5b4c37f404ee9dd3520c91d7d0b4e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2-newui-unused/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22969,
+   "files": 4,
+   "inventory_sha256": "7d058dcbb14f12f8af1b8a9c5ceb72cc11ed12e781252b0e01c8088ed4cd80da"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s2-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22441,
+   "files": 4,
+   "inventory_sha256": "157bdf26fc155fa34db14903782bf459e2c89fb5b62b6143f84a88d8802b52a7"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile/*.png",
+   "kind": "frame-sequence",
+   "bytes": 21793,
+   "files": 4,
+   "inventory_sha256": "e522cf09229a8066b737cb763df900278d08b7aa52ddeaa7ea630fd42e964619"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-newui-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 21426,
+   "files": 4,
+   "inventory_sha256": "3900b634e9a70de6f2a0eacdec627ea8c3f5ceae422e4707c3ebe594b4c1be80"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 21757,
+   "files": 4,
+   "inventory_sha256": "e44d2b5983b52bb6d77ef0de153758dea0a6eceeaacb440c68919277a02a409a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/lobby-s3k-profile-v2-superseded/*.png",
+   "kind": "frame-sequence",
+   "bytes": 21167,
+   "files": 4,
+   "inventory_sha256": "ef9c91af303d8bf779db6182920b3998d35ef2403cc89185ba115d929706e8cd"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-newui-unused/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22701,
+   "files": 4,
+   "inventory_sha256": "5fdde3a30d6eeab28a228774cfb889f9ff01cd88bf56e5e9266186ba5cce36ce"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-v1/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22652,
+   "files": 4,
+   "inventory_sha256": "195a1123ccc8f51b26f4cfde9e27c8b3832baccfcfeb52e0f2c42c9452dcdb56"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/names-relay-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22704,
+   "files": 4,
+   "inventory_sha256": "59dd29818d7c79427e60acbb2ceb0872530ad65584191ed42d5642c2fe170fc3"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-256-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22559,
+   "files": 4,
+   "inventory_sha256": "7a51741cb71fc3ef94647386adea2aa2ed9ca604cdfaf009c4eca2aaaf474139"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22994,
+   "files": 4,
+   "inventory_sha256": "8e2f771f1ba188ca3b6407348e16360ed93ced91674e20639a270a83feb5df37"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22660,
+   "files": 4,
+   "inventory_sha256": "f417465989abfa5dff00d8b4344f275260f8a5ddd222727a88c02e92cccbfe8a"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean3-newui-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22055,
+   "files": 4,
+   "inventory_sha256": "b1cc57cd26f6f17e735a4efb198b876eb8dbf7be94b5d00d9247364564632d7e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-clean3-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22733,
+   "files": 4,
+   "inventory_sha256": "cb9a480f1c064d211f2fadb2654904f80c80947d42361a2131866d2330c9442e"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures/superseded/race-death-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22411,
+   "files": 4,
+   "inventory_sha256": "a596e08b32fc3abaf52b97b6078a52ed751c64775c4f6e4ed5cc3c1018886b1d"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s1/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22999,
+   "files": 4,
+   "inventory_sha256": "50034a8dc9e69b9589ee1e59d78adca1a522f3b885681357732a9325db380029"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 23159,
+   "files": 4,
+   "inventory_sha256": "fd60b6771e80a99169a969915bce50903cd27a0516b3ed0b690cef66b31ac780"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/lobby-s3k-profile/*.png",
+   "kind": "frame-sequence",
+   "bytes": 20802,
+   "files": 4,
+   "inventory_sha256": "9ef63ab3e62892976f9c507a8dadeafbeb02932d7d8f978c3d43916c90dc8810"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/names-relay/*.png",
+   "kind": "frame-sequence",
+   "bytes": 23338,
+   "files": 4,
+   "inventory_sha256": "cd491a7fee49a306b362ed02019b790f9e0fe544e09f15a3a692be946027c679"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-256/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22843,
+   "files": 4,
+   "inventory_sha256": "4facde7775a349fcbf56ca9a2a89d6e20948dcce1445fc93de897489c6258cd2"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-clean3/*.png",
+   "kind": "frame-sequence",
+   "bytes": 23291,
+   "files": 4,
+   "inventory_sha256": "1313d81df4a47db5cc4cac1b4cec62df7c40a468bc873d5e271423af6f85daee"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "captures-v3/race-death/*.png",
+   "kind": "frame-sequence",
+   "bytes": 22396,
+   "files": 4,
+   "inventory_sha256": "e808dda4eda61fcb4d32eea47dcf382705f1698d8837eef83b01bbc65bf6ed42"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "design/plates/*.png",
+   "kind": "external artwork / editorial plates",
+   "bytes": 12563,
+   "files": 58,
+   "inventory_sha256": "38de67e281280907864f816ece8067b3e6d8972e8eb3cd32167ee9a68bf36a12"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "design/plates-typed/*.png",
+   "kind": "external artwork / editorial plates",
+   "bytes": 1634,
+   "files": 11,
+   "inventory_sha256": "703c8c78ab607b2403d3f119c0bfb0cbdbbb57a9f6fdc691c739d9a64cf9e89d"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "probes/ghz1-right/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 28009,
+   "files": 1,
+   "inventory_sha256": "4648538ec4133b0cf0920ef587a0f3f938d09d1b1a93e042fa6233e9a453505b"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "review/*.png",
+   "kind": "frame-sequence",
+   "bytes": 12526698,
+   "files": 38,
+   "inventory_sha256": "df50dab53f22c670802108efec0ae8a36c7f1e819968051ee502391c9e228248"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "review/v1/*.png",
+   "kind": "frame-sequence",
+   "bytes": 14678691,
+   "files": 4,
+   "inventory_sha256": "a4d76cfb39fc6ec6ff6d782a7298bc30be37fdc7d5ce398bcf45353706aab273"
+  },
+  {
+   "root": "time-attack-promo/promo",
+   "path": "review/v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 14703923,
+   "files": 4,
+   "inventory_sha256": "32559ddc3ae2d3c6fd10e2fc322b74ca083586445711299ba649a16c3e78be1e"
+  }
+ ]
+}

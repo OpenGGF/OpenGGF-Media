@@ -1,0 +1,4 @@
+displayName=Capture Player
+hostPort=42879
+lookBase=22E
+minimap=true

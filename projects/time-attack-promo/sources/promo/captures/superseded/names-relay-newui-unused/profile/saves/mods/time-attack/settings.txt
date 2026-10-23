@@ -1,0 +1,5 @@
+displayName=疾風の刃
+lookBase=06E
+masterUrl=ws://127.0.0.1:42687/master
+masterTrustInsecure=false
+minimap=true

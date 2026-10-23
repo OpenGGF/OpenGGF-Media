@@ -1,0 +1,4 @@
+success=true
+game=s3k
+frames=1684
+bots=3

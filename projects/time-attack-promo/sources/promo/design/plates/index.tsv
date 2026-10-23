@@ -1,0 +1,56 @@
+d0	5	0	0
+d1	5	0	1
+d2	5	0	2
+d3	5	0	3
+d4	5	0	4
+d5	5	0	5
+d6	5	0	6
+d7	5	0	7
+d8	5	0	8
+d9	5	0	9
+ddot	4	0	.
+dsec	5	0	s
+you	18	0	YOU
+back	39	0	BACK IN
+standings	52	0	STANDINGS
+vote	88	0	NEXT TRACK VOTE
+promise	111	0	RACE TOGETHER. LIVE.
+cap2	149	0	255 TEST CLIENTS + 1 PLAYER
+players	110	0	PLAYERS IN ONE ROOM
+title	65	0	TIME ATTACK
+multi	64	0	MULTIPLAYER
+openggf	39	0	OpenGGF
+h_names	125	0	YOUR NAME. ANY SCRIPT.
+h_look	70	0	YOUR COLOURS
+h_lobby	111	0	THE LOBBY IS A LEVEL
+h_retry	102	0	NO LIVES. GO AGAIN.
+h_cap	103	0	UP TO 256 PER ROOM
+h_vote	111	0	VOTE THE NEXT TRACK
+hero	40	0	疾風の刃
+r0	53	1	Nguyễn Hoa
+r1	39	0	Дмитрий
+r2	27	0	Ωμέγα
+r3	30	0	소닉팬
+r4	47	0	Zoë Ñandú
+r5	30	0	风之子
+r6	59	0	Çağrı Öztürk
+r7	31	0	Łukasz
+l0	60	0	VIETNAMESE
+l1	40	0	RUSSIAN
+l2	30	0	GREEK
+l3	36	0	KOREAN
+l4	40	0	SPANISH
+l5	40	0	CHINESE
+l6	40	0	TURKISH
+l7	33	0	POLISH
+everywhere	137	0	YOUR LOOK, IN EVERY GAME
+s1	38	0	SONIC 1
+s2	38	0	SONIC 2
+s3k	102	0	SONIC 3 & KNUCKLES
+captest	75	0	CAPACITY TEST
+skip	116	0	JUMP SKIPS THE DEATH
+url	137	0	github.com/OpenGGF/OpenGGF
+status	251	0	Multiplayer Time Attack: on the develop branch now
+disc	341	0	Fan-made and free. Not affiliated with SEGA. Requires your own ROM.
+honest	420	0	Rivals shown are test clients replaying recorded runs. 256-player room: capacity test.
+endline	72	0	ONE MORE GO?
