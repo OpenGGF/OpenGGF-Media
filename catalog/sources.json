@@ -59459,5 +59459,493 @@
     "bytes": 51766,
     "sha256": "f0ee33f799b1e6617800014864aa289bcfc68d38803fcf62e84da0e2efd10bda",
     "snapshot": "archive-authored"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/SHOTLIST.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "SHOTLIST.md",
+    "bytes": 6455,
+    "sha256": "8def0a836c7809caa5b7a87ed9c0ac65462122e23e0c1014c3c3dd84a706f4b2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/PROVENANCE.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "PROVENANCE.md",
+    "bytes": 6035,
+    "sha256": "87ddc6111740837fa8a15de78aff412e7b47bb1eee01cb825d31dd82a4544b37",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/archive_to_media.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "archive_to_media.py",
+    "bytes": 6668,
+    "sha256": "274e80c4494ad74ec70460a516f35e12a9965e6613ee34e4fd83fb7a61ed97e9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/edit/edit.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "edit/edit.py",
+    "bytes": 24386,
+    "sha256": "741a87121533bde39129794a047606d0eb873a692394edc612fd98c7a677f7ef",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/edit/echokit.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "edit/echokit.py",
+    "bytes": 11294,
+    "sha256": "89808b49f172f9f1dc4db7aa9b46e2f458b3dbb815074703c4d0ad3f88aa1587",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/edit/echofont.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "edit/echofont.py",
+    "bytes": 3883,
+    "sha256": "429cdc1d68712fe8b1336e46f0e5579e00d01149f5c06e569692b2656af30905",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/edit/master.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "edit/master.py",
+    "bytes": 1701,
+    "sha256": "2f58f40c7792782b8615526b41afcf73c7ec154b0409394f740d03deed77e2de",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/edit/sheet.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "edit/sheet.py",
+    "bytes": 898,
+    "sha256": "86209880166565e7fd08827ebbcf9c672b8558086ae9b5e5b75f9e61eb1e417a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/out/chapters.csv",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "out/chapters.csv",
+    "bytes": 219,
+    "sha256": "610790c63119b7b0500dbc48c81cf8a24863d13350df61f867157321df3ba07a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/out/chapters.ffmeta",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "out/chapters.ffmeta",
+    "bytes": 568,
+    "sha256": "0dcac90a36993215cd4fc96d339c8fdc3a408fc0f743d36faec69cbdad1b7d30",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/HELPER.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/HELPER.md",
+    "bytes": 4149,
+    "sha256": "10000bcebbdffd4a9aebc1b0c18f4d43b9cdca5dcb4ec4c4cb85004614f4af35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/HELPER_BUILD.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/HELPER_BUILD.py",
+    "bytes": 1348,
+    "sha256": "ed38915ae8fde2c37fe1cc61a0014229a32d97df2ba7e0df021b61d84d04c484",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a-helper-proof/earn.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a-helper-proof/earn.py",
+    "bytes": 536,
+    "sha256": "c1679e68e7ffbbc0fddc47dec800b6c40bd761fab485ef75c06de626826471a0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a-helper-proof/earn_remaining.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a-helper-proof/earn_remaining.py",
+    "bytes": 744,
+    "sha256": "afa229b476a9e432f4b802666dcaf1c294fcaec5642bc1703160300488812ab4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a-helper-proof/notes.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a-helper-proof/notes.py",
+    "bytes": 7264,
+    "sha256": "15266d757b7ceaf769564c0dbffa5b75220f6066e68beb699f44640e87d727b7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a-helper-proof/run_a.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a-helper-proof/run_a.py",
+    "bytes": 2900,
+    "sha256": "de4954b6181d3a77ebdaafeabcdad8d5de5afb7ffb8814bc6b02583bcde9fee6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a-helper-proof/tight.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a-helper-proof/tight.py",
+    "bytes": 905,
+    "sha256": "04c46ee44dd243eb4812651774212162767d5bb720f45eae20e97279b2d2efb3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a1-chain/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a1-chain/NOTES.md",
+    "bytes": 6718,
+    "sha256": "41e736e5c6875fc61c6f29dc96e70088046694eb4f51ae57ceef8d3293e4b0a4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a1-chain/command.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a1-chain/command.txt",
+    "bytes": 818,
+    "sha256": "e4ae66b5f72d47414bee5a92c531e883f169b34dda2f874a0f9be62467f8fb50",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a1-chain/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a1-chain/inputs.script",
+    "bytes": 135,
+    "sha256": "0fb3b41f730829eed41c2f143438c5570803d2f5da57f20b13203a26d9eedbe7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a1-chain/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a1-chain/inputs.txt",
+    "bytes": 62737,
+    "sha256": "dc70bb0e5c2018d9c4c3b586259c706000952cf72038cde80c04ab7029b247c6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a2-two-hands/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a2-two-hands/NOTES.md",
+    "bytes": 4357,
+    "sha256": "86d801a3ee223a9269b9224f74e6b373112d0345d1e3630dc0c3163e8c16370b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a2-two-hands/command.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a2-two-hands/command.txt",
+    "bytes": 813,
+    "sha256": "faa777add3a3d3d700186b03c16834cb94ef2df94880f3b0838eaa7cca7349b2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a2-two-hands/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a2-two-hands/inputs.script",
+    "bytes": 49,
+    "sha256": "3535404af923d70371d55d29b6a4072e2dd4369dda7c4b95a9b4eb74f7d8e9f4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a2-two-hands/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a2-two-hands/inputs.txt",
+    "bytes": 16757,
+    "sha256": "8d22cd3607373d155b3d39c238a68c1f28b11806cb531f097f41417bf3482b21",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a3-escort/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a3-escort/NOTES.md",
+    "bytes": 4707,
+    "sha256": "6395919240cb4ef548700b4ef330b2abd47acef356a333b818b8a390a09c4e93",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a3-escort/command.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a3-escort/command.txt",
+    "bytes": 801,
+    "sha256": "f584e3a9a113897c58824c68183e71f73c4b593c2f5ad2ccfee17fdf5deb5e63",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a3-escort/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a3-escort/inputs.script",
+    "bytes": 61,
+    "sha256": "779ec588ddbf06cdb9362c3747a3f1da84a1fde7e43a9064802f2104585b0581",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a3-escort/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a3-escort/inputs.txt",
+    "bytes": 17797,
+    "sha256": "bc5f530081b2fedb13ae0c11e7545f7318542548b27470c1382fee57f99d855c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a4-hub-tour/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a4-hub-tour/NOTES.md",
+    "bytes": 5397,
+    "sha256": "ddec012140f54273d0bbfce6dbf9a7e46620cf899938cb0f12033ef09c2ad4a4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a4-hub-tour/command.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a4-hub-tour/command.txt",
+    "bytes": 772,
+    "sha256": "d2c24b4e8902ccbf45f648a6e46c63a0e67c93bcca280745b5ac57de9e87f811",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a4-hub-tour/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a4-hub-tour/inputs.script",
+    "bytes": 89,
+    "sha256": "fc6dc94ef25f5d50d11584a5eeb04c62305a430ffb5a4e3acf8834ba0a101cd1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/a4-hub-tour/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/a4-hub-tour/inputs.txt",
+    "bytes": 29197,
+    "sha256": "9f244cede68c867c905f22855d8f43c06c705a594dbf8e21ea6b0ef25d528309",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b1-double-bounce/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b1-double-bounce/NOTES.md",
+    "bytes": 4917,
+    "sha256": "e14d68ca737b0571b65bc2943b69246add08e8c862600062e844565295f3c303",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b1-double-bounce/command.json",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b1-double-bounce/command.json",
+    "bytes": 1051,
+    "sha256": "532d7256b7b2272abd52a58e1042a5daeb6fea61745614ab2207854c752f1e3d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b1-double-bounce/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b1-double-bounce/inputs.script",
+    "bytes": 219,
+    "sha256": "b101bc0a02d867fa55627258bd155add72b8fc8a9a8bfd0d5959456f8028c9ca",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b1-double-bounce/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b1-double-bounce/inputs.txt",
+    "bytes": 46617,
+    "sha256": "22949ce950eec295d831bdae0e9d325fcaca6dd456853170f1607f0ccbbf34c2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b2-counterweight/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b2-counterweight/NOTES.md",
+    "bytes": 5943,
+    "sha256": "67ee1454b936e8b5c5de05a49e90c4a5256c24e1fd1f7ee8f183aed457e679c8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b2-counterweight/command.json",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b2-counterweight/command.json",
+    "bytes": 1051,
+    "sha256": "9adb3afe985fa61c6576f9fd204ae4ca74fb85611bf777134d0d69861ffaa454",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b2-counterweight/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b2-counterweight/inputs.script",
+    "bytes": 213,
+    "sha256": "5d04d1cf7a5f9f851855f55179f525134a23569671eeca4a89941ee0c2eb7a2e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b2-counterweight/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b2-counterweight/inputs.txt",
+    "bytes": 56437,
+    "sha256": "dcd9c4d637c52c95ab1dc194731829a32236ee3ac7bf393e262675faf6352cb1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b3-spring-relay/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b3-spring-relay/NOTES.md",
+    "bytes": 4926,
+    "sha256": "73228a578ee03fd4978fb4d60e8c173be9c593cdd2ddaa433b65a3f337816130",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b3-spring-relay/command.json",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b3-spring-relay/command.json",
+    "bytes": 1047,
+    "sha256": "da108a51f4fe8cc3e8b6aa046abb95b8a9b75c87fbffdef839b29f4232e6603e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b3-spring-relay/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b3-spring-relay/inputs.script",
+    "bytes": 176,
+    "sha256": "967f2249cb13920b5e94ed6e41547c15cfeb4f2f25cc0c4e6c7136eb2609f0fa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b3-spring-relay/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b3-spring-relay/inputs.txt",
+    "bytes": 41917,
+    "sha256": "ce728637e44539db31cb6f678d75cdbe169cbc0308d1e8c818fe62b976388e82",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b4-paradox/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b4-paradox/NOTES.md",
+    "bytes": 6991,
+    "sha256": "a6ffa7e9c92e2a688353caa330bbd615312d44bacb2a9d8a63647818ca067c96",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b4-paradox/command.json",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b4-paradox/command.json",
+    "bytes": 1109,
+    "sha256": "5f35d4800e70f41888fc544dec365b1f192235cd9a24314b96c35f76f6b539d4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b4-paradox/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b4-paradox/inputs.script",
+    "bytes": 229,
+    "sha256": "42af3cf62af4b41826f228b47deda4ecd4d72ffc79f4428b44e7371093dd4588",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b4-paradox/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b4-paradox/inputs.txt",
+    "bytes": 40177,
+    "sha256": "3e12b266406abaebdb7a19e8c2954b2e655ff4c04f0be96f3fca9ef0cacff5b4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b4-paradox/actions.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b4-paradox/actions.txt",
+    "bytes": 44,
+    "sha256": "160cc011c7c16822b22b0bcca4a920115b28ae6e211f70153188dce021aea699",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b5-last-loop/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b5-last-loop/NOTES.md",
+    "bytes": 7867,
+    "sha256": "8989fcfefd222bc6f1715fc132a3e11245a0a84bd1c3d3079740713802f0bfe6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b5-last-loop/command.json",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b5-last-loop/command.json",
+    "bytes": 1116,
+    "sha256": "5438e73e22787545587f3db154cd361ee4021667dd3fe9fa4144dc7b25d5c9a4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b5-last-loop/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b5-last-loop/inputs.script",
+    "bytes": 249,
+    "sha256": "f7eca10ec76adf4c7c61291556ee79ea6c5f28ee41425150b56f1486731c8c64",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b5-last-loop/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b5-last-loop/inputs.txt",
+    "bytes": 28357,
+    "sha256": "1945b52433e25ef338cfa8782aed8848917bb295b31bff8f74c629cef3604977",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b5-last-loop/actions.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b5-last-loop/actions.txt",
+    "bytes": 43,
+    "sha256": "d5960988641b5cb4deb7473bf834f4595f6d690875d624c99ed9e0a7fa4b802c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b5-last-loop/recapture.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b5-last-loop/recapture.py",
+    "bytes": 2106,
+    "sha256": "e6293fe5565f8369c816ffcc8b5a4ba089ff09b0741b6b73f71405e2935b0c5a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b5-last-loop/rebuild-action-jar.py",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b5-last-loop/rebuild-action-jar.py",
+    "bytes": 992,
+    "sha256": "f6319948f6cef464d91346a1907873b5dd62e9fbdb773f6c4589cf123eb07b3a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b6-clockwork/NOTES.md",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b6-clockwork/NOTES.md",
+    "bytes": 5269,
+    "sha256": "8e285a1c5a83b55646cfa463765143b0ab585cfbd8ab6be3a2244ed1a2a24461",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b6-clockwork/command.json",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b6-clockwork/command.json",
+    "bytes": 1035,
+    "sha256": "bd0b93692d5b91b6f4ce45d6dcc92d9c66cda734b6feb66653730793c741c5da",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b6-clockwork/inputs.script",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b6-clockwork/inputs.script",
+    "bytes": 202,
+    "sha256": "81dd8c5471819ea4a436e205648e2c302e26c9b97139f45927a8faddcb16a36b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/sonic-echoes-promo/sources/promo/captures/b6-clockwork/inputs.txt",
+    "root": "sonic-echoes-promo/promo",
+    "original_path": "captures/b6-clockwork/inputs.txt",
+    "bytes": 57277,
+    "sha256": "153789ea8f58ef0da5115fcd101ab94717f9915d09fa4b9f761b473a925debb8",
+    "snapshot": "byte-copy"
   }
 ]

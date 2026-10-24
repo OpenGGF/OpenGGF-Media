@@ -1,0 +1,536 @@
+{
+ "project": "sonic-echoes-promo",
+ "snapshot_date": "2026-10-24",
+ "notes": "External bytes hashed at archive time, not uploaded. Render work (edit/build/render frames and sheets), capture save roots, compiled helper classes, review stills and the verify-hud diagnostic are excluded.",
+ "sequence_hash": "inventory_sha256 is SHA-256 over sorted PNG basenames; for each file append UTF-8 basename + NUL + decimal byte length + NUL + lowercase SHA-256 + LF.",
+ "assets": [
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a-helper-proof/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 75696,
+   "files": 4,
+   "inventory_sha256": "a838a8525ad2c00b904fb8efab2b73012d37678a36959fc98bffd605cd260681"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a-helper-proof/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 328,
+   "files": 1,
+   "sha256": "1c79585d533445d44d94a6664313c7506738b78c470147ec908689bf1a1f7629"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a-helper-proof/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 575,
+   "files": 1,
+   "sha256": "de9693f3e345c0d69e0231b8248a16ecbf8979454cdf8c55cc520f227283a7da"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a-helper-proof/promo-actions.jar",
+   "kind": "media dependency",
+   "bytes": 71893,
+   "files": 1,
+   "sha256": "72584b65af17e90d1e6506fd69fbbf8eca43a5c0e3ff9983887a4f831cf3e219"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a-helper-proof/promo-capture.jar",
+   "kind": "media dependency",
+   "bytes": 71985,
+   "files": 1,
+   "sha256": "54e4193af6142c14803f0a37c2a279df12327166af547dfaa32b50a9a39a06d5"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a1-chain/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 54999937,
+   "files": 3130,
+   "inventory_sha256": "f59d0b25e9f540141b3af81467d0646b130b7666046559aaa6c678c8d7c4429c"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a1-chain/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 265124,
+   "files": 1,
+   "sha256": "cfadffbd08a9c1424872597f28dcbce876289f5adc6236d4911f00567ee018b4"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a1-chain/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 341873,
+   "files": 1,
+   "sha256": "3340b4e51936b16540b5ca99be6e40c2c2470f2e702a7be01a12ccdd8d5c80fe"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a1-chain/preview.mp4",
+   "kind": "superseded rough / section preview or capture viewing copy",
+   "bytes": 3784052,
+   "files": 1,
+   "sha256": "674fcdf7b432864fbf9b865175b7c205327822d098c810322afab3470d5dc094"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a2-two-hands/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 18219955,
+   "files": 831,
+   "inventory_sha256": "6504e1bf7bbdb42f8dfbdd4abab610d93db32af34931ac9265ddcac65fcb6a3d"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a2-two-hands/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 67306,
+   "files": 1,
+   "sha256": "1ce2321a1dc5bfcec502d5e2a7ba83d6d962e2476a24583a47bd0b149ed0985a"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a2-two-hands/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 97401,
+   "files": 1,
+   "sha256": "6ce221d81293f1e7ba693b9ccd35dc791ff1a3379a6aec7da288d89201a430bd"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a2-two-hands/preview.mp4",
+   "kind": "superseded rough / section preview or capture viewing copy",
+   "bytes": 1338057,
+   "files": 1,
+   "sha256": "fd5711e1daf459026ec28edb58397f5fb969ac62edb7f3f0fe17d88cafffaa0f"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a3-escort/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 19513341,
+   "files": 883,
+   "inventory_sha256": "25653720b3ae72be57215cc395dd57b649fb936e680932cfb8fb3c7fcf131839"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a3-escort/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 71373,
+   "files": 1,
+   "sha256": "4628a140696f0cb1f980b99d6940d656b1f10d48c0de7596fc0cb8dfc3201905"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a3-escort/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 102699,
+   "files": 1,
+   "sha256": "3c9083530ff527fbbd055ea8420343fa6e153f21c1cd35f055abb0accaa6bd59"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a3-escort/preview.mp4",
+   "kind": "superseded rough / section preview or capture viewing copy",
+   "bytes": 1930465,
+   "files": 1,
+   "sha256": "cf991b24cce7829c67ed5233ed5312ff9a3caee80fc999b708ea7ab40b00aec5"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a4-hub-tour/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 21788239,
+   "files": 1453,
+   "inventory_sha256": "f701f23bcd0cc2e2f96c5967021c1f96b63b59102bf9e6b162f75108de52d67c"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a4-hub-tour/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 115781,
+   "files": 1,
+   "sha256": "79319f93954c6c2f24584d8ba88dc4413f609309a42578a407fde31a86eaa1ea"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a4-hub-tour/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 148871,
+   "files": 1,
+   "sha256": "caadb16c8b2629e269e7c0df5c2d187bd70d554f0918692a83f289aac8064972"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/a4-hub-tour/preview.mp4",
+   "kind": "superseded rough / section preview or capture viewing copy",
+   "bytes": 1421040,
+   "files": 1,
+   "sha256": "c70e3b1cda6df2b250bb7f69d773266eacf144a18f6052abb8df3c9ae4a69fe8"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b1-double-bounce/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 53879686,
+   "files": 2324,
+   "inventory_sha256": "85accc7c2470f26657a459a74cf236b1da497b36ab80132c7b1650cc59431b13"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b1-double-bounce/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 203587,
+   "files": 1,
+   "sha256": "5210eff69c4ddd08b1d6514b853d283561155ffc4fba5aec0aadff9d3333fd3a"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b1-double-bounce/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 294555,
+   "files": 1,
+   "sha256": "5b177832407b587fb4467d0f79502f60a37b4fccb65b2e62371840f04f1cfe6a"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b2-counterweight/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 78420759,
+   "files": 2815,
+   "inventory_sha256": "d8c9cbffeb41b1acb97262f073143d6b5bc5709759d45c3e4a85cae9a533b89e"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b2-counterweight/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 247042,
+   "files": 1,
+   "sha256": "3a08891c4553ba06560c1a7d95d78efba69668b2534b3ed0b20e3e3e4b35bd5b"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b2-counterweight/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 370840,
+   "files": 1,
+   "sha256": "3450194bb4dabf909a289d766aed24c976687ac4f578445fb55771f843a6507e"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b3-spring-relay/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 54196923,
+   "files": 2089,
+   "inventory_sha256": "ca013e0fec1bff0443ae56f916bae39bd5dc024a057850723934d6cd4c96885c"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b3-spring-relay/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 177547,
+   "files": 1,
+   "sha256": "d79329aedd6d9228991a3a336bec44513b5fc36e82800df70c21f514e36e969c"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b3-spring-relay/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 256022,
+   "files": 1,
+   "sha256": "4c2f46f8bc2509cda5f9ad88ad9edbd0e82b2eb98de20ea06bc43caf6b47ec0b"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b4-paradox/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 49097115,
+   "files": 2002,
+   "inventory_sha256": "4226efae6ca82d026ba932f3f1c159c997e3942e1a9cbc62b17819d26c93f32d"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b4-paradox/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 171978,
+   "files": 1,
+   "sha256": "172a5fab1deac663d06a9d718b17c4dc40b0c242ecd90a223d64696065e543a2"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b4-paradox/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 247039,
+   "files": 1,
+   "sha256": "e1026e9e4fee0c77cf1c82f97195065fe297859fb9b3421674c75d1d89ede802"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b5-last-loop/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 36980911,
+   "files": 1411,
+   "inventory_sha256": "8aeecb6d942ea8a12c0c948dfee47e73edd75b6fda57e157f5296ad70aecfba6"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b5-last-loop/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 122635,
+   "files": 1,
+   "sha256": "5b008f37cb504f7f21b630db476616755a88b9be9c76e2a783205062dc6d7f65"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b5-last-loop/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 187770,
+   "files": 1,
+   "sha256": "2c5c427a2c39b756d527b60c41ff9ded2c4583389828336d1b9262a7df87fcff"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b5-last-loop/promo-action-capture.jar",
+   "kind": "media dependency",
+   "bytes": 71820,
+   "files": 1,
+   "sha256": "d2243c30471adcf38ab2467b2cf0edc4560aef8ae57f4136a41a27b2e0d07bf7"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b6-clockwork/frames/*.png",
+   "kind": "frame-sequence",
+   "bytes": 67303122,
+   "files": 2857,
+   "inventory_sha256": "0ad60c16c0a9a2f5f80ba0ea84141d3374e4281c92c951c96a78283f739cb663"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b6-clockwork/state.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 242584,
+   "files": 1,
+   "sha256": "9538b7c1282f2edc6358e6de8bb9bea0fa427a7a22ec1612f36a82ab39f174e8"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "captures/b6-clockwork/session.csv",
+   "kind": "generated state/diagnostic data",
+   "bytes": 350682,
+   "files": 1,
+   "sha256": "d8725cf55a0f4c67e770b93102e15fc0e564a7b42415e4e599046e1a41ea9b6d"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "music/s2-music-82-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "9fe11d6f591e4a06c1144ba1c2b88de61f2828aa6151f3034ddab51a7a9e9c30"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "music/s2-music-8c-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "2f94e3f77ec9e1bf6f299e56a73ad38e0a64ad7bd7944e7c93ed24112c8d9b73"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-a0-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 86444,
+   "files": 1,
+   "sha256": "7d8ac6b997e0c683e111704fb6a14a21d72af60042af3267dd5cda5349686604"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-a1-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 92844,
+   "files": 1,
+   "sha256": "b09026956631ec4929eba877abb897aa7c7d542c2808f6f14686337cce1dca4c"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-a7-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 172844,
+   "files": 1,
+   "sha256": "a0a66bcaf046c5acaf35a5664631a766f6e1d1d6662645971e0dac5775a7e906"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-b5-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121644,
+   "files": 1,
+   "sha256": "aceb6d6308fedea28120f0a0ba74a30eb8637b9d9d5e74fa26d7835a6c6bbeff"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-bc-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 278444,
+   "files": 1,
+   "sha256": "6e1a82116824146591bde8d9fb8b589a26969596ed31cd573fd31276e7dca3c2"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-c1-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 89644,
+   "files": 1,
+   "sha256": "48b495700ceddccb7e52f8ce0c570944af90d0c305e39e4942b1235c791b8601"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-c3-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 204844,
+   "files": 1,
+   "sha256": "b0eea29a548ddc9ad9307070878172848f60374eb7303bb154ed6028bdf5fc07"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-c6-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 291244,
+   "files": 1,
+   "sha256": "13fa88c6d561653f3c0e0fbcd994243833228324833095ae81b9104b324ec374"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-c9-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 86444,
+   "files": 1,
+   "sha256": "f8955348471f1abed4fe7bc7cab83144efc1feba8ad465e1fcb073a1c3c6c3b9"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-ca-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 326444,
+   "files": 1,
+   "sha256": "b86cbb60b525066cff09eb4d46c9476485156402504b845012f08326121358be"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-cc-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 204844,
+   "files": 1,
+   "sha256": "2547c5198dea6e002a9c1efcd30d46143709258b2821ba275afa90e2a4edbd4a"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-cd-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 9644,
+   "files": 1,
+   "sha256": "ba4cfc9c71e30269334d79b0fb5b95cc058ff0c596c8eb8fe666872d0fd4d1d8"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-ce-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 118444,
+   "files": 1,
+   "sha256": "1e141bc52b04914849b3156e414d5b70a6c4fedff641c4729900230308a60477"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-cf-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 352044,
+   "files": 1,
+   "sha256": "0c10175517a04a8d13548c37ae480e279017cb4dc221e37f374a0d09b4ca30e4"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "sfx/s2-sfx-ringc-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 121644,
+   "files": 1,
+   "sha256": "0606d42c502cb300308f5b79267056e228c092f50ba08307f5f8440558c25c6b"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "out/sonic-echoes-promo-final.mp4",
+   "kind": "video",
+   "bytes": 69596982,
+   "files": 1,
+   "sha256": "01d20958f92d38f1f0419cc6eae599d03f89dfcbf56de25d038c627cef7429f0"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "out/sonic-echoes-promo-master.mp4",
+   "kind": "video",
+   "bytes": 69595904,
+   "files": 1,
+   "sha256": "bc649ae9674351d7f0b6e31d85720005da057f9fe6577e5c0dd5e1115c0b5709"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "out/sonic-echoes-promo.mp4",
+   "kind": "video",
+   "bytes": 69612477,
+   "files": 1,
+   "sha256": "04a14625f9797d6aa5f3fb493e42764d21c11317df4b1cf7e7cdc72a0abdf5f9"
+  },
+  {
+   "root": "sonic-echoes-promo/promo",
+   "path": "edit/build/render/promo-audio.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 14249644,
+   "files": 1,
+   "sha256": "94e8b85479fc5e50b593e10dc2fdc6453aa1a8047591aa98edd80204a008722b"
+  },
+  {
+   "root": "sonic-echoes-promo/fonts",
+   "path": "FiraSansCompressed-Heavy.ttf",
+   "kind": "external editorial font",
+   "bytes": 550312,
+   "files": 1,
+   "sha256": "9d5ca89c4747c879e3379c5e4ccb4b060dbdd78b441cef419c3463a420203ddd"
+  },
+  {
+   "root": "sonic-echoes-promo/fonts",
+   "path": "FiraSansCompressed-HeavyItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 559652,
+   "files": 1,
+   "sha256": "d90978e735829bcb5218e221f4371c54ba3192b166c872a1f1e213fc74916fb1"
+  },
+  {
+   "root": "sonic-echoes-promo/fonts",
+   "path": "FiraSansCondensed-BoldItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 534712,
+   "files": 1,
+   "sha256": "4470462ba3a7653b1ebfae85951f867126e2035dcd7a690fe75db19b7fcc5d58"
+  },
+  {
+   "root": "sonic-echoes-promo/fonts",
+   "path": "FiraSans-Bold.ttf",
+   "kind": "external editorial font",
+   "bytes": 521312,
+   "files": 1,
+   "sha256": "2c41b665c7e1c20a0fb3fce3aa09b464b7c9c253db965979c45a6e8ee6a41546"
+  },
+  {
+   "root": "sonic-echoes-promo/fonts",
+   "path": "FiraSans-BoldItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 525912,
+   "files": 1,
+   "sha256": "4b12e45c1798b65a82f37f1ef9273068f74bab442f99083f3c1f89e7189031c4"
+  }
+ ]
+}

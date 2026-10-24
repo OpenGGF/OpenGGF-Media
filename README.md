@@ -40,12 +40,13 @@ this repository contains their production sources and location catalog.
 | [OpenGGF Stageplay original short and directing promo](projects/stageplay/) | 170 | 205 |
 | [Emerald Remix coached promo](projects/emerald-remix/) | 216 | 204 |
 | [Multiplayer Time Attack promo](projects/time-attack-promo/) | 231 | 205 |
+| [Sonic Echoes promo](projects/sonic-echoes-promo/) | 61 | 66 |
 | [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
 
 The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later
 collections cover zone bring-ups, ending sequences, Slay the Robotnik, Putt-Putt
 Paradise, Flappy Tails, Typing of the Hedgehog, Sitar Hero, Starpost Valley,
-Mutator Lab, Chaos Mode, Second Strike, Stageplay, Emerald Remix and multiplayer Time Attack. Retained drafts and revisions remain identifiable;
+Mutator Lab, Chaos Mode, Second Strike, Stageplay, Emerald Remix, multiplayer Time Attack and Sonic Echoes. Retained drafts and revisions remain identifiable;
 Chaos Mode retains its earlier reels alongside the focused revision-4 gallery:
 twenty representative effects, twelve zones and qualified native DAC/SFX capture.
 Second Strike also retains a separately identified47-second AIZ development

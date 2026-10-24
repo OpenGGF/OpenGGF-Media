@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "python3",
+    "tools/testing/maven_queue.py",
+    "-q",
+    "-Dmse=off",
+    "-Dopenggf.headless.gl=surfaceless-egl",
+    "-Dechoes.capture.room=3-1",
+    "-Dechoes.capture.session=/home/james/tmp/sonic-echoes-promo/captures/b4-paradox/session.csv",
+    "-Dopenggf.saveRoot=/home/james/tmp/sonic-echoes-promo/captures/b4-paradox/save",
+    "-Dechoes.capture.actions=0:240:ECHO,1:220:RESET,0:240:ECHO,1:401:ECHO",
+    "exec:java",
+    "-Dexec.mainClass=com.openggf.tools.GameplayCaptureTool",
+    "-Dexec.args=--game s2 --rom '/home/james/IdeaProjects/OpenGGF/Sonic The Hedgehog 2 (W) (REV01) [!].gen' --mod /home/james/tmp/sonic-echoes-promo/captures/b5-last-loop/promo-action-capture.jar --zone cpz --act 1 --width 400 --every 1 --input /home/james/tmp/sonic-echoes-promo/captures/b4-paradox/inputs.txt --no-video --out-dir /home/james/tmp/sonic-echoes-promo/captures/b4-paradox"
+  ],
+  "jarSha256": "d2243c30471adcf38ab2467b2cf0edc4560aef8ae57f4136a41a27b2e0d07bf7",
+  "env": {
+    "DISPLAY": null,
+    "WAYLAND_DISPLAY": null,
+    "JAVA_HOME": "/home/james/.jdks/corretto-25.0.4.1"
+  }
+}

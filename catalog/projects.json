@@ -201,5 +201,12 @@
     "notes": "Film A, the delivered multiplayer Time Attack promo, with its edit, capture driver, capture records and every superseded edit revision; film/footage/audio remain external.",
     "source_files": 231,
     "catalog_entries": 205
+  },
+  {
+    "id": "sonic-echoes-promo",
+    "title": "Sonic Echoes promo",
+    "notes": "The delivered Sonic Echoes (Sonic 2 time-loop puzzle mod) promo: promo_kit edit, helpers, master, shot list, provenance and every capture's commands/inputs/notes; film, footage, sidecars and ROM-derived audio remain external.",
+    "source_files": 61,
+    "catalog_entries": 66
   }
 ]
