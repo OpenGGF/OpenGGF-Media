@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "python3",
+    "tools/testing/maven_queue.py",
+    "-q",
+    "-Dmse=off",
+    "-Dopenggf.headless.gl=surfaceless-egl",
+    "-Dechoes.capture.room=2-2",
+    "-Dechoes.capture.session=/home/james/tmp/sonic-echoes-promo/captures/b1-double-bounce/session.csv",
+    "-Dopenggf.saveRoot=/home/james/tmp/sonic-echoes-promo/captures/b1-double-bounce/save",
+    "exec:java",
+    "-Dexec.mainClass=com.openggf.tools.GameplayCaptureTool",
+    "-Dexec.args=--game s2 --rom '/home/james/IdeaProjects/OpenGGF/Sonic The Hedgehog 2 (W) (REV01) [!].gen' --mod /home/james/tmp/sonic-echoes-promo/captures/a-helper-proof/promo-capture.jar --zone htz --act 1 --width 400 --every 1 --input /home/james/tmp/sonic-echoes-promo/captures/b1-double-bounce/inputs.txt --no-video --out-dir /home/james/tmp/sonic-echoes-promo/captures/b1-double-bounce"
+  ],
+  "jarSha256": "c0965fecb1b7be3825cb52622aac1a63aa9559bedc1b25a6acd46c23c288548b",
+  "env": {
+    "DISPLAY": null,
+    "WAYLAND_DISPLAY": null,
+    "JAVA_HOME": "/home/james/.jdks/corretto-25.0.4.1"
+  }
+}

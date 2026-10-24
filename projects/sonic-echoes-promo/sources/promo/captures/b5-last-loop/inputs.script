@@ -1,0 +1,22 @@
+# 180 neutral rows cover stock entry presentation; usable room starts at180.
+180 -
+# Scheduled player Echo presses at exact authored route lengths
+40 R
+100 -
+13 -
+70 R
+100 -
+13 -
+85 R
+100 -
+13 -
+120 R
+1 D
+8 R
+40 L
+80 -
+13 -
+110 R
+25 R+A
+120 R
+180 -

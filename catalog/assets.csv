@@ -14857,3 +14857,69 @@ time-attack-promo,time-attack-promo/promo,probes/ghz1-right/frames/*.png,frame-s
 time-attack-promo,time-attack-promo/promo,review/*.png,frame-sequence,12526698,38
 time-attack-promo,time-attack-promo/promo,review/v1/*.png,frame-sequence,14678691,4
 time-attack-promo,time-attack-promo/promo,review/v2/*.png,frame-sequence,14703923,4
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a-helper-proof/frames/*.png,frame-sequence,75696,4
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a-helper-proof/state.csv,generated state/diagnostic data,328,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a-helper-proof/session.csv,generated state/diagnostic data,575,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a-helper-proof/promo-actions.jar,media dependency,71893,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a-helper-proof/promo-capture.jar,media dependency,71985,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a1-chain/frames/*.png,frame-sequence,54999937,3130
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a1-chain/state.csv,generated state/diagnostic data,265124,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a1-chain/session.csv,generated state/diagnostic data,341873,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a1-chain/preview.mp4,superseded rough / section preview or capture viewing copy,3784052,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a2-two-hands/frames/*.png,frame-sequence,18219955,831
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a2-two-hands/state.csv,generated state/diagnostic data,67306,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a2-two-hands/session.csv,generated state/diagnostic data,97401,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a2-two-hands/preview.mp4,superseded rough / section preview or capture viewing copy,1338057,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a3-escort/frames/*.png,frame-sequence,19513341,883
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a3-escort/state.csv,generated state/diagnostic data,71373,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a3-escort/session.csv,generated state/diagnostic data,102699,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a3-escort/preview.mp4,superseded rough / section preview or capture viewing copy,1930465,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a4-hub-tour/frames/*.png,frame-sequence,21788239,1453
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a4-hub-tour/state.csv,generated state/diagnostic data,115781,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a4-hub-tour/session.csv,generated state/diagnostic data,148871,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/a4-hub-tour/preview.mp4,superseded rough / section preview or capture viewing copy,1421040,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b1-double-bounce/frames/*.png,frame-sequence,53879686,2324
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b1-double-bounce/state.csv,generated state/diagnostic data,203587,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b1-double-bounce/session.csv,generated state/diagnostic data,294555,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b2-counterweight/frames/*.png,frame-sequence,78420759,2815
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b2-counterweight/state.csv,generated state/diagnostic data,247042,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b2-counterweight/session.csv,generated state/diagnostic data,370840,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b3-spring-relay/frames/*.png,frame-sequence,54196923,2089
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b3-spring-relay/state.csv,generated state/diagnostic data,177547,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b3-spring-relay/session.csv,generated state/diagnostic data,256022,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b4-paradox/frames/*.png,frame-sequence,49097115,2002
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b4-paradox/state.csv,generated state/diagnostic data,171978,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b4-paradox/session.csv,generated state/diagnostic data,247039,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b5-last-loop/frames/*.png,frame-sequence,36980911,1411
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b5-last-loop/state.csv,generated state/diagnostic data,122635,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b5-last-loop/session.csv,generated state/diagnostic data,187770,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b5-last-loop/promo-action-capture.jar,media dependency,71820,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b6-clockwork/frames/*.png,frame-sequence,67303122,2857
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b6-clockwork/state.csv,generated state/diagnostic data,242584,1
+sonic-echoes-promo,sonic-echoes-promo/promo,captures/b6-clockwork/session.csv,generated state/diagnostic data,350682,1
+sonic-echoes-promo,sonic-echoes-promo/promo,music/s2-music-82-paced.wav,ROM-derived audio,19200044,1
+sonic-echoes-promo,sonic-echoes-promo/promo,music/s2-music-8c-paced.wav,ROM-derived audio,19200044,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-a0-paced.wav,ROM-derived audio,86444,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-a1-paced.wav,ROM-derived audio,92844,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-a7-paced.wav,ROM-derived audio,172844,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-b5-paced.wav,ROM-derived audio,121644,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-bc-paced.wav,ROM-derived audio,278444,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-c1-paced.wav,ROM-derived audio,89644,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-c3-paced.wav,ROM-derived audio,204844,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-c6-paced.wav,ROM-derived audio,291244,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-c9-paced.wav,ROM-derived audio,86444,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-ca-paced.wav,ROM-derived audio,326444,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-cc-paced.wav,ROM-derived audio,204844,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-cd-paced.wav,ROM-derived audio,9644,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-ce-paced.wav,ROM-derived audio,118444,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-cf-paced.wav,ROM-derived audio,352044,1
+sonic-echoes-promo,sonic-echoes-promo/promo,sfx/s2-sfx-ringc-paced.wav,ROM-derived audio,121644,1
+sonic-echoes-promo,sonic-echoes-promo/promo,out/sonic-echoes-promo-final.mp4,video,69596982,1
+sonic-echoes-promo,sonic-echoes-promo/promo,out/sonic-echoes-promo-master.mp4,video,69595904,1
+sonic-echoes-promo,sonic-echoes-promo/promo,out/sonic-echoes-promo.mp4,video,69612477,1
+sonic-echoes-promo,sonic-echoes-promo/promo,edit/build/render/promo-audio.wav,ROM-derived audio,14249644,1
+sonic-echoes-promo,sonic-echoes-promo/fonts,FiraSansCompressed-Heavy.ttf,external editorial font,550312,1
+sonic-echoes-promo,sonic-echoes-promo/fonts,FiraSansCompressed-HeavyItalic.ttf,external editorial font,559652,1
+sonic-echoes-promo,sonic-echoes-promo/fonts,FiraSansCondensed-BoldItalic.ttf,external editorial font,534712,1
+sonic-echoes-promo,sonic-echoes-promo/fonts,FiraSans-Bold.ttf,external editorial font,521312,1
+sonic-echoes-promo,sonic-echoes-promo/fonts,FiraSans-BoldItalic.ttf,external editorial font,525912,1

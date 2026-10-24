@@ -246,5 +246,17 @@
     "original": "/home/farrell/Videos/OGGF/ta-promo-a/fonts",
     "archive": "",
     "notes": "External Fira/Anton editorial faces; hashed, not redistributed."
+  },
+  {
+    "id": "sonic-echoes-promo/promo",
+    "original": "/home/james/tmp/sonic-echoes-promo",
+    "archive": "projects/sonic-echoes-promo/sources/promo",
+    "notes": "Sonic Echoes promo: byte-preserved edit, helpers, shot list, provenance, capture commands, inputs and notes. Footage, sidecars, ROM-derived audio and the film remain external."
+  },
+  {
+    "id": "sonic-echoes-promo/fonts",
+    "original": "/usr/share/fonts/TTF",
+    "archive": "",
+    "notes": "External Fira editorial faces (system install); hashed, not redistributed."
   }
 ]
