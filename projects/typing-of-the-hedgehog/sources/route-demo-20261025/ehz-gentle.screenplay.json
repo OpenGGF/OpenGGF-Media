@@ -1,0 +1,49 @@
+{
+  "version": 7,
+  "name": "Route demo: ehz-gentle",
+  "width": 640,
+  "height": 280,
+  "cast": [
+    {
+      "id": "sonic",
+      "name": "Sonic",
+      "gameId": "s2",
+      "character": "sonic"
+    }
+  ],
+  "shots": [
+    {
+      "id": "rehearsal",
+      "durationFrames": 420,
+      "set": {
+        "gameId": "s2",
+        "zone": 0,
+        "act": 0
+      },
+      "camera": [
+        {
+          "frame": 0,
+          "x": 0,
+          "y": 480,
+          "interpolation": "HOLD"
+        }
+      ],
+      "actors": {
+        "sonic": [
+          {
+            "frame": 0,
+            "x": 100,
+            "y": 656,
+            "facing": "RIGHT"
+          }
+        ]
+      },
+      "worldCommands": [
+        {
+          "frame": 0,
+          "kind": "CLEAR_OBJECTS"
+        }
+      ]
+    }
+  ]
+}

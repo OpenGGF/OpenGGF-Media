@@ -1,0 +1,55 @@
+{
+  "version": 7,
+  "name": "Route demo: ghz-loop",
+  "width": 640,
+  "height": 280,
+  "cast": [
+    {
+      "id": "sonic",
+      "name": "Sonic",
+      "gameId": "s1",
+      "character": "sonic"
+    }
+  ],
+  "shots": [
+    {
+      "id": "rehearsal",
+      "durationFrames": 420,
+      "set": {
+        "gameId": "s1",
+        "zone": 0,
+        "act": 0
+      },
+      "camera": [
+        {
+          "frame": 0,
+          "x": 5000,
+          "y": 450,
+          "interpolation": "LINEAR"
+        },
+        {
+          "frame": 210,
+          "x": 5420,
+          "y": 450,
+          "interpolation": "HOLD"
+        }
+      ],
+      "actors": {
+        "sonic": [
+          {
+            "frame": 0,
+            "x": 5100,
+            "y": 686,
+            "facing": "RIGHT"
+          }
+        ]
+      },
+      "worldCommands": [
+        {
+          "frame": 0,
+          "kind": "CLEAR_OBJECTS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+;FFMETADATA1
+title=Route planning in action
+[CHAPTER]
+TIMEBASE=1/60
+START=0
+END=180
+title=Destination and verified route
+[CHAPTER]
+TIMEBASE=1/60
+START=180
+END=510
+title=Green Hill: Run + Hard Stop
+[CHAPTER]
+TIMEBASE=1/60
+START=510
+END=815
+title=Emerald Hill: Walk + Gentle Stop
+[CHAPTER]
+TIMEBASE=1/60
+START=815
+END=2381
+title=Typing: run, fight, run
+[CHAPTER]
+TIMEBASE=1/60
+START=2381
+END=2501
+title=Shared steering, separate planners

@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**31 production groups · 7,603 preserved source files · approximately 179 GiB of
+**31 production groups · 7,619 preserved source files · approximately 179 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -29,7 +29,7 @@ this repository contains their production sources and location catalog.
 | [Sonic 3&K ending reel revisions](projects/s3k-endings/) | 16 | 155 |
 | [Putt-Putt Paradise highlights and promo revisions](projects/putt-putt-paradise/) | 350 | 357 |
 | [Flappy Tails promo](projects/flappy-tails/) | 7 | 56 |
-| [Typing of the Hedgehog promo](projects/typing-of-the-hedgehog/) | 23 | 44 |
+| [Typing of the Hedgehog promo and route demo](projects/typing-of-the-hedgehog/) | 39 | 54 |
 | [Sitar Hero promo](projects/sitar-hero/) | 25 | 15 |
 | [Mutator Lab expansion promo](projects/mutator-lab-expansion/) | 5 | 2 |
 | [Mutator Lab gameplay promo](projects/mutator-lab-gameplay/) | 678 | 335 |

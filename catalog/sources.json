@@ -60875,5 +60875,133 @@
     "bytes": 3489,
     "sha256": "e1fb39273321db0020896a40ac2cf10be07f1809a38d5576013009e46d57c8b7",
     "snapshot": "written"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/capture_stageplay.py",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "capture_stageplay.py",
+    "bytes": 3032,
+    "sha256": "c284e663df527314fe712a08996ea910cd1db50315d5bd8e40e4387ab60686f2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/capture_typing.py",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "capture_typing.py",
+    "bytes": 1884,
+    "sha256": "17449c8d709b775b566458c9b086e4de2ef24700a966cf24a528614547ed8117",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/ghz-loop.screenplay.json",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "ghz-loop.screenplay.json",
+    "bytes": 930,
+    "sha256": "b63cb5e2afb57baccc43e87d366a44e5488ef140abe50a93ac9df31bd7243a60",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/ghz-loop.stageplay",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "ghz-loop.stageplay",
+    "bytes": 1152,
+    "sha256": "e2674cac71c995716ec6fa755f0ab1350ec2a1c55ad0f552db2bb8de54ce0291",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/ghz-loop-routed.stageplay",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "ghz-loop-routed.stageplay",
+    "bytes": 2107,
+    "sha256": "8ad2f4ebeb8bdb9597babc18b3f4e04db7647abe07e0822939538e97f2e008b1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/ghz-loop-plan.json",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "ghz-loop-plan.json",
+    "bytes": 53513,
+    "sha256": "cf839f4c567dd2f112edb76d216c9ec84d60f88e3e8cc8777647405a332f0693",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/ehz-gentle.screenplay.json",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "ehz-gentle.screenplay.json",
+    "bytes": 806,
+    "sha256": "d3055676c087692034989b1fc0936596c61e07ef80bfeb4c413231bcfc5a5bcd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/ehz-gentle.stageplay",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "ehz-gentle.stageplay",
+    "bytes": 964,
+    "sha256": "4ece4beb636afbc0e0a52306cce1ab306aa7b3108fad27fa3aa775829cdd4090",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/ehz-gentle-routed.stageplay",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "ehz-gentle-routed.stageplay",
+    "bytes": 1927,
+    "sha256": "68fafdac58fd4cf957b7ca77cbce79314ed785b9bdb871fc9059c656cbd1ed66",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/ehz-gentle-plan.json",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "ehz-gentle-plan.json",
+    "bytes": 54037,
+    "sha256": "f5b6ab677c3600c9812f27934d928b68379f5a3294b792ca364fa5b676230376",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/assemble.py",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "assemble.py",
+    "bytes": 8101,
+    "sha256": "eed610ebe253bfcc917e34881cdfaee86357c6a0ccfae38db88a0af5e87feb41",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/assemble-v1.py",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "assemble-v1.py",
+    "bytes": 8052,
+    "sha256": "2e76fd2811470a6e10672a1476b264fe5dbb1c6ea81884be12d2b101d141918e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/edit-list.json",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "edit-list.json",
+    "bytes": 2016,
+    "sha256": "39bbc90dbdd20f0e93505f971f15aab0531616b2ebe80c7e573d9d9de8d8a899",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/chapters.ffmeta",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "chapters.ffmeta",
+    "bytes": 436,
+    "sha256": "0fdf8174a9f0e9a34b395c5c72630961ba65d3c4e5febba36effc159866b2009",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/PROVENANCE.md",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "PROVENANCE.md",
+    "bytes": 6385,
+    "sha256": "3d887fcc4e613da82f82067e6b42584ce26c2886bb6a78dcbf84747670c720b1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/route-demo-20261025/README.md",
+    "root": "typing-of-the-hedgehog/route-demo-20261025",
+    "original_path": "README.md",
+    "bytes": 3034,
+    "sha256": "a77ac91ead85778dba38f5c9e4dff5a19e28cc941528407301655d4127dc2711",
+    "snapshot": "byte-copy"
   }
 ]

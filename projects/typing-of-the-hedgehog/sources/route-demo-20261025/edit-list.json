@@ -1,0 +1,69 @@
+{
+  "fps": 60,
+  "width": 1280,
+  "height": 720,
+  "audio": "silent",
+  "source_speed": 1,
+  "segments": [
+    {
+      "title": "Destination and verified route",
+      "kind": "editorial title over real source still",
+      "source": "ghz-loop.mkv",
+      "source_start_frame": 0,
+      "source_end_frame": 1,
+      "output_frames": 180,
+      "output_start_frame": 0,
+      "output_start_seconds": 0.0,
+      "output_end_frame": 180,
+      "output_end_seconds": 3.0
+    },
+    {
+      "title": "Green Hill: Run + Hard Stop",
+      "kind": "authored native-world rehearsal",
+      "source": "ghz-loop.mkv",
+      "source_start_frame": 0,
+      "source_end_frame": 330,
+      "output_frames": 330,
+      "output_start_frame": 180,
+      "output_start_seconds": 3.0,
+      "output_end_frame": 510,
+      "output_end_seconds": 8.5
+    },
+    {
+      "title": "Emerald Hill: Walk + Gentle Stop",
+      "kind": "authored native-world rehearsal",
+      "source": "ehz-gentle.mkv",
+      "source_start_frame": 0,
+      "source_end_frame": 305,
+      "output_frames": 305,
+      "output_start_frame": 510,
+      "output_start_seconds": 8.5,
+      "output_end_frame": 815,
+      "output_end_seconds": 13.583333333333334
+    },
+    {
+      "title": "Typing: run, fight, run",
+      "kind": "actual selected-section attract demo; No-Fail",
+      "source": "typing-hilltop-current/frames",
+      "source_start_frame": 234,
+      "source_end_frame": 1800,
+      "output_frames": 1566,
+      "output_start_frame": 815,
+      "output_start_seconds": 13.583333333333334,
+      "output_end_frame": 2381,
+      "output_end_seconds": 39.68333333333333
+    },
+    {
+      "title": "Shared steering, separate planners",
+      "kind": "editorial end card",
+      "source": "",
+      "source_start_frame": 0,
+      "source_end_frame": 0,
+      "output_frames": 120,
+      "output_start_frame": 2381,
+      "output_start_seconds": 39.68333333333333,
+      "output_end_frame": 2501,
+      "output_end_seconds": 41.68333333333333
+    }
+  ]
+}

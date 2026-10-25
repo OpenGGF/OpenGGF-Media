@@ -14994,3 +14994,13 @@ stageplay-day-off-promo,stageplay-day-off-promo/fonts,FiraSansExtraCondensed-Bla
 stageplay-day-off-promo,stageplay-day-off-promo/promo,scenes/voice/*.wav,superseded generated voice audio (v1 make_voice.py),1491678,11
 stageplay-day-off-promo,stageplay-day-off-promo/promo,scenes/decor/*.png,external artwork / ROM-derived glyph or editorial/review image,891,4
 stageplay-day-off-promo,stageplay-day-off-promo/promo,review/*.png,review-image,1050716,2
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,ghz-loop.mkv,authored native world source movie,58069611,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,ehz-gentle.mkv,authored native world source movie,85776967,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,ghz-loop-native.jsonl,native LIVE world simulation JSONL,8633427,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,ehz-gentle-native.jsonl,native LIVE world simulation JSONL,7787983,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,typing-hilltop-current/state.csv,bulk state CSV,103510,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,typing-hilltop-current/frames/*.png,frame-sequence,48930763,1800
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,route-demo-current.mp4,reviewed development demo,9468406,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,route-demo.mp4,rejected preliminary edit: outdated source credit,9468656,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,*-review.png,decoded source review image set,140643,3
+typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,review-*.png,current edit cut review image set,319216,6
