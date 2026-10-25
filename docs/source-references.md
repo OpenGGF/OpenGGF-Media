@@ -34,3 +34,7 @@ The [multiplayer Time Attack promo](../projects/time-attack-promo/README.md) rec
 each capture's OpenGGF commit in its `source-commit.txt`. The current takes are develop
 `62521a43a` (lobby, names, profile) and `f829713b1` (races). The capture driver
 compiled against them is preserved in the archive and was never committed to the engine.
+
+The [Day Off Stageplay promo](../projects/stageplay-day-off-promo/README.md) v2 was rendered
+from OpenGGF develop `81f25c89f` and OpenGGF-Editor main `dd5ee43`. Version 1 used the unmerged
+`feature/ai-sp-promo-a` branches (`0ba60490e` and `146e076`).

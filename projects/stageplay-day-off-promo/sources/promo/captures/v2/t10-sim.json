@@ -1,0 +1,3 @@
+== simulate
+{"ok":true,"result":{"timeline":"/home/farrell/Videos/OGGF/sp-promo-a/captures/v2/t10.sim.jsonl","samples":4498,"every":1,"kind":"native shared live-world gameplay"}}
+   exit 0

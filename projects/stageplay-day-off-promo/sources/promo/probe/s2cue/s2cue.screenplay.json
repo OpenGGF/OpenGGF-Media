@@ -1,0 +1,221 @@
+{
+ "version": 7,
+ "name": "S2 cue probe",
+ "width": 480,
+ "height": 270,
+ "cast": [],
+ "shots": [
+  {
+   "id": "g0",
+   "durationFrames": 90,
+   "set": {
+    "gameId": "s1",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 400,
+     "y": 715
+    }
+   ],
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s1",
+     "soundId": 129
+    }
+   ]
+  },
+  {
+   "id": "cue0",
+   "durationFrames": 360,
+   "set": {
+    "gameId": "s2",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 40,
+     "y": 455
+    }
+   ],
+   "transition": {
+    "kind": "WIPE_RIGHT",
+    "durationFrames": 24
+   },
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s2",
+     "soundId": 129
+    }
+   ]
+  },
+  {
+   "id": "g1",
+   "durationFrames": 90,
+   "set": {
+    "gameId": "s1",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 400,
+     "y": 715
+    }
+   ],
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s1",
+     "soundId": 129
+    }
+   ],
+   "transition": {
+    "kind": "CUT",
+    "durationFrames": 0
+   }
+  },
+  {
+   "id": "cue8",
+   "durationFrames": 360,
+   "set": {
+    "gameId": "s2",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 40,
+     "y": 455
+    }
+   ],
+   "transition": {
+    "kind": "WIPE_RIGHT",
+    "durationFrames": 24
+   },
+   "audio": [
+    {
+     "frame": 8,
+     "kind": "ROM_MUSIC",
+     "gameId": "s2",
+     "soundId": 129
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "durationFrames": 90,
+   "set": {
+    "gameId": "s1",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 400,
+     "y": 715
+    }
+   ],
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s1",
+     "soundId": 129
+    }
+   ],
+   "transition": {
+    "kind": "CUT",
+    "durationFrames": 0
+   }
+  },
+  {
+   "id": "cue40",
+   "durationFrames": 360,
+   "set": {
+    "gameId": "s2",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 40,
+     "y": 455
+    }
+   ],
+   "transition": {
+    "kind": "WIPE_RIGHT",
+    "durationFrames": 24
+   },
+   "audio": [
+    {
+     "frame": 40,
+     "kind": "ROM_MUSIC",
+     "gameId": "s2",
+     "soundId": 129
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "durationFrames": 90,
+   "set": {
+    "gameId": "s1",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 400,
+     "y": 715
+    }
+   ],
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s1",
+     "soundId": 129
+    }
+   ],
+   "transition": {
+    "kind": "CUT",
+    "durationFrames": 0
+   }
+  },
+  {
+   "id": "none",
+   "durationFrames": 360,
+   "set": {
+    "gameId": "s2",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 40,
+     "y": 455
+    }
+   ],
+   "transition": {
+    "kind": "WIPE_RIGHT",
+    "durationFrames": 24
+   }
+  }
+ ]
+}

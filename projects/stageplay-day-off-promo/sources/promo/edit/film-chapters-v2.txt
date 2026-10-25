@@ -1,0 +1,33 @@
+;FFMETADATA1
+title=Day Off - a Stageplay film (OpenGGF), v2
+comment=Direct Stageplay export (scenes/t10.stageplay), 480x270 x4 nearest; one audio gain of +8.00 dB, otherwise as exported.
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=14000
+title=Green Hill Zone, 9:00 AM
+[CHAPTER]
+TIMEBASE=1/1000
+START=14000
+END=27333
+title=The loop
+[CHAPTER]
+TIMEBASE=1/1000
+START=27333
+END=39000
+title=Emerald Hill Zone, 10:00 AM
+[CHAPTER]
+TIMEBASE=1/1000
+START=39000
+END=54300
+title=Angel Island Zone, 11:00 AM
+[CHAPTER]
+TIMEBASE=1/1000
+START=54300
+END=66967
+title=Later
+[CHAPTER]
+TIMEBASE=1/1000
+START=66967
+END=74967
+title=Next morning

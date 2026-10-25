@@ -14857,3 +14857,74 @@ time-attack-promo,time-attack-promo/promo,probes/ghz1-right/frames/*.png,frame-s
 time-attack-promo,time-attack-promo/promo,review/*.png,frame-sequence,12526698,38
 time-attack-promo,time-attack-promo/promo,review/v1/*.png,frame-sequence,14678691,4
 time-attack-promo,time-attack-promo/promo,review/v2/*.png,frame-sequence,14703923,4
+stageplay-day-off-promo,stageplay-day-off-promo/promo,out/day-off-stageplay.mp4,authored native world review or promo,73145641,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,out/day-off-film-1080p.mp4,authored native world review or promo,26382689,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t06/t06-preview.mkv,authored native world source movie,402876855,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t06/day-off-film-1080p.mkv,authored native world source movie,744039937,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t06/t06-sfx.mkv,authored native world source movie,398762721,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t06/t06.sim.jsonl,native LIVE world simulation JSONL,118651587,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-r2/route.mkv,lossless capture,350106032,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour2/tour.mkv,lossless capture,349899117,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour2/day-off.editor-export.mkv,authored native world source movie,402876855,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/desktop-route/desktop-route.mkv,lossless capture,206684484,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/desktop-tour/desktop-tour.mkv,lossless capture,155218736,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/film.wav,capture audio (ROM-derived),14393678,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/film-sfx.wav,capture audio (ROM-derived),14393678,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/s3k-music-2d-paced.wav,ROM-derived audio,17280044,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/s3k-music-2f-paced.wav,ROM-derived audio,17280044,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/s1-music-81-paced.wav,ROM-derived audio,7680044,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/rewind.wav,ROM-derived audio,240078,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,engine/openggf-sp-promo-a-r1.jar,engine build,30806537,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,out/day-off-stageplay-v2.mp4,authored native world review or promo,72509612,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,out/day-off-film-v2-1080p.mp4,authored native world review or promo,26328410,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/t10-preview.mkv,authored native world source movie,403095881,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/day-off-v2-film-1080p.mkv,authored native world source movie,744412431,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/t10-sfx.mkv,authored native world source movie,398342715,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/t10.sim.jsonl,native LIVE world simulation JSONL,127901651,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/t10.timeline.jsonl,generated state/diagnostic data,7253303,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/editor-route/route.mkv,lossless capture,391151731,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/editor-tour/tour.mkv,lossless capture,326126144,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/editor-tour/day-off.mkv,authored native world source movie,403095881,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/v2/editor-desktop-route/desktop-route.mkv,lossless capture,181865725,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/film-v2.wav,capture audio (ROM-derived),14393678,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/film-sfx-v2.wav,capture audio (ROM-derived),14393678,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,audio/rewind-v2.wav,ROM-derived audio,240044,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,engine/openggf-sp-promo-a-r2.jar,engine build,31059930,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/film/*.png,frame-sequence,81459347,4498
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/route/*.png,frame-sequence,85168429,2314
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/tour/*.png,frame-sequence,91531069,3082
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/desktop-route/*.png,frame-sequence,151439103,1092
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/desktop-tour/*.png,frame-sequence,111077426,600
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/film-v2/*.png,frame-sequence,86235794,4498
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/route-v2/*.png,frame-sequence,97901490,2610
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/tour-v2/*.png,frame-sequence,94835227,3411
+stageplay-day-off-promo,stageplay-day-off-promo/promo,edit/frames/desktop-route-v2/*.png,frame-sequence,123734180,763
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t02/t02-preview.mkv,superseded capture,707034110,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t02/t02.sim.jsonl,superseded capture,117420014,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t03/t03-audio.wav,superseded capture,14393678,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t03/t03-preview.mkv,superseded capture,434171491,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t03/t03.sim.jsonl,superseded capture,118663479,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t04/t04-preview.mkv,superseded capture,401868527,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/t05/t05.timeline.jsonl,superseded capture,7181513,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-r1/route.mkv,superseded capture,195269209,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/ehz-dialogue1.wav,superseded capture,75244,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/island-dialogue1.wav,superseded capture,70444,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/island-dialogue3.wav,superseded capture,92844,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/ledge-dialogue0.wav,superseded capture,212844,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/loop-dialogue1.wav,superseded capture,70444,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/morning-dialogue0.wav,superseded capture,148844,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/morning-dialogue1.wav,superseded capture,224042,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/patrol-dialogue0.wav,superseded capture,244842,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/patrol-dialogue1.wav,superseded capture,48044,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/patrol-dialogue2.wav,superseded capture,180844,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/scene/voice/patrol-dialogue3.wav,superseded capture,123242,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,captures/editor-tour/tour.mkv,superseded capture,313669736,1
+stageplay-day-off-promo,stageplay-day-off-promo/fonts,Anton-Regular.ttf,external editorial font,170812,1
+stageplay-day-off-promo,stageplay-day-off-promo/fonts,FiraSans-Bold.ttf,external editorial font,489720,1
+stageplay-day-off-promo,stageplay-day-off-promo/fonts,FiraSans-BoldItalic.ttf,external editorial font,506864,1
+stageplay-day-off-promo,stageplay-day-off-promo/fonts,FiraSansCondensed-BoldItalic.ttf,external editorial font,514400,1
+stageplay-day-off-promo,stageplay-day-off-promo/fonts,FiraSansExtraCondensed-Black.ttf,external editorial font,516808,1
+stageplay-day-off-promo,stageplay-day-off-promo/fonts,FiraSansExtraCondensed-BlackItalic.ttf,external editorial font,539564,1
+stageplay-day-off-promo,stageplay-day-off-promo/promo,scenes/voice/*.wav,superseded generated voice audio (v1 make_voice.py),1491678,11
+stageplay-day-off-promo,stageplay-day-off-promo/promo,scenes/decor/*.png,external artwork / ROM-derived glyph or editorial/review image,891,4
+stageplay-day-off-promo,stageplay-day-off-promo/promo,review/*.png,review-image,1050716,2

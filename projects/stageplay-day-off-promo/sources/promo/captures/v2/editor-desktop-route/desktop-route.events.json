@@ -1,0 +1,8 @@
+[
+  {"outputFrame": 0, "label": "desktop: loop shot entry", "sceneFrame": 840, "menu": "", "picking": false, "route": "", "status": "New scene. Add a cast member, then set keys at timeline frames."},
+  {"outputFrame": 40, "label": "desktop: route form {x=5860, y=620, frames=300, endingFacing=Left, endingAction=Hard Stop, startingAction=Walk, nodes=1024, ticks=120000, actor=sonic, millis=60000, travelSpeed=Run}", "sceneFrame": 840, "menu": "Plan route", "picking": false, "route": "", "status": "Choose a destination, then find a route."},
+  {"outputFrame": 112, "label": "desktop: route proposed: Route proposed.", "sceneFrame": 840, "menu": "", "picking": false, "route": "Route proposed", "status": "Route proposed."},
+  {"outputFrame": 343, "label": "desktop: route applied", "sceneFrame": 840, "menu": "", "picking": false, "route": "Route applied (applied)", "status": "Applied collision route as one undo step. Playback remains an input attempt."},
+  {"outputFrame": 383, "label": "desktop: play", "sceneFrame": 840, "menu": "", "picking": false, "route": "Route applied (applied)", "status": "Playing from frame 840; seeking is visual and does not replay audio."},
+  {"outputFrame": 763, "label": "end", "sceneFrame": 1179, "menu": "", "picking": false, "route": "Route applied (applied)", "status": "Playing from frame 840; seeking is visual and does not replay audio."}
+]

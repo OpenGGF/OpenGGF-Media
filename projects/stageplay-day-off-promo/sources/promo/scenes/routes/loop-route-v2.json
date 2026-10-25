@@ -1,0 +1,74 @@
+[
+ {
+  "id": "route.move.0",
+  "frame": 4,
+  "kind": "MOVE_TO",
+  "x": 5860.0,
+  "y": 620.0,
+  "urgency": 1.0,
+  "holdFrames": 0,
+  "target": {
+   "layoutIndex": -1,
+   "objectId": 0,
+   "subtype": 0,
+   "offsetX": 0.0,
+   "offsetY": 0.0
+  },
+  "condition": "NONE",
+  "timeoutFrames": 0,
+  "motion": {
+   "startingAction": "WALK",
+   "travelSpeed": "RUN",
+   "endingAction": "HARD_STOP",
+   "endingFacing": "LEFT"
+  }
+ },
+ {
+  "id": "route.stop.0",
+  "frame": 271,
+  "kind": "STOP",
+  "x": 0.0,
+  "y": 0.0,
+  "urgency": 0.0,
+  "holdFrames": 0,
+  "target": {
+   "layoutIndex": -1,
+   "objectId": 0,
+   "subtype": 0,
+   "offsetX": 0.0,
+   "offsetY": 0.0
+  },
+  "condition": "NONE",
+  "timeoutFrames": 0,
+  "motion": {
+   "startingAction": "WALK",
+   "travelSpeed": "RUN",
+   "endingAction": "HARD_STOP",
+   "endingFacing": "LEFT"
+  }
+ },
+ {
+  "id": "route.face.0",
+  "frame": 279,
+  "kind": "FACE_LEFT",
+  "x": 0.0,
+  "y": 0.0,
+  "urgency": 0.0,
+  "holdFrames": 0,
+  "target": {
+   "layoutIndex": -1,
+   "objectId": 0,
+   "subtype": 0,
+   "offsetX": 0.0,
+   "offsetY": 0.0
+  },
+  "condition": "NONE",
+  "timeoutFrames": 0,
+  "motion": {
+   "startingAction": "WALK",
+   "travelSpeed": "RUN",
+   "endingAction": "HARD_STOP",
+   "endingFacing": "LEFT"
+  }
+ }
+]

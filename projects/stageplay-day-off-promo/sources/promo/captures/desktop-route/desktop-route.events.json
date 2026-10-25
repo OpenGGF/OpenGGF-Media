@@ -1,0 +1,14 @@
+[
+  {"outputFrame": 0, "label": "desktop: loop shot entry", "sceneFrame": 840, "menuOpen": false, "route": "", "status": "New scene. Add a cast member, then set keys at timeline frames."},
+  {"outputFrame": 40, "label": "route form open", "sceneFrame": 840, "menuOpen": true, "route": "", "status": "Apply replaces commands only in the requested route window. Players start at shot entry; objects can retain an earlier native Free prefix."},
+  {"outputFrame": 127, "label": "typed row 1 = 5860", "sceneFrame": 840, "menuOpen": true, "route": "", "status": "Apply replaces commands only in the requested route window. Players start at shot entry; objects can retain an earlier native Free prefix."},
+  {"outputFrame": 197, "label": "typed row 2 = 621", "sceneFrame": 840, "menuOpen": true, "route": "", "status": "Apply replaces commands only in the requested route window. Players start at shot entry; objects can retain an earlier native Free prefix."},
+  {"outputFrame": 267, "label": "typed row 3 = 419", "sceneFrame": 840, "menuOpen": true, "route": "", "status": "Apply replaces commands only in the requested route window. Players start at shot entry; objects can retain an earlier native Free prefix."},
+  {"outputFrame": 305, "label": "set travelSpeed = Run", "sceneFrame": 840, "menuOpen": true, "route": "", "status": "Apply replaces commands only in the requested route window. Players start at shot entry; objects can retain an earlier native Free prefix."},
+  {"outputFrame": 336, "label": "set endingAction = Hard Stop", "sceneFrame": 840, "menuOpen": true, "route": "", "status": "Apply replaces commands only in the requested route window. Players start at shot entry; objects can retain an earlier native Free prefix."},
+  {"outputFrame": 367, "label": "set endingFacing = Left", "sceneFrame": 840, "menuOpen": true, "route": "", "status": "Apply replaces commands only in the requested route window. Players start at shot entry; objects can retain an earlier native Free prefix."},
+  {"outputFrame": 441, "label": "desktop: route proposed: Route proposed.", "sceneFrame": 840, "menuOpen": false, "route": "Route proposed", "status": "Route proposed."},
+  {"outputFrame": 672, "label": "desktop: route applied", "sceneFrame": 840, "menuOpen": false, "route": "Route applied (applied)", "status": "Applied collision route as one undo step. Playback remains an input attempt."},
+  {"outputFrame": 712, "label": "desktop: play", "sceneFrame": 840, "menuOpen": false, "route": "Route applied (applied)", "status": "Playing from frame 840; seeking is visual and does not replay audio."},
+  {"outputFrame": 1092, "label": "end", "sceneFrame": 1179, "menuOpen": false, "route": "Route applied (applied)", "status": "Playing from frame 840; seeking is visual and does not replay audio."}
+]
