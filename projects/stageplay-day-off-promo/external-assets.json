@@ -1,0 +1,620 @@
+{
+ "project": "stageplay-day-off-promo",
+ "snapshot_date": "2026-10-24",
+ "notes": "External bytes hashed at staging time, not uploaded. edit/build render work, probe/ diagnostics, logs and Python caches are excluded.",
+ "sequence_hash": "inventory_sha256 is SHA-256 over sorted PNG basenames; for each file append UTF-8 basename + NUL + decimal byte length + NUL + lowercase SHA-256 + LF.",
+ "assets": [
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "out/day-off-stageplay.mp4",
+   "kind": "authored native world review or promo",
+   "bytes": 73145641,
+   "files": 1,
+   "sha256": "d6d4ad52583fb2c86e808a726b7e0c10594dfcc7915d69d3ae69d1d65b4630da",
+   "notes": "Final promo, 130.2 s"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "out/day-off-film-1080p.mp4",
+   "kind": "authored native world review or promo",
+   "bytes": 26382689,
+   "files": 1,
+   "sha256": "7d4fec9a918bb7c79b2f9af89d98f509583f9352a3678545e5e6cab6252bb5f7",
+   "notes": "Final standalone film, 74.97 s"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t06/t06-preview.mkv",
+   "kind": "authored native world source movie",
+   "bytes": 402876855,
+   "files": 1,
+   "sha256": "ab1cca413c6fe6e38154a897f2c8c34f9c8f3b4216863515c3a523cd69663942",
+   "notes": "Stageplay export 480x270 FFV1+FLAC"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t06/day-off-film-1080p.mkv",
+   "kind": "authored native world source movie",
+   "bytes": 744039937,
+   "files": 1,
+   "sha256": "e67e09ede39be3ce6acd82023304c3de16d07d2743275d48ed9ac8cc10a54e79",
+   "notes": "Stageplay export --scale 4"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t06/t06-sfx.mkv",
+   "kind": "authored native world source movie",
+   "bytes": 398762721,
+   "files": 1,
+   "sha256": "dcccfe93a7c505655fab9a79743b9f134b783ef9ed3ba2daf70037ae318d061c",
+   "notes": "SFX/voice stem take"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t06/t06.sim.jsonl",
+   "kind": "native LIVE world simulation JSONL",
+   "bytes": 118651587,
+   "files": 1,
+   "sha256": "e7989eb28a8ec61c9a006d5ae5da6408b5993c8f3e1c70918ff3c47395b874e2",
+   "notes": "simulate --every 1, 4498 samples"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-r2/route.mkv",
+   "kind": "lossless capture",
+   "bytes": 350106032,
+   "files": 1,
+   "sha256": "9e4a10ce2e3509b8078ba760d5b187060f76cf46f59723f9c41570de993ea106",
+   "notes": "In-engine editor route session, FFV1 1080p60"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour2/tour.mkv",
+   "kind": "lossless capture",
+   "bytes": 349899117,
+   "files": 1,
+   "sha256": "9d86092e0d19dd92c62221814d7b39405c386bda36595d178eb63d293b53b33a",
+   "notes": "In-engine editor tour, FFV1 1080p60"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour2/day-off.editor-export.mkv",
+   "kind": "authored native world source movie",
+   "bytes": 402876855,
+   "files": 1,
+   "sha256": "7d648c11cf3d546dec73aded8a480734d36e2b36d5eafc597495abbaccb1dd95",
+   "notes": "The editor's own Export film output; streams identical to t06-preview.mkv"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/desktop-route/desktop-route.mkv",
+   "kind": "lossless capture",
+   "bytes": 206684484,
+   "files": 1,
+   "sha256": "5469f86cf7a1cc5d9ad1f36ac27b5c24cefb7cd0fc23a39a6e52cb1cac2665af",
+   "notes": "Desktop editor route session"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/desktop-tour/desktop-tour.mkv",
+   "kind": "lossless capture",
+   "bytes": 155218736,
+   "files": 1,
+   "sha256": "4e12b52991b103fecd38ec68bd194b0766173be99c476bc7a54d47a540ffbc6d",
+   "notes": "Desktop editor tour; not used in the promo"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/film.wav",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 14393678,
+   "files": 1,
+   "sha256": "8cd317235d11ade724e959f8a580a3659e23e2a06e857ebb0bb95cf088ce8762",
+   "notes": "t06-preview soundtrack"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/film-sfx.wav",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 14393678,
+   "files": 1,
+   "sha256": "d619845531f9fc696cdcd248fd6f9e9c6547313b619d80ecf0e80c35b244793c",
+   "notes": "t06-sfx soundtrack"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/s3k-music-2d-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 17280044,
+   "files": 1,
+   "sha256": "7198592c18a0c5624acc7cf38178e595e9743f147c90f522965bad1fe0c5c43b",
+   "notes": "FmSfxRenderTool --music 2D --paced"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/s3k-music-2f-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 17280044,
+   "files": 1,
+   "sha256": "f25ec1c6ad0adb787ae1cc0f86ee2491ba29cf74fed6437747ab919662d73ef5",
+   "notes": "FmSfxRenderTool --music 2F --paced; not used"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/s1-music-81-paced.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 7680044,
+   "files": 1,
+   "sha256": "7aabb650a6bf45ec73cb62f48b478a1d595cf9cfc66a5a62b34cc48b6c4e816a",
+   "notes": "FmSfxRenderTool --music 81 --paced"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/rewind.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 240078,
+   "files": 1,
+   "sha256": "21b92cfc2f00a0e7c44198e6d4f4e6fe1bfe08cd0e5b5c8b764761019145a6ad",
+   "notes": "Reversed slice of film.wav"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "engine/openggf-sp-promo-a-r1.jar",
+   "kind": "engine build",
+   "bytes": 30806537,
+   "files": 1,
+   "sha256": "ae173e3165ae9c4a84fe2ffe527d4b46d494bc07b8f8e1e72963887d59d5264f",
+   "notes": "Snapshot of feature/ai-sp-promo-a 0ba60490e"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "out/day-off-stageplay-v2.mp4",
+   "kind": "authored native world review or promo",
+   "bytes": 72509612,
+   "files": 1,
+   "sha256": "5933a5a04a29fa1749be37ee757a432e872b41e67ae310fe6f8b372f6507701e",
+   "notes": "Final promo v2, 140.03 s"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "out/day-off-film-v2-1080p.mp4",
+   "kind": "authored native world review or promo",
+   "bytes": 26328410,
+   "files": 1,
+   "sha256": "c8e94355f47ddaff17448eccac0bde205f5524bd8c52d3ccba9fd4474ddabf36",
+   "notes": "Final standalone film v2, 74.97 s"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/t10-preview.mkv",
+   "kind": "authored native world source movie",
+   "bytes": 403095881,
+   "files": 1,
+   "sha256": "5f469f41b5934ef3e612dacd7720ac90514a8a84f4c91324364adab4c1879287",
+   "notes": "Stageplay export of t10, 480x270"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/day-off-v2-film-1080p.mkv",
+   "kind": "authored native world source movie",
+   "bytes": 744412431,
+   "files": 1,
+   "sha256": "2d3e5d1391a841bdd62a58e002ba246fef85f3bae25929aeb18652be551e9e7f",
+   "notes": "t10 --scale 4"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/t10-sfx.mkv",
+   "kind": "authored native world source movie",
+   "bytes": 398342715,
+   "files": 1,
+   "sha256": "faba666f013f66852dc2bffaa33126d21f0e1bb0753443162eaa77c4e709cd45",
+   "notes": "t10 effects and voices stem"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/t10.sim.jsonl",
+   "kind": "native LIVE world simulation JSONL",
+   "bytes": 127901651,
+   "files": 1,
+   "sha256": "18b2eefdae3c00ad186b3bd433dc8123cc1825c1eb3fbe9c715b7ce2a4e09bf9",
+   "notes": "t10 simulate --every 1"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/t10.timeline.jsonl",
+   "kind": "generated state/diagnostic data",
+   "bytes": 7253303,
+   "files": 1,
+   "sha256": "192fea7474e0c761a0e32c6cb7f12ec6ae9d75cbad511cd017b6952ace4ca4fe",
+   "notes": "t10 authored timeline with speech events"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/editor-route/route.mkv",
+   "kind": "lossless capture",
+   "bytes": 391151731,
+   "files": 1,
+   "sha256": "61dbf488a144ea319e10ac93ece91d8b6823df11bdb6f7a72beea587c0ab098f",
+   "notes": "v2 in-engine route capture (picker)"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/editor-tour/tour.mkv",
+   "kind": "lossless capture",
+   "bytes": 326126144,
+   "files": 1,
+   "sha256": "5ca43908f4ca5ecaf1e7f32538c448b11bcd43be0f18f899c5bfd7b8c9b04f7f",
+   "notes": "v2 in-engine tour"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/editor-tour/day-off.mkv",
+   "kind": "authored native world source movie",
+   "bytes": 403095881,
+   "files": 1,
+   "sha256": "1630ceba4e799661fc013d576a2f6b11a50f8e888200f27abde87bfa545e8a1c",
+   "notes": "v2 editor Export film; streams = t10-preview"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/v2/editor-desktop-route/desktop-route.mkv",
+   "kind": "lossless capture",
+   "bytes": 181865725,
+   "files": 1,
+   "sha256": "5e12385117c275a2623f2641019f6d9848c93273b569c7019d9745cca7a4ba22",
+   "notes": "v2 desktop route capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/film-v2.wav",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 14393678,
+   "files": 1,
+   "sha256": "1fccf113602cd3f431acbb7b8a443cfc15b75379b05d103d019aad302ec9cb8d",
+   "notes": "t10 soundtrack with built-in voices"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/film-sfx-v2.wav",
+   "kind": "capture audio (ROM-derived)",
+   "bytes": 14393678,
+   "files": 1,
+   "sha256": "ff68b7d477fcc93339d73fa8d6323731af4f40c0e51d9293476459e9165c4fd6",
+   "notes": "t10 effects and voices stem"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "audio/rewind-v2.wav",
+   "kind": "ROM-derived audio",
+   "bytes": 240044,
+   "files": 1,
+   "sha256": "df2bdb7d487b65d96405c11d2a8303d74759c143c3283879d2273c23436bd02b",
+   "notes": "Reversed slice of film-v2.wav"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "engine/openggf-sp-promo-a-r2.jar",
+   "kind": "engine build",
+   "bytes": 31059930,
+   "files": 1,
+   "sha256": "9ead2ed9ed9035bffd629f99c5c2183fabd8ae3a02b14f29797304ea1095486a",
+   "notes": "Snapshot of develop 81f25c89f"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/film/*.png",
+   "kind": "frame-sequence",
+   "bytes": 81459347,
+   "files": 4498,
+   "inventory_sha256": "72018aa78b3c6d69ea79905653b97adc6a5e8d7f4b65c4323f48e9b0d0dacda5",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/route/*.png",
+   "kind": "frame-sequence",
+   "bytes": 85168429,
+   "files": 2314,
+   "inventory_sha256": "ee7c90c408039c33f27919795688f91a690b7c93956e8a327fb522cf5be7249d",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/tour/*.png",
+   "kind": "frame-sequence",
+   "bytes": 91531069,
+   "files": 3082,
+   "inventory_sha256": "917e1c6fff4d6682f0c4f8604f169b356e026cc49da30e47e853e5cb719b8fd8",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/desktop-route/*.png",
+   "kind": "frame-sequence",
+   "bytes": 151439103,
+   "files": 1092,
+   "inventory_sha256": "b6da5e0288df38c328a9e9b37a4781e5ec254b3f492b04728934e15391856da8",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/desktop-tour/*.png",
+   "kind": "frame-sequence",
+   "bytes": 111077426,
+   "files": 600,
+   "inventory_sha256": "92e093703b8c5842221044693b2f2a447ae42cc0a4b05b5a1238c3b96c2727b7",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/film-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 86235794,
+   "files": 4498,
+   "inventory_sha256": "40823718f13d34ccef24460efb7ac97faed3f1e7ab73269a7868290aa3b77f62",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/route-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 97901490,
+   "files": 2610,
+   "inventory_sha256": "e328d810e8830bfaf6ca19a5ba4df0c33df817e466dc3465923d36d614c72bd7",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/tour-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 94835227,
+   "files": 3411,
+   "inventory_sha256": "14cb7899019cc06f87f862c146b2d6f643fdbc961a24d6eceb65265af0a07d9c",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "edit/frames/desktop-route-v2/*.png",
+   "kind": "frame-sequence",
+   "bytes": 123734180,
+   "files": 763,
+   "inventory_sha256": "4d0ef6f5bb3b2646cd08dc5ac1ed99853dc0803ab06145ca432caf3d1b01e43a",
+   "notes": "Frame-exact PNG decode of the matching capture"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t02/t02-preview.mkv",
+   "kind": "superseded capture",
+   "bytes": 707034110,
+   "files": 1,
+   "sha256": "f10453fa3e08b3ad5ff50773bc84592c3e8dcbb4468c72683cc679441a5710ad",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t02/t02.sim.jsonl",
+   "kind": "superseded capture",
+   "bytes": 117420014,
+   "files": 1,
+   "sha256": "734fc63e16454a87a95c09fe0bbecdf9d4bfcd38dc5696ae442a3ed9db042659",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t03/t03-audio.wav",
+   "kind": "superseded capture",
+   "bytes": 14393678,
+   "files": 1,
+   "sha256": "97ed5e5bbc59b7e6c04a9def604b98a90834e6791a54f5cd0d10e6d4fb32816d",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t03/t03-preview.mkv",
+   "kind": "superseded capture",
+   "bytes": 434171491,
+   "files": 1,
+   "sha256": "bca0fbb52d34667dbfd78884db59c19352a9b334e3ff45b919ab4227f590fe61",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t03/t03.sim.jsonl",
+   "kind": "superseded capture",
+   "bytes": 118663479,
+   "files": 1,
+   "sha256": "70dfc690049e57cafa1bffc2fdca65ee5b26675e1d056d4ad0bcc9e0b8c3074e",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t04/t04-preview.mkv",
+   "kind": "superseded capture",
+   "bytes": 401868527,
+   "files": 1,
+   "sha256": "c80b734ad3064329d9e7e327c347dcaaa97202445849739829a58247d8559876",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/t05/t05.timeline.jsonl",
+   "kind": "superseded capture",
+   "bytes": 7181513,
+   "files": 1,
+   "sha256": "e951fb1b808afabe5068d8775af70fc411a0745756c6ed656208953b8fc078ac",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-r1/route.mkv",
+   "kind": "superseded capture",
+   "bytes": 195269209,
+   "files": 1,
+   "sha256": "e194e93fc94b11d56ef9fd6787e82fea449ff8e0a8b5839dd977d103f4911c62",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/ehz-dialogue1.wav",
+   "kind": "superseded capture",
+   "bytes": 75244,
+   "files": 1,
+   "sha256": "ba43a1da6112c7014261af7e2fa65f230a1ad1fccdbc34e45166f378b3f42819",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/island-dialogue1.wav",
+   "kind": "superseded capture",
+   "bytes": 70444,
+   "files": 1,
+   "sha256": "e2bac8db9d88d41016819b442db6f545a33dd5a01c1ac7d632f96f1296f8f5e8",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/island-dialogue3.wav",
+   "kind": "superseded capture",
+   "bytes": 92844,
+   "files": 1,
+   "sha256": "116bdf2ff4c75d8a9d433625b7a0f579180b96a02013389635080f9c97e3775e",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/ledge-dialogue0.wav",
+   "kind": "superseded capture",
+   "bytes": 212844,
+   "files": 1,
+   "sha256": "949428b78d188f1de467468029ae5b65697c65240f40ae1832a5519328b9133f",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/loop-dialogue1.wav",
+   "kind": "superseded capture",
+   "bytes": 70444,
+   "files": 1,
+   "sha256": "e2bac8db9d88d41016819b442db6f545a33dd5a01c1ac7d632f96f1296f8f5e8",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/morning-dialogue0.wav",
+   "kind": "superseded capture",
+   "bytes": 148844,
+   "files": 1,
+   "sha256": "fe8fbf3a81a0372f3a15272c3dd9951db3151a8c1b5c63be5e8adb9989d2189f",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/morning-dialogue1.wav",
+   "kind": "superseded capture",
+   "bytes": 224042,
+   "files": 1,
+   "sha256": "c6aa5dd9d491fb6a5056db6115b7e890a360d3a0ecbf4de1a4ab0e67fc35c851",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/patrol-dialogue0.wav",
+   "kind": "superseded capture",
+   "bytes": 244842,
+   "files": 1,
+   "sha256": "4a9c6f672be8c704336f4db0037f9ade35903171a436446a4bbc29bb01e86e9d",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/patrol-dialogue1.wav",
+   "kind": "superseded capture",
+   "bytes": 48044,
+   "files": 1,
+   "sha256": "57b507e509e96c2eae3b326032cbcafe5b431e041df18a81e78a47823198f10f",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/patrol-dialogue2.wav",
+   "kind": "superseded capture",
+   "bytes": 180844,
+   "files": 1,
+   "sha256": "1500171eefc9c41ed67a6f139cafc3a6ee7ae03296485a699da49132a18c4cfc",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/scene/voice/patrol-dialogue3.wav",
+   "kind": "superseded capture",
+   "bytes": 123242,
+   "files": 1,
+   "sha256": "af44a0e355c096fedaf465bdd0b576fec1f010ffbb51d467f2ff297419967cac",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/promo",
+   "path": "captures/editor-tour/tour.mkv",
+   "kind": "superseded capture",
+   "bytes": 313669736,
+   "files": 1,
+   "sha256": "9208ffb867fa73271a97b9bb4b3f1c33abfd590cd9d5437f10264b4364f9d9ee",
+   "notes": "Earlier take or capture attempt"
+  },
+  {
+   "root": "stageplay-day-off-promo/fonts",
+   "path": "Anton-Regular.ttf",
+   "kind": "external editorial font",
+   "bytes": 170812,
+   "files": 1,
+   "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+   "notes": "Fira faces (SIL OFL); not redistributed"
+  },
+  {
+   "root": "stageplay-day-off-promo/fonts",
+   "path": "FiraSans-Bold.ttf",
+   "kind": "external editorial font",
+   "bytes": 489720,
+   "files": 1,
+   "sha256": "a4d8e149ecdd4874a0726eb0af894488b3b31c423d6b0017c8f415ed1b795b45",
+   "notes": "Fira faces (SIL OFL); not redistributed"
+  },
+  {
+   "root": "stageplay-day-off-promo/fonts",
+   "path": "FiraSans-BoldItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 506864,
+   "files": 1,
+   "sha256": "1b96c16db9819bcaa9d588068bb397bb6e977c4874965d3d50d789a1943757eb",
+   "notes": "Fira faces (SIL OFL); not redistributed"
+  },
+  {
+   "root": "stageplay-day-off-promo/fonts",
+   "path": "FiraSansCondensed-BoldItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 514400,
+   "files": 1,
+   "sha256": "aebe32d2d821890e0d66443ca2dc59b237ff34a575048696a96516d857ae0da6",
+   "notes": "Fira faces (SIL OFL); not redistributed"
+  },
+  {
+   "root": "stageplay-day-off-promo/fonts",
+   "path": "FiraSansExtraCondensed-Black.ttf",
+   "kind": "external editorial font",
+   "bytes": 516808,
+   "files": 1,
+   "sha256": "9792878489db97d068aaf115cab50bdadd1e843274ff51b3786ca8102ba16a87",
+   "notes": "Fira faces (SIL OFL); not redistributed"
+  },
+  {
+   "root": "stageplay-day-off-promo/fonts",
+   "path": "FiraSansExtraCondensed-BlackItalic.ttf",
+   "kind": "external editorial font",
+   "bytes": 539564,
+   "files": 1,
+   "sha256": "9ca866c1aff106aeb850e22dc1541ea35c0cf6862b25869a452a833fe6821fb1",
+   "notes": "Fira faces (SIL OFL); not redistributed"
+  }
+ ]
+}

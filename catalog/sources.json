@@ -59947,5 +59947,933 @@
     "bytes": 57277,
     "sha256": "153789ea8f58ef0da5115fcd101ab94717f9915d09fa4b9f761b473a925debb8",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/DIRECTOR.md",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "DIRECTOR.md",
+    "bytes": 26787,
+    "sha256": "8e4db2d24db3b2aca6f57cb2fe3e8f05ee5ebeee8a6904fea941a8478f9398cb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/PROVENANCE.md",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "PROVENANCE.md",
+    "bytes": 17773,
+    "sha256": "cf3fc2aecc902054185814ffd41f24d7cf12cfbbaa388c79f72b426cc7941010",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/TREATMENTS.md",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "TREATMENTS.md",
+    "bytes": 5759,
+    "sha256": "b5920de7d592a6004890431e1ecf3dac8d723614e08acb591adfbcc7fa5a8b6c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/STATUS.md",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "STATUS.md",
+    "bytes": 1628,
+    "sha256": "a0bbdb26d2a59e0dbeb1aa5244b1dc9b942ceac9c22248434ba87ab754acf3f1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/edit.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/edit.py",
+    "bytes": 23639,
+    "sha256": "36f5e1662ea507ada8c8fd45b30d889fb6057b2d8a5a0721c3bf9e5922daad1a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/edit-r1.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/edit-r1.py",
+    "bytes": 15384,
+    "sha256": "4fa401bea6fc0bd761ad854bc0123c5aaf15d889b5aa2346589f623215bc2bb1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/film-camera.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/film-camera.json",
+    "bytes": 133114,
+    "sha256": "10fd3515f91e80207a61c41604ef832b644a0a85da84b5b48c753014fc5e5d33",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/sp.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/sp.py",
+    "bytes": 2681,
+    "sha256": "6a81726bbcf73cf4fb034d2dabe666fb12bfc0d9f3588f5bc4221c571d9c8124",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/sp_util.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/sp_util.py",
+    "bytes": 2215,
+    "sha256": "a127d0e4d6a72d1c8f70eddebfad3849eced4a4793f28b7b9cdc6434c5a87207",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/EditorCapture.java",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/EditorCapture.java",
+    "bytes": 27840,
+    "sha256": "5e2a8cf7fb954264784f529166456759dd4cda9451021fc525f3e73e381551d1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/capture_editor.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/capture_editor.py",
+    "bytes": 2831,
+    "sha256": "c20a7a0bdd55762b31d2be866b7fc98867708dcb317f067428a98d467d70fcd2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/run_edit.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/run_edit.py",
+    "bytes": 3003,
+    "sha256": "8a7de729f963793d3d2354f60bd92301ef5e48fce0203eb5f26a60fd3a17e25d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/mux_final.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/mux_final.py",
+    "bytes": 3933,
+    "sha256": "28a9cd16dacc49d51ceaf2159a255bebc9732d4d28dc39d3037a661547364e5c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/stage_archive.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/stage_archive.py",
+    "bytes": 16784,
+    "sha256": "8689ca42bde3be4f17b2ac847b722a30fd60d97d2743de13c14dd5ce4955e86e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/build_scene.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/build_scene.py",
+    "bytes": 21513,
+    "sha256": "2bf264c214b9f6bd0e1f404fd8c5bf7236955a04b72caa5b7ff12b568c1721b0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/build_scene_v1.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/build_scene_v1.py",
+    "bytes": 11223,
+    "sha256": "253c6aff2f940cc2796cb42338f2e77b91ad8ce4020edc4f7c977f1ff22b6241",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/make_voice.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/make_voice.py",
+    "bytes": 4171,
+    "sha256": "617d1f5f71e426efc56463ec25237bdc21ac09fd7b7ab29e89ad5d397cf84638",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/make_decor.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/make_decor.py",
+    "bytes": 2038,
+    "sha256": "29b498b8e04498a665ba51c30867c6fee750d8888799bc049de03903ca6867db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/measured.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/measured.json",
+    "bytes": 3421,
+    "sha256": "e5eec05f406a3e6d7044d38d770de6edbe4ed337767f6e617fd414b4db6ea612",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/routes/loop-route.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/routes/loop-route.json",
+    "bytes": 1255,
+    "sha256": "3af443cbdf86e3ed9f164b8b06e56ea8a09d5b4483a9e08e5077ffb199d78d10",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t06.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t06.screenplay.json",
+    "bytes": 41847,
+    "sha256": "d4079bb1825ebef2041d168bbf76a5c4112739586d0b6147e7e951fcc18cb0ce",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t06.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t06.stageplay",
+    "bytes": 41715,
+    "sha256": "d33cc2c76c25971ceae84af701fbaeca0121562db7dc6969d46eee79fe47b0e1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t06-editor.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t06-editor.screenplay.json",
+    "bytes": 40105,
+    "sha256": "c9ed22a0d0ce3f75244eec113bc1f305f2e22ee20b119b8b16c472b106d98d85",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t06-editor.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t06-editor.stageplay",
+    "bytes": 40093,
+    "sha256": "b7546f895e8ed1eee0c84a8dcbba64d72a7ba3759d8ec2173e2a7820a619a782",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t06-sfx.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t06-sfx.screenplay.json",
+    "bytes": 41346,
+    "sha256": "7bca4f48f1d2f26afe12761c429a0ec561145c61da03e988d1f09a49e64361fd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t06-sfx.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t06-sfx.stageplay",
+    "bytes": 41400,
+    "sha256": "ea3a8093acd1e92a7c62bdc58d5b0baebb9bdf23d133c939ad96cda4cf726f5a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/editor-r2/route.events.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/editor-r2/route.events.json",
+    "bytes": 5898,
+    "sha256": "f371e51d82a6f6a8aa02e58710f5b303db254bb06e6691769b4ea1af2f21e72e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/editor-r2/route-applied.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/editor-r2/route-applied.stageplay",
+    "bytes": 41053,
+    "sha256": "939d092d0c9277fdb7b772218911ee178035a8b4b17f2e673f4de48bbe69d98f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/editor-tour2/tour.events.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/editor-tour2/tour.events.json",
+    "bytes": 5492,
+    "sha256": "dfb620c0a04eb439513721c624ca049ce51d879652668930e7f52137fe81ecf0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/editor-tour2/scene/day-off.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/editor-tour2/scene/day-off.stageplay",
+    "bytes": 41715,
+    "sha256": "d33cc2c76c25971ceae84af701fbaeca0121562db7dc6969d46eee79fe47b0e1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/editor-tour2/scene/day-off.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/editor-tour2/scene/day-off.screenplay.json",
+    "bytes": 76896,
+    "sha256": "b9e62deeb92291d44abff5b938971ccfe667be01653d238202c820640e14f564",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/editor-tour2/scene/roundtrip.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/editor-tour2/scene/roundtrip.stageplay",
+    "bytes": 41715,
+    "sha256": "d33cc2c76c25971ceae84af701fbaeca0121562db7dc6969d46eee79fe47b0e1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/desktop-route/desktop-route.events.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/desktop-route/desktop-route.events.json",
+    "bytes": 2799,
+    "sha256": "3b1ba0fde7444d213badded10330364ae7acb2e523485ed1ba61bc0b3168d908",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/desktop-route/desktop-route-applied.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/desktop-route/desktop-route-applied.stageplay",
+    "bytes": 41053,
+    "sha256": "939d092d0c9277fdb7b772218911ee178035a8b4b17f2e673f4de48bbe69d98f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/desktop-tour/desktop-tour.events.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/desktop-tour/desktop-tour.events.json",
+    "bytes": 876,
+    "sha256": "d7510d1d701cecf400c93396e035563348933ae118b8f9554da4459149752e7b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/t06/render.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/t06/render.json",
+    "bytes": 36930,
+    "sha256": "7c44611bc769196cb0c3ffa00dac98aeaf1aea7345a1a4e9851b924d0ca4b091",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/t06/render4.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/t06/render4.json",
+    "bytes": 36937,
+    "sha256": "75ad450d38b30f9780ab749b92bf77cbcc68e11a7c5a63565766d4aa0706b426",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/edit_v2.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/edit_v2.py",
+    "bytes": 25282,
+    "sha256": "c67e5fd006060d57955388fe439756852da756400635f3d3e3175b5c76f604af",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/film-camera-v2.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/film-camera-v2.json",
+    "bytes": 133114,
+    "sha256": "10fd3515f91e80207a61c41604ef832b644a0a85da84b5b48c753014fc5e5d33",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/EditorCapture2.java",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/EditorCapture2.java",
+    "bytes": 33370,
+    "sha256": "b3b0e921eae74946a6a24da8069e0dea9a6167e03e252a71d67c33ee17285597",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/tools/v2_chain.sh",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "tools/v2_chain.sh",
+    "bytes": 1937,
+    "sha256": "8c1237ea1545b225e7bcac4282f39816cf459d5fdf587b41798d0b9b2fb64583",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/build_scene_r1.py",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/build_scene_r1.py",
+    "bytes": 20349,
+    "sha256": "5e235e05d358a3ad0f5b73556fb4b8b814c674aba8d5790fc08f5f9b8e94c6b5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/ground-floors.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/ground-floors.json",
+    "bytes": 2398,
+    "sha256": "d5a77f610e9c2b96fe53718d1105392c35121e0cfeb0f785ecdb02434362a466",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/routes/loop-route-v2.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/routes/loop-route-v2.json",
+    "bytes": 1255,
+    "sha256": "6adbaab787578ad54b70f5d4780c19aa8066c20e1659537b9fc6ba5e7b322535",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t10.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t10.screenplay.json",
+    "bytes": 40636,
+    "sha256": "1370a80ec6f329576a09411b6fe9544595735b321210dc7fc5e1b1127930f0ed",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t10.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t10.stageplay",
+    "bytes": 40708,
+    "sha256": "4a9f3a514e4d3619e6222a604b748ac7f7df4562933c26ddddb64d919aefa1af",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t10-editor.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t10-editor.screenplay.json",
+    "bytes": 38894,
+    "sha256": "f44de2ae5c9bab5a90595635ba78cafcb591a1703306434adb3c81e2f481fa37",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t10-editor.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t10-editor.stageplay",
+    "bytes": 39086,
+    "sha256": "a9fe6a2d3be6729371118f7ffc278a682fddccae4c01b4ebd092eac1a829d681",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t10-sfx.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t10-sfx.screenplay.json",
+    "bytes": 40135,
+    "sha256": "3cbdd92a6012cc1b172679425fb98249372dc7131086dcfa4db93c989e5d4d5d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t10-sfx.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t10-sfx.stageplay",
+    "bytes": 40393,
+    "sha256": "d10866527397bcd88a5cc49255c3a5b0df276dc65f347fb56a29b7507e3dff97",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t10-novoice.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t10-novoice.screenplay.json",
+    "bytes": 40870,
+    "sha256": "88dc8dcca63b08e8989f9e3faf61a54d2a5631e62f9c6c2f7860451c88e08e27",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t10-novoice.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t10-novoice.stageplay",
+    "bytes": 41205,
+    "sha256": "2b3e99b7d1e5f16c9d24f09522997ee03024cc9c210a7fcfa25f16b1a9803e2c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/ground/ghz.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/ground/ghz.json",
+    "bytes": 5822,
+    "sha256": "9f539c9360f9282e0663234a92a56e0a267f184dc48fa7c3e076eb32e1636315",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/ground/ghz.out.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/ground/ghz.out.json",
+    "bytes": 9393,
+    "sha256": "9e46d9afd99427f092e04d56648596f2bef4d80660ac9d9f64fa4c43bda6ffe2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/ground/ehz.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/ground/ehz.json",
+    "bytes": 2793,
+    "sha256": "f3204a31fc53352dea00378c59312b616d67f9628bc7f310163e328b5832880a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/ground/ehz.out.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/ground/ehz.out.json",
+    "bytes": 4612,
+    "sha256": "88bbcb89f9fa27401f70e3397abb8f3cee1d87f048d19ee4e41ec2eb963b3aa8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/ground/aiz.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/ground/aiz.json",
+    "bytes": 3135,
+    "sha256": "11075c2cd4e1c21d0cc81faf43d877cdda87c9e5dae73dc67609b34291248bce",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/ground/aiz.out.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/ground/aiz.out.json",
+    "bytes": 5170,
+    "sha256": "3d4ac05c28bb00c94e80609c40fc54dd887fe08c14db6d1dbaefbd809e2d8039",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/ground/ghz-path1.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/ground/ghz-path1.json",
+    "bytes": 1697,
+    "sha256": "0719334a91ec7697058ebb2a0f70f0f14daa80e146dbaefe83fb17d6b845bf96",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/ground/ghz-path1.out.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/ground/ghz-path1.out.json",
+    "bytes": 3133,
+    "sha256": "3ab00c711f7bfac0f335986e8614938f540a8301db3074c64eb08c0c3d815877",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/s2cue/s2cue.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/s2cue/s2cue.screenplay.json",
+    "bytes": 2975,
+    "sha256": "0da8514b67a22838426fe851bf48267e301a7f0dd168ad9243ccc3e60ab14ef6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/probe/s2cue/s2cue.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "probe/s2cue/s2cue.stageplay",
+    "bytes": 3546,
+    "sha256": "77346ec117c6bf73fde21a4c998fe392c29adce61ddf410c9190182523fb52dd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/v2/editor-route/route.events.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/v2/editor-route/route.events.json",
+    "bytes": 5826,
+    "sha256": "c577b43d195a939b1ca082b2cf32410985f3683bc1edcd4b5249710b7726a8b6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/v2/editor-route/route-applied.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/v2/editor-route/route-applied.stageplay",
+    "bytes": 40046,
+    "sha256": "410d92df85f16b680a390818428e0de04b09c676792793ac67829711678ac2ef",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/v2/editor-tour/tour.events.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/v2/editor-tour/tour.events.json",
+    "bytes": 9096,
+    "sha256": "2f883a5c86426030cd0dc57365f6a626453c29740e75ed3af49b172406b7d9df",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/v2/editor-tour/day-off.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/v2/editor-tour/day-off.screenplay.json",
+    "bytes": 74842,
+    "sha256": "4a25dadaeb13c7f77712e0cfb39b8fa09a31aab9cdd976c47357d2548d1c152c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/v2/editor-desktop-route/desktop-route.events.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/v2/editor-desktop-route/desktop-route.events.json",
+    "bytes": 1385,
+    "sha256": "d2ce1ee96f90915ff796afa61799d9d00aa0aaa443b16c886474ac1cfa84ddf4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/v2/editor-desktop-route/desktop-route-applied.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/v2/editor-desktop-route/desktop-route-applied.stageplay",
+    "bytes": 40046,
+    "sha256": "410d92df85f16b680a390818428e0de04b09c676792793ac67829711678ac2ef",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/v2/t10-render.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/v2/t10-render.json",
+    "bytes": 35877,
+    "sha256": "73f3d4c5f29e739e180bb9408a053ff981ef2e009646fafa5e6f043462b2c00c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/captures/v2/t10-sim.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "captures/v2/t10-sim.json",
+    "bytes": 189,
+    "sha256": "099acce3d4804b28141eaebad91de53a95d8ed173b90a0494f30607d6051eaa7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/take01.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/take01.screenplay.json",
+    "bytes": 12534,
+    "sha256": "5caf2f64626f1ca090668bb2e32a75b57990d8889ecc2f4d45fc4e8d1910dc9f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/take01.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/take01.stageplay",
+    "bytes": 14838,
+    "sha256": "d724b4b187b07b2891c26bbaf04842bfe2041256d2038acd17f791282692e30c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t02.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t02.screenplay.json",
+    "bytes": 40503,
+    "sha256": "afe9ae06c20644c9cd3f66a3506050a735e490994ee82fa02aec4866f349194a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t02.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t02.stageplay",
+    "bytes": 39944,
+    "sha256": "73f44b528dfa503ff1e893f3ce4b62a66f2a9b25c5fb3f15457dc133ec40157a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t02a.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t02a.screenplay.json",
+    "bytes": 38962,
+    "sha256": "1af1ef6025273850da0507bc8876c9e0ecb3be463a2b4bd8cdf11785f7bf3ac4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t02a.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t02a.stageplay",
+    "bytes": 38984,
+    "sha256": "541fc6c28c2ec8501bb14d06e5867aacc2aa13637669e74801687d6dde51dd7b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t02a-loop-run.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t02a-loop-run.screenplay.json",
+    "bytes": 74019,
+    "sha256": "0aef7c0d75c860de068cbcf5d2f83d5a251d84f0bd31a8662f2cccf40fcfc0ff",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t02a-loop-run.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t02a-loop-run.stageplay",
+    "bytes": 39944,
+    "sha256": "98ec569ccb489f5909aebfd8904b3a47fd1721061cfe508d1d856119c4371576",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t03.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t03.screenplay.json",
+    "bytes": 40222,
+    "sha256": "1db472bbfd1b360bad9a78e2620cadae97f1a78c309121a01e889b8373a939ca",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t03.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t03.stageplay",
+    "bytes": 39919,
+    "sha256": "fba6fe7ebeb8b8e4d5f3b8a35208c9f5d1e80dec270c8e20c55e6c7f62872c8f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t04.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t04.screenplay.json",
+    "bytes": 40664,
+    "sha256": "7de777e164f0abe649d6d37bb63840a4d21ec12feceba917b9014b7ad4245123",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t04.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t04.stageplay",
+    "bytes": 40358,
+    "sha256": "acfd3763c46efec4d2269eae266d66cb835f1d9a3c61a76546b8cc55808da70c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t04-editor.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t04-editor.screenplay.json",
+    "bytes": 38922,
+    "sha256": "aefaf65c18f3a253e1c60cd29d7a348a7af11db86b9cb6ca7044ce51f3db88a3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t04-editor.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t04-editor.stageplay",
+    "bytes": 38736,
+    "sha256": "823516edbcc8a8f926612618d43e904a0d0e9cab4a8e4b7d8c1f1ea6ea05fbd8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t05.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t05.screenplay.json",
+    "bytes": 40588,
+    "sha256": "065c4657dfb4f8abeb3427be9c245f526d2719af90b1f86c6dcbffbc95821bc3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t05.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t05.stageplay",
+    "bytes": 40350,
+    "sha256": "7da4af469294f925a66111a1d14f88ce076c1930f57385a00337ada72a778fdf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/v2a.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/v2a.screenplay.json",
+    "bytes": 40789,
+    "sha256": "586ed7bba6b369c04f27d40288f4f4bd31cd85be4b0bb4a91a02be2fad554e64",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/v2a.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/v2a.stageplay",
+    "bytes": 40831,
+    "sha256": "e05bc9899def7a5b5a16191f61880ae5f9da25562cd9505479199bea72100759",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/v2b.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/v2b.screenplay.json",
+    "bytes": 40636,
+    "sha256": "2825fe3fff7657a9df49da6d1beef9383fc078eca2e1dddcaa88ad2e796d05c6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/v2b.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/v2b.stageplay",
+    "bytes": 40708,
+    "sha256": "610f65831c4773a33f25602e43498eef9f517a96fb69cdaa762cb7e09774e4fe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/v2b-novoice.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/v2b-novoice.screenplay.json",
+    "bytes": 40870,
+    "sha256": "3d36debbef8e36fda1f00e08dde874c82094771b6a8ff43d7a81d1321d243d61",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/v2b-novoice.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/v2b-novoice.stageplay",
+    "bytes": 41205,
+    "sha256": "d08ae2d16fe1738be0b6163b4a951e8ea95ea6f068a2a1beb8052710e4b66b11",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t07.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t07.screenplay.json",
+    "bytes": 40636,
+    "sha256": "2825fe3fff7657a9df49da6d1beef9383fc078eca2e1dddcaa88ad2e796d05c6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t07.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t07.stageplay",
+    "bytes": 40708,
+    "sha256": "610f65831c4773a33f25602e43498eef9f517a96fb69cdaa762cb7e09774e4fe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t07-editor.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t07-editor.screenplay.json",
+    "bytes": 38894,
+    "sha256": "2a9f1443790a8b424db72314b4a92866313be9c394a425824a5ff8bb91056e1f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t07-editor.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t07-editor.stageplay",
+    "bytes": 39086,
+    "sha256": "32593bf256ea41d59ad408b23475bcb8def959c1df3339238e2b2abe5bde73de",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t07-sfx.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t07-sfx.screenplay.json",
+    "bytes": 40135,
+    "sha256": "8ccb7d2a6991da7fce54a53f7b1b05abad87ad611cb57459dc0a257d363aeb41",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t07-sfx.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t07-sfx.stageplay",
+    "bytes": 40393,
+    "sha256": "aa7dc9c6a6855f16161efa0b3fecc8622ae4c0d517059dbf244ededc5d70e4db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t08.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t08.screenplay.json",
+    "bytes": 40636,
+    "sha256": "74a7c4944a42757132d21e0cbbf7054471f290e84b765f23f383818ad95f92e0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t08.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t08.stageplay",
+    "bytes": 40708,
+    "sha256": "87b95d56c4544de654656578e0ed2d8856aae69e2b8f56af6f14f0a832aa93c1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t08-editor.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t08-editor.screenplay.json",
+    "bytes": 38894,
+    "sha256": "0928d6f61a84c02502e61ba54335da7dc8acff48c059e487de9b679eef988f09",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t08-editor.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t08-editor.stageplay",
+    "bytes": 39086,
+    "sha256": "6dde689c856e2934e65135f432680ce8ba101ee0882998ea2e5c4b9b830a8b72",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t08-sfx.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t08-sfx.screenplay.json",
+    "bytes": 40135,
+    "sha256": "8ccb7d2a6991da7fce54a53f7b1b05abad87ad611cb57459dc0a257d363aeb41",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t08-sfx.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t08-sfx.stageplay",
+    "bytes": 40393,
+    "sha256": "aa7dc9c6a6855f16161efa0b3fecc8622ae4c0d517059dbf244ededc5d70e4db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t09.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t09.screenplay.json",
+    "bytes": 40636,
+    "sha256": "e5f0453c6aeabea472bf5adec4df94a737ca30d84d2697f4f0efcf71396f17b5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t09.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t09.stageplay",
+    "bytes": 40708,
+    "sha256": "c622677cde074f075578c559eb6ce9b4278ef02a201fe8bde649df1331aa1be9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t09-editor.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t09-editor.screenplay.json",
+    "bytes": 38894,
+    "sha256": "f44de2ae5c9bab5a90595635ba78cafcb591a1703306434adb3c81e2f481fa37",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t09-editor.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t09-editor.stageplay",
+    "bytes": 39086,
+    "sha256": "a9fe6a2d3be6729371118f7ffc278a682fddccae4c01b4ebd092eac1a829d681",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t09-sfx.screenplay.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t09-sfx.screenplay.json",
+    "bytes": 40135,
+    "sha256": "8ccb7d2a6991da7fce54a53f7b1b05abad87ad611cb57459dc0a257d363aeb41",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/t09-sfx.stageplay",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/t09-sfx.stageplay",
+    "bytes": 40393,
+    "sha256": "aa7dc9c6a6855f16161efa0b3fecc8622ae4c0d517059dbf244ededc5d70e4db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/scenes/voice/cues.json",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "scenes/voice/cues.json",
+    "bytes": 1857,
+    "sha256": "90affe242c09d30a67298048363abf1c905347481f0b6cf6d2df314e63457ecf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/chapters.txt",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/build/chapters.txt",
+    "bytes": 938,
+    "sha256": "e38036c1b2557d3fd35ff488ef15ced9f25abe69400c0b6a1e52b38bcaec0b7a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/film-chapters.txt",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/build/film-chapters.txt",
+    "bytes": 604,
+    "sha256": "b03776c0e2cec5ea0bf88051060d6d0523a3c520a45887656133c05d00697dfb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/chapters-v2.txt",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/build-v2/chapters.txt",
+    "bytes": 946,
+    "sha256": "00dec9c3f546564d205083f0c99c747db76da43a1e6c463610a80e82ed9c35e9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/sources/promo/edit/film-chapters-v2.txt",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "edit/build-v2/film-chapters.txt",
+    "bytes": 616,
+    "sha256": "a91b82f41733c005fecc3834fcb8547f4c1c61e5d9825817ffab59025aef1d1b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/stageplay-day-off-promo/README.md",
+    "root": "stageplay-day-off-promo/promo",
+    "original_path": "(archive index)",
+    "bytes": 3489,
+    "sha256": "e1fb39273321db0020896a40ac2cf10be07f1809a38d5576013009e46d57c8b7",
+    "snapshot": "written"
   }
 ]

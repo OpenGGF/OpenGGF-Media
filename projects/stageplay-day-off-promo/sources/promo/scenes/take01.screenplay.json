@@ -1,0 +1,755 @@
+{
+ "version": 6,
+ "name": "Day Off",
+ "width": 480,
+ "height": 270,
+ "cast": [
+  {
+   "id": "sonic",
+   "name": "Sonic",
+   "gameId": "s1",
+   "character": "sonic"
+  },
+  {
+   "id": "knuckles",
+   "name": "Knuckles",
+   "gameId": "s3k",
+   "character": "knuckles"
+  },
+  {
+   "id": "tails",
+   "name": "Tails",
+   "gameId": "s3k",
+   "character": "tails"
+  }
+ ],
+ "objectCast": [
+  {
+   "id": "moto",
+   "name": "Motobug",
+   "gameId": "s1",
+   "zone": 0,
+   "act": 0,
+   "objectId": 64,
+   "subtype": 0,
+   "layoutIndex": -1,
+   "sourceKind": "LAYOUT_OBJECT"
+  }
+ ],
+ "dialogueTypers": [
+  {
+   "id": "moto",
+   "framesPerGrapheme": 3,
+   "punctuationPauseFrames": 14,
+   "spacePauseFrames": 2
+  },
+  {
+   "id": "sonic",
+   "framesPerGrapheme": 1,
+   "punctuationPauseFrames": 6,
+   "spacePauseFrames": 0
+  },
+  {
+   "id": "knuckles",
+   "framesPerGrapheme": 2,
+   "punctuationPauseFrames": 10,
+   "spacePauseFrames": 0
+  },
+  {
+   "id": "tails",
+   "framesPerGrapheme": 2,
+   "punctuationPauseFrames": 8,
+   "spacePauseFrames": 0
+  }
+ ],
+ "dialogueSkins": [
+  {
+   "id": "moto",
+   "nameArgb": -38310,
+   "textArgb": -724504,
+   "panelArgb": -267118037,
+   "borderArgb": -4669236,
+   "decorationAsset": "decor/moto.png",
+   "decorationBorder": 6,
+   "padding": 8,
+   "pointer": true
+  },
+  {
+   "id": "sonic",
+   "nameArgb": -8408321,
+   "textArgb": -724504,
+   "panelArgb": -267379654,
+   "borderArgb": -12751648,
+   "decorationAsset": "decor/sonic.png",
+   "decorationBorder": 6,
+   "padding": 8,
+   "pointer": true
+  },
+  {
+   "id": "knuckles",
+   "nameArgb": -34166,
+   "textArgb": -724504,
+   "panelArgb": -265678824,
+   "borderArgb": -2609072,
+   "decorationAsset": "decor/knuckles.png",
+   "decorationBorder": 6,
+   "padding": 8,
+   "pointer": true
+  },
+  {
+   "id": "tails",
+   "nameArgb": -15526,
+   "textArgb": -724504,
+   "panelArgb": -265675252,
+   "borderArgb": -1007584,
+   "decorationAsset": "decor/tails.png",
+   "decorationBorder": 6,
+   "padding": 8,
+   "pointer": true
+  }
+ ],
+ "shots": [
+  {
+   "id": "patrol",
+   "durationFrames": 900,
+   "set": {
+    "gameId": "s1",
+    "zone": 0,
+    "act": 0
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 400,
+     "y": 715,
+     "interpolation": "HOLD"
+    },
+    {
+     "frame": 350,
+     "x": 400,
+     "y": 715,
+     "interpolation": "SMOOTH"
+    },
+    {
+     "frame": 400,
+     "x": 520,
+     "y": 790,
+     "zoom": 2,
+     "interpolation": "HOLD"
+    }
+   ],
+   "objects": {
+    "moto": [
+     {
+      "frame": 0,
+      "x": 720,
+      "y": 845,
+      "mode": "FREE"
+     },
+     {
+      "frame": 330,
+      "x": 0,
+      "y": 0,
+      "mode": "PUPPET"
+     }
+    ]
+   },
+   "captions": [
+    {
+     "startFrame": 20,
+     "endFrame": 200,
+     "text": "GREEN HILL ZONE   9:00 AM",
+     "x": 14,
+     "y": 246,
+     "argb": -1
+    }
+   ],
+   "dialogue": [
+    {
+     "startFrame": 40,
+     "endFrame": 320,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "Patrol... turn. Patrol... turn.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 52
+    },
+    {
+     "startFrame": 420,
+     "endFrame": 560,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "...",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 40
+    },
+    {
+     "startFrame": 570,
+     "endFrame": 730,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "Thirty-five years of this.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 52
+    },
+    {
+     "startFrame": 740,
+     "endFrame": 880,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "I need a day off.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 52
+    }
+   ],
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s1",
+     "soundId": 129
+    },
+    {
+     "frame": 330,
+     "kind": "MUSIC_STOP"
+    }
+   ],
+   "worldCommands": [
+    {
+     "frame": 0,
+     "kind": "REMOVE_OBJECT",
+     "target": {
+      "layoutIndex": 1,
+      "objectId": 38,
+      "subtype": 6
+     }
+    },
+    {
+     "frame": 0,
+     "kind": "REMOVE_OBJECT",
+     "target": {
+      "layoutIndex": 4,
+      "objectId": 64,
+      "subtype": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "loop",
+   "durationFrames": 840,
+   "set": {
+    "gameId": "s1",
+    "zone": 0,
+    "act": 0
+   },
+   "transition": {
+    "kind": "WIPE_RIGHT",
+    "durationFrames": 24
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 5340,
+     "y": 480,
+     "interpolation": "HOLD"
+    },
+    {
+     "frame": 200,
+     "x": 5340,
+     "y": 480,
+     "interpolation": "SMOOTH"
+    },
+    {
+     "frame": 270,
+     "x": 5560,
+     "y": 440,
+     "interpolation": "HOLD"
+    }
+   ],
+   "actors": {
+    "sonic": [
+     {
+      "frame": 0,
+      "x": 5100,
+      "y": 686
+     }
+    ]
+   },
+   "actions": {
+    "sonic": []
+   },
+   "objects": {
+    "moto": [
+     {
+      "frame": 0,
+      "x": 5510,
+      "y": 691,
+      "mode": "PUPPET",
+      "animation": 1,
+      "flipX": true
+     }
+    ]
+   },
+   "objectActions": {
+    "moto": []
+   },
+   "dialogue": [
+    {
+     "startFrame": 300,
+     "endFrame": 430,
+     "speakerActor": "sonic",
+     "text": "Uh... aren't you supposed to be chasing me?",
+     "skinId": "sonic",
+     "typerId": "sonic",
+     "x": 170,
+     "y": 10,
+     "width": 300,
+     "height": 52
+    },
+    {
+     "startFrame": 440,
+     "endFrame": 530,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "Day off.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 10,
+     "y": 10,
+     "width": 176,
+     "height": 40
+    },
+    {
+     "startFrame": 580,
+     "endFrame": 680,
+     "speakerActor": "sonic",
+     "text": "...Huh. Fair enough.",
+     "skinId": "sonic",
+     "typerId": "sonic",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 52
+    }
+   ],
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s1",
+     "soundId": 129
+    }
+   ],
+   "worldCommands": [
+    {
+     "frame": 0,
+     "kind": "CLEAR_BADNIKS"
+    }
+   ]
+  },
+  {
+   "id": "island",
+   "durationFrames": 900,
+   "set": {
+    "gameId": "s3k",
+    "zone": 0,
+    "act": 0
+   },
+   "transition": {
+    "kind": "WIPE_RIGHT",
+    "durationFrames": 24
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 4872,
+     "y": 840,
+     "interpolation": "HOLD"
+    }
+   ],
+   "actors": {
+    "knuckles": [
+     {
+      "frame": 0,
+      "x": 5480,
+      "y": 1051,
+      "flipX": true
+     }
+    ]
+   },
+   "actions": {
+    "knuckles": [
+     {
+      "frame": 200,
+      "kind": "JUMP",
+      "holdFrames": 20
+     },
+     {
+      "frame": 222,
+      "kind": "GLIDE_TO",
+      "x": 5160,
+      "y": 1051,
+      "urgency": 0.8
+     }
+    ]
+   },
+   "objects": {
+    "moto": [
+     {
+      "frame": 0,
+      "x": 4840,
+      "y": 1056,
+      "mode": "PUPPET",
+      "animation": 1,
+      "flipX": true
+     }
+    ]
+   },
+   "objectActions": {
+    "moto": [
+     {
+      "frame": 0,
+      "kind": "MOVE_TO",
+      "x": 5080,
+      "y": 1056,
+      "speed": 1
+     },
+     {
+      "frame": 240,
+      "kind": "STOP"
+     }
+    ]
+   },
+   "captions": [
+    {
+     "startFrame": 30,
+     "endFrame": 210,
+     "text": "ANGEL ISLAND ZONE   11:00 AM",
+     "x": 14,
+     "y": 246,
+     "argb": -1
+    }
+   ],
+   "dialogue": [
+    {
+     "startFrame": 300,
+     "endFrame": 420,
+     "speakerActor": "knuckles",
+     "text": "Hey! No badniks on my island!",
+     "skinId": "knuckles",
+     "typerId": "knuckles",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 52
+    },
+    {
+     "startFrame": 430,
+     "endFrame": 520,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "Day off.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 10,
+     "y": 10,
+     "width": 176,
+     "height": 40
+    },
+    {
+     "startFrame": 540,
+     "endFrame": 650,
+     "speakerActor": "knuckles",
+     "text": "...Badniks get days off?",
+     "skinId": "knuckles",
+     "typerId": "knuckles",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 52
+    },
+    {
+     "startFrame": 660,
+     "endFrame": 760,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "They do now.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 10,
+     "y": 10,
+     "width": 176,
+     "height": 40
+    },
+    {
+     "startFrame": 780,
+     "endFrame": 890,
+     "speakerActor": "knuckles",
+     "text": "...Huh.",
+     "skinId": "knuckles",
+     "typerId": "knuckles",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 40
+    }
+   ],
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s3k",
+     "soundId": 1
+    }
+   ],
+   "worldCommands": [
+    {
+     "frame": 0,
+     "kind": "CLEAR_BADNIKS"
+    }
+   ]
+  },
+  {
+   "id": "friends",
+   "durationFrames": 720,
+   "set": {
+    "gameId": "s3k",
+    "zone": 0,
+    "act": 0
+   },
+   "transition": {
+    "kind": "FADE_BLACK",
+    "durationFrames": 20
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 4872,
+     "y": 840,
+     "interpolation": "HOLD"
+    }
+   ],
+   "actors": {
+    "knuckles": [
+     {
+      "frame": 0,
+      "x": 5150,
+      "y": 1051,
+      "flipX": true
+     }
+    ],
+    "sonic": [
+     {
+      "frame": 0,
+      "x": 4840,
+      "y": 1051
+     }
+    ],
+    "tails": [
+     {
+      "frame": 0,
+      "x": 5300,
+      "y": 880,
+      "flipX": true
+     }
+    ]
+   },
+   "actions": {
+    "sonic": [
+     {
+      "frame": 60,
+      "kind": "MOVE_TO",
+      "x": 4990,
+      "y": 1051,
+      "urgency": 0.6
+     }
+    ],
+    "tails": [
+     {
+      "frame": 150,
+      "kind": "JUMP",
+      "holdFrames": 10
+     },
+     {
+      "frame": 165,
+      "kind": "FLY_TO",
+      "x": 5200,
+      "y": 1000,
+      "urgency": 0.5
+     }
+    ]
+   },
+   "objects": {
+    "moto": [
+     {
+      "frame": 0,
+      "x": 5080,
+      "y": 1056,
+      "mode": "PUPPET",
+      "animation": 0,
+      "flipX": true
+     }
+    ]
+   },
+   "dialogue": [
+    {
+     "startFrame": 140,
+     "endFrame": 250,
+     "speakerActor": "sonic",
+     "text": "Room for one more?",
+     "skinId": "sonic",
+     "typerId": "sonic",
+     "x": 10,
+     "y": 10,
+     "width": 176,
+     "height": 52
+    },
+    {
+     "startFrame": 330,
+     "endFrame": 430,
+     "speakerActor": "tails",
+     "text": "Make that two!",
+     "skinId": "tails",
+     "typerId": "tails",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 40
+    },
+    {
+     "startFrame": 480,
+     "endFrame": 700,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "Best. Day. Ever.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 10,
+     "y": 10,
+     "width": 176,
+     "height": 40
+    }
+   ],
+   "worldCommands": [
+    {
+     "frame": 0,
+     "kind": "CLEAR_BADNIKS"
+    }
+   ]
+  },
+  {
+   "id": "morning",
+   "durationFrames": 480,
+   "set": {
+    "gameId": "s1",
+    "zone": 0,
+    "act": 0
+   },
+   "transition": {
+    "kind": "FADE_BLACK",
+    "durationFrames": 30
+   },
+   "camera": [
+    {
+     "frame": 0,
+     "x": 400,
+     "y": 715,
+     "interpolation": "HOLD"
+    }
+   ],
+   "objects": {
+    "moto": [
+     {
+      "frame": 0,
+      "x": 720,
+      "y": 845,
+      "mode": "FREE"
+     }
+    ]
+   },
+   "captions": [
+    {
+     "startFrame": 20,
+     "endFrame": 200,
+     "text": "NEXT MORNING",
+     "x": 14,
+     "y": 246,
+     "argb": -1
+    }
+   ],
+   "dialogue": [
+    {
+     "startFrame": 60,
+     "endFrame": 250,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "Patrol... turn.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 40
+    },
+    {
+     "startFrame": 300,
+     "endFrame": 470,
+     "speakerActor": "",
+     "speakerName": "Motobug",
+     "text": "Only 364 days to go.",
+     "skinId": "moto",
+     "typerId": "moto",
+     "x": 294,
+     "y": 10,
+     "width": 176,
+     "height": 52
+    }
+   ],
+   "audio": [
+    {
+     "frame": 0,
+     "kind": "ROM_MUSIC",
+     "gameId": "s1",
+     "soundId": 129
+    }
+   ],
+   "worldCommands": [
+    {
+     "frame": 0,
+     "kind": "REMOVE_OBJECT",
+     "target": {
+      "layoutIndex": 1,
+      "objectId": 38,
+      "subtype": 6
+     }
+    },
+    {
+     "frame": 0,
+     "kind": "REMOVE_OBJECT",
+     "target": {
+      "layoutIndex": 4,
+      "objectId": 64,
+      "subtype": 0
+     }
+    }
+   ]
+  }
+ ]
+}

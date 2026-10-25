@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**29 production groups · 7,426 preserved source files · approximately 169 GiB of
+**31 production groups · 7,603 preserved source files · approximately 179 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -41,12 +41,13 @@ this repository contains their production sources and location catalog.
 | [Emerald Remix coached promo](projects/emerald-remix/) | 216 | 204 |
 | [Multiplayer Time Attack promo](projects/time-attack-promo/) | 231 | 205 |
 | [Sonic Echoes promo](projects/sonic-echoes-promo/) | 61 | 66 |
+| [Day Off: Stageplay introduction promo](projects/stageplay-day-off-promo/) | 116 | 71 |
 | [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
 
 The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later
 collections cover zone bring-ups, ending sequences, Slay the Robotnik, Putt-Putt
 Paradise, Flappy Tails, Typing of the Hedgehog, Sitar Hero, Starpost Valley,
-Mutator Lab, Chaos Mode, Second Strike, Stageplay, Emerald Remix, multiplayer Time Attack and Sonic Echoes. Retained drafts and revisions remain identifiable;
+Mutator Lab, Chaos Mode, Second Strike, Stageplay, Emerald Remix, multiplayer Time Attack, Sonic Echoes and the Day Off Stageplay introduction. Retained drafts and revisions remain identifiable;
 Chaos Mode retains its earlier reels alongside the focused revision-4 gallery:
 twenty representative effects, twelve zones and qualified native DAC/SFX capture.
 Second Strike also retains a separately identified47-second AIZ development
@@ -54,6 +55,8 @@ excerpt with bounded render review beside its earlier delivered film. Emerald Re
 retains its finished 41.683-second edit, rejected revisions and coached production history.
 The multiplayer Time Attack promo retains its finished 81.817-second edit, every
 superseded edit revision and the capture records behind each review round.
+Day Off retains the approved v2 film's edit, editor capture drivers and scenes beside
+its preserved first version.
 
 ## Use the archive
 

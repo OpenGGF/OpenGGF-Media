@@ -1,0 +1,63 @@
+;FFMETADATA1
+title=Day Off - a Stageplay film (OpenGGF)
+comment=Stageplay promo; staged story exported by Stageplay, editors captured offscreen.
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=61633
+title=Day Off (the film)
+[CHAPTER]
+TIMEBASE=1/1000
+START=61633
+END=64133
+title=Stageplay
+[CHAPTER]
+TIMEBASE=1/1000
+START=64133
+END=65383
+title=Rewind
+[CHAPTER]
+TIMEBASE=1/1000
+START=65383
+END=71567
+title=Sets and cast
+[CHAPTER]
+TIMEBASE=1/1000
+START=71567
+END=77200
+title=Free and Puppet
+[CHAPTER]
+TIMEBASE=1/1000
+START=77200
+END=83950
+title=World and camera
+[CHAPTER]
+TIMEBASE=1/1000
+START=83950
+END=107583
+title=The route
+[CHAPTER]
+TIMEBASE=1/1000
+START=107583
+END=109833
+title=Dialogue
+[CHAPTER]
+TIMEBASE=1/1000
+START=109833
+END=113200
+title=Screenplay
+[CHAPTER]
+TIMEBASE=1/1000
+START=113200
+END=114900
+title=Export
+[CHAPTER]
+TIMEBASE=1/1000
+START=114900
+END=123200
+title=Epilogue
+[CHAPTER]
+TIMEBASE=1/1000
+START=123200
+END=130200
+title=End card

@@ -1,0 +1,122 @@
+[
+ {
+  "cue": "patrol.dialogue0",
+  "text": "Patrol... turn. Patrol...",
+  "globalFrame": 15,
+  "asset": "voice/patrol-dialogue0.wav",
+  "words": [
+   15,
+   108,
+   138
+  ]
+ },
+ {
+  "cue": "patrol.dialogue1",
+  "text": "...",
+  "globalFrame": 459,
+  "asset": "voice/patrol-dialogue1.wav",
+  "words": [
+   459
+  ]
+ },
+ {
+  "cue": "patrol.dialogue2",
+  "text": "Thirty-five years of this.",
+  "globalFrame": 529,
+  "asset": "voice/patrol-dialogue2.wav",
+  "words": [
+   529,
+   581,
+   601,
+   612
+  ]
+ },
+ {
+  "cue": "patrol.dialogue3",
+  "text": "I need a day off.",
+  "globalFrame": 669,
+  "asset": "voice/patrol-dialogue3.wav",
+  "words": [
+   669,
+   677,
+   694,
+   702,
+   716
+  ]
+ },
+ {
+  "cue": "loop.dialogue1",
+  "text": "Day off.",
+  "globalFrame": 1290,
+  "asset": "voice/loop-dialogue1.wav",
+  "words": [
+   1290,
+   1304
+  ]
+ },
+ {
+  "cue": "ehz.dialogue1",
+  "text": "Long drive.",
+  "globalFrame": 1995,
+  "asset": "voice/ehz-dialogue1.wav",
+  "words": [
+   1995,
+   2012
+  ]
+ },
+ {
+  "cue": "island.dialogue1",
+  "text": "Day off.",
+  "globalFrame": 2923,
+  "asset": "voice/island-dialogue1.wav",
+  "words": [
+   2923,
+   2937
+  ]
+ },
+ {
+  "cue": "island.dialogue3",
+  "text": "They do now.",
+  "globalFrame": 3143,
+  "asset": "voice/island-dialogue3.wav",
+  "words": [
+   3143,
+   3160,
+   3171
+  ]
+ },
+ {
+  "cue": "ledge.dialogue0",
+  "text": "Best. Day. Ever.",
+  "globalFrame": 3558,
+  "asset": "voice/ledge-dialogue0.wav",
+  "words": [
+   3558,
+   3611,
+   3661
+  ]
+ },
+ {
+  "cue": "morning.dialogue0",
+  "text": "Patrol... turn.",
+  "globalFrame": 4063,
+  "asset": "voice/morning-dialogue0.wav",
+  "words": [
+   4063,
+   4126
+  ]
+ },
+ {
+  "cue": "morning.dialogue1",
+  "text": "...Only 364 days to go.",
+  "globalFrame": 4204,
+  "asset": "voice/morning-dialogue1.wav",
+  "words": [
+   4204,
+   4272,
+   4286,
+   4303,
+   4314
+  ]
+ }
+]

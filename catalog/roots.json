@@ -258,5 +258,17 @@
     "original": "/usr/share/fonts/TTF",
     "archive": "",
     "notes": "External Fira editorial faces (system install); hashed, not redistributed."
+  },
+  {
+    "id": "stageplay-day-off-promo/promo",
+    "original": "/home/farrell/Videos/OGGF/sp-promo-a",
+    "archive": "projects/stageplay-day-off-promo/sources/promo",
+    "notes": "Day Off promo: byte-preserved edit, capture tools, scenes and records. Footage, ROM-derived audio, frames, telemetry and the engine snapshot remain external."
+  },
+  {
+    "id": "stageplay-day-off-promo/fonts",
+    "original": "/home/farrell/Videos/OGGF/sp-promo-a/fonts",
+    "archive": "",
+    "notes": "External Fira editorial faces; hashed, not redistributed."
   }
 ]

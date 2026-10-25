@@ -208,5 +208,12 @@
     "notes": "The delivered Sonic Echoes (Sonic 2 time-loop puzzle mod) promo: promo_kit edit, helpers, master, shot list, provenance and every capture's commands/inputs/notes; film, footage, sidecars and ROM-derived audio remain external.",
     "source_files": 61,
     "catalog_entries": 66
+  },
+  {
+    "id": "stageplay-day-off-promo",
+    "title": "Day Off: Stageplay introduction promo",
+    "notes": "Staged story film (a Motobug takes a day off across S1, S2 and S3K) followed by offscreen captures of both editors directing it; edit, capture driver, scenes, telemetry references and the superseded first cut. Films, captures, audio and frames remain external. Listening and real-time viewing not claimed.",
+    "source_files": 116,
+    "catalog_entries": 71
   }
 ]

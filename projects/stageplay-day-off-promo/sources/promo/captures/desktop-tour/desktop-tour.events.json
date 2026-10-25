@@ -1,0 +1,6 @@
+[
+  {"outputFrame": 0, "label": "desktop: pull-back frame 3698", "sceneFrame": 3698, "menuOpen": false, "route": "", "status": "Opened /home/farrell/Videos/OGGF/sp-promo-a/captures/editor-tour2/scene/day-off.stageplay"},
+  {"outputFrame": 150, "label": "desktop: Knuckles gliding, inspector shows native ability state", "sceneFrame": 2700, "menuOpen": false, "route": "", "status": "Opened /home/farrell/Videos/OGGF/sp-promo-a/captures/editor-tour2/scene/day-off.stageplay"},
+  {"outputFrame": 300, "label": "desktop: play Knuckles' entrance", "sceneFrame": 2640, "menuOpen": false, "route": "", "status": "Opened /home/farrell/Videos/OGGF/sp-promo-a/captures/editor-tour2/scene/day-off.stageplay"},
+  {"outputFrame": 600, "label": "end", "sceneFrame": 2879, "menuOpen": false, "route": "", "status": "Playing from frame 2640; seeking is visual and does not replay audio."}
+]
