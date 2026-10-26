@@ -15004,3 +15004,8 @@ typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,route-demo-cur
 typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,route-demo.mp4,rejected preliminary edit: outdated source credit,9468656,1
 typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,*-review.png,decoded source review image set,140643,3
 typing-of-the-hedgehog,typing-of-the-hedgehog/route-demo-20261025,review-*.png,current edit cut review image set,319216,6
+typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261025,capture-02/state.csv,measured continuous native gameplay state CSV,275649,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261025,capture-02/frames/*.png,"every-row gameplay frame sequence,400x224 at60Hz",86280232,4800
+typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261025,assembly-01/typing-spaced-route-demo.mp4,"reviewed17second continuous native journey,2168px between fights",5828355,1
+typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261025,capture-02/provenance/*.json,source/artifact/capture identity metadata; complete capture accepted,7071738,3
+typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261025,build-96aaff.json,source and matching packaged artifact fingerprints,1766440,1

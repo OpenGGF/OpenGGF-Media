@@ -275,5 +275,10 @@
     "id": "typing-of-the-hedgehog/route-demo-20261025",
     "original": "~/scratch/agent-tmp/codex/typing-hedgehog-20261025/route-demo",
     "archive": "projects/typing-of-the-hedgehog/sources/route-demo-20261025"
+  },
+  {
+    "id": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original": "/home/farrell/scratch/agent-tmp/codex/typing-hedgehog-20261025/spaced-route-demo/native-mz3-v1",
+    "archive": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025"
   }
 ]

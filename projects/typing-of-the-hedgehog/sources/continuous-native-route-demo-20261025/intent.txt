@@ -1,0 +1,15 @@
+mode=ARCADE
+game=s1
+zone=1
+act=2
+difficulty=NORMAL
+capitals=false
+punctuation=false
+dictionaries=standard
+seed=5
+bossStars=1
+noFail=true
+slowMotion=false
+voice=OFF
+demo=true
+demoRows=0

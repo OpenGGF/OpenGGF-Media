@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "status": "Reviewed continuous native gameplay excerpt; final encode review pending",
+  "fps": 60,
+  "playback_speed": 1,
+  "gameplay": {
+    "source_kind": "actual_selected_section_gameplay",
+    "candidate": "Sonic 1 Marble Act 3, packaged native programme at96aaffb",
+    "start_frame": 1500,
+    "end_frame_exclusive": 2520,
+    "observed_events": {
+      "first_fight_visible": 1500,
+      "first_fight_cleared": 1770,
+      "travel_start": 1818,
+      "travel_end": 2296,
+      "next_fight_visible": 2310
+    },
+    "entry": "Direct native level boot; one initial course placement (3784,236); attract typing; No-Fail",
+    "milestones_and_observed_spacing": "Fight1 excerpt -> WAVE CLEAR at1770 -> continuous programme travel from(2124,236) to(4292,236),2168px -> FIGHT2 at2310. No internal cut or speed change.",
+    "limits": "A single continuous interval at recorded cadence; phase labels require new frame review. No ROM parity or whole-level completion claim."
+  },
+  "review": {
+    "route_candidate_qualified": true,
+    "substantial_native_travel_observed": true,
+    "continuous_sequence_inspected_at_1x": true,
+    "reviewer": "OpenAI Codex GPT-6.1-Sol",
+    "notes": "Full17s source excerpt played through at1x in three contiguous browser review intervals, paused at6.013s/12.027s to inspect samples, ended17s. Native pictures inspected at2s intervals and boundary contact sheets. First-fight action begins before excerpt;1500 denotes its first visible frame in this edit. Captured every outer row at60Hz; CSV4800LEVEL rows,0hurt/0death. CameraY switches at1818/2296 delimit full native travel. CSVinteger-centre net/path2168px;423position-changing samples. Compiler programme has477native rows/433subpixel moving rows for this leg; these are distinct measurements. T3 snapshot timed out once; same T3 browser canvas readback and video playback inspection succeeded."
+  },
+  "stageplay": {
+    "included": false,
+    "policy": "Omitted by this assembler. If later prepended, label it as a separate authored rehearsal with independent source intervals, scene/shot IDs and timeline/native-world provenance. It cannot substitute for the continuous gameplay journey."
+  }
+}

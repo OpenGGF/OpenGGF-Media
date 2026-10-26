@@ -61003,5 +61003,101 @@
     "bytes": 3034,
     "sha256": "a77ac91ead85778dba38f5c9e4dff5a19e28cc941528407301655d4127dc2711",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/capture.py",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "capture.py",
+    "bytes": 15968,
+    "sha256": "bfa5a08fb50440ea30d584f768edf66233bf2fb5e08d6167b6511efe2c7f719b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/capture-used.py",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "capture-used.py",
+    "bytes": 15782,
+    "sha256": "42aae157c506d9ccff0ff30be21109274d71e8b4137146104b96ebaa6b6455fd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/demo_common.py",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "demo_common.py",
+    "bytes": 3461,
+    "sha256": "053ba7f72c334c0a667d6fb480ef0e611a32535041c9895b5148a0fc8e1daf82",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/analyze_state.py",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "analyze_state.py",
+    "bytes": 4378,
+    "sha256": "310421decf86aa7922d2ea1c17b3309ae3915d699e66fa851beef5fc2a594347",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/assemble.py",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "assemble.py",
+    "bytes": 10312,
+    "sha256": "03d4f12e39a07fc963aba9f912d8ef5a3b08bc62c32137b61fd355ddba062dfd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/edit-list.json",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "edit-list.json",
+    "bytes": 2206,
+    "sha256": "fa3c1d873b7d21304edf59618f61cb589fc9ab8da50242e3bf5dbee32d6792aa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/README.md",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "README.md",
+    "bytes": 3928,
+    "sha256": "6b1d9b9a0fc696caf00151c577552184bce572a5cb69510c3e7a08d26149ce02",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/PROVENANCE.md",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "PROVENANCE.md",
+    "bytes": 4666,
+    "sha256": "55b218d97bcf11d44d4fb101777364ea935a1b5457e121a0b7a81b1fc5ca78cd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/edit-list.resolved.json",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "assembly-01/edit-list.resolved.json",
+    "bytes": 4196,
+    "sha256": "d8ad31662f5518c9e4f5ebea9273c696116dbb3da54ffbd2bc51bc964cf76622",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/chapters.ffmeta",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "assembly-01/chapters.ffmeta",
+    "bytes": 137,
+    "sha256": "e21d2a07a75bd1aa96d8dc553df0b50a0151a7a2b2d5ee26edf6f6df8f5846ba",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/verification.json",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "assembly-01/verification.json",
+    "bytes": 4985,
+    "sha256": "1cc684b79f15548489dd2ede8925942eface080280113fc14e94727d1a97cefe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025/intent.txt",
+    "root": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
+    "original_path": "capture-02/provenance/intent.txt",
+    "bytes": 185,
+    "sha256": "5020c2faff35e356c64f7e2d7ee9a8574daad0b1484780e8eeec8108d08c6a3a",
+    "snapshot": "byte-copy"
   }
 ]
