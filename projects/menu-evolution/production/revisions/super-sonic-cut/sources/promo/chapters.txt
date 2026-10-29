@@ -1,0 +1,8 @@
+  0.00-  3.28  Cold open: the in-game shader picker, before and now  [pre+new/shader take frames 106-302]
+  3.28-  6.55  Title: Road to 9  [new/shader take frames 303-498]
+  6.55-  9.83  Where it started: OpenGGF 0.5, then the 0.7 hub before the redesign  [v05/v05-title take frames 50-148; pre/hub take frames 0-97]
+  9.83- 16.38  Libraries: Mod manager, 3.5 to 9  [pre+new/mods take frames 52-247; new/mods take frames 421-617]
+ 16.38- 22.93  Pickers: Locate ROM, 4 to 9, side by side  [pre+new/locate take frames 20-216; pre+new/locate take frames 320-515]
+ 22.93- 29.48  Settings: Display tab, 5.5 to 9  [pre+new/settings take frames 120-316; new/settings take frames 690-787; new/settings take frames 795-892]
+ 29.48- 37.27  Twenty-seven of twenty-seven menu families at 9  [new/hub take frames 160-650, new/settings take frames 367-857, new/mods take frames 131-621, new/locate take frames 0-490, new/shader take frames 40-530, new/dialogs take frames 26-516]
+ 37.27- 43.20  The delivered hub, end card  [new/hub take frames 0-355]

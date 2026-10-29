@@ -1,0 +1,91 @@
+{
+ "revision": "super-sonic-cut (menu-evolution), 2026-10-29, Claude Opus 5.5 (xhigh), recut of the 87.333 s film (r3b)",
+ "request": "\"bit slow and repetitive. Do it against the S2 super sonic music, half the length\"; prior steering kept: \"film it like a action movie montage, with various numbers slowly climbing\"",
+ "base": {
+  "commit": "d823ce643d2acd23e9024aafa55b4f90211421ff",
+  "worktree": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-70d5dcc5 (T3 isolated worktree, branch t3/70d5dcc5, clean; no engine change)",
+  "build": "python3 tools/testing/maven_queue.py -Dmse=off -q -DskipTests compile dependency:build-classpath -Dmdep.outputFile=target/cp.txt (JDK 25.0.5, build-only, the worktree's own target/)"
+ },
+ "reused_sources": {
+  "root": "/home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029 (the original production root, read in place by relative path; nothing copied)",
+  "clips": "clips/{pre,new,v05}/<take>/frames, events.csv: the original captures (eras 77c6364ce, 2f9ca84b1, d823ce643), unchanged; see the original provenance/source-map.json and OpenGGF-Media catalog entries for menu-evolution/production",
+  "sfx": {
+   "ab": {
+    "path": "audio/sfx/s2-sfx-ab-paced.wav",
+    "sha256": "30bf178e9325bd68570ed3d4571a68f928a6cb4efdb40320d4824642ebe42db3"
+   },
+   "bc": {
+    "path": "audio/sfx/s2-sfx-bc-paced.wav",
+    "sha256": "6e1a82116824146591bde8d9fb8b589a26969596ed31cd573fd31276e7dca3c2"
+   },
+   "c3": {
+    "path": "audio/sfx/s2-sfx-c3-paced.wav",
+    "sha256": "b0eea29a548ddc9ad9307070878172848f60374eb7303bb154ed6028bdf5fc07"
+   },
+   "c5": {
+    "path": "audio/sfx/s2-sfx-c5-paced.wav",
+    "sha256": "1e55363ba8e8a379e8597a1f6c3e510d6a171600ccbcf235065cf546b7a700e4"
+   },
+   "cd": {
+    "path": "audio/sfx/s2-sfx-cd-paced.wav",
+    "sha256": "ba4cfc9c71e30269334d79b0fb5b95cc058ff0c596c8eb8fe666872d0fd4d1d8"
+   }
+  },
+  "ui_tones": {
+   "navigate": {
+    "path": "audio/ui/ui-navigate.wav",
+    "sha256": "cafcd2ac65d1d9a04de1cc9af2ecd18d398eefa5f59ee476c1d006f6b74f023a"
+   },
+   "confirm": {
+    "path": "audio/ui/ui-confirm.wav",
+    "sha256": "373c0374518dc8e32121224da4ab225ba2094cd4e6a4f475da3a3bf104bdaea6"
+   },
+   "cancel": {
+    "path": "audio/ui/ui-cancel.wav",
+    "sha256": "968d2df0e20611c17d0af0bf7d3fe70150f9614faab253dd9fb8a5ec26e5bb85"
+   }
+  },
+  "fonts": "the same five Fira faces as the original (provenance/source-map.json there; system package ttf-fira-sans 4.301)",
+  "badge": {
+   "path": "src/main/resources/icon/openggf-256.png at d823ce643",
+   "sha256": "05f647727ed2bbb43129ced8fc52a8731c6a68cbd5ddee920d5f645e827606e0"
+  }
+ },
+ "music": {
+  "track": "Sonic 2 \"Super Sonic\"",
+  "engine_id": "0x93 (Sonic2Music.SUPER_SONIC at d823ce643)",
+  "native_id": "$96 MusID_SuperSonic (s2.constants.asm:854); played with SndID_SuperTransform by the Super Sonic transformation (s2.asm:37488-37491)",
+  "rom_offset": "$0FCBBC (Sonic2SmpsLoader music map), Saxman-compressed, 755 bytes decompressed; sits between Mus_2PResult ($0FC824) and Mus_HTZ ($0FCE74), the order of the disassembly's includes (s2.asm:91771-91773)",
+  "identity_check": "sources/audio/HeaderProbe.java: header F6 15 06 03 01 FA = voice pointer $15F6, 6 FM + 3 PSG channels, tempo divider $01, tempo $FA, matching Supersonic_Header (sound/music/96 - Super Sonic.asm)",
+  "rom": {
+   "path": "/home/farrell/code/projects/OpenGGF/Sonic The Hedgehog 2 (W) (REV01) [!].gen (read in place, never copied or linked)",
+   "bytes": 1048576,
+   "sha1": "8BCA5DCEF1AF3E00098666FD892DC1C2A76333F9",
+   "crc32": "7B905383"
+  },
+  "command": "env -u DISPLAY -u WAYLAND_DISPLAY -u LD_LIBRARY_PATH java -cp \"target/classes:$(cat target/cp.txt)\" com.openggf.tools.audio.FmSfxRenderTool --game s2 --rom <S2 REV01> --music 93 --rate 48000 --max-seconds 90 --out <revision>/audio/music --paced",
+  "tool": {
+   "path": "src/main/java/com/openggf/tools/audio/FmSfxRenderTool.java at d823ce643",
+   "sha256": "f074bba64f44c66bcd90230912e0af97949f8416b193e1cbbf8f516e3ce1afd8"
+  },
+  "tool_report": "s2-music-93: 4320000 frames (90.000 s) paced, dac-enables=1, complete=false; FM core: accurate (48000.0 Hz)",
+  "output": {
+   "path": "audio/music/s2-music-93-paced.wav",
+   "bytes": 17280044,
+   "sha256": "2fa5b72f9ddfbd816de78849e06a11a4a851e81e136aad4d59b68d2c426c3830",
+   "note": "PCM sample-identical to the first 90 s of the original production's unused candidate audio/candidates/s2-music-93-paced.wav"
+  },
+  "measured": "146.48 BPM (24 ticks a beat at tempo $FA = 24.576 frames a beat); first onset at sample 306 (frame 0); 12-bar loop INTRO 2 / A 4 / B 4 / TURN 2 (bar RMS repeats with period 12; B quietest, TURN loudest); stab at frame 2555, next onset frame 2567, bed cut at frame 2566 (16 ms fade)",
+  "used": "samples 0 to 2566 frames (42.767 s), gain 0.75, one bed, no edit inside it"
+ },
+ "compositor": {
+  "path": "tools/media/promo_kit.py at d823ce643 (last change c7d66bbf9)",
+  "sha256": "8a3d15cfaee03bb32dbcb2c7a4dac9dcd663eb91b7e5491c59df1fea4a7002fa",
+  "python": "Python 3.14 venv in the worktree's target/promo-venv with numpy 2.5.4, Pillow 13.0.0 (removed after delivery)"
+ },
+ "backend": "No engine capture in this revision (existing native frames reused). Music render: headless JVM, DISPLAY/WAYLAND_DISPLAY/LD_LIBRARY_PATH unset, no audio device; no network.",
+ "scores": {
+  "source": "docs/architecture/audits/2026-10-27-menu-design-review.md at d823ce643 (values unchanged from the original edit)",
+  "kind": "subjective capture-based design judgments (1-10), not usability, timing or performance measurements"
+ }
+}

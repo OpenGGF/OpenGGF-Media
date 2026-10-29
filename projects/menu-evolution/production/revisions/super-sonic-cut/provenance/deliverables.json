@@ -1,0 +1,28 @@
+{
+ "film": {
+  "path": "final/menu-evolution-super-sonic-cut.mp4",
+  "bytes": 15734076,
+  "sha256": "01ed917e91ef5aa6020bef36091115186cfac64f1479d9161bc2293a99731708",
+  "duration_s": 43.2,
+  "frames": 2592,
+  "video": "H.264 High L5.0 yuv420p BT.709 tv, 1920x1080, 60/1, crf 14 slow tune animation",
+  "audio": "AAC LC 256 kbit/s 48 kHz stereo; mix gain -1.3 dB; integrated -15.0 LUFS, true peak -1.6 dBTP",
+  "chapters": 8
+ },
+ "master": {
+  "path": "final/menu-evolution-super-sonic-cut-master.mkv",
+  "bytes": 584724930,
+  "sha256": "938d1782f7c23ae316d322cf2a989d6ff3c40f70d2c5c7b14179e71cdd5b418a",
+  "duration_s": 43.2,
+  "frames": 2592,
+  "video": "FFV1 level 3 bgr0 (lossless RGB), 1920x1080, 60/1",
+  "audio": "PCM s16le 48 kHz stereo, the mix before the AAC gain",
+  "chapters": 8
+ },
+ "supersedes_on_acceptance": {
+  "path": "../../final/menu-evolution-promo.mp4",
+  "sha256": "4fbed1e64eb9f3e718c8ab0e239df88c2d5db7d2f41ad29b485e18c84f45afc3",
+  "note": "the 87.333 s r3b film and its master stay byte-identical in the original root"
+ },
+ "final_edit": "sources/promo/edit.py"
+}

@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**32 production groups · 7,740 preserved source files · approximately 179 GiB of
+**32 production groups · 7,753 preserved source files · approximately 179 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -42,7 +42,7 @@ this repository contains their production sources and location catalog.
 | [Multiplayer Time Attack promo](projects/time-attack-promo/) | 231 | 205 |
 | [Sonic Echoes promo](projects/sonic-echoes-promo/) | 61 | 66 |
 | [Day Off: Stageplay introduction promo](projects/stageplay-day-off-promo/) | 116 | 71 |
-| [ROAD TO 9: menu evolution promo](projects/menu-evolution/) | 109 | 63 |
+| [ROAD TO 9: menu evolution promo and Super Sonic cut](projects/menu-evolution/) | 122 | 67 |
 | [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
 
 The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later
@@ -58,7 +58,7 @@ The multiplayer Time Attack promo retains its finished 81.817-second edit, every
 superseded edit revision and the capture records behind each review round.
 Day Off retains the approved v2 film's edit, editor capture drivers and scenes beside
 its preserved first version. The Road to 9 menu-evolution promo retains authentic moving
-0.5, pre-redesign and delivered-menu captures, its edit and subjective design-review score sources.
+0.5, pre-redesign and delivered-menu captures, its edit and subjective design-review score sources, and its half-length Super Sonic recut.
 
 ## Use the archive
 

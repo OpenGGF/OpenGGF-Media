@@ -1,5 +1,34 @@
 # ROAD TO 9: OpenGGF menu evolution promo
 
+## Latest delivery: the Super Sonic cut (2026-10-29)
+
+The half-length recut [`production/revisions/super-sonic-cut/`](production/revisions/super-sonic-cut/README.md)
+answers the user's review of the first film, "bit slow and repetitive. Do it against the S2 super
+sonic music, half the length". Its external film `revisions/super-sonic-cut/final/menu-evolution-super-sonic-cut.mp4`
+is **43.200 seconds** (2,592 frames), 1920x1080 at 60 fps, H.264 with AAC stereo 48 kHz
+(integrated -15.0 LUFS, true peak -1.6 dBTP) and 8 chapters, with a lossless FFV1 + PCM master.
+Made by **Claude Opus 5.5 (xhigh)**; delivered for review, so the user's acceptance is not recorded here.
+
+It is cut on Sonic 2's Super Sonic music (engine `0x93`, native `$96` MusID_SuperSonic, ROM
+`$0FCBBC` of canonical S2 REV01, rendered with `FmSfxRenderTool --paced`), one bed from its first
+sample to the G-major stab ending its third loop's intro. It reuses the first film's authentic
+captures unchanged. The round-0 grid, the long prologue and the fourth rep are gone. Three matched
+comparisons remain, and each climbs differently: stepwise on a divider, side by side at 3x, or
+in one spinning sweep. Then come 27 / 27 on the track's cadence and a Giant Ring iris into the
+delivered hub. Sound was checked by measurement only, and motion through consecutive-frame strips.
+
+- [Revision README](production/revisions/super-sonic-cut/README.md): what changed and why, music identity,
+  viewer pass, checks and limits.
+- [Edit](production/revisions/super-sonic-cut/sources/promo/edit.py): brief and beat sheet in its docstring;
+  chapters, per-shot source intervals and UI cues beside it.
+- [External assets of the recut](external-assets.super-sonic-cut.json): film, master, the music render and
+  review images, hashed and not uploaded.
+
+## First delivery (87.333 s, retained)
+
+The sections below describe the first film, which the user found "bit slow and repetitive". It
+stays byte-identical with its edit, captures and records; the recut reads those captures in place.
+
 Finished production, 2026-10-29. The external film `final/menu-evolution-promo.mp4` is **87.333 seconds**,
 1920x1080 at 60 fps, H.264 with AAC stereo 48 kHz (integrated -14.2 LUFS, true peak -1.4 dBTP) and
 10 chapters; a lossless FFV1 + PCM master sits beside it. Made by **Claude Opus 5.5 (xhigh)** for the

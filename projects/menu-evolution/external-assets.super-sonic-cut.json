@@ -1,0 +1,41 @@
+{
+ "project": "menu-evolution",
+ "revision": "super-sonic-cut",
+ "snapshot_date": "2026-10-29",
+ "notes": "External bytes of the Super Sonic cut, hashed at archive time, not uploaded. Its native frame sequences, SFX renders, UI tones and fonts are the first delivery's, already catalogued in external-assets.json. Render work (build/), the worktree build, the Python venv, logs and ROMs are excluded.",
+ "sequence_hash": "inventory_sha256 is SHA-256 over sorted PNG basenames; for each file append UTF-8 basename + NUL + decimal byte length + NUL + lowercase SHA-256 + LF.",
+ "assets": [
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/super-sonic-cut/final/menu-evolution-super-sonic-cut.mp4",
+   "kind": "finished film (revision super-sonic-cut)",
+   "bytes": 15734076,
+   "files": 1,
+   "sha256": "01ed917e91ef5aa6020bef36091115186cfac64f1479d9161bc2293a99731708"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/super-sonic-cut/final/menu-evolution-super-sonic-cut-master.mkv",
+   "kind": "lossless master (FFV1 + PCM, revision super-sonic-cut)",
+   "bytes": 584724930,
+   "files": 1,
+   "sha256": "938d1782f7c23ae316d322cf2a989d6ff3c40f70d2c5c7b14179e71cdd5b418a"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/super-sonic-cut/audio/music/s2-music-93-paced.wav",
+   "kind": "audio render (ROM-derived music, S2 Super Sonic, engine 0x93)",
+   "bytes": 17280044,
+   "files": 1,
+   "sha256": "2fa5b72f9ddfbd816de78849e06a11a4a851e81e136aad4d59b68d2c426c3830"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/super-sonic-cut/review/*.png",
+   "kind": "review images (footage-derived)",
+   "bytes": 4548053,
+   "files": 11,
+   "inventory_sha256": "8e119d01858030bb80a9822efbc7165e5add764f8e83061750cb8bd8e0fae9a9"
+  }
+ ]
+}

@@ -15072,3 +15072,7 @@ menu-evolution,menu-evolution/fonts,FiraSansCompressed-HeavyItalic.ttf,"font (SI
 menu-evolution,menu-evolution/fonts,FiraSansCondensed-BoldItalic.ttf,"font (SIL OFL, system package ttf-fira-sans 4.301)",534712,1
 menu-evolution,menu-evolution/fonts,FiraSans-Bold.ttf,"font (SIL OFL, system package ttf-fira-sans 4.301)",521312,1
 menu-evolution,menu-evolution/fonts,FiraSans-BoldItalic.ttf,"font (SIL OFL, system package ttf-fira-sans 4.301)",525912,1
+menu-evolution,menu-evolution/production,revisions/super-sonic-cut/final/menu-evolution-super-sonic-cut.mp4,finished film (revision super-sonic-cut),15734076,1
+menu-evolution,menu-evolution/production,revisions/super-sonic-cut/final/menu-evolution-super-sonic-cut-master.mkv,"lossless master (FFV1 + PCM, revision super-sonic-cut)",584724930,1
+menu-evolution,menu-evolution/production,revisions/super-sonic-cut/audio/music/s2-music-93-paced.wav,"audio render (ROM-derived music, S2 Super Sonic, engine 0x93)",17280044,1
+menu-evolution,menu-evolution/production,revisions/super-sonic-cut/review/*.png,review images (footage-derived),4548053,11

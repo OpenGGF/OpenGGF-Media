@@ -61959,9 +61959,9 @@
   {
     "path": "projects/menu-evolution/README.md",
     "root": "menu-evolution/production",
-    "original_path": "archive-payload/projects/menu-evolution/README.md",
-    "bytes": 2603,
-    "sha256": "2d3a92cf58b27886b26ffba9948f5c5b02852b4e484222e03867d143964f01a3",
+    "original_path": "revisions/super-sonic-cut/archive-payload/projects/menu-evolution/README.md",
+    "bytes": 4646,
+    "sha256": "9c30dfdb4b38582a2faa4c53eb054780f20d48234454cf885ba059d221d7d23d",
     "snapshot": "generated index"
   },
   {
@@ -61970,6 +61970,110 @@
     "original_path": "archive-payload/projects/menu-evolution/external-assets.json",
     "bytes": 18087,
     "sha256": "840b929861de602d3ed19c46c0fc089ce9f0aa359aa6331bec6ddf4d043706e3",
+    "snapshot": "generated index"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/README.md",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/README.md",
+    "bytes": 9234,
+    "sha256": "f4847f30e1e23b59eecf3ff1ba655577bc7153b22c829b01eb0fe502bd7d3204",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/provenance/deliverables.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/provenance/deliverables.json",
+    "bytes": 1092,
+    "sha256": "02541d359ee1d68c1486c15d7ec361749a22f97401c1f70beb070e94c074133d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/provenance/source-map.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/provenance/source-map.json",
+    "bytes": 5577,
+    "sha256": "a5bff4ecc62c9967f40e27d666fd09bed813aa5d749b5ecfb38207d14b304688",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/archive/make_revision_payload.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/archive/make_revision_payload.py",
+    "bytes": 13009,
+    "sha256": "753dc764bde309b241b941239cd5f4d9c1c924e60433fce6e4a97d188dc57abe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/audio/HeaderProbe.java",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/audio/HeaderProbe.java",
+    "bytes": 1283,
+    "sha256": "591c052d379b48cc47ea6ffbf16d6d1ef8cc084f0e9d6639d2a8783651e67f34",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/promo/changes.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/promo/changes.py",
+    "bytes": 1243,
+    "sha256": "5924a7c7bfcc9c0751c3cc470b4e3ff80864a9a73a06d1d6bf74553b68df485f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/promo/chapters.txt",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/promo/chapters.txt",
+    "bytes": 1038,
+    "sha256": "87871d6fdf52b511a642d689d730990b7bf3de5473696d0f5fd0b8471aabbf10",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/promo/cues.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/promo/cues.json",
+    "bytes": 2367,
+    "sha256": "643f3132065b893c0c9894ac63a5934f4b7c22643da680a339dc2e88baae66d9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/promo/edit.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/promo/edit.py",
+    "bytes": 47169,
+    "sha256": "7bf21f1fe41fd1bc1a4b787901e8d5788e8439f41ce3afcc9d203e720f2f8a67",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/promo/edl.csv",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/promo/edl.csv",
+    "bytes": 2019,
+    "sha256": "97d48dc33d7e5f693b64a7253e5f4f3d826bba59ecd6ec8d9a46ecce95d8e36b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/promo/pairgrid.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/promo/pairgrid.py",
+    "bytes": 931,
+    "sha256": "575d02a9128f981a910aab0d1464d11eb343cf73f3912e5ef4ab3cd42ea8721f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/super-sonic-cut/sources/promo/review.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/sources/promo/review.py",
+    "bytes": 9027,
+    "sha256": "a584492ed9b38c7762e3d3ccb6877bad074cdd74bd61c057a20b0ea2400858d9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/external-assets.super-sonic-cut.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/super-sonic-cut/archive-payload/projects/menu-evolution/external-assets.super-sonic-cut.json",
+    "bytes": 1809,
+    "sha256": "8e6c5bc9a5837a151d4942c6db8fba07a28762651cc83f7ec753d3137e52c2a9",
     "snapshot": "generated index"
   }
 ]

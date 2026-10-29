@@ -1,0 +1,14 @@
+start_s,end_s,start_frame,end_frame,chapter,layout,sources
+0.000,3.283,0,197,"Cold open: the in-game shader picker, before and now","centred pane 4x, divider sweep b4-6",pre+new/shader take frames 106-302
+3.283,6.550,197,393,Title: Road to 9,"centred pane 4x, dimmed under the title",new/shader take frames 303-498
+6.550,8.200,393,492,"Where it started: OpenGGF 0.5, then the 0.7 hub before the redesign",centred pane 4x (0.5 silent),v05/v05-title take frames 50-148
+8.200,9.833,492,590,"Where it started: OpenGGF 0.5, then the 0.7 hub before the redesign",centred pane 4x,pre/hub take frames 0-97
+9.833,13.100,590,786,"Libraries: Mod manager, 3.5 to 9",montage pane 4x + counter column; divider steps b28-32,pre+new/mods take frames 52-247
+13.100,16.383,786,983,"Libraries: Mod manager, 3.5 to 9",montage pane 4x + counter column; now (jump cut),new/mods take frames 421-617
+16.383,19.667,983,1180,"Pickers: Locate ROM, 4 to 9, side by side",side by side 3x (before | now),pre+new/locate take frames 20-216
+19.667,22.933,1180,1376,"Pickers: Locate ROM, 4 to 9, side by side","side by side 3x (before | now), jump cut",pre+new/locate take frames 320-515
+22.933,26.217,1376,1573,"Settings: Display tab, 5.5 to 9",montage pane 4x + counter column; sweep b60-62,pre+new/settings take frames 120-316
+26.217,27.850,1573,1671,"Settings: Display tab, 5.5 to 9",montage pane 4x; now (jump cut),new/settings take frames 690-787
+27.850,29.483,1671,1769,"Settings: Display tab, 5.5 to 9",montage pane 4x; now (jump cut),new/settings take frames 795-892
+29.483,37.667,1769,2260,Twenty-seven of twenty-seven menu families at 9,"wall of six cells 2x (3x2), seen until the iris completes","new/hub take frames 160-650, new/settings take frames 367-857, new/mods take frames 131-621, new/locate take frames 0-490, new/shader take frames 40-530, new/dialogs take frames 26-516"
+37.267,43.200,2236,2592,"The delivered hub, end card","centred pane 4x, iris in; blurred under the end card from b95",new/hub take frames 0-355

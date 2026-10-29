@@ -1,0 +1,191 @@
+[
+{
+"frame": 518,
+"era": "pre",
+"take": "hub",
+"take_frame": 26,
+"cue": "NAVIGATE"
+},
+{
+"frame": 571,
+"era": "pre",
+"take": "hub",
+"take_frame": 79,
+"cue": "NAVIGATE"
+},
+{
+"frame": 590,
+"era": "pre",
+"take": "mods",
+"take_frame": 52,
+"cue": "CONFIRM"
+},
+{
+"frame": 643,
+"era": "pre",
+"take": "mods",
+"take_frame": 105,
+"cue": "NAVIGATE"
+},
+{
+"frame": 669,
+"era": "pre",
+"take": "mods",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 696,
+"era": "new",
+"take": "mods",
+"take_frame": 158,
+"cue": "CONFIRM"
+},
+{
+"frame": 811,
+"era": "new",
+"take": "mods",
+"take_frame": 446,
+"cue": "CONFIRM"
+},
+{
+"frame": 864,
+"era": "new",
+"take": "mods",
+"take_frame": 499,
+"cue": "NAVIGATE"
+},
+{
+"frame": 916,
+"era": "new",
+"take": "mods",
+"take_frame": 551,
+"cue": "CONFIRM"
+},
+{
+"frame": 989,
+"era": "pre",
+"take": "locate",
+"take_frame": 26,
+"cue": "CONFIRM"
+},
+{
+"frame": 1042,
+"era": "pre",
+"take": "locate",
+"take_frame": 79,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1068,
+"era": "pre",
+"take": "locate",
+"take_frame": 105,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1094,
+"era": "pre",
+"take": "locate",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1121,
+"era": "pre",
+"take": "locate",
+"take_frame": 158,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1147,
+"era": "pre",
+"take": "locate",
+"take_frame": 184,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1173,
+"era": "pre",
+"take": "locate",
+"take_frame": 210,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1201,
+"era": "pre",
+"take": "locate",
+"take_frame": 341,
+"cue": "CONFIRM"
+},
+{
+"frame": 1202,
+"era": "pre",
+"take": "locate",
+"take_frame": 342,
+"cue": "CANCEL"
+},
+{
+"frame": 1387,
+"era": "pre",
+"take": "settings",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1414,
+"era": "pre",
+"take": "settings",
+"take_frame": 158,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1440,
+"era": "pre",
+"take": "settings",
+"take_frame": 184,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1466,
+"era": "pre",
+"take": "settings",
+"take_frame": 210,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1518,
+"era": "new",
+"take": "settings",
+"take_frame": 262,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1592,
+"era": "new",
+"take": "settings",
+"take_frame": 709,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1690,
+"era": "new",
+"take": "settings",
+"take_frame": 814,
+"cue": "CONFIRM"
+},
+{
+"frame": 2262,
+"era": "new",
+"take": "hub",
+"take_frame": 26,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2315,
+"era": "new",
+"take": "hub",
+"take_frame": 79,
+"cue": "NAVIGATE"
+}
+]
