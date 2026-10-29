@@ -61099,5 +61099,877 @@
     "bytes": 185,
     "sha256": "5020c2faff35e356c64f7e2d7ee9a8574daad0b1484780e8eeec8108d08c6a3a",
     "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/README.md",
+    "root": "menu-evolution/production",
+    "original_path": "README.md",
+    "bytes": 9611,
+    "sha256": "389f248e3316b0740b93682e7fcf4268da8ab732896fb54e04f274dd21c0f81d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/dialogs/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/dialogs/events.csv",
+    "bytes": 482,
+    "sha256": "65004bd7c23bebe5cbf67d6a781d39d79e3456575085f141dda009954f03eafa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/dialogs/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/dialogs/provenance.json",
+    "bytes": 1286,
+    "sha256": "98dd3cac1a8b430421683702b17af05241aae3762f2b70d47381458c4871814d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/dialogs/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/dialogs/take.txt",
+    "bytes": 182,
+    "sha256": "08f12d0d3efecfd85b62a696a44be22095bfdec4a5cc8942237679b648c5a81a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-legal/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-legal/events.csv",
+    "bytes": 52,
+    "sha256": "3167ff618a53276ef162d498f066bd8ffb2e8beec889404061d5eaec0cf4b03a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-legal/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-legal/provenance.json",
+    "bytes": 1286,
+    "sha256": "e261f626b44cef338ec4bb0452f2d001208287607448e13c3f31b662d20e6179",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-legal/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-legal/take.txt",
+    "bytes": 183,
+    "sha256": "e7bcdf87a7723bf0c1431b5df1d6c2c5dbf7fc6418a49baea8d2abff52ae0143",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-locate/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-locate/events.csv",
+    "bytes": 518,
+    "sha256": "76dd353e120e1def49fa98900911ad486b82111744f3f6ef87e50610b1e65c3d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-locate/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-locate/provenance.json",
+    "bytes": 1289,
+    "sha256": "59489e0a4bf38ef4b792437d4ccb35f8b21353dce1b6283ad318c0a65240c9f9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-locate/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-locate/take.txt",
+    "bytes": 194,
+    "sha256": "6cf7fbf968a9f711d7d9445aeafc194e70f686bd823e84661f111c15678abf20",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-mods/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-mods/events.csv",
+    "bytes": 498,
+    "sha256": "f182c50ce635a2f91adee51d5e8225ab8b91ad356c9b88808f88472f6bba1441",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-mods/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-mods/provenance.json",
+    "bytes": 1283,
+    "sha256": "312bab58c226789847a7ee3e0335d6d44d7e28f6c434cb4524c049d0a5836b8f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-mods/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-mods/take.txt",
+    "bytes": 182,
+    "sha256": "fccef57938dc9c4c727e69f4a05d19597ed1925fe9c90c8a732382acbf97d1a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-settings/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-settings/events.csv",
+    "bytes": 794,
+    "sha256": "868f0ccaee3d91c9b87585a7f9ed08a4e39ddf1d9e8d8238a59d625e3c59b48f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-settings/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-settings/provenance.json",
+    "bytes": 1295,
+    "sha256": "4b359ee91e8b48bd8bf08a4bcfff39c3bcabba6fdda9cd46bc7909791d128607",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-settings/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-settings/take.txt",
+    "bytes": 185,
+    "sha256": "3443174abba078890b173074540e063ad92b9bb468fb380060e221c0595fb467",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-shader/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-shader/events.csv",
+    "bytes": 258,
+    "sha256": "bbce552c64a05459fddc4bccc810dfd50a48a2f9f8e5c35ee41982887638011a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-shader/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-shader/provenance.json",
+    "bytes": 1293,
+    "sha256": "5ee4673dc6b3f37d24a917b5e08d807aadf0326fc573a6a5d5b2bf1dc2004aa8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/explore-shader/state.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/explore-shader/state.csv",
+    "bytes": 11571,
+    "sha256": "f8c75580c196e3280c665cdbfee651e4c42ae03b0e3bd5e916f6363fe552b9b2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/hub/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/hub/events.csv",
+    "bytes": 706,
+    "sha256": "a3caf778a7b92b1ac10a121aa470d4ce0a58c83a16c76a09f49c9c6f5b6b98d9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/hub/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/hub/provenance.json",
+    "bytes": 1274,
+    "sha256": "019e717fc6dc88097515a306357d1e0ae3b9ee487304391e460899379d71189e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/hub/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/hub/take.txt",
+    "bytes": 178,
+    "sha256": "070de1d5b08e2adf54afa3c19f80a546e14da79be4fdd056a74073d50b981dfa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/legal/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/legal/events.csv",
+    "bytes": 18,
+    "sha256": "1e1662f80ceadc56432417e6fdf88df76fc8920130effe64d1c65b2b38cd4386",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/legal/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/legal/provenance.json",
+    "bytes": 1280,
+    "sha256": "7163cd7cbbbf302cf4038c2ffe29a5421fdcea093219c159bff6f24313c46703",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/legal/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/legal/take.txt",
+    "bytes": 181,
+    "sha256": "73a7ccd94e30034a964d4544637caecc860bbf63e6fa043a70f7570a37a10975",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/locate/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/locate/events.csv",
+    "bytes": 504,
+    "sha256": "881c9809cad1d3772c16f5daa2cf219f83de9e7ab7182e5e84ce4d25b37f13df",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/locate/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/locate/provenance.json",
+    "bytes": 1283,
+    "sha256": "333aa6b4d5bf56cca4be8fc04e6b45b599cd1fb6ae6e2b698773fdb345fbcf94",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/locate/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/locate/take.txt",
+    "bytes": 192,
+    "sha256": "dd87eb889b83c144df38d5651a45be80558528d742635729fcf0f44434317790",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/mods/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/mods/events.csv",
+    "bytes": 447,
+    "sha256": "fb8bf18e4647dae3b887d7035cd2aaf5cebb61e4aaefd45bf5b25a00cce56741",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/mods/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/mods/provenance.json",
+    "bytes": 1277,
+    "sha256": "b80317f0d815d632fe846ef077271be7ec3d7fa55846686fdb94ec422107e643",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/mods/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/mods/take.txt",
+    "bytes": 180,
+    "sha256": "49b4206d8160960475dc4ea4e12867a9d587bd92e82a115d9c688fd0f3f49b35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/settings-new/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/settings-new/events.csv",
+    "bytes": 695,
+    "sha256": "3eeb4a3af789c01cc516084992f608ecef7bd1f47f3aa642d2a21157dbffac5c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/settings-new/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/settings-new/provenance.json",
+    "bytes": 1301,
+    "sha256": "b54d881b59027555108d3da1d75dcad4561cfb281ddfe36e872f04b0dc2ec09d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/settings-new/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/settings-new/take.txt",
+    "bytes": 187,
+    "sha256": "c22f36f1ea0c0ea9a5e143e8f2abe3ab0923d02fd3aac1e6a9abf48b34295eef",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/shader/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/shader/events.csv",
+    "bytes": 258,
+    "sha256": "d0bcf9556b4d6317833580f11afc73f9a508fd9c87f93c061514e9d9346c17a9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/shader/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/shader/provenance.json",
+    "bytes": 1287,
+    "sha256": "a4a2f8c7f3c247f112865fafb19143e359c506e212ce9dc3e4036868285d3ca0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/new/shader/state.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/new/shader/state.csv",
+    "bytes": 17824,
+    "sha256": "95ce1c052c3a0c0fa3bc0c89d427207265d924f9f827bba0757b562f5b76bc1e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/dialogs/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/dialogs/events.csv",
+    "bytes": 482,
+    "sha256": "65004bd7c23bebe5cbf67d6a781d39d79e3456575085f141dda009954f03eafa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/dialogs/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/dialogs/provenance.json",
+    "bytes": 1302,
+    "sha256": "8b5f93c019a38f06429f74fad58d8c8a2c0148f6c094013122ac5f96bd93e964",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/dialogs/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/dialogs/take.txt",
+    "bytes": 182,
+    "sha256": "08f12d0d3efecfd85b62a696a44be22095bfdec4a5cc8942237679b648c5a81a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-legal/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-legal/events.csv",
+    "bytes": 52,
+    "sha256": "3167ff618a53276ef162d498f066bd8ffb2e8beec889404061d5eaec0cf4b03a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-legal/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-legal/provenance.json",
+    "bytes": 1302,
+    "sha256": "1334deb9ba548270957aee2994fed55cdc5b1eb28dfc16a934eda35776ab9276",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-legal/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-legal/take.txt",
+    "bytes": 183,
+    "sha256": "e7bcdf87a7723bf0c1431b5df1d6c2c5dbf7fc6418a49baea8d2abff52ae0143",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-locate/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-locate/events.csv",
+    "bytes": 518,
+    "sha256": "76dd353e120e1def49fa98900911ad486b82111744f3f6ef87e50610b1e65c3d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-locate/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-locate/provenance.json",
+    "bytes": 1305,
+    "sha256": "bea88464fbb2aca5b264ef862ab86e87ab860b5af506d8803c6d4c11fefb3ac9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-locate/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-locate/take.txt",
+    "bytes": 194,
+    "sha256": "6cf7fbf968a9f711d7d9445aeafc194e70f686bd823e84661f111c15678abf20",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-mods/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-mods/events.csv",
+    "bytes": 498,
+    "sha256": "f182c50ce635a2f91adee51d5e8225ab8b91ad356c9b88808f88472f6bba1441",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-mods/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-mods/provenance.json",
+    "bytes": 1299,
+    "sha256": "19d3e85dd870971ae84566074f827e4e9cf4f116cdc785e420d334c17d7c34d8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-mods/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-mods/take.txt",
+    "bytes": 182,
+    "sha256": "fccef57938dc9c4c727e69f4a05d19597ed1925fe9c90c8a732382acbf97d1a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-settings/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-settings/events.csv",
+    "bytes": 794,
+    "sha256": "868f0ccaee3d91c9b87585a7f9ed08a4e39ddf1d9e8d8238a59d625e3c59b48f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-settings/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-settings/provenance.json",
+    "bytes": 1311,
+    "sha256": "d1742c1f54c7c05e55caf802c33e608e9b86fe01ed363bb8a2dbd792a9eddf4a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-settings/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-settings/take.txt",
+    "bytes": 185,
+    "sha256": "3443174abba078890b173074540e063ad92b9bb468fb380060e221c0595fb467",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-shader/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-shader/events.csv",
+    "bytes": 258,
+    "sha256": "bbce552c64a05459fddc4bccc810dfd50a48a2f9f8e5c35ee41982887638011a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-shader/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-shader/provenance.json",
+    "bytes": 1309,
+    "sha256": "f77e1de5e9886d9453d225c5714e8efb341a9dbedf51eee548dac1a012a324b0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/explore-shader/state.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/explore-shader/state.csv",
+    "bytes": 11571,
+    "sha256": "f8c75580c196e3280c665cdbfee651e4c42ae03b0e3bd5e916f6363fe552b9b2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/hub/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/hub/events.csv",
+    "bytes": 706,
+    "sha256": "a3caf778a7b92b1ac10a121aa470d4ce0a58c83a16c76a09f49c9c6f5b6b98d9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/hub/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/hub/provenance.json",
+    "bytes": 1290,
+    "sha256": "b6d61a875191b40f34b014d85d853c4c1dbd4969217fa34e00e9f0448e361a48",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/hub/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/hub/take.txt",
+    "bytes": 178,
+    "sha256": "070de1d5b08e2adf54afa3c19f80a546e14da79be4fdd056a74073d50b981dfa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/legal/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/legal/events.csv",
+    "bytes": 18,
+    "sha256": "1e1662f80ceadc56432417e6fdf88df76fc8920130effe64d1c65b2b38cd4386",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/legal/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/legal/provenance.json",
+    "bytes": 1296,
+    "sha256": "55344534112fb6747c9aacd5c7ed985773491b95a3ae958e9fb76bb654947731",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/legal/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/legal/take.txt",
+    "bytes": 181,
+    "sha256": "73a7ccd94e30034a964d4544637caecc860bbf63e6fa043a70f7570a37a10975",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/locate/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/locate/events.csv",
+    "bytes": 504,
+    "sha256": "881c9809cad1d3772c16f5daa2cf219f83de9e7ab7182e5e84ce4d25b37f13df",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/locate/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/locate/provenance.json",
+    "bytes": 1299,
+    "sha256": "f75b8e9ce0f1c0bb29f1848e6b4223187b58f7b8c1e02c9a92b0eb20192256df",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/locate/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/locate/take.txt",
+    "bytes": 192,
+    "sha256": "dd87eb889b83c144df38d5651a45be80558528d742635729fcf0f44434317790",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/mods/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/mods/events.csv",
+    "bytes": 447,
+    "sha256": "fb8bf18e4647dae3b887d7035cd2aaf5cebb61e4aaefd45bf5b25a00cce56741",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/mods/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/mods/provenance.json",
+    "bytes": 1293,
+    "sha256": "828a9573c2f549574c3effb61b1f211411d7e386e85a16448ca726b652019a67",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/mods/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/mods/take.txt",
+    "bytes": 180,
+    "sha256": "49b4206d8160960475dc4ea4e12867a9d587bd92e82a115d9c688fd0f3f49b35",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/settings-pre/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/settings-pre/events.csv",
+    "bytes": 646,
+    "sha256": "31e6808230be636e0d6fa4cf4c3af43e8c8d5d27a80a6d36633fb91eae4819ca",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/settings-pre/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/settings-pre/provenance.json",
+    "bytes": 1317,
+    "sha256": "415f81d11b3417ab010d346263a730c2557cfb86cf719bfb6721a789deeb92de",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/settings-pre/take.txt",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/settings-pre/take.txt",
+    "bytes": 187,
+    "sha256": "59b33fde5866f6571d5555f88077bfe4f6558594793c4ea8f9d83cdea54a5799",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/shader/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/shader/events.csv",
+    "bytes": 258,
+    "sha256": "d0bcf9556b4d6317833580f11afc73f9a508fd9c87f93c061514e9d9346c17a9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/shader/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/shader/provenance.json",
+    "bytes": 1303,
+    "sha256": "53a751b09534f9432081a865b14dce2016939b8dd86be6405514ce384617b38c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/pre/shader/state.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/pre/shader/state.csv",
+    "bytes": 17824,
+    "sha256": "95ce1c052c3a0c0fa3bc0c89d427207265d924f9f827bba0757b562f5b76bc1e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/v05/v05-title/events.csv",
+    "root": "menu-evolution/production",
+    "original_path": "clips/v05/v05-title/events.csv",
+    "bytes": 134,
+    "sha256": "a3b47f2e9cc7db95644742e04a97cfe1a7d200dab5fd86d5e8246f2fc624dbf1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/clips/v05/v05-title/provenance.json",
+    "root": "menu-evolution/production",
+    "original_path": "clips/v05/v05-title/provenance.json",
+    "bytes": 1308,
+    "sha256": "8b1dfb506d872171d764c42c782393861e03047daa74277af158d2bac8a64f70",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/final/revisions/r1-README.txt",
+    "root": "menu-evolution/production",
+    "original_path": "final/revisions/r1-README.txt",
+    "bytes": 92,
+    "sha256": "e2fa0cb353f53236c97afeb4a471ecc2afcdcaaf1fd74c19ab72f4ae8fdfed4b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/provenance/deliverables.json",
+    "root": "menu-evolution/production",
+    "original_path": "provenance/deliverables.json",
+    "bytes": 1304,
+    "sha256": "a12dbec3129a3571a71157fd2c94bc1121d48812bed5a232f7ddabb4a7d74859",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/provenance/source-map.json",
+    "root": "menu-evolution/production",
+    "original_path": "provenance/source-map.json",
+    "bytes": 5471,
+    "sha256": "2af327a454303a2101cca60a5f1b5064fbd70bd2b76b132489c70d1dfba67554",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/archive/make_payload.py",
+    "root": "menu-evolution/production",
+    "original_path": "sources/archive/make_payload.py",
+    "bytes": 12329,
+    "sha256": "8bba5caae22117fd0a4f402787f98d29ee431d9a9cbf1890fea1d7dd6b5c40c4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/capture.py",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/capture.py",
+    "bytes": 4693,
+    "sha256": "9f87b5f16e63a7e0b545c9405f44f6f075644c7e0520382b4b1567393b3ccbd9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/java/com/openggf/tools/MenuFilmRecorder.java",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/java/com/openggf/tools/MenuFilmRecorder.java",
+    "bytes": 13659,
+    "sha256": "3835ee74d2fc898fa5dcacb946748363aed37c08d0360cd9306a6d0dba158165",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/java/com/openggf/tools/ShaderFilmRecorder.java",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/java/com/openggf/tools/ShaderFilmRecorder.java",
+    "bytes": 9587,
+    "sha256": "a2b85eacfdd823064ae4ac7394d018c23a30669916e8bea166a6506dd1e74821",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/java05/com/openggf/tools/SurfacelessEglContext.java",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/java05/com/openggf/tools/SurfacelessEglContext.java",
+    "bytes": 6955,
+    "sha256": "4a0fc06035f274021b3a71ab03fe43fc77102b5662f61c9ecdc65d03c3f8060f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/java05/com/openggf/tools/V05TitleRecorder.java",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/java05/com/openggf/tools/V05TitleRecorder.java",
+    "bytes": 6576,
+    "sha256": "c1d77c5942ccc6cce4188832423d31131a68ffb10213401fd0470320b25cf5df",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/dialogs.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/dialogs.take",
+    "bytes": 559,
+    "sha256": "a6efa2728bed1ed7025bd9907c090a4da46a9443509a5130f77a59c9a793f303",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/explore-legal.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/explore-legal.take",
+    "bytes": 213,
+    "sha256": "9ae81e8e0f84b8ff2303e4610c22cd39bad3c316e57f9d77f3e253998b6a397f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/explore-locate.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/explore-locate.take",
+    "bytes": 337,
+    "sha256": "c75b1903057de36db32135f4681b6b6c747a133e5a592792435e51417aece333",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/explore-mods.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/explore-mods.take",
+    "bytes": 313,
+    "sha256": "83a7d53b9102630297d32ec4484789168c335b42605464c58d221988161b1d23",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/explore-settings.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/explore-settings.take",
+    "bytes": 372,
+    "sha256": "ae8053fad88272e502c496753ef5191a4b11f412514bd52e5a659599ee8b9e9e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/explore-shader.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/explore-shader.take",
+    "bytes": 229,
+    "sha256": "41d7879f4ad1cc4f54371f07c1d3f90665831c7727e1ffbf59d091b67e758583",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/hub.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/hub.take",
+    "bytes": 663,
+    "sha256": "839e27d888c4a4b7394f7daa8ed79d80006154be5ee3ccee756a425d70378cfc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/legal.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/legal.take",
+    "bytes": 299,
+    "sha256": "adc24a0c21ba0c9bd0a3b9e5f53434f41e1ea5b4d644d04ffc79c11e265b60a3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/locate.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/locate.take",
+    "bytes": 655,
+    "sha256": "a77661a98a11cdabd543cdda41d24b04cbf896214bae4ab699a00a2f4ea83b11",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/mods.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/mods.take",
+    "bytes": 539,
+    "sha256": "b8b321fee881986c8ae8312ba1c55c54905a8561b1505eb6cdd2a915d7fd7804",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/settings-new.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/settings-new.take",
+    "bytes": 698,
+    "sha256": "9e4073368ba35b2e800cd0594073ff63a2314fa0e7e0e6658b2852f220033cbc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/settings-pre.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/settings-pre.take",
+    "bytes": 696,
+    "sha256": "c7d733a2fb9cbf55ed62b2ca304e9e2ab7cb3d1af581b8030c436396179b85b2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/shader.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/shader.take",
+    "bytes": 615,
+    "sha256": "8ca490a45256dd611bd9fa3e4b80203a77170cddb7b45825c2918c15891ef023",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/capture/takes/v05-title.take",
+    "root": "menu-evolution/production",
+    "original_path": "sources/capture/takes/v05-title.take",
+    "bytes": 409,
+    "sha256": "25389ebf7046121ac0b51b1c7e4a2883a85b105aeaae30099ddb6dcb787724d8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/chapters.txt",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/chapters.txt",
+    "bytes": 1010,
+    "sha256": "bfc9fa9acef820ef0d8fafc07990ec345c26a2fb9ee115e40f9605bc271bd7a9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/cues.json",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/cues.json",
+    "bytes": 3980,
+    "sha256": "ee5ddc7ed43abd539214e4940def5876d9a5dd8a669debd5a62a1f34b826321c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/edit.py",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/edit.py",
+    "bytes": 41782,
+    "sha256": "8532975ebb77d1c71bdd9f7117b9b6e4e14be4fab11738e18d516d2770f9f61a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/edl.csv",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/edl.csv",
+    "bytes": 1147,
+    "sha256": "2b69354ac275d282236f70271e3b111936917ed4612d6776c62dfd481bbc7646",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/pairsheet.py",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/pairsheet.py",
+    "bytes": 1068,
+    "sha256": "066cb062442cf210179e80b3f54dedfa55a26bfa88642890899b2e5c49753496",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/review.py",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/review.py",
+    "bytes": 5485,
+    "sha256": "cb8f55e93406c25267e3ce6fff74279d05e36a41e502f7d6dee881587f7be573",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/revisions/edit.r2.py",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/revisions/edit.r2.py",
+    "bytes": 40927,
+    "sha256": "f36b119b2ab2f35143035f31e1bb5d4721dc45d0c3e756ee55d3561ca4e273e3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/revisions/edit.r3.py",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/revisions/edit.r3.py",
+    "bytes": 40950,
+    "sha256": "77ce2df34e308fe55947113851604f35945f408abec40e68f5067a9cda20af46",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/sources/promo/revisions/edit.r3b.py",
+    "root": "menu-evolution/production",
+    "original_path": "sources/promo/revisions/edit.r3b.py",
+    "bytes": 41782,
+    "sha256": "8532975ebb77d1c71bdd9f7117b9b6e4e14be4fab11738e18d516d2770f9f61a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/README.md",
+    "root": "menu-evolution/production",
+    "original_path": "archive-payload/projects/menu-evolution/README.md",
+    "bytes": 2603,
+    "sha256": "2d3a92cf58b27886b26ffba9948f5c5b02852b4e484222e03867d143964f01a3",
+    "snapshot": "generated index"
+  },
+  {
+    "path": "projects/menu-evolution/external-assets.json",
+    "root": "menu-evolution/production",
+    "original_path": "archive-payload/projects/menu-evolution/external-assets.json",
+    "bytes": 18087,
+    "sha256": "840b929861de602d3ed19c46c0fc089ce9f0aa359aa6331bec6ddf4d043706e3",
+    "snapshot": "generated index"
   }
 ]

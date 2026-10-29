@@ -1,0 +1,22 @@
+# Settings rep (delivered rows): same goal as settings-pre; the regrouped list needs 3 rows to reach Automatic window size and 5 to reach Widescreen HUD position.
+# Key presses sit on the bed beat grid inside the take: frame = round(26.25 * beat), held 5 frames.
+# The edit places take beat 0 on a bar line of the Metropolis Zone bed (105 frames per bar).
+setup=hub
+width=320
+preroll=90
+realtime-ms=8
+frames=971
+26 UP   # beat 1
+52 RIGHT   # beat 2
+79 ENTER   # beat 3
+131 DOWN   # beat 5
+158 DOWN   # beat 6
+184 DOWN   # beat 7
+262 RIGHT   # beat 10
+551 DOWN   # beat 21
+578 DOWN   # beat 22
+604 DOWN   # beat 23
+630 DOWN   # beat 24
+656 DOWN   # beat 25
+709 RIGHT   # beat 27
+814 ESC   # beat 31

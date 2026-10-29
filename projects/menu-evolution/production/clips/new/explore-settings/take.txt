@@ -1,0 +1,7 @@
+setup=hub
+width=320
+frames=578
+preroll=90
+realtime-ms=8
+source=/home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029/sources/capture/takes/x-settings.take
+java=25.0.5.0.2

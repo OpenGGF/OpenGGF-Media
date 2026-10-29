@@ -1,0 +1,10 @@
+# OpenGGF 0.5 game select: Sonic 1, Sonic 2, Sonic 3K on beats (0.5 navigation was silent).
+# Key presses sit on the bed beat grid inside the take: frame = round(26.25 * beat), held 5 frames.
+# The edit places take beat 0 on a bar line of the Metropolis Zone bed (105 frames per bar).
+tool=V05TitleRecorder
+preroll=40
+frames=236
+26 LEFT   # beat 1
+79 RIGHT   # beat 3
+131 RIGHT   # beat 5
+184 LEFT   # beat 7

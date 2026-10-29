@@ -1,0 +1,22 @@
+# Hub carousel and button row on beats: S3K, back to S2, S1, S2, S3K, S2, buttons (Setup, Playback/Recordings),
+# back to Start, card, S3K, S2. Used for the pre-redesign prologue, the climax wall and the final hero.
+# Key presses sit on the bed beat grid inside the take: frame = round(26.25 * beat), held 5 frames.
+setup=hub
+width=320
+preroll=90
+realtime-ms=8
+frames=761
+26 RIGHT   # beat 1
+79 LEFT   # beat 3
+131 LEFT   # beat 5
+184 RIGHT   # beat 7
+236 RIGHT   # beat 9
+289 LEFT   # beat 11
+341 DOWN   # beat 13
+394 RIGHT   # beat 15
+446 RIGHT   # beat 17
+499 LEFT   # beat 19
+551 LEFT   # beat 21
+604 UP   # beat 23
+656 RIGHT   # beat 25
+709 LEFT   # beat 27

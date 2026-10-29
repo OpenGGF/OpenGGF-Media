@@ -1,0 +1,8 @@
+# Exploration: first-launch legal notice fade-in, then Enter.
+# Key presses sit on the bed beat grid: frame = round(26.25 * beat), held 5 frames.
+setup=legal
+width=320
+preroll=0
+realtime-ms=0
+frames=472
+368 ENTER

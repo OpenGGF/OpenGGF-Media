@@ -1,0 +1,317 @@
+[
+{
+"frame": 892,
+"era": "pre",
+"take": "hub",
+"take_frame": 26,
+"cue": "NAVIGATE"
+},
+{
+"frame": 945,
+"era": "pre",
+"take": "hub",
+"take_frame": 79,
+"cue": "NAVIGATE"
+},
+{
+"frame": 997,
+"era": "pre",
+"take": "hub",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1050,
+"era": "pre",
+"take": "hub",
+"take_frame": 184,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1522,
+"era": "pre",
+"take": "mods",
+"take_frame": 105,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1548,
+"era": "pre",
+"take": "mods",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1575,
+"era": "pre",
+"take": "mods",
+"take_frame": 158,
+"cue": "CONFIRM"
+},
+{
+"frame": 1863,
+"era": "new",
+"take": "mods",
+"take_frame": 446,
+"cue": "CONFIRM"
+},
+{
+"frame": 1916,
+"era": "new",
+"take": "mods",
+"take_frame": 499,
+"cue": "NAVIGATE"
+},
+{
+"frame": 1968,
+"era": "new",
+"take": "mods",
+"take_frame": 551,
+"cue": "CONFIRM"
+},
+{
+"frame": 2099,
+"era": "new",
+"take": "mods",
+"take_frame": 682,
+"cue": "CANCEL"
+},
+{
+"frame": 2152,
+"era": "pre",
+"take": "settings",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2179,
+"era": "pre",
+"take": "settings",
+"take_frame": 158,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2205,
+"era": "pre",
+"take": "settings",
+"take_frame": 184,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2231,
+"era": "pre",
+"take": "settings",
+"take_frame": 210,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2283,
+"era": "pre",
+"take": "settings",
+"take_frame": 262,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2572,
+"era": "new",
+"take": "settings",
+"take_frame": 551,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2599,
+"era": "new",
+"take": "settings",
+"take_frame": 578,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2625,
+"era": "new",
+"take": "settings",
+"take_frame": 604,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2651,
+"era": "new",
+"take": "settings",
+"take_frame": 630,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2677,
+"era": "new",
+"take": "settings",
+"take_frame": 656,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2730,
+"era": "new",
+"take": "settings",
+"take_frame": 709,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2835,
+"era": "new",
+"take": "settings",
+"take_frame": 814,
+"cue": "CONFIRM"
+},
+{
+"frame": 2992,
+"era": "pre",
+"take": "locate",
+"take_frame": 26,
+"cue": "CONFIRM"
+},
+{
+"frame": 3045,
+"era": "pre",
+"take": "locate",
+"take_frame": 79,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3071,
+"era": "pre",
+"take": "locate",
+"take_frame": 105,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3097,
+"era": "pre",
+"take": "locate",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3124,
+"era": "pre",
+"take": "locate",
+"take_frame": 158,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3150,
+"era": "pre",
+"take": "locate",
+"take_frame": 184,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3176,
+"era": "pre",
+"take": "locate",
+"take_frame": 210,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3202,
+"era": "pre",
+"take": "locate",
+"take_frame": 236,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3307,
+"era": "new",
+"take": "locate",
+"take_frame": 341,
+"cue": "CONFIRM"
+},
+{
+"frame": 3308,
+"era": "new",
+"take": "locate",
+"take_frame": 342,
+"cue": "CANCEL"
+},
+{
+"frame": 3622,
+"era": "pre",
+"take": "dialogs",
+"take_frame": 26,
+"cue": "CONFIRM"
+},
+{
+"frame": 3727,
+"era": "pre",
+"take": "dialogs",
+"take_frame": 131,
+"cue": "CANCEL"
+},
+{
+"frame": 3832,
+"era": "pre",
+"take": "dialogs",
+"take_frame": 236,
+"cue": "CONFIRM"
+},
+{
+"frame": 3885,
+"era": "pre",
+"take": "dialogs",
+"take_frame": 289,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3937,
+"era": "pre",
+"take": "dialogs",
+"take_frame": 341,
+"cue": "NAVIGATE"
+},
+{
+"frame": 3990,
+"era": "new",
+"take": "dialogs",
+"take_frame": 394,
+"cue": "CANCEL"
+},
+{
+"frame": 4042,
+"era": "new",
+"take": "dialogs",
+"take_frame": 446,
+"cue": "CONFIRM"
+},
+{
+"frame": 4095,
+"era": "new",
+"take": "dialogs",
+"take_frame": 499,
+"cue": "NAVIGATE"
+},
+{
+"frame": 4121,
+"era": "new",
+"take": "dialogs",
+"take_frame": 525,
+"cue": "NAVIGATE"
+},
+{
+"frame": 4200,
+"era": "new",
+"take": "dialogs",
+"take_frame": 604,
+"cue": "CANCEL"
+},
+{
+"frame": 4846,
+"era": "new",
+"take": "hub",
+"take_frame": 26,
+"cue": "NAVIGATE"
+},
+{
+"frame": 4899,
+"era": "new",
+"take": "hub",
+"take_frame": 79,
+"cue": "NAVIGATE"
+}
+]

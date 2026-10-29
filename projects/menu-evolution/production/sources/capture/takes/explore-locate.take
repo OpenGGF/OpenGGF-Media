@@ -1,0 +1,17 @@
+# Exploration: missing Sonic 2 ROM, Start opens the locator, scroll, choose a placeholder file.
+# Key presses sit on the bed beat grid: frame = round(26.25 * beat), held 5 frames.
+setup=hub-missing-s2
+width=320
+preroll=90
+realtime-ms=8
+frames=472
+26 ENTER
+105 DOWN
+131 DOWN
+158 DOWN
+184 DOWN
+210 DOWN
+236 DOWN
+262 DOWN
+315 ENTER
+420 ESC

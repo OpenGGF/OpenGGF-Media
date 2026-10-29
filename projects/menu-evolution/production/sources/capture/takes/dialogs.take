@@ -1,0 +1,18 @@
+# Hub and dialogs rep: F1 help, back, Esc quit prompt, focus quit, back to stay, keep playing, Tab Game Setup.
+# Key presses sit on the bed beat grid inside the take: frame = round(26.25 * beat), held 5 frames.
+# The edit places take beat 0 on a bar line of the Metropolis Zone bed (105 frames per bar).
+setup=hub
+width=320
+preroll=90
+realtime-ms=8
+frames=630
+26 F1   # beat 1
+131 ESC   # beat 5
+236 ESC   # beat 9
+289 DOWN   # beat 11
+341 UP   # beat 13
+394 ENTER   # beat 15
+446 TAB   # beat 17
+499 DOWN   # beat 19
+525 DOWN   # beat 20
+604 ESC   # beat 23

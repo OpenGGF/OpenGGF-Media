@@ -1,0 +1,110 @@
+{
+ "eras": {
+  "v05": {
+   "commit": "77c6364cee5ceb7c16ade97c3117b864044a3cb2",
+   "ref": "tag v0.5.20260411 (2026-04-11 release)",
+   "build": "git archive export under the producer worktree target/eras/v05; mvn -Dmse=off -q -DskipTests compile dependency:build-classpath -Dmdep.outputFile=target/cp.txt (JDK 25, release 21)",
+   "recorder": "sources/capture/java05 (V05TitleRecorder + verbatim copy of d823ce643 SurfacelessEglContext, context creation only)",
+   "compat": "0.5 has no display-free GL owner and sets its projection from a running Engine; the recorder supplies EGL and hands the same 320x224 ortho matrix to the screen renderer by reflection. Screen, art, clouds (random per run), font and colours are 0.5 own. Navigation sounds were TODO stubs (silent)."
+  },
+  "pre": {
+   "commit": "2f9ca84b18c8bae45a298348676e28d0a91a0798",
+   "ref": "develop 2026-10-27 23:52 UTC, the exact pre-redesign comparison baseline",
+   "note": "No src/main difference from 9a796ec60f, the design review round-0 base, so its menus are the ones scored in round 0.",
+   "build": "git archive export under target/eras/pre; mvn -Dmse=off -q -DskipTests compile dependency:build-classpath",
+   "recorder": "sources/capture/java (MenuFilmRecorder, ShaderFilmRecorder), compiled unchanged against this tree"
+  },
+  "new": {
+   "commit": "d823ce643d2acd23e9024aafa55b4f90211421ff",
+   "ref": "feature/ai-menu-design-review delivered menus, 2026-10-29 00:37 UTC (producer worktree, clean)",
+   "build": "python3 tools/testing/maven_queue.py -Dmse=off -q -DskipTests package; dependency:build-classpath -Dmdep.outputFile=target/cp.txt",
+   "recorder": "sources/capture/java, same sources as pre"
+  },
+  "not_used": {
+   "4bed3bc063caff619a78eeff426fcead354b08c9": "first redesign capture source (not final); not filmed"
+  }
+ },
+ "roms": {
+  "location": "/home/farrell/code/projects/OpenGGF (originals read in place by absolute path; never copied, linked or renamed)",
+  "files": {
+   "Sonic The Hedgehog (W) (REV01) [!].gen": {
+    "bytes": 524288,
+    "sha1": "69E102855D4389C3FD1A8F3DC7D193F8EEE5FE5B",
+    "crc32": "AFE05EEE"
+   },
+   "Sonic The Hedgehog 2 (W) (REV01) [!].gen": {
+    "bytes": 1048576,
+    "sha1": "8BCA5DCEF1AF3E00098666FD892DC1C2A76333F9",
+    "crc32": "7B905383"
+   },
+   "Sonic and Knuckles & Sonic 3 (W) [!].gen": {
+    "bytes": 4194304,
+    "sha1": "CFBF98C36C776677290A872547AC47C53D2761D6",
+    "crc32": "63522553"
+   }
+  },
+  "notes": "S1/S2 REV01 canonical. The S3K image is the non-canonical local dump: it only supplies the hub card logo and is UI evidence, no parity claim. All gameplay (EHZ1) and all music/SFX come from canonical S2 REV01."
+ },
+ "backend": "Linux surfaceless EGL, DISPLAY/WAYLAND_DISPLAY/LD_LIBRARY_PATH unset, GLFW null platform; no audio device opened (hub cues logged, GameplayCaptureSession NullAudioBackend asserted); no network.",
+ "audio": {
+  "tool": "com.openggf.tools.audio.FmSfxRenderTool at d823ce643 --game s2 --rom <S2 REV01> --rate 48000 --paced (engine IDs)",
+  "music": {
+   "82": "Metropolis Zone (bed)",
+   "ba": "Got an Emerald (payoff)",
+   "96": "Title (the delivered hub plays Sonic2Music.TITLE for the S2 card; end card)"
+  },
+  "sfx": {
+   "cd": "Blip (score ticks)",
+   "c5": "Tally End (each 9)",
+   "e0": "Spindash Charge",
+   "bc": "Spindash Release",
+   "ab": "Swish (chapter wipes)"
+  },
+  "ui": "HostUiSfx tones (com.openggf.audio.presentation.HostUiSfx, byte-identical at 2f9ca84b1 and d823ce643) synthesised by edit.py prep from that source formula, placed at the cue frames logged by each take (sources/promo/cues.json).",
+  "candidates": "audio/candidates holds the other S2 beds rendered and measured while choosing (not used)."
+ },
+ "fonts": {
+  "package": "ttf-fira-sans 1:4.301-3 (Arch), https://github.com/mozilla/Fira, SIL OFL; system install, not copied or redistributed",
+  "faces": {
+   "title": {
+    "path": "/usr/share/fonts/TTF/FiraSansCompressed-Heavy.ttf",
+    "bytes": 550312,
+    "sha256": "9d5ca89c4747c879e3379c5e4ccb4b060dbdd78b441cef419c3463a420203ddd"
+   },
+   "title_it": {
+    "path": "/usr/share/fonts/TTF/FiraSansCompressed-HeavyItalic.ttf",
+    "bytes": 559652,
+    "sha256": "d90978e735829bcb5218e221f4371c54ba3192b166c872a1f1e213fc74916fb1"
+   },
+   "sub": {
+    "path": "/usr/share/fonts/TTF/FiraSansCondensed-BoldItalic.ttf",
+    "bytes": 534712,
+    "sha256": "4470462ba3a7653b1ebfae85951f867126e2035dcd7a690fe75db19b7fcc5d58"
+   },
+   "body": {
+    "path": "/usr/share/fonts/TTF/FiraSans-Bold.ttf",
+    "bytes": 521312,
+    "sha256": "2c41b665c7e1c20a0fb3fce3aa09b464b7c9c253db965979c45a6e8ee6a41546"
+   },
+   "body_it": {
+    "path": "/usr/share/fonts/TTF/FiraSans-BoldItalic.ttf",
+    "bytes": 525912,
+    "sha256": "4b12e45c1798b65a82f37f1ef9273068f74bab442f99083f3c1f89e7189031c4"
+   }
+  }
+ },
+ "badge": {
+  "path": "src/main/resources/icon/openggf-256.png at d823ce643",
+  "sha256": "05f647727ed2bbb43129ced8fc52a8731c6a68cbd5ddee920d5f645e827606e0"
+ },
+ "compositor": {
+  "path": "tools/media/promo_kit.py at d823ce643 (last change c7d66bbf9)",
+  "sha256": "8a3d15cfaee03bb32dbcb2c7a4dac9dcd663eb91b7e5491c59df1fea4a7002fa",
+  "python": "venv with numpy 2.5.4, Pillow 13.0.0"
+ },
+ "scores": {
+  "source": "docs/architecture/audits/2026-10-27-menu-design-review.md at d823ce643",
+  "kind": "subjective capture-based design judgments (1-10), not usability, timing or performance measurements",
+  "values": "edit.py SCORES (each value with its section)"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "era": "new",
+ "source_commit": "d823ce643d2acd23e9024aafa55b4f90211421ff",
+ "tree": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-3a990895",
+ "tool": "MenuFilmRecorder",
+ "take": "takes/x-locate.take",
+ "frames": 472,
+ "rate": 60,
+ "scale": 1,
+ "exit": 0,
+ "roms": [
+  "/home/farrell/code/projects/OpenGGF/Sonic The Hedgehog (W) (REV01) [!].gen",
+  "/home/farrell/code/projects/OpenGGF/Sonic The Hedgehog 2 (W) (REV01) [!].gen",
+  "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen"
+ ],
+ "mods_dir": "/home/farrell/code/projects/OpenGGF/mods",
+ "backend": "surfaceless EGL, DISPLAY/WAYLAND_DISPLAY/LD_LIBRARY_PATH unset, no audio device opened",
+ "command": "/usr/lib/jvm/java-25-openjdk/bin/java -Xmx2g -Dopenggf.headless.gl=surfaceless-egl -cp <helpers:classpath> com.openggf.tools.MenuFilmRecorder /home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029/sources/capture/takes/x-locate.take /home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029/clips/new/x-locate /home/farrell/code/projects/OpenGGF/Sonic The Hedgehog (W) (REV01) [!].gen /home/farrell/code/projects/OpenGGF/Sonic The Hedgehog 2 (W) (REV01) [!].gen /home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen /home/farrell/code/projects/OpenGGF/mods"
+}

@@ -1,0 +1,17 @@
+# Exploration: Mod manager from the hub (MODS tab), move, toggle (trust), actions.
+# Key presses sit on the bed beat grid: frame = round(26.25 * beat), held 5 frames.
+setup=mods
+width=320
+preroll=90
+realtime-ms=8
+frames=420
+26 UP
+52 ENTER
+105 DOWN
+131 UP
+158 ENTER
+210 ENTER
+262 RIGHT
+289 RIGHT
+315 ENTER
+368 ESC

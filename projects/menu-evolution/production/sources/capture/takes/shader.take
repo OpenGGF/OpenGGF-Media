@@ -1,0 +1,19 @@
+# Cold open and title background: EHZ1 from its real start, Sonic alone, RIGHT held; the display shader
+# picker opens on bed beat 4, browses CRT, closes on beat 12; Sonic runs on, then skids to a stop as the title
+# lands (beat 16), clear of the Coconuts badnik ahead.
+# Frames here are film frames (round(25.92 + 26.25 * beat)), because this take starts at film frame 0.
+tool=ShaderFilmRecorder
+width=320
+preroll=60
+run-from=0
+run-to=446
+brake=1
+frames=656
+131 F8   # beat 4
+157 DOWN   # beat 5
+183 ENTER   # beat 6
+210 DOWN   # beat 7
+236 DOWN   # beat 8
+288 UP   # beat 10
+315 UP   # beat 11
+341 F8   # beat 12

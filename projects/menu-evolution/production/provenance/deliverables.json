@@ -1,0 +1,35 @@
+{
+ "film": {
+  "path": "final/menu-evolution-promo.mp4",
+  "bytes": 25158165,
+  "sha256": "4fbed1e64eb9f3e718c8ab0e239df88c2d5db7d2f41ad29b485e18c84f45afc3",
+  "duration_s": 87.333,
+  "frames": 5240,
+  "video": "H.264 High L5.0 yuv420p BT.709 tv, 1920x1080, 60/1, crf 14 slow tune animation",
+  "audio": "AAC 256 kbit/s 48 kHz stereo; mix gain -1.2 dB; integrated -14.2 LUFS, true peak -1.4 dBTP",
+  "chapters": 10
+ },
+ "master": {
+  "path": "final/menu-evolution-master.mkv",
+  "bytes": 1070223899,
+  "sha256": "d6d1667830e3d493b58ebe5b02f529fbb57cbed1fafabde19a0b30bf11dda9c0",
+  "video": "FFV1 level 3 bgr0 (lossless RGB), 1920x1080, 60/1",
+  "audio": "PCM s16le 48 kHz stereo, final mix before the AAC gain",
+  "chapters": 10
+ },
+ "superseded": [
+  {
+   "path": "final/revisions/r1-menu-evolution.mp4",
+   "bytes": 21287734,
+   "sha256": "e829294528f473d27c81297c2ffa3fd3cdc29e3e07ea07f2b72b1f7efe8ad621",
+   "note": "revision 1 review copy (crf 16), see README"
+  },
+  {
+   "path": "final/revisions/r3a-ui-gain-1.6.mp4",
+   "bytes": 25134715,
+   "sha256": "f3c725149b3d3fb83ccbb9ac74a0973ea22e9c6e1765cb14e42443afa0d2299f",
+   "note": "revision 3 picture with UI tones at gain 1.6 (superseded by the 3b remix)"
+  }
+ ],
+ "final_edit": "sources/promo/edit.py (= sources/promo/revisions/edit.r3b.py)"
+}

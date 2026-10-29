@@ -1,0 +1,15 @@
+# Exploration: EHZ1 run, picker opens on beat 4, browse, close on beat 13, run on.
+tool=ShaderFilmRecorder
+width=320
+frames=420
+preroll=60
+run-from=0
+run-to=420
+105 F8
+131 DOWN
+158 DOWN
+184 ENTER
+236 DOWN
+262 UP
+289 ENTER
+341 F8

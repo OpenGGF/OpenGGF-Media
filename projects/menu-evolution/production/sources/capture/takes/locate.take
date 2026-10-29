@@ -1,0 +1,18 @@
+# Pickers rep: Sonic 2 ROM missing; Start opens Locate ROM over a synthetic folder of empty placeholder files; scroll to Cartridge 05, choose it (not a Sonic 2 ROM), then Choose another file.
+# Key presses sit on the bed beat grid inside the take: frame = round(26.25 * beat), held 5 frames.
+# The edit places take beat 0 on a bar line of the Metropolis Zone bed (105 frames per bar).
+setup=hub-missing-s2
+width=320
+preroll=90
+realtime-ms=8
+frames=630
+26 ENTER   # beat 1
+79 DOWN   # beat 3
+105 DOWN   # beat 4
+131 DOWN   # beat 5
+158 DOWN   # beat 6
+184 DOWN   # beat 7
+210 DOWN   # beat 8
+236 DOWN   # beat 9
+341 ENTER   # beat 13
+525 ENTER   # beat 20

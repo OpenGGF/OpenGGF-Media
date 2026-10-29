@@ -1,0 +1,19 @@
+{
+ "era": "v05",
+ "source_commit": "77c6364cee5ceb7c16ade97c3117b864044a3cb2",
+ "tree": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-3a990895/target/eras/v05",
+ "tool": "V05TitleRecorder",
+ "take": "takes/v05-title.take",
+ "frames": 236,
+ "rate": 60,
+ "scale": 1,
+ "exit": 0,
+ "roms": [
+  "/home/farrell/code/projects/OpenGGF/Sonic The Hedgehog (W) (REV01) [!].gen",
+  "/home/farrell/code/projects/OpenGGF/Sonic The Hedgehog 2 (W) (REV01) [!].gen",
+  "/home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen"
+ ],
+ "mods_dir": "/home/farrell/code/projects/OpenGGF/mods",
+ "backend": "surfaceless EGL, DISPLAY/WAYLAND_DISPLAY/LD_LIBRARY_PATH unset, no audio device opened",
+ "command": "/usr/lib/jvm/java-25-openjdk/bin/java -Xmx2g -Dopenggf.headless.gl=surfaceless-egl -cp <helpers:classpath> com.openggf.tools.V05TitleRecorder /home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029/sources/capture/takes/v05-title.take /home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029/clips/v05/v05-title /home/farrell/code/projects/OpenGGF/Sonic The Hedgehog (W) (REV01) [!].gen /home/farrell/code/projects/OpenGGF/Sonic The Hedgehog 2 (W) (REV01) [!].gen /home/farrell/code/projects/OpenGGF/Sonic and Knuckles & Sonic 3 (W) [!].gen /home/farrell/code/projects/OpenGGF/mods"
+}

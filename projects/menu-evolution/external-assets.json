@@ -1,0 +1,512 @@
+{
+ "project": "menu-evolution",
+ "snapshot_date": "2026-10-29",
+ "notes": "External bytes hashed at archive time, not uploaded. build/ render work, compiled engine trees (target/eras, target/promo-helpers), the Python venv, logs and ROMs are excluded.",
+ "sequence_hash": "inventory_sha256 is SHA-256 over sorted PNG basenames; for each file append UTF-8 basename + NUL + decimal byte length + NUL + lowercase SHA-256 + LF (review/**: relative path instead of basename when basenames repeat).",
+ "assets": [
+  {
+   "root": "menu-evolution/production",
+   "path": "final/menu-evolution-promo.mp4",
+   "kind": "finished film",
+   "bytes": 25158165,
+   "files": 1,
+   "sha256": "4fbed1e64eb9f3e718c8ab0e239df88c2d5db7d2f41ad29b485e18c84f45afc3"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "final/menu-evolution-master.mkv",
+   "kind": "lossless master (FFV1 + PCM)",
+   "bytes": 1070223899,
+   "files": 1,
+   "sha256": "d6d1667830e3d493b58ebe5b02f529fbb57cbed1fafabde19a0b30bf11dda9c0"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "final/revisions/r1-menu-evolution.mp4",
+   "kind": "superseded revision",
+   "bytes": 21287734,
+   "files": 1,
+   "sha256": "e829294528f473d27c81297c2ffa3fd3cdc29e3e07ea07f2b72b1f7efe8ad621"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "final/revisions/r3a-ui-gain-1.6.mp4",
+   "kind": "superseded revision",
+   "bytes": 25134715,
+   "files": 1,
+   "sha256": "f3c725149b3d3fb83ccbb9ac74a0973ea22e9c6e1765cb14e42443afa0d2299f"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/dialogs/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 11900063,
+   "files": 630,
+   "inventory_sha256": "cea31ab0f85e60372490256c638fba3f4c3ed900d138e9323ba6292bedb967e3"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/explore-legal/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 5513684,
+   "files": 472,
+   "inventory_sha256": "1718e7cf33a26945ae3efd0d4626b2e33ae570662d33d209608e1714db134005"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/explore-locate/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 4869199,
+   "files": 472,
+   "inventory_sha256": "930644402db25e8cae4eade3aaf94e96ad8dadedd31477e7fce4a81e1202f3d8"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/explore-mods/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 4203188,
+   "files": 420,
+   "inventory_sha256": "edca0be2d56e980d53d8c34d7395e3a79e261be15dd5c8ab5b7e1a6eba270b0d"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/explore-settings/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 7424127,
+   "files": 578,
+   "inventory_sha256": "86e785dc46881ef9dd6b0af9630d3d699e6bb29936287c7e429f269bafa571b7"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/explore-shader/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 8339593,
+   "files": 420,
+   "inventory_sha256": "3064319325bbb1bcc3a961332cc7c17db2a714a37f61c412cb1b9990f98bd51e"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/hub/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 20682026,
+   "files": 761,
+   "inventory_sha256": "adc012851b6b77451cf4139b360d46ebe549980e62e6eb673f795e66d42b919f"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/legal/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 4921168,
+   "files": 420,
+   "inventory_sha256": "a558f64d876f0d693aba5742b5e7f083886317d94c30da816667acba3576e4f7"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/locate/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 4954639,
+   "files": 630,
+   "inventory_sha256": "daef47af95b15c9bbd0e525ee869be0bf536de3d3835a83dcd76d3404d1db4ab"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/mods/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 7267690,
+   "files": 735,
+   "inventory_sha256": "c0a78b69328a5d4aa2a12efb5b37667664eb91932ed0ceef199467425c0fabd1"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/settings-new/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 11945211,
+   "files": 971,
+   "inventory_sha256": "b964abe0ec0396a46b08e21fda372633db1712593aaedb675325b5d2a0062d8d"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/new/shader/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 12329399,
+   "files": 656,
+   "inventory_sha256": "97e682303adfb00bb867692636a1ab234fa325516e551932aa8551b23b750d41"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/dialogs/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 11680323,
+   "files": 630,
+   "inventory_sha256": "93332dcfe04577f858382686c86a347df4632e02f0cdfff939676df4d9b14286"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/explore-legal/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 4552075,
+   "files": 472,
+   "inventory_sha256": "22220a306ca391662a6d024d555676477cc261a8e5dc23699382ae598f8beae9"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/explore-locate/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 5022975,
+   "files": 472,
+   "inventory_sha256": "7ae0805244702480d3246d63e790bc01a85a55ab7c94e5c7a0f5ddcdff2a3bfc"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/explore-mods/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 4042309,
+   "files": 420,
+   "inventory_sha256": "b3cfee4df28b61e08a28eb8880507c1fe52790f02d49567b3e73a384638e1a4e"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/explore-settings/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 7794890,
+   "files": 578,
+   "inventory_sha256": "52c0173b3865d28a3a584a61e09246d4dd042d60d7af659eea18ad47301d5976"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/explore-shader/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 8356359,
+   "files": 420,
+   "inventory_sha256": "0d93c8e28823201d5db5c00fb23b28bd1af2d4a4e75931b5a7f8fb2e4b0a110f"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/hub/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 21216752,
+   "files": 761,
+   "inventory_sha256": "cac1a0482c3c0ea6ea9daaf0afdabdb6a5f09b4c17a36e363f11b4b650c7e293"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/legal/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 4063674,
+   "files": 420,
+   "inventory_sha256": "bc7ebcef3009bb0671bb461c9e8b88ac97cdb4481cf3735aefcba3f9f68cf151"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/locate/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 5243097,
+   "files": 630,
+   "inventory_sha256": "89ecf3577db11110d6eb3f939c6c3e205962ecdf37d6d481a8f47ecad4dd89a5"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/mods/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 6426039,
+   "files": 735,
+   "inventory_sha256": "352e1a68e24c93fb2e8553c6548be005a5b8ff618aa8bf858b37df651f5be1ee"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/settings-pre/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 12253401,
+   "files": 971,
+   "inventory_sha256": "495fac5b72f0a802f578c8b0672d262acb3292bcc67c8948e2a360782cbcc086"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/pre/shader/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 12314882,
+   "files": 656,
+   "inventory_sha256": "525bdb39477a02b7c21d930714c2af8c3b96bdece21dbf763b8b4cbb47652978"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/v05/v05-title/frames/*.png",
+   "kind": "frame-sequence (native 320x224 engine capture, ROM-derived art)",
+   "bytes": 7372650,
+   "files": 236,
+   "inventory_sha256": "18a3a482c51047b55d7560f5bb29845230d99dfbe42bbafced8890789ba4182c"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/music/s2-music-82-paced.wav",
+   "kind": "audio render (ROM-derived music)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "9fe11d6f591e4a06c1144ba1c2b88de61f2828aa6151f3034ddab51a7a9e9c30"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/music/s2-music-96-paced.wav",
+   "kind": "audio render (ROM-derived music)",
+   "bytes": 1728044,
+   "files": 1,
+   "sha256": "aa22493b15efa30d542b6133e0523fdaccda5c0859fb0cdfe41f6d914714333c"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/music/s2-music-ba-paced.wav",
+   "kind": "audio render (ROM-derived music)",
+   "bytes": 553644,
+   "files": 1,
+   "sha256": "6d68502081a3541f5ae57cd14a9d5383002d37ada04300ee6fcb93978829fb0b"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-a8-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 16044,
+   "files": 1,
+   "sha256": "4ba11c1978ec756593cd02b7c706e6b4859e3b6ad0b5b63e2a0d66ae55857766"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-ab-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 92844,
+   "files": 1,
+   "sha256": "30bf178e9325bd68570ed3d4571a68f928a6cb4efdb40320d4824642ebe42db3"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-bc-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 278444,
+   "files": 1,
+   "sha256": "6e1a82116824146591bde8d9fb8b589a26969596ed31cd573fd31276e7dca3c2"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-c3-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 204844,
+   "files": 1,
+   "sha256": "b0eea29a548ddc9ad9307070878172848f60374eb7303bb154ed6028bdf5fc07"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-c5-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 332844,
+   "files": 1,
+   "sha256": "1e55363ba8e8a379e8597a1f6c3e510d6a171600ccbcf235065cf546b7a700e4"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-c9-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 86444,
+   "files": 1,
+   "sha256": "f8955348471f1abed4fe7bc7cab83144efc1feba8ad465e1fcb073a1c3c6c3b9"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-ca-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 326444,
+   "files": 1,
+   "sha256": "b86cbb60b525066cff09eb4d46c9476485156402504b845012f08326121358be"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-cd-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 9644,
+   "files": 1,
+   "sha256": "ba4cfc9c71e30269334d79b0fb5b95cc058ff0c596c8eb8fe666872d0fd4d1d8"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/sfx/s2-sfx-e0-paced.wav",
+   "kind": "audio render (ROM-derived SFX)",
+   "bytes": 355244,
+   "files": 1,
+   "sha256": "90dfe0cdb6f0ec1aeb86d8bb956315b9643fe7052cb70f3d936e41236dcc804e"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-82-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "9fe11d6f591e4a06c1144ba1c2b88de61f2828aa6151f3034ddab51a7a9e9c30"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-87-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "d886a100eb574ee482ae01b28ddb32dfaad38a6d36f9f74a8d115fd25359bfb0"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-88-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "afc28f3a869485edec070dddf2e3e675957ca30eda6ce27d888ece01903ca9bb"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-89-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "495d4a4cfa4c02ba99b3f49bb28cf4e71ae66b4c35d0bd217274794bf617bb15"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-8c-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "2f94e3f77ec9e1bf6f299e56a73ad38e0a64ad7bd7944e7c93ed24112c8d9b73"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-8e-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "5736f766587d4e7595290670b3370877f5de754ee571a486c9b7254cc4336d78"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-90-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "0df88b6e866c21ff9f29869a683fa2203f8c26b6a93842ca404b321c14a4d864"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-93-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "570de7e93c756d5e2c3ccb8e265433eb466628813f2f4ba8eb322c88d642fd91"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-94-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 19200044,
+   "files": 1,
+   "sha256": "387b3d84f503d45c41f6fcf5e49320b60c160c74383b632a59885a3f5c8aee2b"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-96-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 1728044,
+   "files": 1,
+   "sha256": "aa22493b15efa30d542b6133e0523fdaccda5c0859fb0cdfe41f6d914714333c"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-97-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 1158444,
+   "files": 1,
+   "sha256": "7b055c3a8f102812f34ebd3d44747b2a580353e002338456c8fdd1b94d9d94e2"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/candidates/s2-music-ba-paced.wav",
+   "kind": "audio render (ROM-derived, unused candidate)",
+   "bytes": 553644,
+   "files": 1,
+   "sha256": "6d68502081a3541f5ae57cd14a9d5383002d37ada04300ee6fcb93978829fb0b"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/ui/ui-cancel.wav",
+   "kind": "synthesised engine UI tone (HostUiSfx formula)",
+   "bytes": 12524,
+   "files": 1,
+   "sha256": "968d2df0e20611c17d0af0bf7d3fe70150f9614faab253dd9fb8a5ec26e5bb85"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/ui/ui-confirm.wav",
+   "kind": "synthesised engine UI tone (HostUiSfx formula)",
+   "bytes": 25004,
+   "files": 1,
+   "sha256": "373c0374518dc8e32121224da4ab225ba2094cd4e6a4f475da3a3bf104bdaea6"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/ui/ui-error.wav",
+   "kind": "synthesised engine UI tone (HostUiSfx formula)",
+   "bytes": 32684,
+   "files": 1,
+   "sha256": "da9aca5922e662f46de3787fb4c60207775b2ba62943b5ef200fb33d122b4c62"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "audio/ui/ui-navigate.wav",
+   "kind": "synthesised engine UI tone (HostUiSfx formula)",
+   "bytes": 8684,
+   "files": 1,
+   "sha256": "cafcd2ac65d1d9a04de1cc9af2ecd18d398eefa5f59ee476c1d006f6b74f023a"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "review/**/*.png",
+   "kind": "review images (footage-derived)",
+   "bytes": 15196687,
+   "files": 39,
+   "inventory_sha256": "b1500e6b4ed9b6fd50370b28fddc6563fd5d608a7beffaf57e92f69bbc5b7e37"
+  },
+  {
+   "root": "menu-evolution/fonts",
+   "path": "FiraSansCompressed-Heavy.ttf",
+   "kind": "font (SIL OFL, system package ttf-fira-sans 4.301)",
+   "bytes": 550312,
+   "files": 1,
+   "sha256": "9d5ca89c4747c879e3379c5e4ccb4b060dbdd78b441cef419c3463a420203ddd"
+  },
+  {
+   "root": "menu-evolution/fonts",
+   "path": "FiraSansCompressed-HeavyItalic.ttf",
+   "kind": "font (SIL OFL, system package ttf-fira-sans 4.301)",
+   "bytes": 559652,
+   "files": 1,
+   "sha256": "d90978e735829bcb5218e221f4371c54ba3192b166c872a1f1e213fc74916fb1"
+  },
+  {
+   "root": "menu-evolution/fonts",
+   "path": "FiraSansCondensed-BoldItalic.ttf",
+   "kind": "font (SIL OFL, system package ttf-fira-sans 4.301)",
+   "bytes": 534712,
+   "files": 1,
+   "sha256": "4470462ba3a7653b1ebfae85951f867126e2035dcd7a690fe75db19b7fcc5d58"
+  },
+  {
+   "root": "menu-evolution/fonts",
+   "path": "FiraSans-Bold.ttf",
+   "kind": "font (SIL OFL, system package ttf-fira-sans 4.301)",
+   "bytes": 521312,
+   "files": 1,
+   "sha256": "2c41b665c7e1c20a0fb3fce3aa09b464b7c9c253db965979c45a6e8ee6a41546"
+  },
+  {
+   "root": "menu-evolution/fonts",
+   "path": "FiraSans-BoldItalic.ttf",
+   "kind": "font (SIL OFL, system package ttf-fira-sans 4.301)",
+   "bytes": 525912,
+   "files": 1,
+   "sha256": "4b12e45c1798b65a82f37f1ef9273068f74bab442f99083f3c1f89e7189031c4"
+  }
+ ]
+}

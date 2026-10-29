@@ -1,0 +1,23 @@
+# Exploration: Settings > Display rows, toggle one, scroll, then Sound and Controls tabs.
+# Key presses sit on the bed beat grid: frame = round(26.25 * beat), held 5 frames.
+setup=hub
+width=320
+preroll=90
+realtime-ms=8
+frames=578
+26 UP
+52 RIGHT
+79 ENTER
+131 DOWN
+158 DOWN
+184 DOWN
+210 RIGHT
+262 DOWN
+289 DOWN
+315 DOWN
+341 DOWN
+394 UP
+420 RIGHT
+472 RIGHT
+499 DOWN
+525 DOWN

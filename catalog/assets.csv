@@ -15009,3 +15009,66 @@ typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261
 typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261025,assembly-01/typing-spaced-route-demo.mp4,"reviewed17second continuous native journey,2168px between fights",5828355,1
 typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261025,capture-02/provenance/*.json,source/artifact/capture identity metadata; complete capture accepted,7071738,3
 typing-of-the-hedgehog,typing-of-the-hedgehog/continuous-native-route-demo-20261025,build-96aaff.json,source and matching packaged artifact fingerprints,1766440,1
+menu-evolution,menu-evolution/production,final/menu-evolution-promo.mp4,finished film,25158165,1
+menu-evolution,menu-evolution/production,final/menu-evolution-master.mkv,lossless master (FFV1 + PCM),1070223899,1
+menu-evolution,menu-evolution/production,final/revisions/r1-menu-evolution.mp4,superseded revision,21287734,1
+menu-evolution,menu-evolution/production,final/revisions/r3a-ui-gain-1.6.mp4,superseded revision,25134715,1
+menu-evolution,menu-evolution/production,clips/new/dialogs/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",11900063,630
+menu-evolution,menu-evolution/production,clips/new/explore-legal/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",5513684,472
+menu-evolution,menu-evolution/production,clips/new/explore-locate/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",4869199,472
+menu-evolution,menu-evolution/production,clips/new/explore-mods/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",4203188,420
+menu-evolution,menu-evolution/production,clips/new/explore-settings/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",7424127,578
+menu-evolution,menu-evolution/production,clips/new/explore-shader/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",8339593,420
+menu-evolution,menu-evolution/production,clips/new/hub/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",20682026,761
+menu-evolution,menu-evolution/production,clips/new/legal/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",4921168,420
+menu-evolution,menu-evolution/production,clips/new/locate/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",4954639,630
+menu-evolution,menu-evolution/production,clips/new/mods/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",7267690,735
+menu-evolution,menu-evolution/production,clips/new/settings-new/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",11945211,971
+menu-evolution,menu-evolution/production,clips/new/shader/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",12329399,656
+menu-evolution,menu-evolution/production,clips/pre/dialogs/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",11680323,630
+menu-evolution,menu-evolution/production,clips/pre/explore-legal/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",4552075,472
+menu-evolution,menu-evolution/production,clips/pre/explore-locate/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",5022975,472
+menu-evolution,menu-evolution/production,clips/pre/explore-mods/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",4042309,420
+menu-evolution,menu-evolution/production,clips/pre/explore-settings/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",7794890,578
+menu-evolution,menu-evolution/production,clips/pre/explore-shader/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",8356359,420
+menu-evolution,menu-evolution/production,clips/pre/hub/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",21216752,761
+menu-evolution,menu-evolution/production,clips/pre/legal/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",4063674,420
+menu-evolution,menu-evolution/production,clips/pre/locate/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",5243097,630
+menu-evolution,menu-evolution/production,clips/pre/mods/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",6426039,735
+menu-evolution,menu-evolution/production,clips/pre/settings-pre/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",12253401,971
+menu-evolution,menu-evolution/production,clips/pre/shader/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",12314882,656
+menu-evolution,menu-evolution/production,clips/v05/v05-title/frames/*.png,"frame-sequence (native 320x224 engine capture, ROM-derived art)",7372650,236
+menu-evolution,menu-evolution/production,audio/music/s2-music-82-paced.wav,audio render (ROM-derived music),19200044,1
+menu-evolution,menu-evolution/production,audio/music/s2-music-96-paced.wav,audio render (ROM-derived music),1728044,1
+menu-evolution,menu-evolution/production,audio/music/s2-music-ba-paced.wav,audio render (ROM-derived music),553644,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-a8-paced.wav,audio render (ROM-derived SFX),16044,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-ab-paced.wav,audio render (ROM-derived SFX),92844,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-bc-paced.wav,audio render (ROM-derived SFX),278444,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-c3-paced.wav,audio render (ROM-derived SFX),204844,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-c5-paced.wav,audio render (ROM-derived SFX),332844,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-c9-paced.wav,audio render (ROM-derived SFX),86444,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-ca-paced.wav,audio render (ROM-derived SFX),326444,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-cd-paced.wav,audio render (ROM-derived SFX),9644,1
+menu-evolution,menu-evolution/production,audio/sfx/s2-sfx-e0-paced.wav,audio render (ROM-derived SFX),355244,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-82-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-87-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-88-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-89-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-8c-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-8e-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-90-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-93-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-94-paced.wav,"audio render (ROM-derived, unused candidate)",19200044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-96-paced.wav,"audio render (ROM-derived, unused candidate)",1728044,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-97-paced.wav,"audio render (ROM-derived, unused candidate)",1158444,1
+menu-evolution,menu-evolution/production,audio/candidates/s2-music-ba-paced.wav,"audio render (ROM-derived, unused candidate)",553644,1
+menu-evolution,menu-evolution/production,audio/ui/ui-cancel.wav,synthesised engine UI tone (HostUiSfx formula),12524,1
+menu-evolution,menu-evolution/production,audio/ui/ui-confirm.wav,synthesised engine UI tone (HostUiSfx formula),25004,1
+menu-evolution,menu-evolution/production,audio/ui/ui-error.wav,synthesised engine UI tone (HostUiSfx formula),32684,1
+menu-evolution,menu-evolution/production,audio/ui/ui-navigate.wav,synthesised engine UI tone (HostUiSfx formula),8684,1
+menu-evolution,menu-evolution/production,review/**/*.png,review images (footage-derived),15196687,39
+menu-evolution,menu-evolution/fonts,FiraSansCompressed-Heavy.ttf,"font (SIL OFL, system package ttf-fira-sans 4.301)",550312,1
+menu-evolution,menu-evolution/fonts,FiraSansCompressed-HeavyItalic.ttf,"font (SIL OFL, system package ttf-fira-sans 4.301)",559652,1
+menu-evolution,menu-evolution/fonts,FiraSansCondensed-BoldItalic.ttf,"font (SIL OFL, system package ttf-fira-sans 4.301)",534712,1
+menu-evolution,menu-evolution/fonts,FiraSans-Bold.ttf,"font (SIL OFL, system package ttf-fira-sans 4.301)",521312,1
+menu-evolution,menu-evolution/fonts,FiraSans-BoldItalic.ttf,"font (SIL OFL, system package ttf-fira-sans 4.301)",525912,1

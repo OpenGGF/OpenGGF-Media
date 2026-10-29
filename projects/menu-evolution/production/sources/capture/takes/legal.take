@@ -1,0 +1,8 @@
+# First-launch legal notice (round 0 grid cell).
+# Key presses sit on the bed beat grid inside the take: frame = round(26.25 * beat), held 5 frames.
+# The edit places take beat 0 on a bar line of the Metropolis Zone bed (105 frames per bar).
+setup=legal
+width=320
+preroll=0
+realtime-ms=0
+frames=420

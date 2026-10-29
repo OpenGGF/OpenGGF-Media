@@ -1,0 +1,17 @@
+# Libraries rep: MODS tab, Mod manager, move, enable Eggman's Sky (trust page), confirm, actions, Details.
+# Key presses sit on the bed beat grid inside the take: frame = round(26.25 * beat), held 5 frames.
+# The edit places take beat 0 on a bar line of the Metropolis Zone bed (105 frames per bar).
+setup=mods
+width=320
+preroll=90
+realtime-ms=8
+frames=735
+26 UP   # beat 1
+52 ENTER   # beat 2
+105 DOWN   # beat 4
+131 UP   # beat 5
+158 ENTER   # beat 6
+446 ENTER   # beat 17
+499 RIGHT   # beat 19
+551 ENTER   # beat 21
+682 ESC   # beat 26

@@ -1,0 +1,7 @@
+setup=hub-missing-s2
+width=320
+frames=472
+preroll=90
+realtime-ms=8
+source=/home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029/sources/capture/takes/x-locate.take
+java=25.0.5.0.2

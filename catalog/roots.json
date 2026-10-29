@@ -280,5 +280,17 @@
     "id": "typing-of-the-hedgehog/continuous-native-route-demo-20261025",
     "original": "/home/farrell/scratch/agent-tmp/codex/typing-hedgehog-20261025/spaced-route-demo/native-mz3-v1",
     "archive": "projects/typing-of-the-hedgehog/sources/continuous-native-route-demo-20261025"
+  },
+  {
+    "id": "menu-evolution/production",
+    "original": "/home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029",
+    "archive": "projects/menu-evolution/production",
+    "notes": "Menu evolution promo production root: byte-preserved edit, recorders, takes, capture records and provenance. Film, master, native frame sequences, ROM-derived audio, synthesised UI tones and review images remain external."
+  },
+  {
+    "id": "menu-evolution/fonts",
+    "original": "/usr/share/fonts/TTF",
+    "archive": "",
+    "notes": "External Fira editorial faces (system package ttf-fira-sans 4.301, OFL); hashed, not redistributed."
   }
 ]

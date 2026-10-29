@@ -1,0 +1,11 @@
+start_s,end_s,start_frame,end_frame,chapter,sources
+0.000,7.433,0,446,"Cold open: the in-game shader picker, before and now","pre+new/shader 0-446 (EHZ1 real start, RIGHT held; picker open 131-341)"
+7.433,10.933,446,656,Title: Road to 9,"new/shader 446-656, dimmed"
+10.933,17.933,656,1076,"Where it started: OpenGGF 0.5, then the 0.7 hub before the redesign",v05/v05-title 0-210; pre/hub 0-210
+17.933,24.933,1076,1496,"Round 0, 27 Oct 2026: the old menus and their first scores","pre/settings-pre, pre/locate, pre/mods, pre/legal (grid, 2x)"
+24.933,35.433,1496,2126,"Libraries: Mod manager, 3.5 to 9",pre+new/mods take frames 79-708
+35.433,49.433,2126,2966,"Settings: Display tab, 5.5 to 9",pre+new/settings take frames 105-944
+49.433,59.933,2966,3596,"Pickers: Locate ROM, 4 to 9",pre+new/locate take frames 0-629
+59.933,70.433,3596,4226,"Hub & Dialogs: Help, quit, setup, 6.5 to 9",pre+new/dialogs take frames 0-629
+70.433,80.333,4226,4820,Twenty-seven of twenty-seven menu families at 9,"new/hub, settings-new, mods, locate, shader, dialogs (wall, 2x)"
+80.333,87.333,4820,5240,"The delivered hub, end card",new/hub take frames 0-419
