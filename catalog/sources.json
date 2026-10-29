@@ -61959,9 +61959,9 @@
   {
     "path": "projects/menu-evolution/README.md",
     "root": "menu-evolution/production",
-    "original_path": "revisions/super-sonic-cut/archive-payload/projects/menu-evolution/README.md",
-    "bytes": 4646,
-    "sha256": "9c30dfdb4b38582a2faa4c53eb054780f20d48234454cf885ba059d221d7d23d",
+    "original_path": "revisions/hill-climb-story/archive-payload/projects/menu-evolution/README.md",
+    "bytes": 6916,
+    "sha256": "25af35fb193f1df9df2bd754b191a150dbd620254ffd269057610053f3ffa328",
     "snapshot": "generated index"
   },
   {
@@ -62074,6 +62074,94 @@
     "original_path": "revisions/super-sonic-cut/archive-payload/projects/menu-evolution/external-assets.super-sonic-cut.json",
     "bytes": 1809,
     "sha256": "8e6c5bc9a5837a151d4942c6db8fba07a28762651cc83f7ec753d3137e52c2a9",
+    "snapshot": "generated index"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/README.md",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/README.md",
+    "bytes": 13321,
+    "sha256": "d7e3a54313d0e907c59aebd0150d75e47590128be35d662ed8620d0a2466270d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/provenance/deliverables.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/provenance/deliverables.json",
+    "bytes": 858,
+    "sha256": "796a7cae7069f51bd00851b83513c34e0f69b862ec4e807cb9a7f6e0b234398f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/provenance/source-map.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/provenance/source-map.json",
+    "bytes": 7611,
+    "sha256": "3ad27bb3c9baf0f468e6e380a70964b0a379bf6ae6bcaf9e5a4d8b5d4d547853",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/sources/archive/make_revision_payload.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/sources/archive/make_revision_payload.py",
+    "bytes": 15416,
+    "sha256": "41fe62cda216224e85bce6f5f4351cdb3338b37ea644c36cc548178eebe464b0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/sources/promo/chapters.txt",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/sources/promo/chapters.txt",
+    "bytes": 852,
+    "sha256": "b884304a601a378f3e3122494120790ccd38e827ebca22bccc696366fdb925a2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/sources/promo/cues.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/sources/promo/cues.json",
+    "bytes": 447,
+    "sha256": "c7d30ede5b8852d5ecac4210ed68976589aeca9b4c505d5953199e220600e6f7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/sources/promo/edit.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/sources/promo/edit.py",
+    "bytes": 69593,
+    "sha256": "504e255fd8a791ee4b336d1e9938f77c1948040e5ee0fab6404e19a848225e62",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/sources/promo/edl.csv",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/sources/promo/edl.csv",
+    "bytes": 2800,
+    "sha256": "b59c10df97648a13536291b5a44ac907f731cb1af8a4ee5d14022d96d7733793",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/sources/promo/identity.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/sources/promo/identity.py",
+    "bytes": 2373,
+    "sha256": "34ad08c0b0259cdbcccff84c31b97b81c752e87efdb888e20851df37c6f7fcdc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/hill-climb-story/sources/promo/review.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/sources/promo/review.py",
+    "bytes": 10406,
+    "sha256": "fb003a4d2027ee4b4ee51005355ccb7ad12b988879cd8b5cc3d540ebf8cbb72b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/external-assets.hill-climb-story.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/hill-climb-story/archive-payload/projects/menu-evolution/external-assets.hill-climb-story.json",
+    "bytes": 4245,
+    "sha256": "dc30dc7bb8e55c859bf89dfe5e804a59232a7a6cc220e4376e25bb34e3f744b5",
     "snapshot": "generated index"
   }
 ]

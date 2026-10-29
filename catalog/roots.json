@@ -292,5 +292,11 @@
     "original": "/usr/share/fonts/TTF",
     "archive": "",
     "notes": "External Fira editorial faces (system package ttf-fira-sans 4.301, OFL); hashed, not redistributed."
+  },
+  {
+    "id": "menu-evolution/design-review-evidence",
+    "original": "/home/farrell/scratch/agent-tmp/codex",
+    "archive": "",
+    "notes": "Menu design-review evidence sets (2026-10-28/29 captures of the audit, outside every repository): the capture stills and the reviewer's annotated picture used by the hill-climb story cut; hashed, not uploaded."
   }
 ]

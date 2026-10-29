@@ -1,0 +1,97 @@
+{
+ "project": "menu-evolution",
+ "revision": "hill-climb-story",
+ "snapshot_date": "2026-10-29",
+ "notes": "External bytes of the hill-climb story cut, hashed at archive time, not uploaded. Its native frame sequences, SFX renders, UI tones and fonts are the first delivery's (external-assets.json); its music bed is the Super Sonic cut's render (external-assets.super-sonic-cut.json). The design-review stills are original captures of the menu audit (root menu-evolution/design-review-evidence). Render work (build/), the Python venv, logs and ROMs are excluded.",
+ "sequence_hash": "inventory_sha256 is SHA-256 over sorted PNG basenames; for each file append UTF-8 basename + NUL + decimal byte length + NUL + lowercase SHA-256 + LF.",
+ "assets": [
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/hill-climb-story/final/menu-evolution-hill-climb-story.mp4",
+   "kind": "finished film (revision hill-climb-story)",
+   "bytes": 17338378,
+   "files": 1,
+   "sha256": "831f633e644d24ce4694c6a1e8b5560cb83b1d347b8f2330b57345ea347816d8"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/hill-climb-story/final/menu-evolution-hill-climb-story-master.mkv",
+   "kind": "lossless master (FFV1 + PCM, revision hill-climb-story)",
+   "bytes": 810651699,
+   "files": 1,
+   "sha256": "d1ac95c369c7a4dd22598f4f0871f3517a350cf06a16108bbf7f5f229de743c6"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/baseline/320/hub/38-hub-crowded.png",
+   "kind": "design-review capture still (UI evidence, a694db926)",
+   "bytes": 28485,
+   "files": 1,
+   "sha256": "9e320e85843a10b7ac228aa67efc33427f47810eeb57ab3d619348eeebcbb527"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/final/320/hub/38-hub-crowded.png",
+   "kind": "design-review capture still (UI evidence, a694db926)",
+   "bytes": 29053,
+   "files": 1,
+   "sha256": "96468960075761266014e47f5c61eede01d2e2315e80769a1d0da533c6a4200a"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/review-opus55/hub38-320-annotated.png",
+   "kind": "design-review capture still (UI evidence, the indep)",
+   "bytes": 40369,
+   "files": 1,
+   "sha256": "b5fd502de637856b2c2d6e3defbd0b49f89cf257b2fbd61356d52797a5ee8fe2"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/structural/final/320/hub/38-hub-crowded.png",
+   "kind": "design-review capture still (UI evidence, d8d947336)",
+   "bytes": 27557,
+   "files": 1,
+   "sha256": "6ac5123aaa918d7528433ccf4c53e70f39c8489ab11ebac8aa558b6d4186ecb6"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/structural/final/320/hub/11-settings.png",
+   "kind": "design-review capture still (UI evidence, d8d947336)",
+   "bytes": 10095,
+   "files": 1,
+   "sha256": "15ce4936ecaa50bdf2f08fcc0c7fa006d5e04c517c972fadc4c4c375f879970b"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "all-menus-final-families-20261028/before/time-attack/320/ta04-menu-solo.png",
+   "kind": "design-review capture still (UI evidence, efae20d69)",
+   "bytes": 3826,
+   "files": 1,
+   "sha256": "a72dc861c0ca8240caa34968f4ca10c82ac88ee06040aa428740285e1df208d0"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "all-menus-final-families-20261028/final/time-attack/320/ta04-menu-solo.png",
+   "kind": "design-review capture still (UI evidence, efae20d69)",
+   "bytes": 3548,
+   "files": 1,
+   "sha256": "5686d07ef30542debe12cd92d058628881ced2adbdb5935f5c7d83dd0454c1f5"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/finish/lead-shortcut/final/time-attack/320/lead-chat-ready.png",
+   "kind": "design-review capture still (UI evidence, e716cc55b)",
+   "bytes": 17756,
+   "files": 1,
+   "sha256": "a84410d65cec678cedddad3a6c8a1c1b5a5d10ede55bdaff7f9f43c26fc263aa"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/hill-climb-story/review/*.png",
+   "kind": "review images (footage-derived)",
+   "bytes": 5918015,
+   "files": 4,
+   "inventory_sha256": "938de5dc1b86b53ec9ab84163d257ca2eafade183e570ecafc8d2cbc76729145"
+  }
+ ]
+}

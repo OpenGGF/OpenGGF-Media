@@ -1,0 +1,124 @@
+{
+ "revision": "hill-climb-story (menu-evolution), 2026-10-29, Claude Opus 5.5 (xhigh, fast mode off), narrative rebuild of the super-sonic-cut",
+ "request": "\"not bad but the direction sucks. It's difficult to see what the video is getting at. We need to establish the context (do you have it? We asked Opus originally to classify the menus based on categories, then asked it to raise that classification in a hill climb until 8 overall (and then raised it to 9)\"; kept: Super Sonic music throughout, about 43-44 s, montage energy, climbing numbers, readable real moving UI",
+ "base": {
+  "commit": "d823ce643d2acd23e9024aafa55b4f90211421ff",
+  "worktree": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-9bc4fdd2 (T3 isolated checkout, branch t3/9bc4fdd2, clean; no engine change, no Maven build or test needed: no recapture, the bed render reused)"
+ },
+ "score_source": "docs/architecture/audits/2026-10-27-menu-design-review.md at d823ce643: Menu taxonomy, Rubric, Round 0 baseline, Round 1-4 score tables, All-menus target 8 (final matrix, completion, final families, lead verification), Hill climb toward 9 matrix, Fresh critical review, Structural pass matrix, Independent structural review, Finish pass matrix, Lead acceptance. Values and section per value: sources/promo/edit.py (ROUND0, ROUNDS, PASSES, HUB_FINAL).",
+ "derived_value": "The \"12\" families at 9 after the independent structural review is derived: 13 claimed at 9 in the structural matrix minus the open-project (F3 Editor projects) 9 the review rejected; the audit records the rejection and the repair, not a revised number, so the tile shows the rejected 9 (red) rather than a new score.",
+ "reused": {
+  "production_root": "/home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029 (read in place by relative path from the edit: clips/, audio/sfx, audio/ui)",
+  "clips": "clips/pre (2f9ca84b1, the round-0 menus: no src/main change since the round-0 base 9a796ec60f) and clips/new (d823ce643, delivered); takes hub, settings, locate, mods, legal, shader; unchanged, no recapture",
+  "music": {
+   "path": "revisions/super-sonic-cut/audio/music/s2-music-93-paced.wav",
+   "sha256": "2fa5b72f9ddfbd816de78849e06a11a4a851e81e136aad4d59b68d2c426c3830",
+   "identity": "engine 0x93 = Sonic2Music.SUPER_SONIC = native $96 MusID_SuperSonic, ROM $0FCBBC of canonical S2 REV01 (SHA-1 8BCA5DCEF1AF3E00098666FD892DC1C2A76333F9), FmSfxRenderTool --game s2 --music 93 --rate 48000 --max-seconds 90 --paced; the exact file of the super-sonic-cut (see its provenance/source-map.json for the command and header probe); edit.py master refuses a different hash"
+  },
+  "sfx": {
+   "a8": {
+    "path": "audio/sfx/s2-sfx-a8-paced.wav",
+    "sha256": "4ba11c1978ec756593cd02b7c706e6b4859e3b6ad0b5b63e2a0d66ae55857766"
+   },
+   "ab": {
+    "path": "audio/sfx/s2-sfx-ab-paced.wav",
+    "sha256": "30bf178e9325bd68570ed3d4571a68f928a6cb4efdb40320d4824642ebe42db3"
+   },
+   "bc": {
+    "path": "audio/sfx/s2-sfx-bc-paced.wav",
+    "sha256": "6e1a82116824146591bde8d9fb8b589a26969596ed31cd573fd31276e7dca3c2"
+   },
+   "c3": {
+    "path": "audio/sfx/s2-sfx-c3-paced.wav",
+    "sha256": "b0eea29a548ddc9ad9307070878172848f60374eb7303bb154ed6028bdf5fc07"
+   },
+   "c5": {
+    "path": "audio/sfx/s2-sfx-c5-paced.wav",
+    "sha256": "1e55363ba8e8a379e8597a1f6c3e510d6a171600ccbcf235065cf546b7a700e4"
+   },
+   "cd": {
+    "path": "audio/sfx/s2-sfx-cd-paced.wav",
+    "sha256": "ba4cfc9c71e30269334d79b0fb5b95cc058ff0c596c8eb8fe666872d0fd4d1d8"
+   }
+  },
+  "sfx_identity": "S2 REV01 renders of the original production: A8 Beep, AB Swish, BC Spindash Release, C3 Enter Giant Ring, C5 Tally End, CD Blip (Sonic2Sfx.java)",
+  "ui_tones": {
+   "navigate": {
+    "path": "audio/ui/ui-navigate.wav",
+    "sha256": "cafcd2ac65d1d9a04de1cc9af2ecd18d398eefa5f59ee476c1d006f6b74f023a"
+   }
+  },
+  "badge": {
+   "path": "src/main/resources/icon/openggf-256.png at d823ce643",
+   "sha256": "05f647727ed2bbb43129ced8fc52a8731c6a68cbd5ddee920d5f645e827606e0"
+  },
+  "fonts": "the five Fira faces of the original (system package ttf-fira-sans 4.301, OFL); promo_kit fonts report all roles ok"
+ },
+ "evidence_stills": {
+  "root": "/home/farrell/scratch/agent-tmp/codex (MENU_EVIDENCE; the audit's evidence sets, outside every repository)",
+  "files": {
+   "hub_t8": {
+    "path": "menu-target9-20261028/baseline/320/hub/38-hub-crowded.png",
+    "bytes": 28485,
+    "sha256": "9e320e85843a10b7ac228aa67efc33427f47810eeb57ab3d619348eeebcbb527",
+    "head": "a694db926 (the pushed target-8 delivery), clean",
+    "use": "ch8: crowded hub at 8"
+   },
+   "hub_p1": {
+    "path": "menu-target9-20261028/final/320/hub/38-hub-crowded.png",
+    "bytes": 29053,
+    "sha256": "96468960075761266014e47f5c61eede01d2e2315e80769a1d0da533c6a4200a",
+    "head": "a694db926 + the toward-9 pass-1 working tree (committed as 518c0535d / ea7df5c1a; the critical review inspected these pixels)",
+    "use": "ch8: pass 1 (summary line)"
+   },
+   "hub_rev": {
+    "path": "menu-target9-20261028/review-opus55/hub38-320-annotated.png",
+    "bytes": 40369,
+    "sha256": "b5fd502de637856b2c2d6e3defbd0b49f89cf257b2fbd61356d52797a5ee8fe2",
+    "head": "the independent Opus 5.5 high critical review of ea7df5c1a: its annotated 3x copy of hub_p1 (1.9 % of pixels differ = the mark-up)",
+    "use": "ch9: the reviewer's mark-up, shown 1:1"
+   },
+   "hub_str": {
+    "path": "menu-target9-20261028/structural/final/320/hub/38-hub-crowded.png",
+    "bytes": 27557,
+    "sha256": "6ac5123aaa918d7528433ccf4c53e70f39c8489ab11ebac8aa558b6d4186ecb6",
+    "head": "d8d947336 (structural pass)",
+    "use": "ch10: rebuilt hub"
+   },
+   "set_str": {
+    "path": "menu-target9-20261028/structural/final/320/hub/11-settings.png",
+    "bytes": 10095,
+    "sha256": "15ce4936ecaa50bdf2f08fcc0c7fa006d5e04c517c972fadc4c4c375f879970b",
+    "head": "d8d947336 (structural pass)",
+    "use": "ch11: Settings before the finish pass"
+   },
+   "ta_pre": {
+    "path": "all-menus-final-families-20261028/before/time-attack/320/ta04-menu-solo.png",
+    "bytes": 3826,
+    "sha256": "a72dc861c0ca8240caa34968f4ca10c82ac88ee06040aa428740285e1df208d0",
+    "head": "efae20d69 (Time Attack at 5.5)",
+    "use": "ch5: Time Attack before"
+   },
+   "ta_8": {
+    "path": "all-menus-final-families-20261028/final/time-attack/320/ta04-menu-solo.png",
+    "bytes": 3548,
+    "sha256": "5686d07ef30542debe12cd92d058628881ced2adbdb5935f5c7d83dd0454c1f5",
+    "head": "efae20d69 + the final-families pass working tree (integrated through c9ecf1b49; Time Attack at 8)",
+    "use": "ch5: Time Attack after"
+   },
+   "ta_tab": {
+    "path": "menu-target9-20261028/finish/lead-shortcut/final/time-attack/320/lead-chat-ready.png",
+    "bytes": 17756,
+    "sha256": "a84410d65cec678cedddad3a6c8a1c1b5a5d10ede55bdaff7f9f43c26fc263aa",
+    "head": "e716cc55b (lead keyboard shortcut, clean)",
+    "use": "ch11: TAB: DETAILS"
+   }
+  }
+ },
+ "pixel_identity": "sources/promo/identity.py: new/mods#52 equals the m12 Mod manager capture at 64ed120d2, a694db926, d8d947336 and a513dd5fd (0.00 % differing pixels); new/legal#398 differs from a694db926..a513dd5fd only by 0.41 % (the prompt blink); new/settings#86 equals a513dd5fd 11-settings (0.01 %) and differs from d8d947336 by 14.96 %. Hence the labels \"AT 8 · 28 OCT\" (Mod manager, legal notice) and \"PASS 3 · DELIVERED\" (Settings).",
+ "tools": {
+  "python": "Python 3.14.8 venv in the worktree target/promo-venv with numpy 2.5.4, Pillow 13.0.0 (removed after delivery)",
+  "promo_kit": "tools/media/promo_kit.py at d823ce643 (last change c7d66bbf9), used unchanged",
+  "ffmpeg": "n9.0.2"
+ }
+}

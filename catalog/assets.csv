@@ -15076,3 +15076,14 @@ menu-evolution,menu-evolution/production,revisions/super-sonic-cut/final/menu-ev
 menu-evolution,menu-evolution/production,revisions/super-sonic-cut/final/menu-evolution-super-sonic-cut-master.mkv,"lossless master (FFV1 + PCM, revision super-sonic-cut)",584724930,1
 menu-evolution,menu-evolution/production,revisions/super-sonic-cut/audio/music/s2-music-93-paced.wav,"audio render (ROM-derived music, S2 Super Sonic, engine 0x93)",17280044,1
 menu-evolution,menu-evolution/production,revisions/super-sonic-cut/review/*.png,review images (footage-derived),4548053,11
+menu-evolution,menu-evolution/production,revisions/hill-climb-story/final/menu-evolution-hill-climb-story.mp4,finished film (revision hill-climb-story),17338378,1
+menu-evolution,menu-evolution/production,revisions/hill-climb-story/final/menu-evolution-hill-climb-story-master.mkv,"lossless master (FFV1 + PCM, revision hill-climb-story)",810651699,1
+menu-evolution,menu-evolution/design-review-evidence,menu-target9-20261028/baseline/320/hub/38-hub-crowded.png,"design-review capture still (UI evidence, a694db926)",28485,1
+menu-evolution,menu-evolution/design-review-evidence,menu-target9-20261028/final/320/hub/38-hub-crowded.png,"design-review capture still (UI evidence, a694db926)",29053,1
+menu-evolution,menu-evolution/design-review-evidence,menu-target9-20261028/review-opus55/hub38-320-annotated.png,"design-review capture still (UI evidence, the indep)",40369,1
+menu-evolution,menu-evolution/design-review-evidence,menu-target9-20261028/structural/final/320/hub/38-hub-crowded.png,"design-review capture still (UI evidence, d8d947336)",27557,1
+menu-evolution,menu-evolution/design-review-evidence,menu-target9-20261028/structural/final/320/hub/11-settings.png,"design-review capture still (UI evidence, d8d947336)",10095,1
+menu-evolution,menu-evolution/design-review-evidence,all-menus-final-families-20261028/before/time-attack/320/ta04-menu-solo.png,"design-review capture still (UI evidence, efae20d69)",3826,1
+menu-evolution,menu-evolution/design-review-evidence,all-menus-final-families-20261028/final/time-attack/320/ta04-menu-solo.png,"design-review capture still (UI evidence, efae20d69)",3548,1
+menu-evolution,menu-evolution/design-review-evidence,menu-target9-20261028/finish/lead-shortcut/final/time-attack/320/lead-chat-ready.png,"design-review capture still (UI evidence, e716cc55b)",17756,1
+menu-evolution,menu-evolution/production,revisions/hill-climb-story/review/*.png,review images (footage-derived),5918015,4

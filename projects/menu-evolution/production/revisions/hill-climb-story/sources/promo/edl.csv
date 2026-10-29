@@ -1,0 +1,15 @@
+start_s,end_s,start_frame,end_frame,chapter,layout,sources
+0.000,6.550,0,393,The ask: an AI gets every OpenGGF menu and sorts them into six groups / rubric,"wall of six cells 2x (3x2), dimmed under the matrix from b8, faded out by b16","pre/hub take frames 160-552, pre/settings take frames 100-492, pre/locate take frames 40-432, pre/mods take frames 53-445, pre/legal take frames 0-392, pre/shader take frames 145-537"
+6.550,9.833,393,590,"The goal: every group to 8 or better, one loop per round","matrix, target column and loop",editorial board
+9.833,11.467,590,688,"Rounds 1-4: Mod manager and legal notice, round 0 to the 8 build; six groups 7 to 7.5",pane 4x + six-row board; divider b25-26.5,pre+new/mods take frames 53-150
+11.467,13.100,688,786,"Rounds 1-4: Mod manager and legal notice, round 0 to the 8 build; six groups 7 to 7.5",pane 4x + six-row board; divider b28.25-29.5,pre+new/legal take frames 0-97
+13.100,14.750,786,885,Every menu family: 27 tiles; Time Attack 5.5 to 8,full family board (tiles light on the stabs),editorial board
+14.750,16.383,885,983,Every menu family: 27 tiles; Time Attack 5.5 to 8,pane 4x stills + column; divider b36.75-38.25,all-menus-final-families-20261028/before/time-attack/320/ta04-menu-solo.png | all-menus-final-families-20261028/final/time-attack/320/ta04-menu-solo.png
+16.383,22.933,983,1376,All 27 at 8 / road to 9,"full family board, slam, target 8 -> 9",editorial board
+22.933,26.217,1376,1573,Pass 1,evidence pane 3x + subject score + family board,menu-target9-20261028/baseline/320/hub/38-hub-crowded.png then menu-target9-20261028/final/320/hub/38-hub-crowded.png
+26.217,29.483,1573,1769,Fresh review,evidence pane: mark-up drawn onto the same capture,menu-target9-20261028/final/320/hub/38-hub-crowded.png + menu-target9-20261028/review-opus55/hub38-320-annotated.png (1:1)
+29.483,33.383,1769,2003,Structure,divider b73-74.5,menu-target9-20261028/review-opus55/hub38-320-annotated.png | menu-target9-20261028/structural/final/320/hub/38-hub-crowded.png
+33.383,35.233,2003,2114,Finish,"divider b82-83.5, still | moving",menu-target9-20261028/structural/final/320/hub/11-settings.png | new/settings take frames 86-196
+35.233,36.050,2114,2163,Last gap,evidence pane 3x,menu-target9-20261028/finish/lead-shortcut/final/time-attack/320/lead-chat-ready.png
+36.050,37.483,2163,2249,"27 / 27 at 9 overall; the six groups, delivered","full family board, slam, the hub final criteria row",editorial board
+37.483,43.200,2249,2592,"27 / 27 at 9 overall; the six groups, delivered",iris into the wall of six cells 2x; blurred under the end card from b95,"new/hub take frames 160-502, new/settings take frames 86-428, new/locate take frames 40-382, new/mods take frames 53-395, new/legal take frames 0-342, new/shader take frames 145-487"

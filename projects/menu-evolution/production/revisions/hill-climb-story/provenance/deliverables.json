@@ -1,0 +1,18 @@
+{
+ "film": {
+  "path": "final/menu-evolution-hill-climb-story.mp4",
+  "bytes": 17338378,
+  "sha256": "831f633e644d24ce4694c6a1e8b5560cb83b1d347b8f2330b57345ea347816d8",
+  "format": "1920x1080 60/1, 2592 frames, 43.200 s, H.264 High yuv420p BT.709 TV range, AAC LC 256 kb/s 48 kHz stereo, 13 chapters, faststart",
+  "aac_gain_db": -0.7,
+  "aac_true_peak_dbtp": -1.5,
+  "aac_integrated_lufs": -14.6
+ },
+ "master": {
+  "path": "final/menu-evolution-hill-climb-story-master.mkv",
+  "bytes": 810651699,
+  "sha256": "d1ac95c369c7a4dd22598f4f0871f3517a350cf06a16108bbf7f5f229de743c6",
+  "format": "FFV1 level 3 bgr0 + PCM s16le 48 kHz stereo, 2592 frames, 43.200 s, 13 chapters"
+ },
+ "earlier_deliverables_unchanged": "final/menu-evolution-promo.mp4 (87.333 s) and revisions/super-sonic-cut/final/* are untouched; their hashes are in their own deliverables.json"
+}

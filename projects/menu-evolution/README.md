@@ -1,6 +1,34 @@
 # ROAD TO 9: OpenGGF menu evolution promo
 
-## Latest delivery: the Super Sonic cut (2026-10-29)
+## Latest delivery: the hill-climb story cut (2026-10-29)
+
+The narrative rebuild [`production/revisions/hill-climb-story/`](production/revisions/hill-climb-story/README.md)
+answers the user's review of the Super Sonic cut: "not bad but the direction sucks. It's difficult to
+see what the video is getting at. We need to establish the context". Its external film
+`revisions/hill-climb-story/final/menu-evolution-hill-climb-story.mp4` is **43.200 seconds** (2,592 frames),
+1920x1080 at 60 fps, H.264 with AAC stereo 48 kHz (integrated -14.6 LUFS, true peak -1.5 dBTP) and
+13 chapters, with a lossless FFV1 + PCM master. Made by **Claude Opus 5.5 (xhigh)**; delivered for
+review, so the user's acceptance is not recorded here.
+
+It tells the experiment instead of only showing old and new menus: we gave an AI (Claude Opus) every
+OpenGGF menu; it sorted them into six groups, scored each on seven criteria from screenshots, and hill
+climbed round by round (change, recapture, rescore, keep or revert) until all 27 menu families reached 8;
+then we raised the target to 9. A polish pass stalled at 0, a fresh AI review marked up the pictures and
+lowered scores, a structural pass reached 13, another review sent one 9 back, the finish pass reached 26
+and the last gap made 27 / 27 at 9 overall, with the criteria still at 8.5 shown. One evolving score
+board narrates; the round-0 and delivered menus (moving) and the review's own captures prove it. Same
+Super Sonic bed as the second delivery. Sound was checked by measurement only, motion through strips.
+
+- [Revision README](production/revisions/hill-climb-story/README.md): the rejection, chapter questions,
+  decisions, viewer pass, checks and limits.
+- [Edit](production/revisions/hill-climb-story/sources/promo/edit.py): brief and beat sheet in its docstring;
+  every score with its audit section; chapters, source intervals and cues beside it.
+- [External assets of this cut](external-assets.hill-climb-story.json): film, master, the design-review
+  capture stills and review images, hashed and not uploaded.
+
+## Second delivery: the Super Sonic cut (43.2 s, retained)
+
+The user found this cut "not bad but the direction sucks. It's difficult to see what the video is getting at". It stays byte-identical with its sources; the hill-climb story cut reads its bed in place.
 
 The half-length recut [`production/revisions/super-sonic-cut/`](production/revisions/super-sonic-cut/README.md)
 answers the user's review of the first film, "bit slow and repetitive. Do it against the S2 super

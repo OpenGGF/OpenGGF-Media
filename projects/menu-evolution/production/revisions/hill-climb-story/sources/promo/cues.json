@@ -1,0 +1,37 @@
+[
+{
+"frame": 642,
+"era": "new",
+"take": "mods",
+"take_frame": 105,
+"cue": "NAVIGATE"
+},
+{
+"frame": 668,
+"era": "new",
+"take": "mods",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2048,
+"era": "new",
+"take": "settings",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2075,
+"era": "new",
+"take": "settings",
+"take_frame": 158,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2101,
+"era": "new",
+"take": "settings",
+"take_frame": 184,
+"cue": "NAVIGATE"
+}
+]
