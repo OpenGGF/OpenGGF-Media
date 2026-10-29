@@ -1,0 +1,127 @@
+{
+ "project": "menu-evolution",
+ "revision": "readable-holds",
+ "snapshot_date": "2026-10-29",
+ "notes": "External bytes of the readable-holds cut, hashed at archive time, not uploaded. `assets` are new catalog rows (final film, master and review images; the superseded pre-hub-criteria render; the Hub and Dialogs follow-up still); `reused` are inputs already catalogued by an earlier revision (named in catalogued_in), listed here with their hashes so this cut can be rebuilt. Render work (build/), the Python venv, logs, fonts and ROMs are excluded.",
+ "sequence_hash": "inventory_sha256 is SHA-256 over sorted PNG basenames; for each file append UTF-8 basename + NUL + decimal byte length + NUL + lowercase SHA-256 + LF.",
+ "assets": [
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/readable-holds/final/menu-evolution-readable-holds.mp4",
+   "kind": "finished film (revision readable-holds, final)",
+   "bytes": 18578852,
+   "files": 1,
+   "sha256": "824b28a46328a5e50559dad2accec2cbd9bbc8cdfae52c02cc080662047cdcb6"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/readable-holds/final/menu-evolution-readable-holds-master.mkv",
+   "kind": "lossless master (FFV1 + PCM, revision readable-holds, final)",
+   "bytes": 942886175,
+   "files": 1,
+   "sha256": "69793fb2cefb32f5652f622d73d401f0892b5835d4f44e6ff23114a5185f37a5"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/readable-holds/superseded/pre-hub-criteria/final/menu-evolution-readable-holds-pre-hub-criteria.mp4",
+   "kind": "superseded film (readable-holds first render, pre-hub-criteria)",
+   "bytes": 18892757,
+   "files": 1,
+   "sha256": "f298adff92c8842e3be6eedd9f96d21c1ce33bfef514bd833718523e0f4d0965"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/readable-holds/superseded/pre-hub-criteria/final/menu-evolution-readable-holds-pre-hub-criteria-master.mkv",
+   "kind": "superseded lossless master (readable-holds first render, pre-hub-criteria)",
+   "bytes": 942022906,
+   "files": 1,
+   "sha256": "d0d1cc2094c67ad362df34fd964a49e42892aea2e8faaea0214999e7ed3cde4d"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/readable-holds/review/*.png",
+   "kind": "review images (footage-derived)",
+   "bytes": 12300765,
+   "files": 7,
+   "inventory_sha256": "679f57a5d6ec5ca0aec73b1292b96510737e73b159837c643e00c9ed054f0884"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/readable-holds/superseded/pre-hub-criteria/review/*.png",
+   "kind": "review images of the superseded render (footage-derived)",
+   "bytes": 12342156,
+   "files": 7,
+   "inventory_sha256": "c96f1f06d04966c4350ee9f44c0e7a2f150a868f919ca5f0416e9cd2b08fd94d"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "hub-criteria-nine-20261029/final/320/hub/01-hub.png",
+   "kind": "design-review capture still (Hub and Dialogs follow-up, d6771c478)",
+   "bytes": 29354,
+   "files": 1,
+   "sha256": "17702bf096c60e1a4805b8a83f13676e426207f70adfa84fe3abc87b3e15366c"
+  }
+ ],
+ "reused": [
+  {
+   "root": "menu-evolution/production",
+   "path": "revisions/super-sonic-cut/audio/music/s2-music-93-paced.wav",
+   "kind": "music bed (Super Sonic render)",
+   "bytes": 17280044,
+   "files": 1,
+   "sha256": "2fa5b72f9ddfbd816de78849e06a11a4a851e81e136aad4d59b68d2c426c3830",
+   "catalogued_in": "external-assets.super-sonic-cut.json"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/baseline/320/hub/38-hub-crowded.png",
+   "kind": "design-review capture still (hub_t8)",
+   "bytes": 28485,
+   "files": 1,
+   "sha256": "9e320e85843a10b7ac228aa67efc33427f47810eeb57ab3d619348eeebcbb527",
+   "catalogued_in": "external-assets.hill-climb-story.json"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/final/320/hub/38-hub-crowded.png",
+   "kind": "design-review capture still (hub_p1)",
+   "bytes": 29053,
+   "files": 1,
+   "sha256": "96468960075761266014e47f5c61eede01d2e2315e80769a1d0da533c6a4200a",
+   "catalogued_in": "external-assets.hill-climb-story.json"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/review-opus55/hub38-320-annotated.png",
+   "kind": "design-review capture still (hub_rev)",
+   "bytes": 40369,
+   "files": 1,
+   "sha256": "b5fd502de637856b2c2d6e3defbd0b49f89cf257b2fbd61356d52797a5ee8fe2",
+   "catalogued_in": "external-assets.hill-climb-story.json"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/structural/final/320/hub/38-hub-crowded.png",
+   "kind": "design-review capture still (hub_str)",
+   "bytes": 27557,
+   "files": 1,
+   "sha256": "6ac5123aaa918d7528433ccf4c53e70f39c8489ab11ebac8aa558b6d4186ecb6",
+   "catalogued_in": "external-assets.hill-climb-story.json"
+  },
+  {
+   "root": "menu-evolution/design-review-evidence",
+   "path": "menu-target9-20261028/structural/final/320/hub/11-settings.png",
+   "kind": "design-review capture still (set_str)",
+   "bytes": 10095,
+   "files": 1,
+   "sha256": "15ce4936ecaa50bdf2f08fcc0c7fa006d5e04c517c972fadc4c4c375f879970b",
+   "catalogued_in": "external-assets.hill-climb-story.json"
+  },
+  {
+   "root": "menu-evolution/production",
+   "path": "clips/{pre,new}/{hub,settings,locate,mods,legal,shader}/frames/*.png, audio/sfx/*.wav, audio/ui/*.wav",
+   "kind": "moving takes, SFX renders and UI tones",
+   "catalogued_in": "external-assets.json"
+  }
+ ]
+}

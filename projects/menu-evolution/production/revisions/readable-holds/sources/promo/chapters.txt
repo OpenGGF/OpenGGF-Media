@@ -1,0 +1,14 @@
+  0.00-  5.12  The ask: an AI gets every OpenGGF menu and sorts them into six groups
+  5.12- 11.47  The rubric: seven criteria, 1 to 10, one overall judgment
+ 11.47- 14.13  The goal: every group to 8 or better
+ 14.13- 19.45  Rounds 1-4: the loop; Mod manager and legal notice, round 0 to the 8 build; six groups 7 to 7.5
+ 19.45- 22.93  Every menu family: 27 tiles, three below 8
+ 22.93- 25.40  All 27 at 8
+ 25.40- 29.08  Road to 9: we raised the bar; 9 = production polish
+ 29.08- 32.25  Pass 1: polish; no family reaches 9
+ 32.25- 35.63  A fresh AI review marks up the pictures; scores go down
+ 35.63- 39.32  Pass 2: structure; 13 families at 9
+ 39.32- 41.78  Another review sends one 9 back
+ 41.78- 45.88  Pass 3: 26 at 9; one key hint left
+ 45.88- 52.22  27 / 27 at 9 overall; the hub after its follow-up, 9 on each criterion; the six groups, delivered
+ 52.22- 56.30  End card

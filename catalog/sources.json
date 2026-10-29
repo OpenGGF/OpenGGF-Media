@@ -61959,9 +61959,9 @@
   {
     "path": "projects/menu-evolution/README.md",
     "root": "menu-evolution/production",
-    "original_path": "revisions/hill-climb-story/archive-payload/projects/menu-evolution/README.md",
-    "bytes": 6916,
-    "sha256": "25af35fb193f1df9df2bd754b191a150dbd620254ffd269057610053f3ffa328",
+    "original_path": "revisions/readable-holds/archive-payload/projects/menu-evolution/README.md",
+    "bytes": 9722,
+    "sha256": "cd5c238f321627999a8b9ee2645f36e2e4ef47eb467152c68b072081ac81debc",
     "snapshot": "generated index"
   },
   {
@@ -62162,6 +62162,190 @@
     "original_path": "revisions/hill-climb-story/archive-payload/projects/menu-evolution/external-assets.hill-climb-story.json",
     "bytes": 4245,
     "sha256": "dc30dc7bb8e55c859bf89dfe5e804a59232a7a6cc220e4376e25bb34e3f744b5",
+    "snapshot": "generated index"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/README.md",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/README.md",
+    "bytes": 12902,
+    "sha256": "f5b0bce15a326bde3d803e55aad1d044419a3dc8e3b48916ce4b48fd2e5580b0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/provenance/deliverables.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/provenance/deliverables.json",
+    "bytes": 1355,
+    "sha256": "6e4e3b206265b46f54be726708b3b3d9bd0cfb66ab2e777d9107485f7d033a21",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/provenance/source-map.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/provenance/source-map.json",
+    "bytes": 9266,
+    "sha256": "582917f44ef096b6e1b6f9f4d2019d0d411facc618cc546d3bd8138fea645272",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/archive/make_revision_payload.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/archive/make_revision_payload.py",
+    "bytes": 18445,
+    "sha256": "1482137c84f4e2835028b6434fe63e11287195845bbd4c66ae19bed9a7eff7a3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/chapters.txt",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/chapters.txt",
+    "bytes": 880,
+    "sha256": "6e6f62fb2213d272f2f07fceafaf3dbb97103c05c300352e9152a0073dcf518a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/cues.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/cues.json",
+    "bytes": 538,
+    "sha256": "b03055760f9ab6f6d01296724409d9b1318a4a917aee312adec41aee4099f793",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/edit.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/edit.py",
+    "bytes": 77476,
+    "sha256": "6ca15ee9e54d0684dfda9bcab75cabc898665246b53cd9c1269760e355d355e4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/edl.csv",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/edl.csv",
+    "bytes": 2514,
+    "sha256": "fa2c7aeb37eedd1d35a1accfd4cef3f3a18e7920a066a9f09db4bc8b8477ebcf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/identity.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/identity.py",
+    "bytes": 2373,
+    "sha256": "34ad08c0b0259cdbcccff84c31b97b81c752e87efdb888e20851df37c6f7fcdc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/old_holds.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/old_holds.py",
+    "bytes": 2685,
+    "sha256": "c2628db901650134517951b59ee530104505c9aeb6cd522dce7972a9c1efe776",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/reads.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/reads.json",
+    "bytes": 6234,
+    "sha256": "87f53bb4b8461eb41d79d394dcca47b131756669475fc611e8acebe0a229eb80",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/result-row.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/result-row.json",
+    "bytes": 2191,
+    "sha256": "12bea8e362f1edbde63d5708f69c077921473d11794f13e2cac4416d9ba158a7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/sources/promo/review.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/sources/promo/review.py",
+    "bytes": 11257,
+    "sha256": "7aa07d626b5bdf1400d5d3d627e72d8bd1d6636c70736b491e30ac3baef395fc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/README.md",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/README.md",
+    "bytes": 1614,
+    "sha256": "a15e19c3e5260ab268d508add9d22cee854cfc85725e1cdc131713624debd472",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/provenance/deliverables.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/provenance/deliverables.json",
+    "bytes": 993,
+    "sha256": "55e03311cc83877c463651bd670ab594ae269f80ab196d0b90326a620d00c96e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/provenance/source-map.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/provenance/source-map.json",
+    "bytes": 7944,
+    "sha256": "74dbb7ee1d98439f8d304dcb1c437116570d6c6b9dad99774c03e71462c34b28",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/chapters.txt",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/chapters.txt",
+    "bytes": 862,
+    "sha256": "e51a8df0710f3839c2f90b7b7e3b279c402038c6e6667977271911c663bd5d9d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/cues.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/cues.json",
+    "bytes": 538,
+    "sha256": "b03055760f9ab6f6d01296724409d9b1318a4a917aee312adec41aee4099f793",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/edit.py",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/edit.py",
+    "bytes": 74748,
+    "sha256": "df5cb993294db2551c72f16392291d7e25bcf25704fd19f5b75528fb4cbb700c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/edl.csv",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/edl.csv",
+    "bytes": 2413,
+    "sha256": "01a98adb5618c9e8c4a04e9bf6598a039cebce32c9ea689b64e1e2e1896d70de",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/reads.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/reads.json",
+    "bytes": 6096,
+    "sha256": "9b2b68baa6a8ad9abc291d47ef37c5829446757c701e3e89fe9d0f3434c38178",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/production/revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/result-row.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/superseded/pre-hub-criteria/sources/promo/result-row.json",
+    "bytes": 989,
+    "sha256": "8c4c8298b262d4979a8f676d1002ceb131d1c96f6aa41439ce244bf925933687",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/menu-evolution/external-assets.readable-holds.json",
+    "root": "menu-evolution/production",
+    "original_path": "revisions/readable-holds/archive-payload/projects/menu-evolution/external-assets.readable-holds.json",
+    "bytes": 5488,
+    "sha256": "3bcff218e52c703f06453fd09eb181f97b496f58e74ffe4acbf9108b5010c9c1",
     "snapshot": "generated index"
   }
 ]

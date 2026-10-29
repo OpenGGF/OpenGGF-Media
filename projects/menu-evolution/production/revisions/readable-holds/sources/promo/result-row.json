@@ -1,0 +1,30 @@
+{
+ "about": "The final criteria/result block of the readable-holds cut (chapter 27 / 27). edit.py draws this row, its 'was' markers and its line from these values; nothing else in the film repeats them. Replace this file only from a newer verified source (an audit matrix row backed by new captures and a reassessment), update 'source', then re-render with edit.py master and edit.py mp4 and rerun READ_CHECK=1 edit.py reads. The pre-follow-up row (spacing and icons 8.5) is kept in superseded/pre-hub-criteria/sources/promo/result-row.json.",
+ "source": "docs/architecture/audits/2026-10-27-menu-design-review.md at 56c9aed13 (origin/feature/ai-menu-design-review, PR 236; blob 2020e90b4a4b): section 'Hub and Dialogs spacing and icons to 9 (2026-10-29)' > 'Score matrix (Hub and Dialogs follow-up, 2026-10-29)', row A1 Hub, weakest captured state hub/60-hub-overflow-start; accepted in 'Parent acceptance of the exact spacing/icon follow-up'. Code ca3d04a1d + 55d9fec81, captured clean at d6771c478 (the tree of 55d9fec81); d889277f6 and 56c9aed13 are documentation only. Other families keep their own criterion entries (A5 colour 8.5; families outside A1-A7 unchanged from the finish pass): the film claims 9 on each criterion for the hub only.",
+ "family": "A1 Hub",
+ "row_label": "A1 HUB",
+ "subject": "THE HUB",
+ "kicker": "THE HUB AFTER A SPACING AND ICON FOLLOW-UP  ·  29 OCT",
+ "criteria": {
+  "TYPOGRAPHY": "9",
+  "HIERARCHY": "9",
+  "SPACING": "9",
+  "COLOUR": "9",
+  "ICONS": "9",
+  "CONSISTENCY": "9",
+  "CLARITY": "9"
+ },
+ "overall": "9",
+ "was": {
+  "SPACING": "8.5",
+  "ICONS": "8.5"
+ },
+ "was_source": "the finish-pass matrix at d823ce643, row A1 Hub (the follow-up matrix marks both entries '(was 8.5)')",
+ "capture": {
+  "use": "the HUB & DIALOGS cell of the delivered wall (a still, labelled as one; the other five cells stay the d823ce643 moving takes, which the follow-up did not change)",
+  "path": "hub-criteria-nine-20261029/final/320/hub/01-hub.png",
+  "bytes": 29354,
+  "sha256": "17702bf096c60e1a4805b8a83f13676e426207f70adfa84fe3abc87b3e15366c",
+  "head": "d6771c478 clean (identical tree to 55d9fec81), MasterTitleCaptureTool group hub at 320, native 1x"
+ }
+}

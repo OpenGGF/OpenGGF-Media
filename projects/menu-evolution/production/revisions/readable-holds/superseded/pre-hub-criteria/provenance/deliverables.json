@@ -1,0 +1,21 @@
+{
+ "film": {
+  "path": "final/menu-evolution-readable-holds.mp4",
+  "bytes": 18892757,
+  "sha256": "f298adff92c8842e3be6eedd9f96d21c1ce33bfef514bd833718523e0f4d0965",
+  "seconds": "56.300",
+  "frames": 3378,
+  "chapters": 14,
+  "format": "1920x1080 60/1, 3378 frames, 56.300 s, H.264 High yuv420p (BT.709 matrix, TV range), AAC LC 256 kb/s 48 kHz stereo, 14 chapters, faststart",
+  "aac_gain_db": -0.8,
+  "aac_true_peak_dbtp": -1.5,
+  "aac_integrated_lufs": -14.8
+ },
+ "master": {
+  "path": "final/menu-evolution-readable-holds-master.mkv",
+  "bytes": 942022906,
+  "sha256": "d0d1cc2094c67ad362df34fd964a49e42892aea2e8faaea0214999e7ed3cde4d",
+  "format": "FFV1 level 3 bgr0 + PCM s16le 48 kHz stereo, 3378 frames, 56.300 s, 14 chapters"
+ },
+ "earlier_deliverables_unchanged": "final/menu-evolution-promo.mp4 (87.333 s), revisions/super-sonic-cut/final/* and revisions/hill-climb-story/final/* are untouched; their sha256 values in their own deliverables.json were re-verified on 2026-10-29"
+}

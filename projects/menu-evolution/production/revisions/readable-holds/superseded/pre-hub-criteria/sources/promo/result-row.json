@@ -1,0 +1,17 @@
+{
+ "about": "The final criteria/result block of the readable-holds cut (chapter 27 / 27). edit.py draws this row and builds its caveat line from these values; nothing else in the film repeats them. Replace this file only from a newer verified source (an audit matrix row backed by new captures and a reassessment), update 'source', then re-render with edit.py master and edit.py mp4 and rerun edit.py reads.",
+ "source": "docs/architecture/audits/2026-10-27-menu-design-review.md at d823ce643: Finish pass toward 9 > Score matrix (finish pass), row A1 Hub (weakest captured state 320/hub/60-hub-overflow-start). Lead acceptance keeps these criterion entries: 'The detailed criterion ratings above retain their 8.5 entries'.",
+ "family": "A1 Hub",
+ "row_label": "A1 HUB",
+ "kicker": "THE HUB, CRITERION BY CRITERION",
+ "criteria": {
+  "TYPOGRAPHY": "9",
+  "HIERARCHY": "9",
+  "SPACING": "8.5",
+  "COLOUR": "9",
+  "ICONS": "8.5",
+  "CONSISTENCY": "9",
+  "CLARITY": "9"
+ },
+ "overall": "9"
+}

@@ -1,0 +1,44 @@
+[
+{
+"frame": 900,
+"era": "new",
+"take": "mods",
+"take_frame": 105,
+"cue": "NAVIGATE"
+},
+{
+"frame": 926,
+"era": "new",
+"take": "mods",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2552,
+"era": "new",
+"take": "settings",
+"take_frame": 131,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2579,
+"era": "new",
+"take": "settings",
+"take_frame": 158,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2605,
+"era": "new",
+"take": "settings",
+"take_frame": 184,
+"cue": "NAVIGATE"
+},
+{
+"frame": 2683,
+"era": "new",
+"take": "settings",
+"take_frame": 262,
+"cue": "NAVIGATE"
+}
+]

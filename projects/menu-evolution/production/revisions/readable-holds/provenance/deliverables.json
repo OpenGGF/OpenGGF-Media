@@ -1,0 +1,27 @@
+{
+ "film": {
+  "path": "final/menu-evolution-readable-holds.mp4",
+  "bytes": 18578852,
+  "sha256": "824b28a46328a5e50559dad2accec2cbd9bbc8cdfae52c02cc080662047cdcb6",
+  "seconds": "56.300",
+  "frames": 3378,
+  "chapters": 14,
+  "format": "1920x1080 60/1, 3378 frames, 56.300 s, H.264 High yuv420p (BT.709 matrix, TV range), AAC LC 256 kb/s 48 kHz stereo, 14 chapters, faststart",
+  "aac_gain_db": -0.8,
+  "aac_true_peak_dbtp": -1.5,
+  "aac_integrated_lufs": -14.8
+ },
+ "master": {
+  "path": "final/menu-evolution-readable-holds-master.mkv",
+  "bytes": 942886175,
+  "sha256": "69793fb2cefb32f5652f622d73d401f0892b5835d4f44e6ff23114a5185f37a5",
+  "format": "FFV1 level 3 bgr0 + PCM s16le 48 kHz stereo, 3378 frames, 56.300 s, 14 chapters"
+ },
+ "superseded": {
+  "path": "superseded/pre-hub-criteria/",
+  "film_sha256": "f298adff92c8842e3be6eedd9f96d21c1ce33bfef514bd833718523e0f4d0965",
+  "master_sha256": "d0d1cc2094c67ad362df34fd964a49e42892aea2e8faaea0214999e7ed3cde4d",
+  "note": "first render (finish-pass A1 row, pre-follow-up hub cell); frames before 2826 pixel-identical, audio bit-identical"
+ },
+ "earlier_deliverables_unchanged": "final/menu-evolution-promo.mp4 (87.333 s), revisions/super-sonic-cut/final/* and revisions/hill-climb-story/final/* are untouched; their sha256 values in their own deliverables.json were re-verified on 2026-10-29"
+}

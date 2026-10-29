@@ -1,6 +1,41 @@
 # ROAD TO 9: OpenGGF menu evolution promo
 
-## Latest delivery: the hill-climb story cut (2026-10-29)
+## Latest delivery: the readable-holds cut (2026-10-29)
+
+The pacing revision [`production/revisions/readable-holds/`](production/revisions/readable-holds/README.md)
+answers the user's review of the hill-climb story cut: "great work but some of the screens are a bit rushed.
+lots of info on the screen that gets flashed up too quickly to ingest" and "some of the screens transition as
+soon as they finish animating, too". Its external film
+`revisions/readable-holds/final/menu-evolution-readable-holds.mp4` is **56.300 seconds** (3,378 frames),
+1920x1080 at 60 fps, H.264 with AAC stereo 48 kHz (integrated -14.8 LUFS, true peak -1.5 dBTP) and
+14 chapters, with a lossless FFV1 + PCM master. Made by **Claude Opus 5.5 (xhigh)**; delivered for
+review, so the user's acceptance is not recorded here.
+
+Same story, bed and look as the hill-climb story cut, re-edited from its sources (no slow motion, no stretched
+video): every information-heavy screen now finishes its reveal, then holds still for 2.0-3.0
+seconds before it changes (the accepted cut held its dense screens 0-1.5 s), measured frame by frame on a frozen
+render (`reads.json`). Dense boards were simplified to one idea at a time; repeated captions, the scale line,
+footnotes, the derived "12" count and the Time Attack still comparison were removed. The Super Sonic bed plays as
+one continuous excerpt (bed beats 16 to the stab on 152).
+
+The user then asked for the hub's spacing and icon criteria to be earned rather than rounded; an engine follow-up
+did that (`ca3d04a1d`, `55d9fec81`, audit at `56c9aed13`). The final row shows the follow-up's exact A1 Hub row
+(9 on each criterion, spacing and icons marked "was 8.5") from `result-row.json`, and the delivered wall's hub
+cell is the follow-up's own still, labelled as one; only the hub is claimed 9 on each criterion. The first
+render, with the finish-pass row, is kept as `superseded/pre-hub-criteria/`. Sound was checked by measurement
+only, motion through frames and strips.
+
+- [Revision README](production/revisions/readable-holds/README.md): reading holds before and after, what was
+  removed, checks and limits.
+- [Edit](production/revisions/readable-holds/sources/promo/edit.py): brief, beat sheet and reading-hold table in
+  its docstring; chapters, source intervals, cues and holds beside it.
+- [External assets of this cut](external-assets.readable-holds.json): film, master, review images, the superseded
+  render and the follow-up still, hashed and not uploaded, plus the already-catalogued bed, takes and capture
+  stills it reuses.
+
+## Third delivery: the hill-climb story cut (43.2 s, retained)
+
+The user found this cut "great work but some of the screens are a bit rushed. lots of info on the screen that gets flashed up too quickly to ingest". It stays byte-identical with its sources; the readable-holds cut is re-edited from them.
 
 The narrative rebuild [`production/revisions/hill-climb-story/`](production/revisions/hill-climb-story/README.md)
 answers the user's review of the Super Sonic cut: "not bad but the direction sucks. It's difficult to

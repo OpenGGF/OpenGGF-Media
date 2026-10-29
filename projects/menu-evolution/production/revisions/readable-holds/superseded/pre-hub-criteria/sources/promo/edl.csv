@@ -1,0 +1,12 @@
+start_s,end_s,start_frame,end_frame,chapter,layout,sources
+0.000,5.933,0,356,The ask: an AI gets every OpenGGF menu and sorts them into six groups / rubric,"wall of six cells 2x (3x2), dimmed under the matrix from b12.5, faded out by b14.5","pre/hub take frames 160-515, pre/settings take frames 100-455, pre/locate take frames 40-395, pre/mods take frames 53-408, pre/legal take frames 0-355, pre/shader take frames 145-500"
+5.933,14.133,356,848,The rubric / the goal,"matrix, overall and target columns",editorial board
+14.133,15.667,848,940,"Rounds 1-4: the loop; Mod manager and legal notice, round 0 to the 8 build; six groups 7 to 7.5",pane 4x + loop strip + six-row board; divider b35.25-36.5,pre+new/mods take frames 53-144
+15.667,19.683,940,1181,"Rounds 1-4: the loop; Mod manager and legal notice, round 0 to the 8 build; six groups 7 to 7.5",pane 4x + loop strip + six-row board; divider b38.25-39.25,pre+new/legal take frames 0-240
+19.450,29.083,1167,1745,Every family / all 27 at 8 / road to 9,"full family board (tiles cascade), slam, target 8 -> 9",editorial board
+29.083,32.250,1745,1935,Pass 1,evidence pane 3x + subject score + family board,menu-target9-20261028/baseline/320/hub/38-hub-crowded.png then menu-target9-20261028/final/320/hub/38-hub-crowded.png
+32.250,35.633,1935,2138,Fresh review,evidence pane: mark-up drawn onto the same capture,menu-target9-20261028/final/320/hub/38-hub-crowded.png + menu-target9-20261028/review-opus55/hub38-320-annotated.png (1:1)
+35.633,41.783,2138,2507,Structure / sent back,divider b87.75-89,menu-target9-20261028/review-opus55/hub38-320-annotated.png | menu-target9-20261028/structural/final/320/hub/38-hub-crowded.png
+41.783,45.883,2507,2753,Finish,"divider b102.75-104, still | moving",menu-target9-20261028/structural/final/320/hub/11-settings.png | new/settings take frames 86-331
+45.883,50.383,2753,3023,"27 / 27 at 9 overall; the hub criterion by criterion; the six groups, delivered","full family board, slam, the final criteria row (result-row.json)",editorial board
+50.383,56.300,3023,3378,"27 / 27 at 9 overall; the hub criterion by criterion; the six groups, delivered",iris into the wall of six cells 2x; blurred under the end card from b127.5,"new/hub take frames 160-514, new/settings take frames 86-440, new/locate take frames 40-394, new/mods take frames 53-407, new/legal take frames 0-354, new/shader take frames 145-499"

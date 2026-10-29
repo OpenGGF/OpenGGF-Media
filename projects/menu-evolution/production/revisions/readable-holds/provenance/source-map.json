@@ -1,0 +1,122 @@
+{
+ "revision": "readable-holds (menu-evolution), 2026-10-29, Claude Opus 5.5 (xhigh, fast mode off), pacing and readability revision of hill-climb-story; final render after the Hub and Dialogs criteria follow-up (the first render is kept as superseded/pre-hub-criteria)",
+ "request": "\"great work but some of the screens are a bit rushed. lots of info on the screen that gets flashed up too quickly to ingest\"; \"some of the screens transition as soon as they finish animating, too\"; then: hub criteria shown exactly, no rounded 9s, overall 9 distinguished from criterion 8.5; then \"Hubs & Dialogs showing 9 everywhere, but the final scores have 8.5. None of this rounding crap; I want those spacing and icon scores at 9!\" (resolved by the engine follow-up, not by relabelling)",
+ "base": {
+  "commit": "d823ce643d2acd23e9024aafa55b4f90211421ff",
+  "worktree": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-e4055369 (T3 isolated checkout, branch readable-promo-holds, clean; no engine change, no Maven build or test: no recapture, the bed render reused)"
+ },
+ "edited_from": "revisions/hill-climb-story/sources/promo/edit.py (unchanged); the readable-holds edit is a new file re-timed from it",
+ "score_source": "docs/architecture/audits/2026-10-27-menu-design-review.md at d823ce643: Menu taxonomy, Rubric, Round 0 baseline, Round 1-4 score tables, All-menus target 8 (final matrix, completion, final families, lead verification), Hill climb toward 9 matrix, Fresh critical review, Structural pass matrix, Independent structural review, Finish pass matrix, Lead acceptance. Values and section per value: sources/promo/edit.py (ROUND0, ROUNDS, PASSES, P1_UP, REV_DOWN, STR9, SENT, FIN9) at d823ce643; the final criteria row from the same audit at 56c9aed13, section \"Hub and Dialogs spacing and icons to 9 (2026-10-29)\", follow-up matrix row A1 Hub (sources/promo/result-row.json).",
+ "result_row": {
+  "path": "sources/promo/result-row.json",
+  "sha256": "12bea8e362f1edbde63d5708f69c077921473d11794f13e2cac4416d9ba158a7",
+  "values": "A1 Hub after the follow-up: 9 on each of typography, hierarchy, spacing, colour, icons, consistency, clarity; overall 9; spacing and icons marked \"was 8.5\" (finish pass at d823ce643)",
+  "source_commits": "ca3d04a1d + 55d9fec81 (code; captured clean at d6771c478, identical tree 2cd658107), d889277f6 and 56c9aed13 (documentation); audit blob 2020e90b4a4b at 56c9aed13 on origin/feature/ai-menu-design-review (PR 236)",
+  "scope": "only the hub is claimed 9 on each criterion; A5 Help colour stays 8.5 and families outside A1-A7 keep their finish-pass entries",
+  "superseded": "superseded/pre-hub-criteria/sources/promo/result-row.json (finish-pass row, spacing and icons 8.5)"
+ },
+ "reused": {
+  "production_root": "/home/farrell/scratch/agent-tmp/codex/menu-evolution-promo-20261029 (read in place by relative path from the edit: clips/, audio/sfx, audio/ui)",
+  "clips": "clips/pre (2f9ca84b1, the round-0 menus: no src/main change since the round-0 base 9a796ec60f) and clips/new (d823ce643, delivered); takes hub, settings, locate, mods, legal, shader; unchanged, no recapture",
+  "music": {
+   "path": "revisions/super-sonic-cut/audio/music/s2-music-93-paced.wav",
+   "sha256": "2fa5b72f9ddfbd816de78849e06a11a4a851e81e136aad4d59b68d2c426c3830",
+   "identity": "engine 0x93 = Sonic2Music.SUPER_SONIC = native $96 MusID_SuperSonic, ROM $0FCBBC of canonical S2 REV01 (SHA-1 8BCA5DCEF1AF3E00098666FD892DC1C2A76333F9), FmSfxRenderTool --game s2 --music 93 --rate 48000 --max-seconds 90 --paced; the exact file of the super-sonic-cut (see its provenance/source-map.json for the command and header probe); edit.py master refuses a different hash",
+   "excerpt": "one continuous excerpt: from bed second 6.5536 (bed beat 16, sample 314572) for 55.8739 s, ending 10.1 frames after the G-major stab on bed beat 152 (bed frame 3745.6, the rest after the stab; the accepted cut ended at the same point of the previous loop, beat 104, frame 2566); 2 ms fade-in, 10 ms fade-out, gain 0.75; not re-rendered, not time-stretched"
+  },
+  "sfx": {
+   "a8": {
+    "path": "audio/sfx/s2-sfx-a8-paced.wav",
+    "sha256": "4ba11c1978ec756593cd02b7c706e6b4859e3b6ad0b5b63e2a0d66ae55857766"
+   },
+   "ab": {
+    "path": "audio/sfx/s2-sfx-ab-paced.wav",
+    "sha256": "30bf178e9325bd68570ed3d4571a68f928a6cb4efdb40320d4824642ebe42db3"
+   },
+   "bc": {
+    "path": "audio/sfx/s2-sfx-bc-paced.wav",
+    "sha256": "6e1a82116824146591bde8d9fb8b589a26969596ed31cd573fd31276e7dca3c2"
+   },
+   "c3": {
+    "path": "audio/sfx/s2-sfx-c3-paced.wav",
+    "sha256": "b0eea29a548ddc9ad9307070878172848f60374eb7303bb154ed6028bdf5fc07"
+   },
+   "c5": {
+    "path": "audio/sfx/s2-sfx-c5-paced.wav",
+    "sha256": "1e55363ba8e8a379e8597a1f6c3e510d6a171600ccbcf235065cf546b7a700e4"
+   },
+   "cd": {
+    "path": "audio/sfx/s2-sfx-cd-paced.wav",
+    "sha256": "ba4cfc9c71e30269334d79b0fb5b95cc058ff0c596c8eb8fe666872d0fd4d1d8"
+   }
+  },
+  "sfx_identity": "S2 REV01 renders of the original production: A8 Beep, AB Swish, BC Spindash Release, C3 Enter Giant Ring, C5 Tally End, CD Blip (Sonic2Sfx.java)",
+  "ui_tones": {
+   "navigate": {
+    "path": "audio/ui/ui-navigate.wav",
+    "sha256": "cafcd2ac65d1d9a04de1cc9af2ecd18d398eefa5f59ee476c1d006f6b74f023a"
+   }
+  },
+  "badge": {
+   "path": "src/main/resources/icon/openggf-256.png at d823ce643",
+   "sha256": "05f647727ed2bbb43129ced8fc52a8731c6a68cbd5ddee920d5f645e827606e0"
+  },
+  "fonts": "the five Fira faces of the original (system package ttf-fira-sans 4.301, OFL); promo_kit fonts report all roles ok"
+ },
+ "evidence_stills": {
+  "root": "/home/farrell/scratch/agent-tmp/codex (MENU_EVIDENCE; the audit's evidence sets, outside every repository)",
+  "files": {
+   "hub_t8": {
+    "path": "menu-target9-20261028/baseline/320/hub/38-hub-crowded.png",
+    "bytes": 28485,
+    "sha256": "9e320e85843a10b7ac228aa67efc33427f47810eeb57ab3d619348eeebcbb527",
+    "head": "a694db926 (the pushed target-8 delivery), clean",
+    "use": "pass 1: the crowded hub at 8"
+   },
+   "hub_p1": {
+    "path": "menu-target9-20261028/final/320/hub/38-hub-crowded.png",
+    "bytes": 29053,
+    "sha256": "96468960075761266014e47f5c61eede01d2e2315e80769a1d0da533c6a4200a",
+    "head": "a694db926 + the toward-9 pass-1 working tree (committed as 518c0535d / ea7df5c1a; the critical review inspected these pixels)",
+    "use": "pass 1: the summary line; base of the mark-up"
+   },
+   "hub_rev": {
+    "path": "menu-target9-20261028/review-opus55/hub38-320-annotated.png",
+    "bytes": 40369,
+    "sha256": "b5fd502de637856b2c2d6e3defbd0b49f89cf257b2fbd61356d52797a5ee8fe2",
+    "head": "the independent Opus 5.5 high critical review of ea7df5c1a: its annotated 3x copy of hub_p1 (1.9 % of pixels differ = the mark-up)",
+    "use": "fresh review: the reviewer's mark-up, shown 1:1"
+   },
+   "hub_str": {
+    "path": "menu-target9-20261028/structural/final/320/hub/38-hub-crowded.png",
+    "bytes": 27557,
+    "sha256": "6ac5123aaa918d7528433ccf4c53e70f39c8489ab11ebac8aa558b6d4186ecb6",
+    "head": "d8d947336 (structural pass)",
+    "use": "structure: the rebuilt hub"
+   },
+   "set_str": {
+    "path": "menu-target9-20261028/structural/final/320/hub/11-settings.png",
+    "bytes": 10095,
+    "sha256": "15ce4936ecaa50bdf2f08fcc0c7fa006d5e04c517c972fadc4c4c375f879970b",
+    "head": "d8d947336 (structural pass)",
+    "use": "finish: Settings before the finish pass"
+   },
+   "hub_fu": {
+    "path": "hub-criteria-nine-20261029/final/320/hub/01-hub.png",
+    "bytes": 29354,
+    "sha256": "17702bf096c60e1a4805b8a83f13676e426207f70adfa84fe3abc87b3e15366c",
+    "head": "d6771c478 clean (tree of 55d9fec81), MasterTitleCaptureTool group hub at 320, native 1x (hub-criteria-nine-20261029/final/provenance.json)",
+    "use": "the delivered wall's HUB & DIALOGS cell, a still labelled FOLLOW-UP STILL (2x nearest)"
+   }
+  },
+  "not_used": "ta_pre, ta_8 (the Time Attack 5.5 -> 8 comparison) and ta_tab (the TAB: DETAILS lobby still) were removed in this cut",
+  "follow_up_scope": "The follow-up's before/final captures differ for the hub states and not for the other five wall groups' representative states (11-settings 0.00 %, 40-locate-rom 0.17 % of pixels), so only the hub cell is replaced; the other cells remain the d823ce643 moving takes."
+ },
+ "pixel_identity": "sources/promo/identity.py: new/mods#52 equals the m12 Mod manager capture at 64ed120d2, a694db926, d8d947336 and a513dd5fd (0.00 % differing pixels); new/legal#398 differs from a694db926..a513dd5fd only by 0.41 % (the prompt blink); new/settings#86 equals a513dd5fd 11-settings (0.01 %) and differs from d8d947336 by 14.96 %. Hence the labels \"AT 8 · 28 OCT\" (Mod manager, legal notice) and \"PASS 3 · DELIVERED\" (Settings). Rechecked with this revision's identity.py (unchanged probe): same results.",
+ "tools": {
+  "python": "Python 3.14 venv in the worktree target/promo-venv with numpy 2.5.4, Pillow 13.0.0 (removed after delivery)",
+  "promo_kit": "tools/media/promo_kit.py at d823ce643 (last change c7d66bbf9), used unchanged",
+  "ffmpeg": "n9.0.2"
+ },
+ "derived_value_removed": "The hill-climb story's derived \"12\" is not shown: the counter is hidden while the sent-back tile and its pill are on screen and returns at 26 (the finish-pass matrix)."
+}
