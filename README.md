@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**33 production groups · 7,797 preserved source files · approximately 192 GiB of
+**33 production groups · 7,807 preserved source files · approximately 194 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -43,7 +43,7 @@ this repository contains their production sources and location catalog.
 | [Sonic Echoes promo](projects/sonic-echoes-promo/) | 61 | 66 |
 | [Day Off: Stageplay introduction promo](projects/stageplay-day-off-promo/) | 116 | 71 |
 | [ROAD TO 9: menu evolution promo, Super Sonic, hill-climb story and readable-holds cuts](projects/menu-evolution/) | 156 | 85 |
-| [S2 Competition highlights for James](projects/s2-competition-highlights/) | 10 | 21 |
+| [S2 Competition highlights for James, v1 and v2](projects/s2-competition-highlights/) | 21 | 37 |
 | [Shared production workflows and generic reel builder](projects/shared-production/) | 5 | 0 |
 
 The original release-reel projects cover Sonic 1, Sonic 2 and Sonic 3&K. Later

@@ -310,5 +310,17 @@
     "original": "~/Videos/OGGF/s2-competition/native-full",
     "archive": "",
     "notes": "Native BizHawk 2.11/GPGX per-frame capture of the S2 Competition tie route (2026-11-08); the parity split uses act-1 frames."
+  },
+  {
+    "id": "s2-competition-highlights/v2",
+    "original": "~/Videos/OGGF/s2-competition/highlights/v2",
+    "archive": "projects/s2-competition-highlights/revisions/v2",
+    "notes": "Reel v2 (both players at once): edit, edit list, prep/mux scripts; frames, soundtrack and the film stay external."
+  },
+  {
+    "id": "s2-competition-highlights/native-sim2",
+    "original": "~/Videos/OGGF/s2-competition",
+    "archive": "",
+    "notes": "Native BizHawk per-frame capture of the simultaneous route (native-sim2) and its exported BK2 (simultaneous-2)."
   }
 ]

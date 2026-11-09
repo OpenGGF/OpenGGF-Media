@@ -11,7 +11,18 @@ engine plays it:
 - The 1-1 tie fading to white into the competitive special stage, which uses the one-player
   stage's slowdown approximation.
 
-## Revision v1 (final, delivered)
+## Revision v2 (final, delivered)
+
+Feedback on v1: "can we please have both players playing at once rather than alternating?" and
+CNZ objects looked missing. v2 cuts from the new simultaneous frozen route (both players race each
+EHZ act together, readable results boards, 1-1 tie into the special stage) and the CNZ route after
+its object-sprite fix. The engine vs BizHawk split now shows both players moving at once, through the
+EHZ spiral, ending before the first native level-lag frame. Sources and provenance:
+[`revisions/v2/`](revisions/v2/). Rebuild as for v1 with `verify-and-capture.sh` (focused route
+checks plus captures) and `revisions/v2/*`; native parity frames come from `capture_every_frame.lua`
+with `plan-sim2.lua`.
+
+## Revision v1 (superseded)
 
 - Sources: [`sources/`](sources/).
   - `capture.sh` records the three frozen routes, with engine audio, at the engine commit.

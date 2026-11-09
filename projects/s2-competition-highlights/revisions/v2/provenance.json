@@ -1,0 +1,15 @@
+{
+  "production": "S2 Competition highlights for James, v2",
+  "date": "2026-11-09",
+  "feedback": "User on v1: \"can we please have both players playing at once rather than alternating?\" and \"it looked like objects were missing or weren't rendered properly in Casino Night Zone?\"",
+  "response": "New planner-authored frozen route ehz-simultaneous-tie-special (both players race each act together; P1 wins act 1, P2 act 2; ~4 s readable results boards; 1-1 tie into special stage 1). CNZ Competition object sprites restored (08166e647). Simultaneous play exposed an Obj06 spiral jump-release bug, fixed in 3250d8b10.",
+  "source_kind": "observed gameplay: cold frozen-route replays (DebugSonic2CompetitionRouteVideo, engine audio); native BizHawk 2.11/GPGX per-frame frames of the simultaneous route for the labelled parity split",
+  "engine_commit": "55c41c4fa6bfbb75641b195c4eed6723e08c8ff5",
+  "routes": {
+    "ehz-simultaneous-tie-special": "8262 rows, ENGINE passed; BIZHAWK stamp failed (native level lag from frame 2480 shifts inputs; positions match through engine row 2410)",
+    "cnz1-slot-flip": "2486 rows, ENGINE passed; CNZ gameplay diverges from native before the slots (documented frontier)"
+  },
+  "native_parity_frames": "~/Videos/OGGF/s2-competition/native-sim2/frames from simultaneous-2/ehz-simultaneous-tie-special.bk2 (sha256 570b9c6b...), captured with capture_every_frame.lua plan-sim2.lua under xvfb with LIBGL_ALWAYS_SOFTWARE=1 EGL_PLATFORM=x11; native frame = engine row + 69; parity shot rows 1940-2389 end before the first native lag frame",
+  "deliverable": "v2/out/s2-competition-highlights-v2.mp4, 75.63 s, 1920x1080p60, H.264 + AAC 256k, 9 chapters, -14.5 LUFS integrated, -2.1 dBFS true peak",
+  "limits": "Sound checked by measurement only; motion by per-cut contact sheets. The CNZ take shows engine gameplay, not native-matching gameplay."
+}

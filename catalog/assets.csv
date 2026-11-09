@@ -15115,3 +15115,19 @@ s2-competition-highlights,s2-competition-highlights/production,src,superseded ca
 s2-competition-highlights,s2-competition-highlights/production,sheets,review contact sheets,4701062,9
 s2-competition-highlights,s2-competition-highlights/native,frames,native reference frame sequence,298930415,19078
 s2-competition-highlights,s2-competition-highlights/native,frames.csv,native per-frame state CSV,477736,1
+s2-competition-highlights,s2-competition-highlights/v2,out/s2-competition-highlights-v2.mp4,"finished video (final, v2)",170736435,1
+s2-competition-highlights,s2-competition-highlights/v2,frames,frame sequence,94121938,4598
+s2-competition-highlights,s2-competition-highlights/v2,build/soundtrack.wav,assembled soundtrack,14521644,1
+s2-competition-highlights,s2-competition-highlights/v2,build/promo-video.mp4,video master (pre-mux),168215386,1
+s2-competition-highlights,s2-competition-highlights/production,cap2/ehz-simultaneous-tie-special/engine.mkv,recording,898609050,1
+s2-competition-highlights,s2-competition-highlights/production,cap2/ehz-simultaneous-tie-special/audio.pcm,engine audio capture,26438400,1
+s2-competition-highlights,s2-competition-highlights/production,cap2/ehz-simultaneous-tie-special/engine-frames.csv,measured gameplay state CSV,581265,1
+s2-competition-highlights,s2-competition-highlights/production,cap2/ehz-simultaneous-tie-special/result.txt,route replay verdict,2943,1
+s2-competition-highlights,s2-competition-highlights/production,cap2/cnz1-slot-flip/engine.mkv,recording,155451419,1
+s2-competition-highlights,s2-competition-highlights/production,cap2/cnz1-slot-flip/audio.pcm,engine audio capture,7955200,1
+s2-competition-highlights,s2-competition-highlights/production,cap2/cnz1-slot-flip/engine-frames.csv,measured gameplay state CSV,156612,1
+s2-competition-highlights,s2-competition-highlights/production,cap2/cnz1-slot-flip/result.txt,route replay verdict,3135,1
+s2-competition-highlights,s2-competition-highlights/production,cap-sim,superseded preview capture (pre-spiral-fix candidate route),864753510,7
+s2-competition-highlights,s2-competition-highlights/native-sim2,native-sim2/frames,native reference frame sequence,43860292,2700
+s2-competition-highlights,s2-competition-highlights/native-sim2,native-sim2/frames.csv,native per-frame state CSV,60570,1
+s2-competition-highlights,s2-competition-highlights/native-sim2,simultaneous-2/ehz-simultaneous-tie-special.bk2,native input movie (route export),3793,1
