@@ -1,0 +1,42 @@
+;FFMETADATA1
+title=S2 Competition, rebuilt (for James)
+[CHAPTER]
+TIMEBASE=1/60
+START=0
+END=300
+title=Remember that branch?
+[CHAPTER]
+TIMEBASE=1/60
+START=300
+END=882
+title=So I rebuilt it
+[CHAPTER]
+TIMEBASE=1/60
+START=882
+END=1452
+title=Emerald Hill, player 1
+[CHAPTER]
+TIMEBASE=1/60
+START=1452
+END=1932
+title=Same inputs, same frames
+[CHAPTER]
+TIMEBASE=1/60
+START=1932
+END=2682
+title=Player 2 and results
+[CHAPTER]
+TIMEBASE=1/60
+START=2682
+END=3232
+title=Casino Night slots
+[CHAPTER]
+TIMEBASE=1/60
+START=3232
+END=4038
+title=Tie into the special stage
+[CHAPTER]
+TIMEBASE=1/60
+START=4038
+END=4428
+title=Sorry about the branch

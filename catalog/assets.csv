@@ -15094,3 +15094,24 @@ menu-evolution,menu-evolution/production,revisions/readable-holds/superseded/pre
 menu-evolution,menu-evolution/production,revisions/readable-holds/review/*.png,review images (footage-derived),12300765,7
 menu-evolution,menu-evolution/production,revisions/readable-holds/superseded/pre-hub-criteria/review/*.png,review images of the superseded render (footage-derived),12342156,7
 menu-evolution,menu-evolution/design-review-evidence,hub-criteria-nine-20261029/final/320/hub/01-hub.png,"design-review capture still (Hub and Dialogs follow-up, d6771c478)",29354,1
+s2-competition-highlights,s2-competition-highlights/production,out/s2-competition-highlights-v1.mp4,finished video (final),103662745,1
+s2-competition-highlights,s2-competition-highlights/production,cap/ehz-tied-act-wins-special/engine.mkv,recording,1787316016,1
+s2-competition-highlights,s2-competition-highlights/production,cap/ehz-tied-act-wins-special/audio.pcm,engine audio capture,60691200,1
+s2-competition-highlights,s2-competition-highlights/production,cap/ehz-tied-act-wins-special/engine-frames.csv,measured gameplay state CSV,1436070,1
+s2-competition-highlights,s2-competition-highlights/production,cap/ehz-tied-act-wins-special/result.txt,route replay verdict,3165,1
+s2-competition-highlights,s2-competition-highlights/production,cap/cnz1-slot-flip/engine.mkv,recording,153455625,1
+s2-competition-highlights,s2-competition-highlights/production,cap/cnz1-slot-flip/audio.pcm,engine audio capture,7955200,1
+s2-competition-highlights,s2-competition-highlights/production,cap/cnz1-slot-flip/engine-frames.csv,measured gameplay state CSV,156612,1
+s2-competition-highlights,s2-competition-highlights/production,cap/cnz1-slot-flip/result.txt,route replay verdict,3135,1
+s2-competition-highlights,s2-competition-highlights/production,cap/ehz-zone-results/engine.mkv,recording,1789714685,1
+s2-competition-highlights,s2-competition-highlights/production,cap/ehz-zone-results/audio.pcm,engine audio capture,59564800,1
+s2-competition-highlights,s2-competition-highlights/production,cap/ehz-zone-results/engine-frames.csv,measured gameplay state CSV,1410968,1
+s2-competition-highlights,s2-competition-highlights/production,cap/ehz-zone-results/result.txt,route replay verdict,3139,1
+s2-competition-highlights,s2-competition-highlights/production,frames,frame sequence,88880858,4518
+s2-competition-highlights,s2-competition-highlights/production,audio,engine audio (wav),128211434,3
+s2-competition-highlights,s2-competition-highlights/production,build/soundtrack.wav,assembled soundtrack,14169644,1
+s2-competition-highlights,s2-competition-highlights/production,build/promo-video.mp4,video master (pre-mux),101210852,1
+s2-competition-highlights,s2-competition-highlights/production,src,superseded capture (9b2be2ab6; CNZ failed),3735442652,22
+s2-competition-highlights,s2-competition-highlights/production,sheets,review contact sheets,4701062,9
+s2-competition-highlights,s2-competition-highlights/native,frames,native reference frame sequence,298930415,19078
+s2-competition-highlights,s2-competition-highlights/native,frames.csv,native per-frame state CSV,477736,1

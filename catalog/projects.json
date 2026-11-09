@@ -222,5 +222,12 @@
     "notes": "Promo of the engine menus across OpenGGF 0.5, the pre-redesign 0.7 menus and the delivered redesign with dated design-review scores (first film, 87.333 s); its half-length recut on Sonic 2's Super Sonic music (43.2 s); the hill-climb story cut (43.2 s), which tells the AI design review itself; and the readable-holds cut (latest delivery), the same story re-edited so every dense screen settles and holds before it changes, ending on the hub's exact criteria after its spacing and icon follow-up (9 on each) and that follow-up's still; its pre-follow-up first render is kept as superseded. Edits, recorders, take recipes, capture records, reading-hold measurements and provenance. Films, masters, frames, ROM-derived audio, review captures and fonts remain external. Listening and real-time viewing not claimed.",
     "source_files": 156,
     "catalog_entries": 85
+  },
+  {
+    "id": "s2-competition-highlights",
+    "title": "S2 Competition highlights for James (rebuilt Competition mode)",
+    "notes": "73.8 s reel of the rebuilt Sonic 2 two-player Competition mode (OpenGGF PR #273, engine a41d0c714): cold frozen-route replays with engine audio, a labelled engine vs native BizHawk parity split, CNZ slots, and the tie into the paced competitive special stage. Edit, edit list, capture/prep/mux scripts and provenance; captures, frames, audio, native frames and the film remain external. Sound checked by measurement only.",
+    "source_files": 10,
+    "catalog_entries": 21
   }
 ]

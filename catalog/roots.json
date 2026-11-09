@@ -298,5 +298,17 @@
     "original": "/home/farrell/scratch/agent-tmp/codex",
     "archive": "",
     "notes": "Menu design-review evidence sets (2026-10-28/29 captures of the audit, outside every repository): the capture stills and the reviewer's annotated picture used by the hill-climb story cut; hashed, not uploaded."
+  },
+  {
+    "id": "s2-competition-highlights/production",
+    "original": "~/Videos/OGGF/s2-competition/highlights",
+    "archive": "projects/s2-competition-highlights/sources",
+    "notes": "Task directory of the 2026-11-09 reel: edit, edit list, capture/prep/mux scripts; captures, frames, audio and the film stay external."
+  },
+  {
+    "id": "s2-competition-highlights/native",
+    "original": "~/Videos/OGGF/s2-competition/native-full",
+    "archive": "",
+    "notes": "Native BizHawk 2.11/GPGX per-frame capture of the S2 Competition tie route (2026-11-08); the parity split uses act-1 frames."
   }
 ]

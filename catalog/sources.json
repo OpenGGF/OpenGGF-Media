@@ -62347,5 +62347,85 @@
     "bytes": 5488,
     "sha256": "3bcff218e52c703f06453fd09eb181f97b496f58e74ffe4acbf9108b5010c9c1",
     "snapshot": "generated index"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/PLAN.md",
+    "root": "s2-competition-highlights/production",
+    "original_path": "PLAN.md",
+    "bytes": 1397,
+    "sha256": "59a3a7222387629e0774f77c981f8453cb144c6ab3052e5108cf476778d15758",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/capture.sh",
+    "root": "s2-competition-highlights/production",
+    "original_path": "capture.sh",
+    "bytes": 834,
+    "sha256": "ff1a78eec8c64845cf28505b796e857236e331db10b3e8f26a44b338733bbe06",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/chapters.ffmeta",
+    "root": "s2-competition-highlights/production",
+    "original_path": "chapters.ffmeta",
+    "bytes": 624,
+    "sha256": "39bc719a9000ac2a8e826e35f7e92d8cdb95aaa2d0bc6dbc5cd7a07124aabce7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/chapters.txt",
+    "root": "s2-competition-highlights/production",
+    "original_path": "chapters.txt",
+    "bytes": 296,
+    "sha256": "a272d6d53c78bf0c9a5b43b7befece4504f40eca3582890f63cb7f6395ef1906",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/edit.py",
+    "root": "s2-competition-highlights/production",
+    "original_path": "edit.py",
+    "bytes": 7932,
+    "sha256": "06b89b8dcb6220a8cfac69ccf9d164821f5234eaa45277a23e142d166657cf91",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/finish.sh",
+    "root": "s2-competition-highlights/production",
+    "original_path": "finish.sh",
+    "bytes": 626,
+    "sha256": "7c8bfe5ab72bf685812d7aad6712b532cee3b08c142d8dfa9e03cb3e090610c1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/prep.py",
+    "root": "s2-competition-highlights/production",
+    "original_path": "prep.py",
+    "bytes": 2834,
+    "sha256": "de18d672428f3a03c3b66a3a679feab5792b87e6679c68fc02aa5828c287b202",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/provenance.json",
+    "root": "s2-competition-highlights/production",
+    "original_path": "provenance.json",
+    "bytes": 1376,
+    "sha256": "732239d0c53e4ffb95ee9f41eff76cbeb350c1a6e6dba00638a31ed4e8253d2a",
+    "snapshot": "authored for archive"
+  },
+  {
+    "path": "projects/s2-competition-highlights/sources/shots.py",
+    "root": "s2-competition-highlights/production",
+    "original_path": "shots.py",
+    "bytes": 1774,
+    "sha256": "79da1a92df458f2b442a78feb415210569de499f529be3cd3fa7c43d57043452",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/README.md",
+    "root": "s2-competition-highlights/production",
+    "original_path": "README.md",
+    "bytes": 1785,
+    "sha256": "06dcbe1e6efc388afdf8c1ea9cb0b6c625c023df3d30af7dc1e4298cefd2ce5a",
+    "snapshot": "generated index"
   }
 ]

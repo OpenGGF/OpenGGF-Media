@@ -1,0 +1,16 @@
+{
+  "production": "S2 Competition highlights for James",
+  "date": "2026-11-09",
+  "source_kind": "observed gameplay: cold frozen-route replays (DebugSonic2CompetitionRouteVideo, one frame per route row, engine audio via the offline capture lease); native BizHawk 2.11/GPGX REV01 frames for the labelled parity split",
+  "engine_commit": "a41d0c7141b0c12a06375d98224864dd94c42ca7",
+  "engine_branch": "feature/ai-s2-competition-presentation-parity (OpenGGF PR #273)",
+  "routes": {
+    "ehz-tied-act-wins-special": "18966 rows, ENGINE passed; BIZHAWK stamp restored in 43e964d69",
+    "ehz-zone-results": "18614 rows, ENGINE passed (captured, not used in v1)",
+    "cnz1-slot-flip": "2486 rows, ENGINE passed"
+  },
+  "native_parity_frames": "~/Videos/OGGF/s2-competition/native-full/frames, frame = engine row + 69 (both Level_frame_counter 0 at engine 1260 / native 1329)",
+  "superseded": "src/ capture at 9b2be2ab6: CNZ capture failed on the S2 music request-byte crash fixed in 06d65ebca",
+  "deliverable": "out/s2-competition-highlights-v1.mp4, 73.8 s, 1920x1080p60, H.264 + AAC 256k, 8 chapters, -14.8 LUFS integrated, -1.2 dBFS true peak",
+  "limits": "Frozen routes run one player at a time, so the reel never shows a simultaneous race. Sound checked by measurement only (not listened to). Moving footage reviewed by per-cut contact sheets, not real-time playback."
+}
