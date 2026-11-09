@@ -322,5 +322,11 @@
     "original": "~/Videos/OGGF/s2-competition",
     "archive": "",
     "notes": "Native BizHawk per-frame capture of the simultaneous route (native-sim2) and its exported BK2 (simultaneous-2)."
+  },
+  {
+    "id": "s2-competition-highlights/qmark",
+    "original": "~/Videos/OGGF/s2-competition/qmark",
+    "archive": "projects/s2-competition-highlights/revisions/qmark-outcomes",
+    "notes": "\"?\" monitor outcomes evidence reel: edit, edit list, prep/mux and capture scripts; engine and native captures, frames and the film stay external."
   }
 ]

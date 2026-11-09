@@ -1,0 +1,11 @@
+{
+  "production": "S2 two-player \"?\" monitor outcomes (evidence reel)",
+  "date": "2026-11-09",
+  "request": "User: \"I'd like to see each getting activated and held for a few seconds so I can see the outcome is correct visually\"",
+  "rule": "Obj2E_Init (s2.asm:25755-25776): item = (Level_frame_counter & 7) + 1; teleport becomes invincibility once either player has finished",
+  "source_kind": "observed gameplay: eight cold frozen-route replays ehz-qmark-<content> (ENGINE + BIZHAWK qualified, commit 0b7b4db4f), engine audio; native BizHawk 2.11/GPGX per-frame captures of the same routes (no native lag frames)",
+  "engine_commit": "0b7b4db4fd3e18cc66a7b8101588d6da71078bd6",
+  "native_frames": "~/Videos/OGGF/s2-competition/qmark/native-<content>/frames; native frame = engine row + 69",
+  "deliverable": "qmark/reel/out/s2-qmark-outcomes.mp4, 57.5 s, 1920x1080p60, 10 chapters, -14.6 LUFS, -1.7 dBFS true peak",
+  "limits": "Visual and outcome-fact comparison, not full pixel parity; sound checked by measurement only."
+}

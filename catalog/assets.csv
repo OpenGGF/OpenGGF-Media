@@ -15131,3 +15131,15 @@ s2-competition-highlights,s2-competition-highlights/production,cap-sim,supersede
 s2-competition-highlights,s2-competition-highlights/native-sim2,native-sim2/frames,native reference frame sequence,43860292,2700
 s2-competition-highlights,s2-competition-highlights/native-sim2,native-sim2/frames.csv,native per-frame state CSV,60570,1
 s2-competition-highlights,s2-competition-highlights/native-sim2,simultaneous-2/ehz-simultaneous-tie-special.bk2,native input movie (route export),3793,1
+s2-competition-highlights,s2-competition-highlights/qmark,reel/out/s2-qmark-outcomes.mp4,"finished video (final, ? outcomes)",57837222,1
+s2-competition-highlights,s2-competition-highlights/qmark,reel/frames,frame sequence,162257271,5760
+s2-competition-highlights,s2-competition-highlights/qmark,reel/build/soundtrack.wav,assembled soundtrack,11040044,1
+s2-competition-highlights,s2-competition-highlights/qmark,engine,"recordings, engine audio and state CSVs (8 routes)",1068802859,57
+s2-competition-highlights,s2-competition-highlights/qmark,native-sonic-1up,native reference frame sequence and state CSV,24008459,2023
+s2-competition-highlights,s2-competition-highlights/qmark,native-tails-1up,native reference frame sequence and state CSV,25043853,2064
+s2-competition-highlights,s2-competition-highlights/qmark,native-robotnik,native reference frame sequence and state CSV,24819600,2065
+s2-competition-highlights,s2-competition-highlights/qmark,native-super-ring,native reference frame sequence and state CSV,25079607,2066
+s2-competition-highlights,s2-competition-highlights/qmark,native-speed-shoes,native reference frame sequence and state CSV,25444530,2075
+s2-competition-highlights,s2-competition-highlights/qmark,native-shield,native reference frame sequence and state CSV,25416144,2068
+s2-competition-highlights,s2-competition-highlights/qmark,native-invincibility,native reference frame sequence and state CSV,25434366,2069
+s2-competition-highlights,s2-competition-highlights/qmark,native-teleport,native reference frame sequence and state CSV,23557616,2070

@@ -1,0 +1,10 @@
+  0.00  The rule
+  4.50  1 · Sonic 1-Up
+ 10.50  2 · Tails 1-Up
+ 16.50  3 · Robotnik
+ 22.50  4 · Super Ring
+ 28.50  5 · Speed Shoes
+ 34.50  6 · Shield
+ 40.50  7 · Invincibility
+ 46.50  8 · Teleport
+ 52.50  All eight

@@ -11,6 +11,14 @@ engine plays it:
 - The 1-1 tie fading to white into the competitive special stage, which uses the one-player
   stage's slowdown approximation.
 
+## "?" monitor outcomes (evidence reel, delivered 2026-11-09)
+
+After v2 the user asked to see every outcome of the two-player "?" box activated and held. Eight
+planner-authored frozen routes (`ehz-qmark-<content>`, ENGINE + BIZHAWK qualified) break an early
+EHZ monitor on the frame that selects each item, `(Level_frame_counter & 7) + 1`, and hold for six
+seconds. The 57.5 s reel shows each beside native BizHawk: the breaker's half stacked at 2x, or both
+halves for Tails 1-up and Teleport. Sources: [`revisions/qmark-outcomes/`](revisions/qmark-outcomes/).
+
 ## Revision v2 (final, delivered)
 
 Feedback on v1: "can we please have both players playing at once rather than alternating?" and

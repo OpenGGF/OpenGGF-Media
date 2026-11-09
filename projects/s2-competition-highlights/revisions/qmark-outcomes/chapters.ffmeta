@@ -1,0 +1,52 @@
+;FFMETADATA1
+title=S2 two-player ? monitor outcomes
+[CHAPTER]
+TIMEBASE=1/60
+START=0
+END=270
+title=The rule
+[CHAPTER]
+TIMEBASE=1/60
+START=270
+END=630
+title=1 · Sonic 1-Up
+[CHAPTER]
+TIMEBASE=1/60
+START=630
+END=990
+title=2 · Tails 1-Up
+[CHAPTER]
+TIMEBASE=1/60
+START=990
+END=1350
+title=3 · Robotnik
+[CHAPTER]
+TIMEBASE=1/60
+START=1350
+END=1710
+title=4 · Super Ring
+[CHAPTER]
+TIMEBASE=1/60
+START=1710
+END=2070
+title=5 · Speed Shoes
+[CHAPTER]
+TIMEBASE=1/60
+START=2070
+END=2430
+title=6 · Shield
+[CHAPTER]
+TIMEBASE=1/60
+START=2430
+END=2790
+title=7 · Invincibility
+[CHAPTER]
+TIMEBASE=1/60
+START=2790
+END=3150
+title=8 · Teleport
+[CHAPTER]
+TIMEBASE=1/60
+START=3150
+END=3450
+title=All eight

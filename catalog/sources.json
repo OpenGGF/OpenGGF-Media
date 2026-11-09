@@ -62501,11 +62501,75 @@
     "snapshot": "byte-copy"
   },
   {
+    "path": "projects/s2-competition-highlights/revisions/qmark-outcomes/capture-engine.sh",
+    "root": "s2-competition-highlights/qmark",
+    "original_path": "capture-engine.sh",
+    "bytes": 862,
+    "sha256": "46511b8e75c54ecb5a8f4ebe80ed49305974c4187ec0e427afb61a0057f1da77",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/revisions/qmark-outcomes/chapters.ffmeta",
+    "root": "s2-competition-highlights/qmark",
+    "original_path": "reel/chapters.ffmeta",
+    "bytes": 686,
+    "sha256": "6c6f8099db79e86538da2f328e7abb1d430bf4d9d133840bcbc7fae9fdedf081",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/revisions/qmark-outcomes/chapters.txt",
+    "root": "s2-competition-highlights/qmark",
+    "original_path": "reel/chapters.txt",
+    "bytes": 223,
+    "sha256": "31a27592453d811fd5dff59fd64a1b6cebeb900cfc9b8306bf9ae8c2728fd4e9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/revisions/qmark-outcomes/edit.py",
+    "root": "s2-competition-highlights/qmark",
+    "original_path": "reel/edit.py",
+    "bytes": 7527,
+    "sha256": "96839cddf4e0fc2696604b265aedda47a03ca4d40bc0243afa248b0ef96bd148",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/revisions/qmark-outcomes/finish.sh",
+    "root": "s2-competition-highlights/qmark",
+    "original_path": "reel/finish.sh",
+    "bytes": 477,
+    "sha256": "8bf463665fe084db350849ac70494ac20348fc7e11e70348776d6e1eea55e767",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/revisions/qmark-outcomes/prep.py",
+    "root": "s2-competition-highlights/qmark",
+    "original_path": "reel/prep.py",
+    "bytes": 2322,
+    "sha256": "649bc47a5bdd0f0b2f75a1d1c2e8f0dc35ac1cb2644bdd585751c161b5ef210f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/s2-competition-highlights/revisions/qmark-outcomes/provenance.json",
+    "root": "s2-competition-highlights/qmark",
+    "original_path": "reel/provenance.json",
+    "bytes": 1032,
+    "sha256": "7f81adbec742600d9eca6171320e5a49714c268f36883ea679b0a8486e922bb9",
+    "snapshot": "authored for archive"
+  },
+  {
+    "path": "projects/s2-competition-highlights/revisions/qmark-outcomes/shots.py",
+    "root": "s2-competition-highlights/qmark",
+    "original_path": "reel/shots.py",
+    "bytes": 1750,
+    "sha256": "ff248587e9edafd648533c80fc1d71f3b569911b94660744743a09e90ffddee5",
+    "snapshot": "byte-copy"
+  },
+  {
     "path": "projects/s2-competition-highlights/README.md",
     "root": "s2-competition-highlights/production",
     "original_path": "README.md",
-    "bytes": 2513,
-    "sha256": "bd2ab322dead0675b55cbf52693b3c32b9c2db68a1a13e0dde49384fc7717820",
+    "bytes": 3075,
+    "sha256": "3c4ec15d8b07a5ace20031e7f62862369e39b3bb5f5868a5f47c577c6d945920",
     "snapshot": "generated index"
   }
 ]
