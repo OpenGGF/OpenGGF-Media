@@ -1,0 +1,80 @@
+[
+  {
+    "output_first": 0,
+    "output_end": 154,
+    "source": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/phase2/captures/phase2/hero-mgz2/frames",
+    "source_first": 15
+  },
+  {
+    "output_first": 154,
+    "output_end": 772,
+    "source": "custom composition",
+    "source_first": null
+  },
+  {
+    "output_first": 772,
+    "output_end": 1235,
+    "source": "custom composition",
+    "source_first": null
+  },
+  {
+    "output_first": 1235,
+    "output_end": 1587,
+    "source": "custom composition",
+    "source_first": null
+  },
+  {
+    "output_first": 1587,
+    "output_end": 1764,
+    "source": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/phase2/captures/phase2/hero-mgz2/frames",
+    "source_first": 0
+  },
+  {
+    "output_first": 1764,
+    "output_end": 2028,
+    "source": "custom composition",
+    "source_first": null
+  },
+  {
+    "output_first": 2028,
+    "output_end": 2469,
+    "source": "custom composition",
+    "source_first": null
+  },
+  {
+    "output_first": 2469,
+    "output_end": 2734,
+    "source": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/phase2/captures/phase2/team/frames",
+    "source_first": 30
+  },
+  {
+    "output_first": 2734,
+    "output_end": 2822,
+    "source": "custom composition",
+    "source_first": null
+  },
+  {
+    "output_first": 2822,
+    "output_end": 3263,
+    "source": "custom composition",
+    "source_first": null
+  },
+  {
+    "output_first": 3263,
+    "output_end": 3704,
+    "source": "custom composition",
+    "source_first": null
+  },
+  {
+    "output_first": 3704,
+    "output_end": 4604,
+    "source": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/phase2/captures/phase2/gilded-clear-low/frames",
+    "source_first": 70
+  },
+  {
+    "output_first": 4604,
+    "output_end": 5088,
+    "source": "custom composition",
+    "source_first": null
+  }
+]

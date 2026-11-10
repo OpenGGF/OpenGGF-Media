@@ -15143,3 +15143,187 @@ s2-competition-highlights,s2-competition-highlights/qmark,native-speed-shoes,nat
 s2-competition-highlights,s2-competition-highlights/qmark,native-shield,native reference frame sequence and state CSV,25416144,2068
 s2-competition-highlights,s2-competition-highlights/qmark,native-invincibility,native reference frame sequence and state CSV,25434366,2069
 s2-competition-highlights,s2-competition-highlights/qmark,native-teleport,native reference frame sequence and state CSV,23557616,2070
+mica-and-talon,mica-and-talon/final,captures/final/hero-mgz2/frames,native capture frame sequence,23632884,669
+mica-and-talon,mica-and-talon/final,captures/final/hero/frames,native capture frame sequence,23085948,710
+mica-and-talon,mica-and-talon/final,captures/final/s1-run/frames,native capture frame sequence,6894852,300
+mica-and-talon,mica-and-talon/final,captures/final/s2-run/frames,native capture frame sequence,5922985,300
+mica-and-talon,mica-and-talon/final,captures/final/s3k-run/frames,native capture frame sequence,10513345,300
+mica-and-talon,mica-and-talon/final,captures/final/talon-s2/frames,native capture frame sequence,5741776,295
+mica-and-talon,mica-and-talon/final,captures/final/talon-s3k/frames,native capture frame sequence,10909602,295
+mica-and-talon,mica-and-talon/final,captures/final/team/frames,native capture frame sequence,13070063,360
+mica-and-talon,mica-and-talon/final,captures/final/gilded/frames,native capture frame sequence,12577371,348
+mica-and-talon,mica-and-talon/final,captures/final/solar/frames,native capture frame sequence,12535127,336
+mica-and-talon,mica-and-talon/final,captures/final/ehz-clear/frames,native capture frame sequence,17452413,930
+mica-and-talon,mica-and-talon/final,captures/final/gilded-clear-low/frames,native capture frame sequence,26745897,1416
+mica-and-talon,mica-and-talon/final,captures/final/halfpipe-cleared-post/frames,native capture frame sequence,10490461,911
+mica-and-talon,mica-and-talon/final,captures/final/blue-play/frames,native capture frame sequence,11384060,720
+mica-and-talon,mica-and-talon/final,captures/final/continue/frames,native capture frame sequence,3264006,480
+mica-and-talon,mica-and-talon/final,captures/final/data-select-team/frames,native capture frame sequence,12939745,721
+mica-and-talon,mica-and-talon/final,captures/final/ending-full/frames,native capture frame sequence,27814256,4438
+mica-and-talon,mica-and-talon/final,captures/final/title-s2/frames,native capture frame sequence,3964159,660
+mica-and-talon,mica-and-talon/final,captures/final/s1-safe/frames,native capture frame sequence,7725509,282
+mica-and-talon,mica-and-talon/final,captures/final/title-s2-full/frames,native capture frame sequence,16185986,1200
+mica-and-talon,mica-and-talon/final,captures/final/carry/frames,native capture frame sequence,10121532,311
+mica-and-talon,mica-and-talon/final,captures/carryfix/carry/frames,native capture frame sequence,10121532,311
+mica-and-talon,mica-and-talon/final,captures/final/hero-mgz2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,57631,1
+mica-and-talon,mica-and-talon/final,captures/final/hero/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,61675,1
+mica-and-talon,mica-and-talon/final,captures/final/s1-run/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24216,1
+mica-and-talon,mica-and-talon/final,captures/final/s2-run/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24934,1
+mica-and-talon,mica-and-talon/final,captures/final/s3k-run/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24561,1
+mica-and-talon,mica-and-talon/final,captures/final/talon-s2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24548,1
+mica-and-talon,mica-and-talon/final,captures/final/talon-s3k/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24077,1
+mica-and-talon,mica-and-talon/final,captures/final/team/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,32496,1
+mica-and-talon,mica-and-talon/final,captures/final/gilded/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,27875,1
+mica-and-talon,mica-and-talon/final,captures/final/solar/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,27348,1
+mica-and-talon,mica-and-talon/final,captures/final/ehz-clear/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,75239,1
+mica-and-talon,mica-and-talon/final,captures/final/gilded-clear-low/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,120949,1
+mica-and-talon,mica-and-talon/final,captures/final/halfpipe-cleared-post/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,84378,1
+mica-and-talon,mica-and-talon/final,captures/final/blue-play/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,66896,1
+mica-and-talon,mica-and-talon/final,captures/final/continue/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,32674,1
+mica-and-talon,mica-and-talon/final,captures/final/data-select-team/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,56675,1
+mica-and-talon,mica-and-talon/final,captures/final/ending-full/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,260876,1
+mica-and-talon,mica-and-talon/final,captures/final/title-s2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,42955,1
+mica-and-talon,mica-and-talon/final,captures/final/s1-safe/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,21871,1
+mica-and-talon,mica-and-talon/final,captures/final/title-s2-full/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,78255,1
+mica-and-talon,mica-and-talon/final,captures/final/carry/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,27582,1
+mica-and-talon,mica-and-talon/final,captures/carryfix/carry/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,27582,1
+mica-and-talon,mica-and-talon/final,out/master-16x9.mp4,finished promo video,104834503,1
+mica-and-talon,mica-and-talon/final,out/master-9x16.mp4,finished promo video,134032880,1
+mica-and-talon,mica-and-talon/final,out/source-review.jpg,review contact/still image,286035,1
+mica-and-talon,mica-and-talon/final,out/title-review.jpg,review contact/still image,51766,1
+mica-and-talon,mica-and-talon/final,out/title-rise.jpg,review contact/still image,129012,1
+mica-and-talon,mica-and-talon/final,out/review-0-24.jpg,review contact/still image,336883,1
+mica-and-talon,mica-and-talon/final,out/review-0-32.jpg,review contact/still image,265031,1
+mica-and-talon,mica-and-talon/final,out/review-0-36.jpg,review contact/still image,271116,1
+mica-and-talon,mica-and-talon/final,out/review-0-40.jpg,review contact/still image,351063,1
+mica-and-talon,mica-and-talon/final,out/review-0-52.jpg,review contact/still image,354447,1
+mica-and-talon,mica-and-talon/final,out/review-1-24.jpg,review contact/still image,365875,1
+mica-and-talon,mica-and-talon/final,out/review-1-32.jpg,review contact/still image,340210,1
+mica-and-talon,mica-and-talon/final,out/review-1-36.jpg,review contact/still image,343458,1
+mica-and-talon,mica-and-talon/final,out/review-1-40.jpg,review contact/still image,420948,1
+mica-and-talon,mica-and-talon/final,out/review-1-52.jpg,review contact/still image,354430,1
+mica-and-talon,mica-and-talon/final,out/signpost-review.jpg,review contact/still image,188822,1
+mica-and-talon,mica-and-talon/final,edit/wide/sheet-0.png,composition contact sheet,1304618,1
+mica-and-talon,mica-and-talon/final,edit/vertical/sheet-0.png,composition contact sheet,1316700,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/s1-run/frames,native capture frame sequence,6894852,300
+mica-and-talon,mica-and-talon/phase2,captures/phase2/s2-run/frames,native capture frame sequence,5922985,300
+mica-and-talon,mica-and-talon/phase2,captures/phase2/s3k-run/frames,native capture frame sequence,10513345,300
+mica-and-talon,mica-and-talon/phase2,captures/phase2/hero/frames,native capture frame sequence,23085948,710
+mica-and-talon,mica-and-talon/phase2,captures/phase2/talon-s2/frames,native capture frame sequence,5741776,295
+mica-and-talon,mica-and-talon/phase2,captures/phase2/continue/frames,native capture frame sequence,3264006,480
+mica-and-talon,mica-and-talon/phase2,captures/phase2/talon-s3k/frames,native capture frame sequence,10909602,295
+mica-and-talon,mica-and-talon/phase2,captures/phase2/ending/frames,native capture frame sequence,11253426,1800
+mica-and-talon,mica-and-talon/phase2,captures/phase2/team/frames,native capture frame sequence,13070063,360
+mica-and-talon,mica-and-talon/phase2,captures/phase2/gilded/frames,native capture frame sequence,12577371,348
+mica-and-talon,mica-and-talon/phase2,captures/phase2/solar/frames,native capture frame sequence,12535127,336
+mica-and-talon,mica-and-talon/phase2,captures/phase2/hero-ehz/frames,native capture frame sequence,7332735,367
+mica-and-talon,mica-and-talon/phase2,captures/phase2/gilded-clear/frames,native capture frame sequence,22292523,1182
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe/frames,native capture frame sequence,15389313,705
+mica-and-talon,mica-and-talon/phase2,captures/phase2/carry/frames,native capture frame sequence,2053270,58
+mica-and-talon,mica-and-talon/phase2,captures/phase2/blue-play/frames,native capture frame sequence,11384060,720
+mica-and-talon,mica-and-talon/phase2,captures/phase2/blue-sphere/frames,native capture frame sequence,12003177,1080
+mica-and-talon,mica-and-talon/phase2,captures/phase2/ehz-clear/frames,native capture frame sequence,17452413,930
+mica-and-talon,mica-and-talon/phase2,captures/phase2/ghz-clear/frames,native capture frame sequence,2598378,107
+mica-and-talon,mica-and-talon/phase2,captures/phase2/data-select/frames,native capture frame sequence,10522520,721
+mica-and-talon,mica-and-talon/phase2,captures/phase2/hero-mgz2/frames,native capture frame sequence,23632884,669
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-entry/frames,native capture frame sequence,18748184,930
+mica-and-talon,mica-and-talon/phase2,captures/phase2/ending-full/frames,native capture frame sequence,27814256,4438
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-post/frames,native capture frame sequence,18407003,936
+mica-and-talon,mica-and-talon/phase2,captures/phase2/gilded-clear-long/frames,native capture frame sequence,27698534,1416
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-high/frames,native capture frame sequence,18397137,936
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-reload/frames,native capture frame sequence,18701786,936
+mica-and-talon,mica-and-talon/phase2,captures/phase2/data-select-team/frames,native capture frame sequence,12729320,721
+mica-and-talon,mica-and-talon/phase2,captures/phase2/gilded-clear-low/frames,native capture frame sequence,26745897,1416
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-approach/frames,native capture frame sequence,15382949,830
+mica-and-talon,mica-and-talon/phase2,captures/phase2/halfpipe-component/frames,native capture frame sequence,18653097,867
+mica-and-talon,mica-and-talon/phase2,captures/phase2/halfpipe-post-native/frames,native capture frame sequence,17720532,911
+mica-and-talon,mica-and-talon/phase2,captures/phase2/halfpipe-cleared-post/frames,native capture frame sequence,10490461,911
+mica-and-talon,mica-and-talon/phase2,captures/phase2/s1-run/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24216,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/s2-run/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24934,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/s3k-run/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24561,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/hero/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,61675,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/talon-s2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24548,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/continue/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,32674,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/talon-s3k/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,24077,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/ending/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,105234,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/team/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,32496,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/gilded/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,27875,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/solar/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,27348,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/hero-ehz/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,31185,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/gilded-clear/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,103405,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,54801,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/carry/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,5331,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/blue-play/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,66896,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/blue-sphere/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,107064,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/ehz-clear/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,75239,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/ghz-clear/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,8783,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/data-select/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,56675,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-0-0/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,31658,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-0-1/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,43976,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-0-2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,57631,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-0-3/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,73150,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-1-0/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,32437,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-1-1/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,44815,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-1-2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,58554,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-1-3/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,74653,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-2-0/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,32151,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-2-1/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,44910,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-2-2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,58592,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-2-3/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,72081,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-3-0/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,31852,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-3-1/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,44891,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-3-2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,59211,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/hero-mgz2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,57631,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-3-3/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,72893,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-4-0/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,30701,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-4-1/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,42514,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-4-2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,55787,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-4-3/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,70448,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-5-0/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,31414,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-5-1/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,43285,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-5-2/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,56687,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/probe-5-3/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,73159,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-entry/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,80269,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/ending-full/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,260876,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-post/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,81146,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/gilded-clear-long/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,125792,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-high/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,80691,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-reload/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,79288,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/data-select-team/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,56675,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/gilded-clear-low/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,120949,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/half-pipe-approach/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,69839,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/halfpipe-component/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,76764,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/halfpipe-post-native/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,78250,1
+mica-and-talon,mica-and-talon/phase2,captures/phase2/halfpipe-cleared-post/state.csv,measured native gameplay CSV; see provenance for detached ending-loop limit,84378,1
+mica-and-talon,mica-and-talon/phase2,out/master-16x9.mp4,finished promo video,120846691,1
+mica-and-talon,mica-and-talon/phase2,out/master-9x16.mp4,finished promo video,126124798,1
+mica-and-talon,mica-and-talon/phase2,out/ending-review.jpg,review contact/still image,59423,1
+mica-and-talon,mica-and-talon/phase2,out/homing-proof.jpg,review contact/still image,220382,1
+mica-and-talon,mica-and-talon/phase2,out/contact-vertical.jpg,review contact/still image,417972,1
+mica-and-talon,mica-and-talon/phase2,out/contact-wide.jpg,review contact/still image,357232,1
+mica-and-talon,mica-and-talon/phase2,out/contact-vertical-encoded.jpg,review contact/still image,233397,1
+mica-and-talon,mica-and-talon/phase2,edit/wide/sheet-0.png,composition contact sheet,1511992,1
+mica-and-talon,mica-and-talon/phase2,edit/vertical/sheet-0.png,composition contact sheet,1518447,1
+mica-and-talon,mica-and-talon/music,render-02.log,ROM-derived paced PCM; external,8202,1
+mica-and-talon,mica-and-talon/music,s3k-music-02-paced.wav,ROM-derived paced PCM; external,18240044,1
+mica-and-talon,mica-and-talon/music,render-0D.log,ROM-derived paced PCM; external,8203,1
+mica-and-talon,mica-and-talon/music,s3k-music-0d-paced.wav,ROM-derived paced PCM; external,18240044,1
+mica-and-talon,mica-and-talon/music,render-07.log,ROM-derived paced PCM; external,8202,1
+mica-and-talon,mica-and-talon/music,s3k-music-07-paced.wav,ROM-derived paced PCM; external,18240044,1
+mica-and-talon,mica-and-talon/music,sfx-B3.log,ROM-derived paced PCM; external,7882,1
+mica-and-talon,mica-and-talon/music,s3k-sfx-b3-paced.wav,ROM-derived paced PCM; external,188844,1
+mica-and-talon,mica-and-talon/music,sfx-33.log,ROM-derived paced PCM; external,7882,1
+mica-and-talon,mica-and-talon/music,s3k-sfx-33-paced.wav,ROM-derived paced PCM; external,124844,1
+mica-and-talon,mica-and-talon/music,sfx-34.log,ROM-derived paced PCM; external,7882,1
+mica-and-talon,mica-and-talon/music,s3k-sfx-34-paced.wav,ROM-derived paced PCM; external,124844,1
+mica-and-talon,mica-and-talon/music,sfx-AB.log,ROM-derived paced PCM; external,7882,1
+mica-and-talon,mica-and-talon/music,s3k-sfx-ab-paced.wav,ROM-derived paced PCM; external,243244,1
+mica-and-talon,mica-and-talon/music,sfx-B6.log,ROM-derived paced PCM; external,7882,1
+mica-and-talon,mica-and-talon/music,s3k-sfx-b6-paced.wav,ROM-derived paced PCM; external,278444,1
+mica-and-talon,mica-and-talon/fonts,FiraSansExtraCondensed-Black.ttf,third-party font dependency; external,516808,1
+mica-and-talon,mica-and-talon/fonts,FiraSansExtraCondensed-BlackItalic.ttf,third-party font dependency; external,539564,1
+mica-and-talon,mica-and-talon/fonts,FiraSansCondensed-BoldItalic.ttf,third-party font dependency; external,514400,1
+mica-and-talon,mica-and-talon/fonts,FiraSans-Bold.ttf,third-party font dependency; external,489720,1
+mica-and-talon,mica-and-talon/fonts,FiraSans-BoldItalic.ttf,third-party font dependency; external,506864,1
+mica-and-talon,mica-and-talon/fonts,Anton-Regular.ttf,third-party font dependency; external,170812,1
+mica-and-talon,mica-and-talon/drawing,wait-00-2.png,original redraw reference; external,790168,1

@@ -328,5 +328,30 @@
     "original": "~/Videos/OGGF/s2-competition/qmark",
     "archive": "projects/s2-competition-highlights/revisions/qmark-outcomes",
     "notes": "\"?\" monitor outcomes evidence reel: edit, edit list, prep/mux and capture scripts; engine and native captures, frames and the film stay external."
+  },
+  {
+    "id": "mica-and-talon/final",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/final",
+    "archive": "projects/mica-and-talon/sources/final"
+  },
+  {
+    "id": "mica-and-talon/phase2",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/phase2",
+    "archive": "projects/mica-and-talon/sources/phase2"
+  },
+  {
+    "id": "mica-and-talon/music",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/music",
+    "archive": "projects/mica-and-talon/sources/final"
+  },
+  {
+    "id": "mica-and-talon/fonts",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/fonts",
+    "archive": "projects/mica-and-talon/sources/final"
+  },
+  {
+    "id": "mica-and-talon/drawing",
+    "original": "/home/farrell/scratch/agent-tmp/mica-regen-20261108/attempts",
+    "archive": "projects/mica-and-talon/sources/final"
   }
 ]

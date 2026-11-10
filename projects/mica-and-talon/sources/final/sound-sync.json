@@ -1,0 +1,21 @@
+{
+  "sound_check": "measurement only",
+  "stinger": {
+    "file": "music/s3k-sfx-b3-paced.wav",
+    "picture_event": "native title slam transition",
+    "event_frame": 154,
+    "sound_frame": 154,
+    "offset_frames": 0,
+    "gain": 2.2
+  },
+  "bed": {
+    "file": "music/s3k-music-0d-paced.wav",
+    "gain": 0.65,
+    "source": "engine paced SMPS render, DAC enabled per lead prepared asset"
+  },
+  "native_gameplay_audio": false,
+  "removed": [
+    "ambiguous ring accents",
+    "all editorial jump sounds"
+  ]
+}

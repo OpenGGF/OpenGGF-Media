@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Cold open",
+    "start": 0.0,
+    "end": 2.566666666666667,
+    "source": "captures/final/hero-mgz2/frames"
+  },
+  {
+    "title": "Native title rise",
+    "start": 2.566666666666667,
+    "end": 12.866666666666667,
+    "source": "edit.py custom composition"
+  },
+  {
+    "title": "Original art",
+    "start": 12.866666666666667,
+    "end": 20.583333333333332,
+    "source": "edit.py custom composition"
+  },
+  {
+    "title": "Three games",
+    "start": 20.583333333333332,
+    "end": 26.45,
+    "source": "edit.py custom composition"
+  },
+  {
+    "title": "Homing chain",
+    "start": 26.45,
+    "end": 29.4,
+    "source": "captures/final/hero-mgz2/frames"
+  },
+  {
+    "title": "Jade and Gilded",
+    "start": 29.4,
+    "end": 33.8,
+    "source": "edit.py custom composition"
+  },
+  {
+    "title": "Talon flies",
+    "start": 33.8,
+    "end": 41.15,
+    "source": "edit.py custom composition"
+  },
+  {
+    "title": "Together",
+    "start": 41.15,
+    "end": 45.56666666666667,
+    "source": "captures/final/team/frames"
+  },
+  {
+    "title": "Team and Solar",
+    "start": 45.56666666666667,
+    "end": 47.03333333333333,
+    "source": "edit.py custom composition"
+  },
+  {
+    "title": "Every screen",
+    "start": 47.03333333333333,
+    "end": 54.38333333333333,
+    "source": "edit.py custom composition"
+  },
+  {
+    "title": "Mod API",
+    "start": 54.38333333333333,
+    "end": 61.733333333333334,
+    "source": "edit.py custom composition"
+  },
+  {
+    "title": "Continuous climax and results",
+    "start": 61.733333333333334,
+    "end": 76.73333333333333,
+    "source": "captures/final/gilded-clear-low/frames"
+  },
+  {
+    "title": "End plate",
+    "start": 76.73333333333333,
+    "end": 84.8,
+    "source": "edit.py custom composition"
+  }
+]

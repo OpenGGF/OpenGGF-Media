@@ -62571,5 +62571,2189 @@
     "bytes": 3075,
     "sha256": "3c4ec15d8b07a5ace20031e7f62862369e39b3bb5f5868a5f47c577c6d945920",
     "snapshot": "generated index"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/capture_all.py",
+    "root": "mica-and-talon/final",
+    "original_path": "capture_all.py",
+    "bytes": 6207,
+    "sha256": "fae58bad8893b8f97fa9272b96e05ce17c33778f21c17419c4dcd8631750d5db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/render_all.py",
+    "root": "mica-and-talon/final",
+    "original_path": "render_all.py",
+    "bytes": 1780,
+    "sha256": "fc3d70dde6653fe2898845fa90cddd6b8f4533203704f9b249ccac68ae34da4e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/selected-shots.csv",
+    "root": "mica-and-talon/final",
+    "original_path": "selected-shots.csv",
+    "bytes": 1255,
+    "sha256": "fdafcc0a08fd905723176d641cdda32697290db185fccbacbf7cdca8172ef73e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/recapture.py",
+    "root": "mica-and-talon/final",
+    "original_path": "recapture.py",
+    "bytes": 3361,
+    "sha256": "fb9ca98c3834c0a43bec15769f85ee7c3abb1d13704f77f418e5f1773a6056d8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/finalize_edit.py",
+    "root": "mica-and-talon/final",
+    "original_path": "finalize_edit.py",
+    "bytes": 3717,
+    "sha256": "51d26a7e526f017915112dcc570f257487df5628c8a0bcfeeea2b988a4e57f19",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/safe_run.py",
+    "root": "mica-and-talon/final",
+    "original_path": "safe_run.py",
+    "bytes": 721,
+    "sha256": "e2f575520b39594b3e41fa76b9060ec14d2e78a29063c39250454db303fd2d79",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/title_full.py",
+    "root": "mica-and-talon/final",
+    "original_path": "title_full.py",
+    "bytes": 620,
+    "sha256": "63289a73d6b89be84b769282be7ce7e3bf6ae47cda28ef26bf94780f0ee043fd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/review_frames.py",
+    "root": "mica-and-talon/final",
+    "original_path": "review_frames.py",
+    "bytes": 478,
+    "sha256": "5b6abebe83f8a85cfa0240b2f906f347e60192b71571914f29ed5d8c717813da",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/document_final.py",
+    "root": "mica-and-talon/final",
+    "original_path": "document_final.py",
+    "bytes": 7445,
+    "sha256": "19db62d1af514f36ba398e06c9959496228709be3c77cfdbbe58190d0dea58cd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/chapters.json",
+    "root": "mica-and-talon/final",
+    "original_path": "chapters.json",
+    "bytes": 1772,
+    "sha256": "75da3b2ed832330d4a7ef16d631e7d089464b4d8ec18c4ed8cccf1e6ee340b1a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/chapters.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "chapters.txt",
+    "bytes": 387,
+    "sha256": "bc0605a519b1a7181e043cb0cdd40a5ed8fdd6ba6ee90af55957e012b7759e8a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/shot-list.csv",
+    "root": "mica-and-talon/final",
+    "original_path": "shot-list.csv",
+    "bytes": 2670,
+    "sha256": "48bae74071f0cecbe4fc6e39d31edc25d20eb9301895bd3e634930e57f55889c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/viewer-pass.md",
+    "root": "mica-and-talon/final",
+    "original_path": "viewer-pass.md",
+    "bytes": 1849,
+    "sha256": "e59bce9eb2d3a46d52f48bcb0a626ec66219c7837e043078b92e9904bd3317e9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/README.md",
+    "root": "mica-and-talon/final",
+    "original_path": "README.md",
+    "bytes": 4268,
+    "sha256": "2d08d948f1e8ad9f2b748d6606feeb59011d7e9fb572bc7ff0758397dce89c1d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/finish_chapters.py",
+    "root": "mica-and-talon/final",
+    "original_path": "finish_chapters.py",
+    "bytes": 2062,
+    "sha256": "546fad3cd526614d34b186a1680a7b0540096194c19dae1553c85bb406627512",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/encoded_sheets.py",
+    "root": "mica-and-talon/final",
+    "original_path": "encoded_sheets.py",
+    "bytes": 780,
+    "sha256": "898260bb9085bc88baeb921c509f08744a1331446aa34825f947aa4f1ab62a21",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/homing-events.json",
+    "root": "mica-and-talon/final",
+    "original_path": "homing-events.json",
+    "bytes": 248,
+    "sha256": "f0639b2821eb0c7381f7db1b0de63a6bd0f789f238217bd97066cb09d1e6e5fa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/sound-sync.json",
+    "root": "mica-and-talon/final",
+    "original_path": "sound-sync.json",
+    "bytes": 514,
+    "sha256": "f77f26fb454969a50e5032b0aaedb51ba6bc36b85769d15ad4c6cbe7ca8a177f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/shots.json",
+    "root": "mica-and-talon/final",
+    "original_path": "shots.json",
+    "bytes": 3730,
+    "sha256": "9cc7adf4730cef3abf34b7d9f61ae72f0493f1c48a93df578c3e1a29d1c1b926",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/verify_final.py",
+    "root": "mica-and-talon/final",
+    "original_path": "verify_final.py",
+    "bytes": 1883,
+    "sha256": "ef54e0b925fd079413248c2541d5cdf0f7eb2f01f44e0c353723506335a4ddeb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/verification.json",
+    "root": "mica-and-talon/final",
+    "original_path": "verification.json",
+    "bytes": 904,
+    "sha256": "88aedb283c10c03b0435600da09438449442524199898a517b6240bf7a672c67",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/archive.py",
+    "root": "mica-and-talon/final",
+    "original_path": "archive.py",
+    "bytes": 6547,
+    "sha256": "aa8b638fa1774811c5eb325929a846db3737eb9baf3ef6f6757b462537cfa06d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/edit/edit.py",
+    "root": "mica-and-talon/final",
+    "original_path": "edit/edit.py",
+    "bytes": 11944,
+    "sha256": "5eec61f9e403e4b478b2d6bea7b89c0021eada02ebbc3fa60671adeae7642886",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/out/wide-ffprobe.json",
+    "root": "mica-and-talon/final",
+    "original_path": "out/wide-ffprobe.json",
+    "bytes": 3494,
+    "sha256": "bf956bb56a657fe6696007ed381031ce6466d96fcadc8079dcb433ab94491050",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/out/vertical-ffprobe.json",
+    "root": "mica-and-talon/final",
+    "original_path": "out/vertical-ffprobe.json",
+    "bytes": 3496,
+    "sha256": "b21a2e07d72b4af5fd4fd1c1931c4d02a0488fc03def51627d532af36b814280",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/carryfix/carry/input.script",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/carryfix/carry/input.script",
+    "bytes": 73,
+    "sha256": "839f549218baf2b5b7a006e023e086122a26322e991134acd7d0b55a1c57cde5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/carryfix/carry/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/carryfix/carry/input.txt",
+    "bytes": 6357,
+    "sha256": "fb437e6b7221ba085278c9efd096dae63c1e1e679beac197104940c22127e53a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/carryfix/carry/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/carryfix/carry/provenance.json",
+    "bytes": 1364,
+    "sha256": "b6a98a302fbd0d282c8e5acc44ca05cc3bcf5ff4800b10496d9498f7c6c66b4f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/carryfix/carry/observations.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/carryfix/carry/observations.json",
+    "bytes": 1100,
+    "sha256": "b0bc14361b0acfbc05d8c199423b8697254675f0354c95e74d322c03b5675728",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/hero-mgz2/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/hero-mgz2/input.txt",
+    "bytes": 13517,
+    "sha256": "b3fd33040450e6cd8291490cbedf67cdd5e5643e0aaf60231caeffc8abd2d0a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/hero-mgz2/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/hero-mgz2/provenance.json",
+    "bytes": 9884,
+    "sha256": "0343b5f009e76551eeaf552a5adeef58ba922ee71676c8e62cc42a4040f04a44",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/hero/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/hero/input.txt",
+    "bytes": 14337,
+    "sha256": "0c6769db99ad339a47180b9e00e0a69315740d5cca50dfbd79006b49920ac7c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/hero/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/hero/provenance.json",
+    "bytes": 9910,
+    "sha256": "395107bcde381c11c618da6ad81724dd6bca94226eecaa60f9101339c8396503",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/s1-run/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/s1-run/input.txt",
+    "bytes": 6137,
+    "sha256": "631a850e9bbf9821eb01ada32b2c1d3f77c9c7471b5f189380b22004eb70520f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/s1-run/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/s1-run/provenance.json",
+    "bytes": 9837,
+    "sha256": "d215141105dee6c6bcf817f6f2f8b8ed1cf2d0fc7aa92810726b87d8422e0c93",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/s2-run/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/s2-run/input.txt",
+    "bytes": 6137,
+    "sha256": "631a850e9bbf9821eb01ada32b2c1d3f77c9c7471b5f189380b22004eb70520f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/s2-run/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/s2-run/provenance.json",
+    "bytes": 9837,
+    "sha256": "ab3758c0b71ac2096f6d8e674f16dee4288bce480f7426b544630fbbbe36787a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/s3k-run/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/s3k-run/input.txt",
+    "bytes": 6137,
+    "sha256": "631a850e9bbf9821eb01ada32b2c1d3f77c9c7471b5f189380b22004eb70520f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/s3k-run/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/s3k-run/provenance.json",
+    "bytes": 9844,
+    "sha256": "7e8461d71bccaf8187e942136d4019f22d3c08c2c3b6331db4716821ccdc1233",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/talon-s2/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/talon-s2/input.txt",
+    "bytes": 6037,
+    "sha256": "2a22a61fdc1fbd925b215990eb0aca4b289fb9918b2a289dfa17add3b7746d47",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/talon-s2/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/talon-s2/provenance.json",
+    "bytes": 9912,
+    "sha256": "13502b64ad5d1fad0ae35500501697a4da9f4e843ef6fe776c8279762d8d76ce",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/talon-s3k/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/talon-s3k/input.txt",
+    "bytes": 6037,
+    "sha256": "82822311d8d03101ee244af9bb38d5d46ede1c6cf2b5f115f153d43e4c0b029a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/talon-s3k/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/talon-s3k/provenance.json",
+    "bytes": 9915,
+    "sha256": "fe097ee8ab0a5846821f2aad53e8307c3ba647cdc7d95c3fb274102e9cdc9eef",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/team/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/team/input.txt",
+    "bytes": 7337,
+    "sha256": "4c391f64f26d9d1ba2277685711796164c465bf770e32ab87faf2197a267dc78",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/team/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/team/provenance.json",
+    "bytes": 9917,
+    "sha256": "8a30222d648cf8d139a2336f5efb8511aed84a088d422a988366c3ec8f64043e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/gilded/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/gilded/input.txt",
+    "bytes": 7097,
+    "sha256": "a4fe005cd14a3fff85c91daf08c548998734f418b21d6583efe66e4d0dfb35e6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/gilded/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/gilded/provenance.json",
+    "bytes": 9939,
+    "sha256": "cba8c666841050a79aafc44e1a4a388b791c2c99cda197e8e3727d3d78d1400c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/solar/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/solar/input.txt",
+    "bytes": 6857,
+    "sha256": "dbbb7fe64ef603ffe07cad078a21565a0440816c21b3928b2f4bcaf3d4dd0c18",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/solar/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/solar/provenance.json",
+    "bytes": 9966,
+    "sha256": "2b61d0d8ece3a00ef46547fcbc0cc77b8a7d28e3a3d75ba23d1c94441b3340e9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/ehz-clear/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/ehz-clear/input.txt",
+    "bytes": 18737,
+    "sha256": "7fe09654b71392a5d003f845179746c2c575d27921a74d9b603316a06e394a88",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/ehz-clear/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/ehz-clear/provenance.json",
+    "bytes": 9847,
+    "sha256": "27eb7c7b4320a807af7f43c292de3c8396b0eb9decb658855dd3c49a35f2d811",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/gilded-clear-low/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/gilded-clear-low/input.txt",
+    "bytes": 28457,
+    "sha256": "f7604a2d242e30cac8d93dd2f6f500df0999fd13e831cf80b509fdb8a04d7c72",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/gilded-clear-low/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/gilded-clear-low/provenance.json",
+    "bytes": 10044,
+    "sha256": "3758e1771f4b5908229987c7afb1125a078e21fdbf2d6d98d6008520e7df4dba",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/halfpipe-cleared-post/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/halfpipe-cleared-post/input.txt",
+    "bytes": 18357,
+    "sha256": "a4edcabd01a1a4774fbcff891ddf307c9ef8eb65034b78a7297940e54caca735",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/halfpipe-cleared-post/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/halfpipe-cleared-post/provenance.json",
+    "bytes": 10111,
+    "sha256": "32a753d68e8886c18cb1858946576faaeac656702cae71fd896917124ba02dff",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/blue-play/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/blue-play/input.txt",
+    "bytes": 14537,
+    "sha256": "24b430a2f955fba9ef448b549af3a13796c8a48a817953ade1fa14ca28bad7e1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/blue-play/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/blue-play/provenance.json",
+    "bytes": 9852,
+    "sha256": "80d6ffac8eb5cc7e9aed43045f96c06f8b35ca9065272962b8cae2aaaf3f5280",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/continue/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/continue/provenance.json",
+    "bytes": 9619,
+    "sha256": "ccc2ed1bec8099d9efa4bb5de0566623eb6b7c894e45adef7c89567e16d3ac76",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/data-select-team/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/data-select-team/input.txt",
+    "bytes": 14557,
+    "sha256": "4f3d1814c42a07ff5436616f2b4d495563be0f8dd4e346197f1420dfccbd48d1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/data-select-team/slots.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/data-select-team/slots.json",
+    "bytes": 576,
+    "sha256": "0318490957562b77d43b3198fd1fbd181ea215b3e85e5fa36c5084fec09dfe3a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/data-select-team/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/data-select-team/provenance.json",
+    "bytes": 9917,
+    "sha256": "1c19799a88025ae23192175485dca8f066610ae1af7e08d5f85b9442181c3eaa",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/ending-full/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/ending-full/provenance.json",
+    "bytes": 9981,
+    "sha256": "9de1c60b9604831362cdf55ee3741c29ae2eee020abf410323c7a27e8a2e2284",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/title-s2/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/title-s2/provenance.json",
+    "bytes": 9336,
+    "sha256": "f539094112110e6c1493f2bf8e965a6c9a5b32b0460f0bebe5c2dd0f11141175",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/s1-safe/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/s1-safe/provenance.json",
+    "bytes": 9753,
+    "sha256": "e64179032fc232334df419bb8ed5abf190e0ba4291d5d60dcd9ef81f9e7d8471",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/title-s2-full/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/title-s2-full/provenance.json",
+    "bytes": 9342,
+    "sha256": "d0eab7aafd8ae0d36f958fb620cd8cfe98278193b3591b88fac62b8340a1a06f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/carry/input.script",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/carry/input.script",
+    "bytes": 73,
+    "sha256": "839f549218baf2b5b7a006e023e086122a26322e991134acd7d0b55a1c57cde5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/carry/input.txt",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/carry/input.txt",
+    "bytes": 6357,
+    "sha256": "fb437e6b7221ba085278c9efd096dae63c1e1e679beac197104940c22127e53a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/carry/provenance.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/carry/provenance.json",
+    "bytes": 1364,
+    "sha256": "b6a98a302fbd0d282c8e5acc44ca05cc3bcf5ff4800b10496d9498f7c6c66b4f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/captures/final/carry/observations.json",
+    "root": "mica-and-talon/final",
+    "original_path": "captures/final/carry/observations.json",
+    "bytes": 1100,
+    "sha256": "b0bc14361b0acfbc05d8c199423b8697254675f0354c95e74d322c03b5675728",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/hosts/original/PromoCapture.java",
+    "root": "mica-and-talon/final",
+    "original_path": "hosts/original/PromoCapture.java",
+    "bytes": 4792,
+    "sha256": "72c1f0fdf950c6a8e25a33f763beda98ae27ec8adfb368c443529005a56ca56a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/final/hosts/starpost/PromoCapture.java",
+    "root": "mica-and-talon/final",
+    "original_path": "hosts/starpost/PromoCapture.java",
+    "bytes": 4810,
+    "sha256": "d9dae7eeb69d1f9cb7261f023bc94ee23c722e67589a9d4792e543dafdf42790",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/capture_all.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "capture_all.py",
+    "bytes": 6207,
+    "sha256": "fae58bad8893b8f97fa9272b96e05ce17c33778f21c17419c4dcd8631750d5db",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/render_all.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "render_all.py",
+    "bytes": 1780,
+    "sha256": "fc3d70dde6653fe2898845fa90cddd6b8f4533203704f9b249ccac68ae34da4e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/make_handoff.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "make_handoff.py",
+    "bytes": 8091,
+    "sha256": "022d9762c7c609e6ef44973200a4f31570a670ef2a2d1bd6b92a655386db1a47",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/finish_audio.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "finish_audio.py",
+    "bytes": 914,
+    "sha256": "0839a9f63e2d58dce639150abce77d7ed3c91d77b8c4ecbd636a9687ecd49a1a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/render_sfx.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "render_sfx.py",
+    "bytes": 627,
+    "sha256": "fbe0186ed3e03b82408782f813b031a545274c20870bb2deb073f2fd7f3b53d3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/SpawnScout.java",
+    "root": "mica-and-talon/phase2",
+    "original_path": "SpawnScout.java",
+    "bytes": 791,
+    "sha256": "90cfe91f3337d3c5582602d3d56dacba5342961945416410729c6c4fef1fa838",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/shots.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "shots.json",
+    "bytes": 3730,
+    "sha256": "9cc7adf4730cef3abf34b7d9f61ae72f0493f1c48a93df578c3e1a29d1c1b926",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/extra.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "extra.py",
+    "bytes": 1846,
+    "sha256": "7d92c5e2fe4c783455c894d4aa62f6d7bebd72e2842da4b40fe8294efccae3ca",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/search.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "search.py",
+    "bytes": 1083,
+    "sha256": "da73ff3c325f06534865ddbee8fc5f3a9087bb2b9e47dd0eb5f4d621faf4d377",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/refine_edit.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "refine_edit.py",
+    "bytes": 4403,
+    "sha256": "d52a939a2c7d454d6ef56c3775a22fe9c5ad41ceab842d93f967a6e0eec64e8d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/PromoCapture.java",
+    "root": "mica-and-talon/phase2",
+    "original_path": "PromoCapture.java",
+    "bytes": 4810,
+    "sha256": "d9dae7eeb69d1f9cb7261f023bc94ee23c722e67589a9d4792e543dafdf42790",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/repair_prefix.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "repair_prefix.py",
+    "bytes": 1470,
+    "sha256": "1c02e87fa54b34a196fd246aba370d7cfde81e34143549ecb51813b15eea5758",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/qualify.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "qualify.py",
+    "bytes": 2227,
+    "sha256": "6dc4dae2df47bb4478a7e88982a30b1615fc7ec647bbfd0f14142256b0bb5bc1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/shot-list.csv",
+    "root": "mica-and-talon/phase2",
+    "original_path": "shot-list.csv",
+    "bytes": 16235,
+    "sha256": "bda4066df7f179b6dcc46b66893836479b70c95ac2753eabe1c92347daffb251",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/homing-events.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "homing-events.json",
+    "bytes": 677,
+    "sha256": "4c89bca647b53695fa4beb8974daabdddd1065d2a838701037c90bbf0959ab5b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/viewer-pass.md",
+    "root": "mica-and-talon/phase2",
+    "original_path": "viewer-pass.md",
+    "bytes": 2221,
+    "sha256": "a70d552edc61f4864863d73ec3d5d461178f79e0f0264bee395b7437666ed636",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/selected-shots.csv",
+    "root": "mica-and-talon/phase2",
+    "original_path": "selected-shots.csv",
+    "bytes": 1292,
+    "sha256": "59ba3e3cfa78a4c4d7c30d66c3d34180b2c5b770ec8fc2cd2f432d5d0e6ec976",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/handoff.md",
+    "root": "mica-and-talon/phase2",
+    "original_path": "handoff.md",
+    "bytes": 6032,
+    "sha256": "55d3ee129e0c5db73d58a40065742808d79c24a420453195198c7e499bde33bd",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/edit-list.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "edit-list.json",
+    "bytes": 1832,
+    "sha256": "74e2b6867d517cd9fa82f375b1f63eaba918345fe021abbe5431bab794d7ba4c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/verify_final.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "verify_final.py",
+    "bytes": 1859,
+    "sha256": "4e6cee518abc24e2da9cc8fd279ae9981bbc2b72419a8b3a8af44d012f27b465",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/verification.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "verification.json",
+    "bytes": 906,
+    "sha256": "5d9e95c03e3ebaf7fc2cc0e48ee9d8ce542368b73eb9ca2f5e4f1ddfdb5d3a56",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/edit/edit.py",
+    "root": "mica-and-talon/phase2",
+    "original_path": "edit/edit.py",
+    "bytes": 10212,
+    "sha256": "604d3c8b78fb3824f948b1b7f641c5942ad187507680b5c20d91d593f63a12ba",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/out/wide-ffprobe.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "out/wide-ffprobe.json",
+    "bytes": 3497,
+    "sha256": "67f4ab7cf4cf094a0234a2e03e690328687c0ceb70b18ab530368f5b31361623",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/out/vertical-ffprobe.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "out/vertical-ffprobe.json",
+    "bytes": 3497,
+    "sha256": "df4f9c3b18ecf5da9e9c54e1f95919957f71503140aca89b57cafc0d3be617ec",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/hosts/original/PromoCapture.java",
+    "root": "mica-and-talon/phase2",
+    "original_path": "hosts/original/PromoCapture.java",
+    "bytes": 4792,
+    "sha256": "72c1f0fdf950c6a8e25a33f763beda98ae27ec8adfb368c443529005a56ca56a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/hosts/starpost/PromoCapture.java",
+    "root": "mica-and-talon/phase2",
+    "original_path": "hosts/starpost/PromoCapture.java",
+    "bytes": 4810,
+    "sha256": "d9dae7eeb69d1f9cb7261f023bc94ee23c722e67589a9d4792e543dafdf42790",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s1-run/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s1-run/input.script",
+    "bytes": 18,
+    "sha256": "59e708b3bf20505f85c33812e4d119d1bc841d5433f94b3d2f3d3821f51666c8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s1-run/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s1-run/input.txt",
+    "bytes": 6137,
+    "sha256": "631a850e9bbf9821eb01ada32b2c1d3f77c9c7471b5f189380b22004eb70520f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s1-run/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s1-run/provenance.json",
+    "bytes": 1162,
+    "sha256": "135d617cfa296c6dad0be71ba982225f732b61e62a284bdce3f8ce58e6cf1972",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s2-run/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s2-run/input.script",
+    "bytes": 18,
+    "sha256": "59e708b3bf20505f85c33812e4d119d1bc841d5433f94b3d2f3d3821f51666c8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s2-run/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s2-run/input.txt",
+    "bytes": 6137,
+    "sha256": "631a850e9bbf9821eb01ada32b2c1d3f77c9c7471b5f189380b22004eb70520f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s2-run/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s2-run/provenance.json",
+    "bytes": 1162,
+    "sha256": "73380dee0cbfd6b8df44e7274d9c3900053898fb2f3342bb076544703cbf6a30",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s3k-run/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s3k-run/input.script",
+    "bytes": 18,
+    "sha256": "59e708b3bf20505f85c33812e4d119d1bc841d5433f94b3d2f3d3821f51666c8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s3k-run/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s3k-run/input.txt",
+    "bytes": 6137,
+    "sha256": "631a850e9bbf9821eb01ada32b2c1d3f77c9c7471b5f189380b22004eb70520f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/s3k-run/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/s3k-run/provenance.json",
+    "bytes": 1169,
+    "sha256": "610c2192a511e55630d8fea4605ee0c8fb450b7fc878c8620e8db904a0701515",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/hero/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/hero/input.script",
+    "bytes": 95,
+    "sha256": "d5904a7f3df6d49a60de591be904cd5f832dff0a6f1c7f681acd1a14be13460c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/hero/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/hero/input.txt",
+    "bytes": 14337,
+    "sha256": "0c6769db99ad339a47180b9e00e0a69315740d5cca50dfbd79006b49920ac7c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/hero/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/hero/provenance.json",
+    "bytes": 1235,
+    "sha256": "5cb4092e8d1f22fcaf29404d6ed714ae824ffc489fb0eeea7b9dbcf6095c9166",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/talon-s2/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/talon-s2/input.script",
+    "bytes": 67,
+    "sha256": "d00af6a5b6f916cb995a5162a8622a9176a6e9a805710a52a34eec1203d315a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/talon-s2/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/talon-s2/input.txt",
+    "bytes": 6037,
+    "sha256": "2a22a61fdc1fbd925b215990eb0aca4b289fb9918b2a289dfa17add3b7746d47",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/talon-s2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/talon-s2/provenance.json",
+    "bytes": 1237,
+    "sha256": "5de447054b58914f418b9e35072031812d889217fd1c5d5c66ca42782e7b849a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/continue/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/continue/provenance.json",
+    "bytes": 9442,
+    "sha256": "d67eb778ac7ce7931d3a02f68e2647695dd6764bcbb5ddbaf22f8c3b0e82ada6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s2-0-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s2-0-1/provenance.json",
+    "bytes": 9278,
+    "sha256": "16a70f81f604320c25c4e18b6aeef3360dcf9d15347bdf15d4e9a6dd2b4596e0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s2-2-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s2-2-0/provenance.json",
+    "bytes": 9278,
+    "sha256": "45381a2bc56143e6ecbed7279bc2a6e07a44f250bbab0f560349d893cc4f87f3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/talon-s3k/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/talon-s3k/input.script",
+    "bytes": 65,
+    "sha256": "7d1ca3954c3996b9e2d9cb89099de78d2ba4d4b3d0da0bc2d826ca7d4e9ae3a6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/talon-s3k/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/talon-s3k/input.txt",
+    "bytes": 6037,
+    "sha256": "82822311d8d03101ee244af9bb38d5d46ede1c6cf2b5f115f153d43e4c0b029a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/talon-s3k/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/talon-s3k/provenance.json",
+    "bytes": 1240,
+    "sha256": "6385a2a66c2f76528a8bcfc951e5f35683269f4ed5d16e8d40ac01471f4d1b9a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s2-13-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s2-13-0/provenance.json",
+    "bytes": 9282,
+    "sha256": "9318c908953a4a5db23d4e173605da89b1a9f2644f35e15af925374f58763551",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/ending/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/ending/provenance.json",
+    "bytes": 9277,
+    "sha256": "1650a4cc95262c79d64fee1e39422de9699f0eddb925ecc406fe83b4f70736bb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s2-1-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s2-1-0/provenance.json",
+    "bytes": 9278,
+    "sha256": "e2bc638c93b44b9cd8fbfad1b241ff3e34cb7c3acc6b34dab3aa80f901125eed",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s2-4-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s2-4-0/provenance.json",
+    "bytes": 9278,
+    "sha256": "8e9e104fe434e72c7991099d2adb070e87531bcaa08837fefbc834a114cd94ea",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/team/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/team/input.script",
+    "bytes": 31,
+    "sha256": "c1186d679b94b66168c3ac33d3e5d4c5676bcf4434546dc656082394cb4fd99d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/team/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/team/input.txt",
+    "bytes": 7337,
+    "sha256": "4c391f64f26d9d1ba2277685711796164c465bf770e32ab87faf2197a267dc78",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/team/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/team/provenance.json",
+    "bytes": 1242,
+    "sha256": "c24edb824890be9955a9c3b9b43ca12893099cdd491dd64d72240a5b20c4dc18",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s3k-0-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s3k-0-1/provenance.json",
+    "bytes": 9282,
+    "sha256": "d8172fdd717ce6274c5c4ebf2e9db1f5613125a4f38cc99d7acf53d8caded0bc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s3k-1-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s3k-1-0/provenance.json",
+    "bytes": 9282,
+    "sha256": "5be20fbbbb4a4fb46d1ccf5619128e6c7d634d30e4a3aaed31df91391c7e47a3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s3k-2-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s3k-2-0/provenance.json",
+    "bytes": 9282,
+    "sha256": "15ddba26b0e7e87a9413e381a3ea32b84825a3cc14ca750011a39690641968b7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s3k-2-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s3k-2-1/provenance.json",
+    "bytes": 9282,
+    "sha256": "9f3a87fe1abed28d7014982431cc37e110e08208190ae946d5b9c819276a3174",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded/input.script",
+    "bytes": 60,
+    "sha256": "106719de48cb047f379ba9fcc4b865559aa7b4061c24bf90d5d5b10384f99da4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded/input.txt",
+    "bytes": 7097,
+    "sha256": "a4fe005cd14a3fff85c91daf08c548998734f418b21d6583efe66e4d0dfb35e6",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded/provenance.json",
+    "bytes": 1264,
+    "sha256": "15a56cedb0474736c986761732aa767a8c957fa64d5d7b7493e7f6f467650b44",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-s3k-6-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-s3k-6-0/provenance.json",
+    "bytes": 9282,
+    "sha256": "b0b6e2c62de1d4b5b0463a95a4d93ca7344bb7836c7486cca7f58c6ecda96a7e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/solar/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/solar/input.script",
+    "bytes": 70,
+    "sha256": "ba5372d0b7dc723a59a8078f80f416b85548eb81a8f324bc13284d9e2f87805b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/solar/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/solar/input.txt",
+    "bytes": 6857,
+    "sha256": "dbbb7fe64ef603ffe07cad078a21565a0440816c21b3928b2f4bcaf3d4dd0c18",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/solar/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/solar/provenance.json",
+    "bytes": 1291,
+    "sha256": "314e19e89d982ffe47593fe25ad09c16f28971ec42773777e27c064efdfda7fb",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/hero-ehz/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/hero-ehz/input.script",
+    "bytes": 62,
+    "sha256": "fae04c260eaa96a2be85b92dcd73f6c4152df9b5a0c6a457feb2b32b5e0b1976",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/hero-ehz/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/hero-ehz/input.txt",
+    "bytes": 7477,
+    "sha256": "3e93ef00db56940f5ae19f1731fc16ee9dc4e8e3f61d1c480ea7e0adea7c1631",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/hero-ehz/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/hero-ehz/provenance.json",
+    "bytes": 1212,
+    "sha256": "0e9132c466c99ab207b263a7a599002d43f6f52a396184e7355e053a19ef3662",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear/input.script",
+    "bytes": 68,
+    "sha256": "b27d26b25b15d66bf459174fe5c7125b0a7d891e10a3c7f2e184aa7dda4fcd20",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear/input.txt",
+    "bytes": 23777,
+    "sha256": "95ffc8fc2137b415de10cc8301acc6672f55fa3ce61ebf4366b0eeb4207a1be2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear/provenance.json",
+    "bytes": 1357,
+    "sha256": "92c8770c980053f48bec76399e6743147ebec95617a3be0da355beaf45640312",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe/input.script",
+    "bytes": 48,
+    "sha256": "544383acc96bbb5900079e9afe88dd1f238b50f85427b911097475d17caddda9",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe/input.txt",
+    "bytes": 14237,
+    "sha256": "340263d904273f012f07b4002662df5465362b4081aa3244f8963f333b213356",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe/provenance.json",
+    "bytes": 1201,
+    "sha256": "7a684bea4cca4e37c7cd482e0edc0d30ebed0117093f9310de2cc5fb02ff00d4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/carry/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/carry/input.script",
+    "bytes": 73,
+    "sha256": "839f549218baf2b5b7a006e023e086122a26322e991134acd7d0b55a1c57cde5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/carry/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/carry/input.txt",
+    "bytes": 6357,
+    "sha256": "fb437e6b7221ba085278c9efd096dae63c1e1e679beac197104940c22127e53a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/carry/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/carry/provenance.json",
+    "bytes": 1287,
+    "sha256": "2eaeb3e13411e38e4a3a4741ff45baf8977648bbc29bdf36b103e268d569881f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/blue-play/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/blue-play/input.script",
+    "bytes": 18,
+    "sha256": "e15534c86f3eeb6a6555cb1d0a9ef7ff0a4f0c442cd0aedcc5b103d7f8809a40",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/blue-play/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/blue-play/input.txt",
+    "bytes": 14537,
+    "sha256": "24b430a2f955fba9ef448b549af3a13796c8a48a817953ade1fa14ca28bad7e1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/blue-play/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/blue-play/provenance.json",
+    "bytes": 1177,
+    "sha256": "aa7afd7c1c9c1f9b4637656b811e4e55fb0786e7ec4c5fefedb90c26fe6c6e80",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/blue-sphere/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/blue-sphere/input.script",
+    "bytes": 18,
+    "sha256": "54e93d27fd4a9dca44a936aa443a98406e48120e6b17f81ad458f150b175c004",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/blue-sphere/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/blue-sphere/input.txt",
+    "bytes": 21737,
+    "sha256": "eece3a43bd88a915d48cb0ddb8d8aa3e9474b9ac6fbc4265a1e1319c2f72575b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/blue-sphere/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/blue-sphere/provenance.json",
+    "bytes": 1235,
+    "sha256": "0aa173bb7bb6b045260497b4d49ebb70ba4d6ee0ee0b05a35bdac454695cec77",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/ehz-clear/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/ehz-clear/input.script",
+    "bytes": 19,
+    "sha256": "e11b3e80b3f91d00d71eab9d9a1b7bbe307ae0cc69d2c05e555eb9b53e039008",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/ehz-clear/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/ehz-clear/input.txt",
+    "bytes": 18737,
+    "sha256": "7fe09654b71392a5d003f845179746c2c575d27921a74d9b603316a06e394a88",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/ehz-clear/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/ehz-clear/provenance.json",
+    "bytes": 1172,
+    "sha256": "74a69d2aa55a6513526ffcc51d6eb253d482fe6da0567ac77cfe9aa39f5050a2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/ghz-clear/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/ghz-clear/input.script",
+    "bytes": 19,
+    "sha256": "e11b3e80b3f91d00d71eab9d9a1b7bbe307ae0cc69d2c05e555eb9b53e039008",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/ghz-clear/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/ghz-clear/input.txt",
+    "bytes": 18737,
+    "sha256": "7fe09654b71392a5d003f845179746c2c575d27921a74d9b603316a06e394a88",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/ghz-clear/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/ghz-clear/provenance.json",
+    "bytes": 1172,
+    "sha256": "02ac53dfe3c2b6c9bf47e84301fafdeb4761c1e21c99f78358210e2288bffc65",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/data-select/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/data-select/input.script",
+    "bytes": 18,
+    "sha256": "c109ab70c9e32fc0f614b1e4d6281e57f19bafe0376453ff9cc4eb3843ba6571",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/data-select/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/data-select/input.txt",
+    "bytes": 14557,
+    "sha256": "4f3d1814c42a07ff5436616f2b4d495563be0f8dd4e346197f1420dfccbd48d1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/data-select/slots.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/data-select/slots.json",
+    "bytes": 2,
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/data-select/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/data-select/provenance.json",
+    "bytes": 1224,
+    "sha256": "5fff5089696975a3d24f808afb59bb4fd2128a4d7895359ef079f06b6ef39378",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-0/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-0/input.script",
+    "bytes": 50,
+    "sha256": "403c0e85207f22d5dfb917c6f3f49985bc8d783a5dba301bdf8b0d367d52a687",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-0/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-0/input.txt",
+    "bytes": 7417,
+    "sha256": "3299ae7e03b013a20984d3486b5c2028166033ab63267a1a9d03b01465125803",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-0/provenance.json",
+    "bytes": 9398,
+    "sha256": "81cc67c899bc54bceba5f0fe6ec5a8ea8025a1218971768e07e8790208349286",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-1/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-1/input.script",
+    "bytes": 50,
+    "sha256": "3c76ce29d6adc2a6a42d94bb935ba024f31dc1e80eeec76e0f756f691fef2e15",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-1/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-1/input.txt",
+    "bytes": 10317,
+    "sha256": "438933667f370678464d1a40eb30754d671394e7e6cee833b75d62dbc27f3a0a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-1/provenance.json",
+    "bytes": 9398,
+    "sha256": "dfbb408b30439a0b0b712e6c2d1bce4cb83c37ed8bae957edd88040622cdda7d",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-2/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-2/input.script",
+    "bytes": 50,
+    "sha256": "a0f21dd467b711f22986c9730ed721c66fd39814c210e5bb77ca165857f29da1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-2/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-2/input.txt",
+    "bytes": 13517,
+    "sha256": "b3fd33040450e6cd8291490cbedf67cdd5e5643e0aaf60231caeffc8abd2d0a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-2/provenance.json",
+    "bytes": 9398,
+    "sha256": "63afca306441f7581e03e7cdc63c5ed87df551366225854d96049fef8c0465af",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-3/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-3/input.script",
+    "bytes": 49,
+    "sha256": "1cff77e498a03e08bf52de87d1016c021eb51ed35d8be02bdf71ab8d0dac16c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-3/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-3/input.txt",
+    "bytes": 17117,
+    "sha256": "f62946099a6ef66036c64561a5d7ac37beb806e1200d91a3f0c039fa6f96749b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-0-3/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-0-3/provenance.json",
+    "bytes": 9398,
+    "sha256": "72cabc993749236ddab10f0692254962967cd0e0b14d9edef6aec8e65616cf14",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-ehz1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-ehz1/provenance.json",
+    "bytes": 9274,
+    "sha256": "f1d869f1f9f3461837d602606fa3bfc2f1080faeddc8e4940fb7bb1ec2a9f554",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-0/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-0/input.script",
+    "bytes": 50,
+    "sha256": "403c0e85207f22d5dfb917c6f3f49985bc8d783a5dba301bdf8b0d367d52a687",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-0/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-0/input.txt",
+    "bytes": 7417,
+    "sha256": "3299ae7e03b013a20984d3486b5c2028166033ab63267a1a9d03b01465125803",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-0/provenance.json",
+    "bytes": 9398,
+    "sha256": "ae26e0f02baba7aaaa9697c85c4e2f52720436a98d7003df490a99b35dd36ab7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-1/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-1/input.script",
+    "bytes": 50,
+    "sha256": "3c76ce29d6adc2a6a42d94bb935ba024f31dc1e80eeec76e0f756f691fef2e15",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-1/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-1/input.txt",
+    "bytes": 10317,
+    "sha256": "438933667f370678464d1a40eb30754d671394e7e6cee833b75d62dbc27f3a0a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-1/provenance.json",
+    "bytes": 9398,
+    "sha256": "5d4aabcc6937fb6d611e58543db5d4dddd0971e8ae74562d5ca9d7af5c5a7d1c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-2/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-2/input.script",
+    "bytes": 50,
+    "sha256": "a0f21dd467b711f22986c9730ed721c66fd39814c210e5bb77ca165857f29da1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-2/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-2/input.txt",
+    "bytes": 13517,
+    "sha256": "b3fd33040450e6cd8291490cbedf67cdd5e5643e0aaf60231caeffc8abd2d0a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-2/provenance.json",
+    "bytes": 9398,
+    "sha256": "14d8ea6b309854dfb9591df07881cacf1179fd6b5e71820d90f3d29d90abeb26",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-3/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-3/input.script",
+    "bytes": 49,
+    "sha256": "1cff77e498a03e08bf52de87d1016c021eb51ed35d8be02bdf71ab8d0dac16c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-3/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-3/input.txt",
+    "bytes": 17117,
+    "sha256": "f62946099a6ef66036c64561a5d7ac37beb806e1200d91a3f0c039fa6f96749b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-1-3/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-1-3/provenance.json",
+    "bytes": 9398,
+    "sha256": "d639af93a7638913470eab25c64307c1bc922ba10cfb74f4bb96472f2621476f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-0/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-0/input.script",
+    "bytes": 50,
+    "sha256": "403c0e85207f22d5dfb917c6f3f49985bc8d783a5dba301bdf8b0d367d52a687",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-0/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-0/input.txt",
+    "bytes": 7417,
+    "sha256": "3299ae7e03b013a20984d3486b5c2028166033ab63267a1a9d03b01465125803",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-0/provenance.json",
+    "bytes": 9400,
+    "sha256": "279f044499cc4e710bf1022cfeee3fa85dc8eafe4c1bb3ce9edf8a8959a8b358",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-1/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-1/input.script",
+    "bytes": 50,
+    "sha256": "3c76ce29d6adc2a6a42d94bb935ba024f31dc1e80eeec76e0f756f691fef2e15",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-1/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-1/input.txt",
+    "bytes": 10317,
+    "sha256": "438933667f370678464d1a40eb30754d671394e7e6cee833b75d62dbc27f3a0a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-1/provenance.json",
+    "bytes": 9400,
+    "sha256": "7a5b9f13a7e0862b6f699098fc2bba3d45b9eeef8646bd03fc422b10285b8e5e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-2/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-2/input.script",
+    "bytes": 50,
+    "sha256": "a0f21dd467b711f22986c9730ed721c66fd39814c210e5bb77ca165857f29da1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-2/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-2/input.txt",
+    "bytes": 13517,
+    "sha256": "b3fd33040450e6cd8291490cbedf67cdd5e5643e0aaf60231caeffc8abd2d0a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-2/provenance.json",
+    "bytes": 9400,
+    "sha256": "edc6beeba25650871fe290a6bf47c8a0047056a35cfbb54a89b76710856f3edc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-3/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-3/input.script",
+    "bytes": 49,
+    "sha256": "1cff77e498a03e08bf52de87d1016c021eb51ed35d8be02bdf71ab8d0dac16c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-3/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-3/input.txt",
+    "bytes": 17117,
+    "sha256": "f62946099a6ef66036c64561a5d7ac37beb806e1200d91a3f0c039fa6f96749b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-2-3/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-2-3/provenance.json",
+    "bytes": 9400,
+    "sha256": "90545259360c0889c4ada9b9f4eecb0489b2bef7022e555bb0e60cd17e96eedc",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-0/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-0/input.script",
+    "bytes": 50,
+    "sha256": "403c0e85207f22d5dfb917c6f3f49985bc8d783a5dba301bdf8b0d367d52a687",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-0/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-0/input.txt",
+    "bytes": 7417,
+    "sha256": "3299ae7e03b013a20984d3486b5c2028166033ab63267a1a9d03b01465125803",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-0/provenance.json",
+    "bytes": 9394,
+    "sha256": "c8be6742a21ff0321f328655bc049515c809240b0c584a3a02a75924902e1b78",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-1/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-1/input.script",
+    "bytes": 50,
+    "sha256": "3c76ce29d6adc2a6a42d94bb935ba024f31dc1e80eeec76e0f756f691fef2e15",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-1/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-1/input.txt",
+    "bytes": 10317,
+    "sha256": "438933667f370678464d1a40eb30754d671394e7e6cee833b75d62dbc27f3a0a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-1/provenance.json",
+    "bytes": 9394,
+    "sha256": "adfea18870e1708a13e4a9df61864561eed387693f1d479993d2747b4470f50c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-2/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-2/input.script",
+    "bytes": 50,
+    "sha256": "a0f21dd467b711f22986c9730ed721c66fd39814c210e5bb77ca165857f29da1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-2/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-2/input.txt",
+    "bytes": 13517,
+    "sha256": "b3fd33040450e6cd8291490cbedf67cdd5e5643e0aaf60231caeffc8abd2d0a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-2/provenance.json",
+    "bytes": 9394,
+    "sha256": "38df7191e134abe73bf48ffaf52b48b834ead44ab09dd0ce6b94c320e4ce1ae7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/hero-mgz2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/hero-mgz2/provenance.json",
+    "bytes": 9558,
+    "sha256": "9c0e7796aac3679d41c22813b4c955a805923ba78086481fe3e0b3fdeafef00e",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-3/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-3/input.script",
+    "bytes": 49,
+    "sha256": "1cff77e498a03e08bf52de87d1016c021eb51ed35d8be02bdf71ab8d0dac16c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-3/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-3/input.txt",
+    "bytes": 17117,
+    "sha256": "f62946099a6ef66036c64561a5d7ac37beb806e1200d91a3f0c039fa6f96749b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-3-3/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-3-3/provenance.json",
+    "bytes": 9394,
+    "sha256": "56ce14313220946d3d22bc85afac52cd62e8f05638471b9aa462048f13caf31f",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-0/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-0/input.script",
+    "bytes": 50,
+    "sha256": "403c0e85207f22d5dfb917c6f3f49985bc8d783a5dba301bdf8b0d367d52a687",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-0/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-0/input.txt",
+    "bytes": 7417,
+    "sha256": "3299ae7e03b013a20984d3486b5c2028166033ab63267a1a9d03b01465125803",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-0/provenance.json",
+    "bytes": 9394,
+    "sha256": "99b459fce3739f2f41533088bcce1525adf6b96a0f912f561ce971e9dd265636",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-1/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-1/input.script",
+    "bytes": 50,
+    "sha256": "3c76ce29d6adc2a6a42d94bb935ba024f31dc1e80eeec76e0f756f691fef2e15",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-1/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-1/input.txt",
+    "bytes": 10317,
+    "sha256": "438933667f370678464d1a40eb30754d671394e7e6cee833b75d62dbc27f3a0a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-1/provenance.json",
+    "bytes": 9394,
+    "sha256": "888f30322f56800ac8d1a36972115b81fdfc6f6d5869fd6801220c046f930f58",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-2/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-2/input.script",
+    "bytes": 50,
+    "sha256": "a0f21dd467b711f22986c9730ed721c66fd39814c210e5bb77ca165857f29da1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-2/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-2/input.txt",
+    "bytes": 13517,
+    "sha256": "b3fd33040450e6cd8291490cbedf67cdd5e5643e0aaf60231caeffc8abd2d0a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-2/provenance.json",
+    "bytes": 9394,
+    "sha256": "ec387f89e46ea70e4648c627635797e2ffe579d7b832ff5d4e1fc98220415912",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-3/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-3/input.script",
+    "bytes": 49,
+    "sha256": "1cff77e498a03e08bf52de87d1016c021eb51ed35d8be02bdf71ab8d0dac16c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-3/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-3/input.txt",
+    "bytes": 17117,
+    "sha256": "f62946099a6ef66036c64561a5d7ac37beb806e1200d91a3f0c039fa6f96749b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-4-3/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-4-3/provenance.json",
+    "bytes": 9394,
+    "sha256": "4da37faef38d879c55b7a923396e00f68a753918f42a1f8ee813f39898dac327",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-0/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-0/input.script",
+    "bytes": 50,
+    "sha256": "403c0e85207f22d5dfb917c6f3f49985bc8d783a5dba301bdf8b0d367d52a687",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-0/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-0/input.txt",
+    "bytes": 7417,
+    "sha256": "3299ae7e03b013a20984d3486b5c2028166033ab63267a1a9d03b01465125803",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-0/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-0/provenance.json",
+    "bytes": 9396,
+    "sha256": "c138564d4bfc9ea075d40a60efd5c8a8c2f042219889fc82e8bdb9cfa9a9ebad",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-1/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-1/input.script",
+    "bytes": 50,
+    "sha256": "3c76ce29d6adc2a6a42d94bb935ba024f31dc1e80eeec76e0f756f691fef2e15",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-1/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-1/input.txt",
+    "bytes": 10317,
+    "sha256": "438933667f370678464d1a40eb30754d671394e7e6cee833b75d62dbc27f3a0a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-1/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-1/provenance.json",
+    "bytes": 9396,
+    "sha256": "0684edef4e4b6ed8e98a1a2e98069bade9af53543fd1d5c566bd27138b837b67",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-2/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-2/input.script",
+    "bytes": 50,
+    "sha256": "a0f21dd467b711f22986c9730ed721c66fd39814c210e5bb77ca165857f29da1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-2/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-2/input.txt",
+    "bytes": 13517,
+    "sha256": "b3fd33040450e6cd8291490cbedf67cdd5e5643e0aaf60231caeffc8abd2d0a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-2/provenance.json",
+    "bytes": 9396,
+    "sha256": "7e3e4491b64cc8a8b33fdf44847c8e2f2149444385bec0905f31cd0787f71cbe",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-3/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-3/input.script",
+    "bytes": 49,
+    "sha256": "1cff77e498a03e08bf52de87d1016c021eb51ed35d8be02bdf71ab8d0dac16c5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-3/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-3/input.txt",
+    "bytes": 17117,
+    "sha256": "f62946099a6ef66036c64561a5d7ac37beb806e1200d91a3f0c039fa6f96749b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/probe-5-3/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/probe-5-3/provenance.json",
+    "bytes": 9396,
+    "sha256": "046ab4cf62bb19caf167787d9e729d01c76318f240fa072b844bb1d217e566e4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-entry/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-entry/input.script",
+    "bytes": 65,
+    "sha256": "681fe124e35f0cd65595bfb6cbaff5ce6a25c7c82ba27b81ce0b0bf3fddd4d2c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-entry/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-entry/input.txt",
+    "bytes": 18737,
+    "sha256": "13e9cb2ebb7a17e40d44413650ee103b4195a1da4c89e48cb93ff2a5edcfb48b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-entry/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-entry/provenance.json",
+    "bytes": 1305,
+    "sha256": "c5491d5a6e49fed2dd41263f12eaaf5acee964ae010d50a75b31824dcfe97af8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/ending-full/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/ending-full/provenance.json",
+    "bytes": 9804,
+    "sha256": "baabee2c01fde79d5ec94b3ef81a696f2bcb14f149e65b7d5bfcf3532bb4e06b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-post/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-post/input.script",
+    "bytes": 59,
+    "sha256": "964d47eb10a143b7b7fd6802cbb4d50e3645316e936474af91339a62beed48a5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-post/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-post/input.txt",
+    "bytes": 18857,
+    "sha256": "cc84e2f7801c02248eadc399248ea06d6d4ab0eb6feb38d7068ef45776e6dc36",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-post/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-post/provenance.json",
+    "bytes": 1296,
+    "sha256": "4107a46b9e2d4ae6b8fde3bde96a3bbd359882d6202131be8bc18d0b02a4e53b",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear-long/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear-long/input.script",
+    "bytes": 68,
+    "sha256": "19687c2606787755cd1d9219a7a798838342a505fa8d8ae013a81e1ab333b7cf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear-long/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear-long/input.txt",
+    "bytes": 28457,
+    "sha256": "f7604a2d242e30cac8d93dd2f6f500df0999fd13e831cf80b509fdb8a04d7c72",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear-long/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear-long/provenance.json",
+    "bytes": 1372,
+    "sha256": "3ce968704d143df1e4d111e5af3bf00cf8e396c2e9c6b96af06d8975b49d6a48",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-high/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-high/input.script",
+    "bytes": 59,
+    "sha256": "964d47eb10a143b7b7fd6802cbb4d50e3645316e936474af91339a62beed48a5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-high/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-high/input.txt",
+    "bytes": 18857,
+    "sha256": "cc84e2f7801c02248eadc399248ea06d6d4ab0eb6feb38d7068ef45776e6dc36",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-high/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-high/provenance.json",
+    "bytes": 1296,
+    "sha256": "a044dc37d457f60243ccfb8f86496f6131f379f657a712d91174394736e94369",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-reload/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-reload/input.script",
+    "bytes": 59,
+    "sha256": "964d47eb10a143b7b7fd6802cbb4d50e3645316e936474af91339a62beed48a5",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-reload/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-reload/input.txt",
+    "bytes": 18857,
+    "sha256": "cc84e2f7801c02248eadc399248ea06d6d4ab0eb6feb38d7068ef45776e6dc36",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-reload/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-reload/provenance.json",
+    "bytes": 1341,
+    "sha256": "9976986b07d1ed9d0aff97793dc83a92bbb7483a4275a530a62d647113119738",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/data-select-team/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/data-select-team/input.script",
+    "bytes": 18,
+    "sha256": "c109ab70c9e32fc0f614b1e4d6281e57f19bafe0376453ff9cc4eb3843ba6571",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/data-select-team/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/data-select-team/input.txt",
+    "bytes": 14557,
+    "sha256": "4f3d1814c42a07ff5436616f2b4d495563be0f8dd4e346197f1420dfccbd48d1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/data-select-team/slots.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/data-select-team/slots.json",
+    "bytes": 576,
+    "sha256": "0318490957562b77d43b3198fd1fbd181ea215b3e85e5fa36c5084fec09dfe3a",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/data-select-team/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/data-select-team/provenance.json",
+    "bytes": 1244,
+    "sha256": "662ee9e01bcd1834b5a6b56cb9daf6b114a0f85f640fcaac93b43ed53edb85a1",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear-low/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear-low/input.script",
+    "bytes": 68,
+    "sha256": "19687c2606787755cd1d9219a7a798838342a505fa8d8ae013a81e1ab333b7cf",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear-low/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear-low/input.txt",
+    "bytes": 28457,
+    "sha256": "f7604a2d242e30cac8d93dd2f6f500df0999fd13e831cf80b509fdb8a04d7c72",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/gilded-clear-low/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/gilded-clear-low/provenance.json",
+    "bytes": 1369,
+    "sha256": "79e08df243272cf06d2f77a9df559e27cc1122df0530137ade61efe5622896f8",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-approach/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-approach/input.script",
+    "bytes": 60,
+    "sha256": "a8657d5b099ea631b9b19faa06594b024872bbde3cd59f19aa5401d8e2cdee41",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-approach/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-approach/input.txt",
+    "bytes": 16737,
+    "sha256": "f0a8a834eaafacaad7dff398735212fb5ee746d81bf9136740682473b09ab2b3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/half-pipe-approach/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/half-pipe-approach/provenance.json",
+    "bytes": 1309,
+    "sha256": "a8f322f7dfb7d16cd0630e2b15bef8802853311a32c2a40cb6447e65ce5acba4",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-post-active/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-post-active/provenance.json",
+    "bytes": 9310,
+    "sha256": "6eab6f1cf7b62a2bfa3afb564525f75d32d40d68ea6941575fbea1882ffa3082",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/scout-post-active2/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/scout-post-active2/provenance.json",
+    "bytes": 9312,
+    "sha256": "6f1509f830b99e279811c0895bf0fb1a90f4f56405a0423b8e4f4c946bd1b020",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/halfpipe-component/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/halfpipe-component/input.script",
+    "bytes": 59,
+    "sha256": "0d645093c299b404be4326e20b5d9830e8766d7ee31ca8eed6911c99f9f06678",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/halfpipe-component/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/halfpipe-component/input.txt",
+    "bytes": 17477,
+    "sha256": "1086bdb0573d58b8e189545130e87e766df68b9f9072a9a7f3ab28dca31bc0c2",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/halfpipe-component/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/halfpipe-component/provenance.json",
+    "bytes": 9424,
+    "sha256": "c840d2fa1818d325b30ced728da048141c78d8189558a9e617ec78541fe785a0",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/halfpipe-post-native/input.script",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/halfpipe-post-native/input.script",
+    "bytes": 47,
+    "sha256": "bea48568a8a9f61471502208b6dbe2293ab7eadac842c4794c9e9a0e6ac1c1e3",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/halfpipe-post-native/input.txt",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/halfpipe-post-native/input.txt",
+    "bytes": 18357,
+    "sha256": "a4edcabd01a1a4774fbcff891ddf307c9ef8eb65034b78a7297940e54caca735",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/halfpipe-post-native/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/halfpipe-post-native/provenance.json",
+    "bytes": 9430,
+    "sha256": "897c8dbd8280b023b1cc6053455221988b3ca1edaaf2b5730860c17b986a45df",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/phase2/captures/phase2/halfpipe-cleared-post/provenance.json",
+    "root": "mica-and-talon/phase2",
+    "original_path": "captures/phase2/halfpipe-cleared-post/provenance.json",
+    "bytes": 9935,
+    "sha256": "017c2bf4aa4f50a8713c11c70528247903b742d9933481b5ed484e55ddbacfe7",
+    "snapshot": "byte-copy"
   }
 ]
