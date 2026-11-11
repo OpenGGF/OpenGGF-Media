@@ -64760,8 +64760,8 @@
     "path": "projects/mica-and-talon/sources/production-20261111/README.md",
     "root": "mica-and-talon/production-20261111",
     "original_path": "README.md",
-    "bytes": 6733,
-    "sha256": "03ee50e407dc4888d306d122be4eed34a9deef4ad503b5a5c229885422b91f97",
+    "bytes": 7638,
+    "sha256": "0bc0bcb00ee18012b3b6d8415ab2ff51a15c79ea974103ebb42423e3456dc385",
     "snapshot": "byte-copy"
   },
   {
@@ -66016,8 +66016,8 @@
     "path": "projects/mica-and-talon/sources/production-20261111/edit/edit.py",
     "root": "mica-and-talon/production-20261111",
     "original_path": "edit/edit.py",
-    "bytes": 29539,
-    "sha256": "1560c543d5e7aba42c317d9e42cac6e68a7ee8b5d8a19ef2adc759668cc0dc2d",
+    "bytes": 29735,
+    "sha256": "722f910d1c7546aacd436cee8dae86bbd5e36b5c4a9acf70612332f39ee1fd3b",
     "snapshot": "byte-copy"
   },
   {
@@ -66113,15 +66113,15 @@
     "root": "mica-and-talon/production-20261111",
     "original_path": "out/master-9x16.loudness.json",
     "bytes": 1127,
-    "sha256": "9ba7067ddd1046e4b758fb2f56bc9c9b9a20e332b44dfa9ade171a928aadd95b",
+    "sha256": "8fafde6fc2120fb1123be836a287f46ffb97eddbd070b8c247e970bb484ec5d1",
     "snapshot": "byte-copy"
   },
   {
     "path": "projects/mica-and-talon/sources/production-20261111/out/promo_kit-check.txt",
     "root": "mica-and-talon/production-20261111",
     "original_path": "out/promo_kit-check.txt",
-    "bytes": 342,
-    "sha256": "58e03648e6efa9cc6cc6db5258d86a029855150358f25de0ea4a292738165342",
+    "bytes": 412,
+    "sha256": "0b889327025dbca664e364b28d91d1300f1497113bdb2b7f18bfef53aafaf853",
     "snapshot": "byte-copy"
   },
   {
@@ -66144,8 +66144,8 @@
     "path": "projects/mica-and-talon/sources/production-20261111/out/verification.json",
     "root": "mica-and-talon/production-20261111",
     "original_path": "out/verification.json",
-    "bytes": 4070,
-    "sha256": "1807c885323954ab76a523ae3093a34d391ef76a5fc6fecb8898dba4cf0d6e62",
+    "bytes": 5202,
+    "sha256": "2158c3f219a81c54f11709a0e4896e0ec35543f0a317d988de4481eb1bfae29c",
     "snapshot": "byte-copy"
   },
   {
@@ -66258,6 +66258,22 @@
     "original_path": "tools/vsheet.py",
     "bytes": 1065,
     "sha256": "2f054fc94d3c09c51ad1b99cfdd8ec601aa739908e91bd2875b5384430027aa7",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/production-20261111/out/master-16x9-s1fix.loudness.json",
+    "root": "mica-and-talon/production-20261111",
+    "original_path": "out/master-16x9-s1fix.loudness.json",
+    "bytes": 1133,
+    "sha256": "375161ab8b417de9d3f405191d89fea3c55e1dc49c7dcdd2f75e999e958fa91c",
+    "snapshot": "byte-copy"
+  },
+  {
+    "path": "projects/mica-and-talon/sources/production-20261111/tools/archive_refresh.py",
+    "root": "mica-and-talon/production-20261111",
+    "original_path": "tools/archive_refresh.py",
+    "bytes": 4281,
+    "sha256": "071546c485c5af2604a45b24d20d8aace861297ec7da6def1275525d44d05a2b",
     "snapshot": "byte-copy"
   }
 ]

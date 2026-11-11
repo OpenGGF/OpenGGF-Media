@@ -4,7 +4,7 @@ Production sources for OpenGGF promotional reels, development highlights and mod
 showcases: plans, blueprints, capture/input scripts, edit lists, chapters,
 provenance and original DaVinci Resolve editing projects.
 
-**34 production groups · 8,276 preserved source files · approximately 196 GiB of
+**34 production groups · 8,278 preserved source files · approximately 196 GiB of
 external material catalogued.** The videos and raw captures remain external;
 this repository contains their production sources and location catalog.
 
@@ -12,7 +12,7 @@ this repository contains their production sources and location catalog.
 
 | Production | Sources | External asset/sequence entries |
 | --- | ---: | ---: |
-| [MICA & TALON example mod showcase](projects/mica-and-talon/) | 461 | 297 |
+| [MICA & TALON example mod showcase](projects/mica-and-talon/) | 463 | 299 |
 | [Hidden Palace highlights and capture sources](projects/hpz-highlights/) | 55 | 236 |
 | [Doomsday highlights and capture sources](projects/ddz-highlights/) | 86 | 228 |
 | [Lava Reef highlights and capture sources](projects/lrz-highlights/) | 1,772 | 5,106 |

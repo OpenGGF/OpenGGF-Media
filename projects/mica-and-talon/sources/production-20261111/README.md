@@ -85,3 +85,11 @@ python3 tools/finish.py work/build-v out/master-9x16.mp4 work/chapters.ffmeta
 - Lead checkpoint 2 (draft): approved — hide the S2 ending's "SONIC" decal and accompany the pose (→ start on the
   front view, punch on the landing, "ENDINGS TOO" pill); punch in on TALON's Solar transformation and release for the
   kill; punch the EHZ pops; queued fixes (stinger sync, $9F level, S2 signpost sound); designed 9:16 cut.
+- Lead final review (2026-11-11): 16:9 approved as is; 9:16 fix — the S1/S2 bands of the stacked homing split left a
+  ~25% navy strip (side padding meant for the 16:9 slices). 9:16 bands now track MICA full-width with no padding; the
+  stacked signposts now fill the 1080 width (3.375×, slide in) instead of a framed 3× panel. Titles, special stages and
+  TALON/powered pairs were already full width. `master-9x16.mp4` re-rendered.
+- Found during that fix: in the last ~0.3 s of the signpost pair (≈47.1–47.4 s, and through the push) the S1 pane
+  showed the faulty S1 results card entering (src ≥ 322). The edit now starts the S1 pane at src 135 (MICA running
+  into the signpost) so it ends at src 316. The approved `out/master-16x9.mp4` is **unchanged** and still contains
+  the 0.3 s leak; `out/master-16x9-s1fix.mp4` is the same edit with only this fix, for the lead to swap in if wanted.

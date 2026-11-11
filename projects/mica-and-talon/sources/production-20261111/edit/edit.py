@@ -310,8 +310,8 @@ def build(e):
     s3_src0 = s3hit - 40
 
     def pane(name, src0, pad=120):
-        if V:  # stacked bands: band-sized tracked view, HUD and lives out vertically
-            return lambda lf, ow, oh: tracked(name, src0 + lf, ow, oh, 1.65, window=(58, 194), pad=pad)
+        if V:  # stacked bands: full-width tracked view (no side padding), HUD and lives out vertically
+            return lambda lf, ow, oh: tracked(name, src0 + lf, ow, oh, 1.65, window=(58.0, 194.0))  # not ACT: no portrait xlo
         return lambda lf: tracked(name, src0 + lf, W, H, 1.65, pad=pad)
 
     def three(f, s, ed):
@@ -365,7 +365,7 @@ def build(e):
 
     def signs(f, s, ed):
         t0 = s.f0
-        return pair_3x(ed, f, [(t0, 'ghz-clear2', 160, 'SONIC 1'), (t0 + b(2), 'ehz-clear', 262, 'SONIC 2')])
+        return pair_3x(ed, f, [(t0, 'ghz-clear2', 135, 'SONIC 1'), (t0 + b(2), 'ehz-clear', 262, 'SONIC 2')])
 
     # S1's results card is excluded: its act oval renders over the text with MICA (see README).
     e.S(Custom(bar(32), bar(34), signs))
@@ -578,13 +578,16 @@ def pair_3x(e, f, panes):
             im = clip(name).frame(src + f - t0).crop((5, 0, 315, 174))
             pw, ph = 930, 522
             x, y = 15 + k * 960, (e.H - ph) / 2 - 40
-        else:      # 320x180 at exactly 3x, stacked
-            im = clip(name).frame(src + f - t0).crop((0, 0, 320, 180))
-            pw, ph = 960, 540
-            x, y = 60, 230 + k * (ph + 190)
+        else:      # full 1080 width: 320x179 at 3.375x, stacked
+            im = clip(name).frame(src + f - t0).crop((0, 0, 320, 179))
+            pw, ph = 1080, 604
+            x, y = 0, 250 + k * (ph + 170)
         u = clamp((f - t0) / 12)
         img = im.resize((pw, ph), Image.NEAREST)
-        pop_panel(c, img, x, y, f, t0, None, 5, YEL2)
+        if V:  # full-bleed band slides in from the left
+            paste(c, rgba_of(img), x - (1 - ease_out(u)) * e.W, y)
+        else:
+            pop_panel(c, img, x, y, f, t0, None, 5, YEL2)
         pill = chip(label)
         paste(c, pill, x + pw / 2 - pill.shape[1] / 2, y + ph + 30, clamp((f - t0 - 8) / 8))
     return c

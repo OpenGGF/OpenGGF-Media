@@ -11,9 +11,10 @@
     "root": "mica-and-talon/production-20261111",
     "path": "out/master-9x16.mp4",
     "files": 1,
-    "bytes": 120885767,
-    "sha256": "387b18a4d6e9027e25f6ed140d4288e0a784a958eeee169f1111bbb25edb2ab1",
-    "sha256_manifest": "84c36627990584fd0218d1882cd62d00fbfdf23eecb23ac2163f6bcdbc8dc4ac"
+    "bytes": 120689951,
+    "sha256": "4671e0f42384df74eb2a5fb032c604946a30201b7de45a939bf44cf8b5058791",
+    "sha256_manifest": null,
+    "revision": "2026-11-11 9:16 band fix"
   },
   {
     "root": "mica-and-talon/production-20261111",
@@ -27,9 +28,10 @@
     "root": "mica-and-talon/production-20261111",
     "path": "out/contact-9x16-2fps.jpg",
     "files": 1,
-    "bytes": 547645,
-    "sha256": "8913a5697e75f70974711f8d57b63509239ef415ff23033c5dbb5b810933f044",
-    "sha256_manifest": "6ed9526529d996d03c04065234379ed837ecb944556cebc5841fc2012f59b508"
+    "bytes": 550016,
+    "sha256": "89514623d3762440b7658288c6c1c81d0914a4072cb134e39432ba059b488beb",
+    "sha256_manifest": null,
+    "revision": "2026-11-11 9:16 band fix"
   },
   {
     "root": "mica-and-talon/production-20261111",
@@ -902,5 +904,19 @@
     "bytes": 539564,
     "sha256": "9ca866c1aff106aeb850e22dc1541ea35c0cf6862b25869a452a833fe6821fb1",
     "sha256_manifest": "0cf7e5669a1ce4a9a55c22d9fcaf662427a41ab3d4c3a3c9d50d8ac6cece9323"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "out/master-16x9-s1fix.mp4",
+    "files": 1,
+    "bytes": 98348316,
+    "sha256": "b880fa81b07944dc534182cf916563bb4b3afc5956eb0a7424d1d4a8d9becfe9"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "out/contact-16x9-s1fix-2fps.jpg",
+    "files": 1,
+    "bytes": 1221390,
+    "sha256": "d8fa7bcc3ecfa3b9e40ea0497ddb12c3f5139fbef5493c555a462959f1450c31"
   }
 ]
