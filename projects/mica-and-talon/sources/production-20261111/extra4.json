@@ -1,0 +1,13 @@
+[
+ {"id":"s1-ghz2-newtron","kind":"host","host":"declared","mode":"hero","game":"s1","zone":0,"act":1,"x":2260,"y":780,
+  "script":"20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 60 R","props":{"promo.rings":27,"promo.timer":3300}},
+ {"id":"s1-ghz2-chopper","kind":"host","host":"declared","mode":"hero","game":"s1","zone":0,"act":1,"x":2560,"y":600,
+  "script":"20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 60 R","props":{"promo.rings":29,"promo.timer":3500}},
+ {"id":"s1-ghz3-newtron","kind":"host","host":"declared","mode":"hero","game":"s1","zone":0,"act":2,"x":3600,"y":1150,
+  "script":"20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 60 R","props":{"promo.rings":31,"promo.timer":4800}},
+ {"id":"s1-ghz2-buzz","kind":"host","host":"declared","mode":"hero","game":"s1","zone":0,"act":1,"x":6800,"y":960,
+  "script":"20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 60 R","props":{"promo.rings":36,"promo.timer":6900}},
+ {"id":"aiz-hero","kind":"tool","game":"s3k","zone":"aiz","x":7100,"y":900,"rings":38,"timer":6300,
+  "script":"30 -; 20 R; 1 R+A; 12 R; 1 A; 12 -; repeat 10 { 1 R+A; 12 R }; repeat 18 { 12 R; 1 R+A; 15 R }"},
+ {"id":"s2-titlecard","kind":"tool","game":"s2","zone":"ehz","act":2,"flags":["--title-card"],"script":"240 -"}
+]

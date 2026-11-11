@@ -1,0 +1,1 @@
+30 -; 20 R; 1 R+A; 12 R; 1 A; 12 -; repeat 10 { 1 R+A; 12 R }; repeat 18 { 12 R; 1 R+A; 15 R }

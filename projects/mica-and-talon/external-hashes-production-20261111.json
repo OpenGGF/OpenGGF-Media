@@ -1,0 +1,906 @@
+[
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "out/master-16x9.mp4",
+    "files": 1,
+    "bytes": 98243003,
+    "sha256": "f2b513895677d8fcbce6ed9c3db154d3e543b8950140bf41b2a85fce408e9ee4",
+    "sha256_manifest": "f96418aff05012e52ac1faef576cf31981fff1de637fae10159a97e391a15e3e"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "out/master-9x16.mp4",
+    "files": 1,
+    "bytes": 120885767,
+    "sha256": "387b18a4d6e9027e25f6ed140d4288e0a784a958eeee169f1111bbb25edb2ab1",
+    "sha256_manifest": "84c36627990584fd0218d1882cd62d00fbfdf23eecb23ac2163f6bcdbc8dc4ac"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "out/contact-16x9-2fps.jpg",
+    "files": 1,
+    "bytes": 1221559,
+    "sha256": "bca5ae721a25e3fc7da49c72887063d442bd926a76afbf78fbe57b1f39eea695",
+    "sha256_manifest": "7d59d9478203edce605dd595e8077cc93ab8a57c43ad5206a1ca05e83b4fb870"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "out/contact-9x16-2fps.jpg",
+    "files": 1,
+    "bytes": 547645,
+    "sha256": "8913a5697e75f70974711f8d57b63509239ef415ff23033c5dbb5b810933f044",
+    "sha256_manifest": "6ed9526529d996d03c04065234379ed837ecb944556cebc5841fc2012f59b508"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint1/cold-open-frame0.png",
+    "files": 1,
+    "bytes": 21985,
+    "sha256": "b9b70d2f2dfb82c1476e8264f3fcc516d3dbefefc7be18b99a94d0491bc81466",
+    "sha256_manifest": "b90f1b06adb991209d89d3f1053e93311a30e936a612f91427a1486d035a72dc"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint1/edit-contact-sheet-every-0.5s.png",
+    "files": 1,
+    "bytes": 8878730,
+    "sha256": "d4637319cbce38bc846c915924c656f05c9cf996a91d2021f3133fc2e11bb6b6",
+    "sha256_manifest": "2a5175ea7834a0fd55bda5e7da3c6499fec4243bfb2e53eb0d1d75a91399c567"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint1/in-points-contact-sheet.png",
+    "files": 1,
+    "bytes": 500903,
+    "sha256": "79b92f48bcda5f4eb95564fc1018e616a1fc0b5781d0c887f917b66e4c2764ce",
+    "sha256_manifest": "49e75c63a858a8caa2a078f79afcf01bcb5203e38b98279c21b0acd5310950db"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint1/keyframe-1-title-drop.png",
+    "files": 1,
+    "bytes": 37835,
+    "sha256": "a679be287e50d868f64b2f1e2a614b5db071c85e94a704a5f517dbf7596e3b89",
+    "sha256_manifest": "64e0dcede882d59b41816474159f9b79230d56312df384ad47b5a1932dd02fa2"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint1/keyframe-2-titles-triptych.png",
+    "files": 1,
+    "bytes": 79300,
+    "sha256": "197ab6f8d79d697257d38f8b7d5389ffe76c2f35efdbbe1441b1a8a852894887",
+    "sha256_manifest": "01a25764f03f3ac59f02a890a823702d0a138ba7fb50fb84b1a446c32cfdce0e"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint1/keyframe-2b-special-stages.png",
+    "files": 1,
+    "bytes": 25436,
+    "sha256": "23161626865e0b21d72fdf9684fef4ee515d44f7eb85560f9579a3f9216be360",
+    "sha256_manifest": "14f3f17a5af02d70faf11aad94143a5f81bbfb8d407dd910bc89604248b88b75"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint1/keyframe-3-end-card.png",
+    "files": 1,
+    "bytes": 140831,
+    "sha256": "22d49d74034907ef5bf75f33c482843a9f202c7946bf0635ed1ea75e4b6cab34",
+    "sha256_manifest": "0005f1afec0c3c986ab37478d80afc74c71fff06ba39b1306523458257a99fe8"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint1/s1-results-mica-vs-stock.png",
+    "files": 1,
+    "bytes": 38284,
+    "sha256": "6d07ecd7818756c6fb7c32fe8d8853958fae37572521ec0f67ea620d6c24734b",
+    "sha256_manifest": "59aaadb32332c2de0e56aeb2d281fbae0f867c1b126067a13aa6ed76b4ec8128"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint2/draft-contact-1fps.jpg",
+    "files": 1,
+    "bytes": 695479,
+    "sha256": "a412144109665405369439827b86c54d32944d06f85eebdd048b58f5932505da",
+    "sha256_manifest": "abb869744237808611c6716e545124abcfd9e97f7c47e797e858b32b1ea4c991"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "checkpoint2/draft-16x9.mp4",
+    "files": 1,
+    "bytes": 94624570,
+    "sha256": "a964c6ba49a9310d15e74d3214ff448d6def6758b03cae12011362c0d85358e3",
+    "sha256_manifest": "1ca52bb2d1d4b80df4649d25ecd89d9e871c17898d77c822eaaaecd2f2add257"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/aiz-hero/frames",
+    "files": 710,
+    "bytes": 23085948,
+    "sha256": null,
+    "sha256_manifest": "46e2b7ef461c231057a46004120e9d40b33695938e2b7121f5a889abe5485528"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/arz1-whisp-a/frames",
+    "files": 351,
+    "bytes": 17208256,
+    "sha256": null,
+    "sha256_manifest": "af111d859428762b942b4141abc318c9cb19a6224d1e4fed0aefb599dbd7bfa8"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/arz1-whisp-b/frames",
+    "files": 351,
+    "bytes": 16498100,
+    "sha256": null,
+    "sha256_manifest": "9cbd5bc95baab99897908063184162564a1423edc612c3c45ba7aa472f11bddb"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/blue-play/frames",
+    "files": 720,
+    "bytes": 10980508,
+    "sha256": null,
+    "sha256_manifest": "ae0ac419d2b7f8fe0955d89ae06fcbce4fd5c6f46c777a57f45bd81f3f54ed6a"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/blue-turn/frames",
+    "files": 1096,
+    "bytes": 12320904,
+    "sha256": null,
+    "sha256_manifest": "f46cc610c04378c4d25aaf18f63f691119f68d647b77d5c791ab8653877e6726"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/carry/frames",
+    "files": 311,
+    "bytes": 10177148,
+    "sha256": null,
+    "sha256_manifest": "dac5331f48eb098356cea6cb2e358e145bc471df6bc1c306a8ab11ef8a629c1f"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/carry-fly/frames",
+    "files": 370,
+    "bytes": 10026201,
+    "sha256": null,
+    "sha256_manifest": "09e8a71dc114e65dcef16fc9c17e4f5df98ca90580783f86eafa95d4578857df"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/competition/frames",
+    "files": 953,
+    "bytes": 17874447,
+    "sha256": null,
+    "sha256_manifest": "55bde8b6c8c2fd1ba5611f82de62e026e762ae2aafd946a45f4c134d86d53fb3"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/continue/frames",
+    "files": 480,
+    "bytes": 3264006,
+    "sha256": null,
+    "sha256_manifest": "b558756c9e4dec7312e2b24b286a211221f191c41d119572690572920fb58a64"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/cpz1-spiny/frames",
+    "files": 351,
+    "bytes": 7082505,
+    "sha256": null,
+    "sha256_manifest": "867abd99cec32287018b89cf028263d32b1b92fbe681da136ef01123ad4eb552"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/data-select/frames",
+    "files": 721,
+    "bytes": 13638873,
+    "sha256": null,
+    "sha256_manifest": "4011d7739cfa1bcfe6530fd8edd2c3b185364b4eeed31864c5dc6b771980a2b8"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ehz-clear/frames",
+    "files": 930,
+    "bytes": 17452413,
+    "sha256": null,
+    "sha256_manifest": "47b352fafd9351e88c6f2fbb23437eea0033cc0945660f12779484b8fef67f63"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ehz1-chain/frames",
+    "files": 393,
+    "bytes": 8135429,
+    "sha256": null,
+    "sha256_manifest": "04782ad4df1ccd713843e742754fd3e39657387c3fba7b8ccd4b7606df7d4ab5"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ehz2-chain-a/frames",
+    "files": 393,
+    "bytes": 7914317,
+    "sha256": null,
+    "sha256_manifest": "b05f54348e740940a2d2ebe223d4e14e1c6dc81abc2a20cdc621e65d40206c02"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ehz2-chain-b/frames",
+    "files": 491,
+    "bytes": 10056951,
+    "sha256": null,
+    "sha256_manifest": "ce374b6fb4bb2d7ec081870481e7d0ed73701e162798f11b86816ee1c0b13f77"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ending/frames",
+    "files": 4438,
+    "bytes": 27814256,
+    "sha256": null,
+    "sha256_manifest": "f70291d1e70a413ee1b38ca867bc2adae7ff9849f55dc330cb9f0a2f2efa36d7"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ghz-clear/frames",
+    "files": 930,
+    "bytes": 25216444,
+    "sha256": null,
+    "sha256_manifest": "cef17d59612c4634642e1753d8a599a412838159f5adbc07b46bf63150b5d6d4"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ghz-clear-stock-control/frames",
+    "files": 930,
+    "bytes": 24177506,
+    "sha256": null,
+    "sha256_manifest": "510d815d1726873c25b042f9315e650776214738039cd3d0726522e297e017e6"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ghz-clear2/frames",
+    "files": 930,
+    "bytes": 24582287,
+    "sha256": null,
+    "sha256_manifest": "511eb2f9c79ef44d237a682f8a405fc20812502b786842ac10f1f99c028faf33"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/gilded/frames",
+    "files": 348,
+    "bytes": 12618426,
+    "sha256": null,
+    "sha256_manifest": "57884628167031f1d2625b512aeceb5cccc353d573f2a17550b77ccba5cf0f25"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/gilded-clear/frames",
+    "files": 1416,
+    "bytes": 26745674,
+    "sha256": null,
+    "sha256_manifest": "a4d934106ca8cc101f2b4996a17502b09e7f51387c664b2723aa8fba7210a671"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/halfpipe/frames",
+    "files": 911,
+    "bytes": 10192363,
+    "sha256": null,
+    "sha256_manifest": "4499eaf0eb89baa7fb9c33a0b90afe2e20958df864f783dee3a69390571d9ebe"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/halfpipe-run/frames",
+    "files": 1386,
+    "bytes": 15352482,
+    "sha256": null,
+    "sha256_manifest": "e0f85c1e40db2028fcc01184a7b78af85f217becc2a6dd44fb15241f2f116a12"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/halfpipe-turn/frames",
+    "files": 1097,
+    "bytes": 12188422,
+    "sha256": null,
+    "sha256_manifest": "d18e8fe74c446e4838bc43ef3033e11ef31f274ccbe7910fd8e1a26fe608ac2f"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/hero-mgz2/frames",
+    "files": 669,
+    "bytes": 23632884,
+    "sha256": null,
+    "sha256_manifest": "55077bb95d0d44f6916ecb9527cb0edf75da65ff5fc5735627994ded7dce9b95"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/mgz2-chain/frames",
+    "files": 669,
+    "bytes": 23654537,
+    "sha256": null,
+    "sha256_manifest": "16f31e31a89b16ca7a9c59b376b58c187790a9efbbe2988a5ffba8be993bbee1"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s1-ghz2-buzz/frames",
+    "files": 351,
+    "bytes": 6316293,
+    "sha256": null,
+    "sha256_manifest": "8cad4692514f07780e185daa3750ecf0295d6e9db93266730daa0f9dddcfe6b7"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s1-ghz2-chopper/frames",
+    "files": 351,
+    "bytes": 7491404,
+    "sha256": null,
+    "sha256_manifest": "1f3d9aab180b276f4e952b6b85f102048059e860b3fc78a66dc482fcc1562706"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s1-ghz2-newtron/frames",
+    "files": 351,
+    "bytes": 6427350,
+    "sha256": null,
+    "sha256_manifest": "bcb64ceba2adfafd2516d25c50f4d09f57f8c3baa8447eb3d46354259dcd972f"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s1-ghz3-newtron/frames",
+    "files": 351,
+    "bytes": 5465801,
+    "sha256": null,
+    "sha256_manifest": "209833b878fd7e654cf5a38be8b32ab7299adfb53d790a4211534a19c2b5fc86"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s2-titlecard/frames",
+    "files": 240,
+    "bytes": 3177350,
+    "sha256": null,
+    "sha256_manifest": "d59058584e4d271f59f7a5d52b2d8da5bfaca9223bf532f80119547a73057753"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/solar/frames",
+    "files": 336,
+    "bytes": 12535127,
+    "sha256": null,
+    "sha256_manifest": "8cb8e0d92bc64047c75274cd2b603331c4d8322d8a464e8a9a7cbacddf3cbfa6"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/solar-fly/frames",
+    "files": 460,
+    "bytes": 15914093,
+    "sha256": null,
+    "sha256_manifest": "c17fef03584a533e07ca2e7e7e40ed0e078a0c52b2a4a78de15a9d2a843937eb"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/talon-arz/frames",
+    "files": 295,
+    "bytes": 12868205,
+    "sha256": null,
+    "sha256_manifest": "52c2f92b357824b888feeec034b7c2bef0c0d256308308f83b8430d99108b257"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/talon-cpz/frames",
+    "files": 295,
+    "bytes": 5752193,
+    "sha256": null,
+    "sha256_manifest": "61615f9aaa3a0515c2e08728bca6cf9f4a81e5f6937d533e5804de30c9d02c1e"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/talon-s2/frames",
+    "files": 295,
+    "bytes": 5741776,
+    "sha256": null,
+    "sha256_manifest": "cbcd3b746faee50f557ecf1d3e14c033450e6e0d4117a1b24049ef695a1e1e4e"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/talon-s3k/frames",
+    "files": 295,
+    "bytes": 10909602,
+    "sha256": null,
+    "sha256_manifest": "c865a613fc6491feae57fd47fb6e3b86e94cf8edb0661b8f6cfddd92f8255be3"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/team/frames",
+    "files": 360,
+    "bytes": 13070063,
+    "sha256": null,
+    "sha256_manifest": "7617bd2648371ce0fb985863a25e26570f43b53f245c8802cb429ce8ca062ec7"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/title-s1/frames",
+    "files": 1300,
+    "bytes": 22527031,
+    "sha256": null,
+    "sha256_manifest": "c9b62e947f051ae071c926951196bd72741b5f99b93095ed5b9634c6c73e7303"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/title-s2/frames",
+    "files": 1300,
+    "bytes": 18000372,
+    "sha256": null,
+    "sha256_manifest": "430ba9d615c09d4eeb9c40749b097edf13d71e6611198737071cc3ceff4c7263"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/title-s3k/frames",
+    "files": 1300,
+    "bytes": 36093588,
+    "sha256": null,
+    "sha256_manifest": "30e94ed10426763b2d6d7d501a70dbdb771267c27d052ed5c656c499369f508e"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/aiz-hero/state.csv",
+    "files": 1,
+    "bytes": 61675,
+    "sha256": "6b463c5f14f6ce3eede56c25c31aecf63ade24617adb6ed9dea181b9cbcb7cc3",
+    "sha256_manifest": "e0548eb0c095fc1effabd36ce70463a791e248d89581ebf08c607851218d610f"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/arz1-whisp-a/state.csv",
+    "files": 1,
+    "bytes": 30634,
+    "sha256": "370d8f88d9948122054f90cf0a360070ca6a68f440efeb5c6afabe47f7184807",
+    "sha256_manifest": "be6fcab7904b6b68068235c51626c0e3e69e0e557989d9a4fefb1af3c1ecd5e4"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/arz1-whisp-b/state.csv",
+    "files": 1,
+    "bytes": 30157,
+    "sha256": "5be9b27bc9f7fc9ab5731f2a9f29b10af2903b7e77d42b6bff02ed0911d51e99",
+    "sha256_manifest": "8089d2517db4cebcf8f15344e7676546b28e854c04145f4fee01e3b347ac2981"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/blue-play/state.csv",
+    "files": 1,
+    "bytes": 66896,
+    "sha256": "2e096a99e0cfefd765612097e775b366d1a6ee8b9cbd689c4e3efaa8669c3db3",
+    "sha256_manifest": "f007dd1ed2e103f99e1290f32bddc04ef34ab8e5d0388c45e3cae6bae8e0f978"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/blue-turn/state.csv",
+    "files": 1,
+    "bytes": 105680,
+    "sha256": "5c82103bd6329f21f3667f2aeb4645e63864341de494575d6636b01bd4997eaf",
+    "sha256_manifest": "8edb98a31949e68184f497767a1fe6a0b34b752e08872206f75b12bbe1a67554"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/carry/state.csv",
+    "files": 1,
+    "bytes": 27582,
+    "sha256": "b2b1931bf4941846a092922d56c62a30217f0e12b44d6b52b6baa60cf0ff8d7b",
+    "sha256_manifest": "ede01f98493a25b44381aacad30e4caa2bb2d05e3644729d4a1c1659406806e7"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/carry-fly/state.csv",
+    "files": 1,
+    "bytes": 33041,
+    "sha256": "9dedab58413c23805404020e33eb959c8a7a2b1baca488d49d6ce1e4c1599867",
+    "sha256_manifest": "f25dbe4351533694412cfae7ad4e427c4233ee37747502b335ef018a05c1f756"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/competition/state.csv",
+    "files": 1,
+    "bytes": 82035,
+    "sha256": "e487217cd009b319d22665eeb51816491d21cae9567446cbf6a6bd8acf2ba531",
+    "sha256_manifest": "f5855005e45240fd4a0eb93aa608153b2e354b8136dce27f25afe997cb7c89f8"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/continue/state.csv",
+    "files": 1,
+    "bytes": 32674,
+    "sha256": "882513b450837aa770148d5d4d620a9ef04bc2ef72fb7748d9c03ca5b54ea4c5",
+    "sha256_manifest": "49e4b0461a7f2c5433c2549138576358b698f84ac3baceb5f7477bc258a50851"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/cpz1-spiny/state.csv",
+    "files": 1,
+    "bytes": 30355,
+    "sha256": "8a660a92c431609af18db722c40a32afb5256faa8ae75f74e37778ea2f28c32b",
+    "sha256_manifest": "ac655fa28745e9602f7e01cf8050a216bd703f9892baa4b76c6cf28628f3996f"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/data-select/state.csv",
+    "files": 1,
+    "bytes": 60280,
+    "sha256": "fcb54473182559a61cd045dbd361eb9e6497e631a344103be3be559af4046537",
+    "sha256_manifest": "5c7a122cb7bf3a8c5e7fa7d816209364cefd76b6793293215c784ee52d0d5c00"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ehz-clear/state.csv",
+    "files": 1,
+    "bytes": 75239,
+    "sha256": "0a77ef97912f9bab82694b9f68f953e5ef6888dcd0f59c553af27ebdb8cb0011",
+    "sha256_manifest": "125a63f1b0a326b7168bfb40b9b5bffbaf0534d8d464a7aeb6ad5b4fa90fdb90"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ehz1-chain/state.csv",
+    "files": 1,
+    "bytes": 33371,
+    "sha256": "41c61d82ac8b7ca35065cf8523be189d1af8e4615175c38904c993521659e1d0",
+    "sha256_manifest": "286f401d15605361d07642fc738f526361e2e397650b78976c758f69fb64f8f0"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ehz2-chain-a/state.csv",
+    "files": 1,
+    "bytes": 34238,
+    "sha256": "45d4a97df9ece89c096cfc844c40d817dcc77c99bd36eab836f0f1cf65899f04",
+    "sha256_manifest": "f7f57c5730d7266a8a1c52c0d7570a45ad31ce3e849990025f3d025f1307536b"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ehz2-chain-b/state.csv",
+    "files": 1,
+    "bytes": 43060,
+    "sha256": "76e7560a2e59d827e2451692eae5a3b7ec7bb58169c78c09535fd63c59d02a77",
+    "sha256_manifest": "bf1ffc98e733554ce49f93754e12a376d389a910a7e29420dee4c7e82105694c"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ending/state.csv",
+    "files": 1,
+    "bytes": 260876,
+    "sha256": "4607737c3b6b48849f94d8d3eb9c6f27af2a33e7e7c9aeec1ba6ad9ab9a7f37b",
+    "sha256_manifest": "c543010ccf6826c7079fa1bd27d69b216d8d293e96f3b55bb07def24440b1ea0"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ghz-clear/state.csv",
+    "files": 1,
+    "bytes": 73766,
+    "sha256": "cae1e5d3591870ce947a8bdfcf0249148528126e60ef33edb446497906ded5ad",
+    "sha256_manifest": "4b6d22ffcc3cf34d18eb8d00b14c95b3b07bbc8504eecccd091ee6dff88a13e7"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ghz-clear-stock-control/state.csv",
+    "files": 1,
+    "bytes": 72383,
+    "sha256": "e6b7053520eb866f77419e44e282cf69d25cb706eba56ac83c4b989ccce2a578",
+    "sha256_manifest": "4884b295c31407b9242d575470173aa838129bf62253836118e367744311dbef"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/ghz-clear2/state.csv",
+    "files": 1,
+    "bytes": 73686,
+    "sha256": "d881f1a0e823b679d584131195e2fe273de1d066129cce52323bd676c4c56289",
+    "sha256_manifest": "9bb4f057dc8bea493f6ee514081d60fae2904daba22393d897fbb7bdad1ba418"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/gilded/state.csv",
+    "files": 1,
+    "bytes": 27875,
+    "sha256": "f094db1e490b9a86d803b356718800e0bf7a98a5cec93ecfe3469b86296e38af",
+    "sha256_manifest": "32d3dc22f45e03a4fbe98463abb5ebe097949f646a0e96fa7a123ca2a62f08a6"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/gilded-clear/state.csv",
+    "files": 1,
+    "bytes": 120949,
+    "sha256": "e68a4f490fb3c76423a1de79c6eac151b73b02bad41bb28f0da44df64dc0609c",
+    "sha256_manifest": "40c0c639dc3dfdeddae08e7cd56b0134c76fbe72367762dc9fbfc1c938b8c17e"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/halfpipe/state.csv",
+    "files": 1,
+    "bytes": 84378,
+    "sha256": "2a2532ebac72ab194fbfae492ca86c122d872b50d1b6789dbfd5d74038dc5837",
+    "sha256_manifest": "1da49d8c8c93780a4b63e281c51595e81b3deef964fc9c7016ab939aa733a0e2"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/halfpipe-run/state.csv",
+    "files": 1,
+    "bytes": 129414,
+    "sha256": "0ed31c3fbbe686876115835403b0e79ded5ffbadb7dc212bf9df0e9aba2ac168",
+    "sha256_manifest": "b923fd3eee31aeb966ebb11a52513784c1674fd614803c46d65f7e12b277e398"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/halfpipe-turn/state.csv",
+    "files": 1,
+    "bytes": 101959,
+    "sha256": "2cb2068f7fe90d849c277dbd543489a07959303cf9651306ae7708f9736468ad",
+    "sha256_manifest": "a990918bd60240502da3372559ee1192b35193e5cecb7c8b44aa5a76afea3154"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/hero-mgz2/state.csv",
+    "files": 1,
+    "bytes": 57631,
+    "sha256": "3a5dd6fc65d30f4b7d7f4f8842f4450bb9f2203d10f3725fe7965150178e6a9c",
+    "sha256_manifest": "341c4b46d82f4642bbc56494d895f1568bba52b5039aba6303eab746c708f8cd"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/mgz2-chain/state.csv",
+    "files": 1,
+    "bytes": 57631,
+    "sha256": "6cddfe3c45e096641ac2423d31aaae2b72f0d2cdbdd0ce0d6fb102c828b143fd",
+    "sha256_manifest": "62e917cee6c1ca9e48344879c9a1f349aa22e2252680ea3c96b89635f79626a2"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s1-ghz2-buzz/state.csv",
+    "files": 1,
+    "bytes": 30962,
+    "sha256": "1aeb13bb983d4b7b1729ec7812e29ed421c167585d60f2712bac4952a459b07d",
+    "sha256_manifest": "1e1760d271204f0a608e50b00fb80a6e553b124fc7936bff7bc863b160fa4c5b"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s1-ghz2-chopper/state.csv",
+    "files": 1,
+    "bytes": 30482,
+    "sha256": "5fbe9f67e3a376ca8deb2d59636822fe1faca674fdc9d5160cd9c68cc31f01f6",
+    "sha256_manifest": "3c5588a2c5fdc9652552c5de4f1ceed97b635dc37d15e43dbd2a200b2cbca156"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s1-ghz2-newtron/state.csv",
+    "files": 1,
+    "bytes": 30348,
+    "sha256": "35aae9aab9e1ad352dc03c268c289eb66f592087c248dca70991c70f03f27944",
+    "sha256_manifest": "fa00c4e9e8e2860c0b6b417bd02e156ce3571bdf6376495424721f20a695422e"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s1-ghz3-newtron/state.csv",
+    "files": 1,
+    "bytes": 27736,
+    "sha256": "0dd5e57c5e7e0c18d707ff778388f4fce44901fda2ad43b837ad8d224bf818b7",
+    "sha256_manifest": "9878e19223eeb2a112053af5f5087f92aa36b0daba3f629a71c218993f69ea4d"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/s2-titlecard/state.csv",
+    "files": 1,
+    "bytes": 17374,
+    "sha256": "395fdc2a40da37f14e7e3b168d9f18e0fc55f5dcb6fe75be9fd11f2787eb98dc",
+    "sha256_manifest": "d57b2d1a17823cf11189bee8f4f3a3d5d136b614d6ed948cd91b5f1122ef79d7"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/solar/state.csv",
+    "files": 1,
+    "bytes": 27348,
+    "sha256": "993a0d91813c1a3c4c7d301ea862ceb2046b9605781f39ed24d9aae41504bd65",
+    "sha256_manifest": "7d2f5688d25897fdd0b2a2cb1627ee71810e9f886a01b20ab74784fba56f1d47"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/solar-fly/state.csv",
+    "files": 1,
+    "bytes": 38069,
+    "sha256": "79d65092bf3502cad4e52b430183170fc42c9a3abb694b89481afce082453bfb",
+    "sha256_manifest": "08cada0cf5da1a4136b149f38f0194497ec5412bed10692dbb01667a642ecec8"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/talon-arz/state.csv",
+    "files": 1,
+    "bytes": 23914,
+    "sha256": "22ab1fe48d6f782f4b5a1dd1d27fd00c0497f216d39addf2cfbaa4ea99dd75fc",
+    "sha256_manifest": "e9356a54764299e56818e1d1fb59864aad52df6d1308a3172f050d2bceef00e4"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/talon-cpz/state.csv",
+    "files": 1,
+    "bytes": 24117,
+    "sha256": "3bf017d64fcc6235f78797b492c9cb82f35eb4d66b5700cdd99c78f35d3a2ff0",
+    "sha256_manifest": "e32149e61c9a95b66fb67185c30a56dfe4f77c4d462723e826c9c8285697afed"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/talon-s2/state.csv",
+    "files": 1,
+    "bytes": 24548,
+    "sha256": "1c7fdcc25122457b5b93f69aa9f4a14f7168014f197ee049dad05902d72c77e5",
+    "sha256_manifest": "396a7a26df368a3f827f28d86025398924a648b2e478ccd08665554936c23bfd"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/talon-s3k/state.csv",
+    "files": 1,
+    "bytes": 24077,
+    "sha256": "9ebc4ccd54e6dc4a188286ea48a02312a6684e75ed6bfeb5639bc6c4d78ae971",
+    "sha256_manifest": "1d64086c19359c2bfb18e1b730789c618d5127b219af8c522367831bd28625b1"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/team/state.csv",
+    "files": 1,
+    "bytes": 32496,
+    "sha256": "aa3c1172a5c78b03c23bb836db85867612ba51f73ce3566975782718efe8eb44",
+    "sha256_manifest": "d736fb3466ef2ca63b539aa0cf941af8ce6bea848ea2c15c6ac84ae79755d9bf"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/title-s1/state.csv",
+    "files": 1,
+    "bytes": 84855,
+    "sha256": "5ad089c5a700269f14005410efd1ff5c58e4543dea66dd62bd1ba9e8d09ff1a2",
+    "sha256_manifest": "8457b2f077091614a07102bc48a85cf0b53dd144cde292f3d85e3566f585be8c"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/title-s2/state.csv",
+    "files": 1,
+    "bytes": 84855,
+    "sha256": "5ad089c5a700269f14005410efd1ff5c58e4543dea66dd62bd1ba9e8d09ff1a2",
+    "sha256_manifest": "da3979c820b13527a5383f808cdc6b25baa3bbab829cf8abad264dfc7f5debe0"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "captures/title-s3k/state.csv",
+    "files": 1,
+    "bytes": 84855,
+    "sha256": "5ad089c5a700269f14005410efd1ff5c58e4543dea66dd62bd1ba9e8d09ff1a2",
+    "sha256_manifest": "ae91dcc8ff8f136dfe86d282e75e5b165a4b87d93ced281d128017aa0dcbf775"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "sfx/s2-sfx-c1-paced.wav",
+    "files": 1,
+    "bytes": 89644,
+    "sha256": "48b495700ceddccb7e52f8ce0c570944af90d0c305e39e4942b1235c791b8601",
+    "sha256_manifest": "d097ab1863e02b2816d1aca3e2b061457918f3f0dd39a89dfaa5aba860d70361"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "sfx/s2-sfx-ca-paced.wav",
+    "files": 1,
+    "bytes": 326444,
+    "sha256": "b86cbb60b525066cff09eb4d46c9476485156402504b845012f08326121358be",
+    "sha256_manifest": "c5efa028cad9303ba36af5f686b061872a7f6e67a2c7ada1d8b0d52290e48c59"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "sfx/s2-sfx-cf-paced.wav",
+    "files": 1,
+    "bytes": 352044,
+    "sha256": "0c10175517a04a8d13548c37ae480e279017cb4dc221e37f374a0d09b4ca30e4",
+    "sha256_manifest": "1214e1034cb42b882d5445a944210aca38b7ac02c31750d0202535a9dd61dbb3"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "sfx/s2-sfx-df-paced.wav",
+    "files": 1,
+    "bytes": 534444,
+    "sha256": "662677844898bcda8e20d5aad84b3d1bdd9a4de51fe2bb9edfab93ce66709f56",
+    "sha256_manifest": "a48bb3efb63a8dc3f1360225249d7f5fc847c260032cbcfa2549445db0d7d2c9"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "sfx/s3k-sfx-9f-paced.wav",
+    "files": 1,
+    "bytes": 320044,
+    "sha256": "aafbfcd24760412293ace1cb06880db9266eed73e5bf5110bd8bbb3aa42ba64a",
+    "sha256_manifest": "c589a98b484bb91da19dfde74e723779935bfd79d5f2ef8bdad14f77ff239f7c"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "sfx/s3k-sfx-b3-paced.wav",
+    "files": 1,
+    "bytes": 188844,
+    "sha256": "3cec7c5ec35517afc24afc8af16953c8f7477d9bbddb32c735909b521e2514fa",
+    "sha256_manifest": "5f2b78674278d818147dd86f141d4eeca4f3dfd1d4b8ef71f9442c3199cdffbb"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "sfx/s3k-sfx-b4-paced.wav",
+    "files": 1,
+    "bytes": 89644,
+    "sha256": "ae5370e3f3b41be71a8961bf78699eee33f1ddae2010c8896b6628215cb8a225",
+    "sha256_manifest": "57dbceceba10230373bacbdc348550989bc05876983419f9e59d1d8d92d75bfa"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "sfx/s3k-sfx-b8-paced.wav",
+    "files": 1,
+    "bytes": 467244,
+    "sha256": "46cef7e173d4af83dd490ba0f54d11c0e36b491caee78815e94787c3c0eede63",
+    "sha256_manifest": "048ab23ecde59129542485ac8b8a57bd9a2cef4450f028f36dd755aa53cb07e5"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "work/bed.wav",
+    "files": 1,
+    "bytes": 18380212,
+    "sha256": "0bc18c08af0552fd065d2aab8b9e4712e02eb095df514d5ed7d050714a18a1b2",
+    "sha256_manifest": "a09030fd57019a14290f35cdbc9cd8968629e0ea2a16361be18bcbe1d6f9e21e"
+  },
+  {
+    "root": "mica-and-talon/production-20261111",
+    "path": "edit/s2-title-font.txt",
+    "files": 1,
+    "bytes": 7304,
+    "sha256": "fd44caad966f46235918758b2e927bd2b1c4de5cb565218b5c3db106292ff98b",
+    "sha256_manifest": "7667d77ed1062098c26cdc5cc339f638fbba3aff5a0962eb9ec276c0720f2b0e"
+  },
+  {
+    "root": "mica-and-talon/owner-music",
+    "path": "run-into-the-sunshine-chiptune.wav",
+    "files": 1,
+    "bytes": 31271428,
+    "sha256": "569a921b69983c1a6f2916c6be963bb134a39aaa742b0624044fbe4baf8481ff",
+    "sha256_manifest": "1a91022b11976b146dd478691a4fb79b6f7d7bf26f4eed64a59cf390cd826d39"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "Anton-Regular.ttf",
+    "files": 1,
+    "bytes": 170812,
+    "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+    "sha256_manifest": "1c8f0571dc8cae5e50e7be7b3a618c3eb9febc42cff33aafb3079ce380abad9e"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSans-Bold.ttf",
+    "files": 1,
+    "bytes": 489720,
+    "sha256": "a4d8e149ecdd4874a0726eb0af894488b3b31c423d6b0017c8f415ed1b795b45",
+    "sha256_manifest": "cd80e1f1fb6eb4dfcf0d2765e6d352c2ff1163330e394f3932a0adac2ff8b468"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSans-BoldItalic.ttf",
+    "files": 1,
+    "bytes": 506864,
+    "sha256": "1b96c16db9819bcaa9d588068bb397bb6e977c4874965d3d50d789a1943757eb",
+    "sha256_manifest": "ea37c7612c8cc9e85f75bdc7039fcfff62c259eca84be209ce982aa1c8ede3ef"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSansCondensed-BoldItalic.ttf",
+    "files": 1,
+    "bytes": 514400,
+    "sha256": "aebe32d2d821890e0d66443ca2dc59b237ff34a575048696a96516d857ae0da6",
+    "sha256_manifest": "755a54d627530d6b246ce5f9fabf38412516ef5003ce920efa66281b9147f73d"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSansExtraCondensed-Black.ttf",
+    "files": 1,
+    "bytes": 516808,
+    "sha256": "9792878489db97d068aaf115cab50bdadd1e843274ff51b3786ca8102ba16a87",
+    "sha256_manifest": "8e208a029abb727133d3c4409293f1b337be000aa9a36432c395eeefa6ef7d71"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSansExtraCondensed-BlackItalic.ttf",
+    "files": 1,
+    "bytes": 539564,
+    "sha256": "9ca866c1aff106aeb850e22dc1541ea35c0cf6862b25869a452a833fe6821fb1",
+    "sha256_manifest": "0cf7e5669a1ce4a9a55c22d9fcaf662427a41ab3d4c3a3c9d50d8ac6cece9323"
+  }
+]

@@ -1,0 +1,14 @@
+frame  t(s)   stinger                     gain  stinger_dB  bed_dB  diff  L-R_dB
+  334   5.57  s3k-sfx-b3-paced.wav        1.6     -27.5   -20.7   -6.8   +0.0
+  734  12.23  s3k-sfx-b4-paced.wav        1.8     -28.0   -20.9   -7.0   +0.0
+  751  12.52  s3k-sfx-b4-paced.wav        1.8     -28.0   -20.8   -7.2   +0.0
+  773  12.88  s3k-sfx-b4-paced.wav        1.8     -28.0   -20.6   -7.3   +0.0
+  942  15.70  s3k-sfx-b4-paced.wav        1.8     -28.0   -20.4   -7.6   +0.0
+ 1043  17.38  s3k-sfx-b4-paced.wav        1.8     -28.0   -20.4   -7.5   +0.0
+ 1053  17.55  s3k-sfx-b4-paced.wav        1.8     -28.0   -20.7   -7.3   +0.0
+ 1127  18.78  s2-sfx-c1-paced.wav         2.0     -25.9   -20.9   -5.0   +0.0
+ 1210  20.17  s3k-sfx-b4-paced.wav        1.8     -28.0   -20.8   -7.2   +0.0
+ 1419  23.65  s2-sfx-c1-paced.wav         2.0     -25.9   -19.4   -6.5   +0.0
+ 4181  69.68  s3k-sfx-9f-paced.wav        1.8     -30.5   -19.5  -11.0   +0.0
+ 4224  70.40  s3k-sfx-b4-paced.wav        1.8     -28.0   -19.9   -8.1   +0.0
+ 5351  89.18  s3k-sfx-b3-paced.wav        1.6     -27.5   -19.4   -8.1   +0.0

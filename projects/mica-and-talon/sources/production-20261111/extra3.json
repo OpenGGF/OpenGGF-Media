@@ -1,0 +1,5 @@
+[
+ {"id":"ghz-clear2","kind":"tool","game":"s1","zone":"ghz","x":9100,"y":940,"rings":32,"timer":8700,
+  "script":"30 -; 240 R; 660 -","note":"rings below 50 so no giant ring crosses the native results text"},
+ {"id":"competition","kind":"title","game":"s3k","zone":"aiz","script":"440 -; 1 D; 30 -; 1 S; 240 -; 1 S; 240 -; 1 S; 300 -"}
+]

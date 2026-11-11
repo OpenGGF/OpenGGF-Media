@@ -1,0 +1,11 @@
+{
+  "id": "ghz-clear-stock-control",
+  "purpose": "Control for the S1 results-card fault: stock Sonic, no mod, same position/rings/timer/input as ghz-clear2.",
+  "kind": "tool", "game": "s1", "zone": "ghz", "act": 1, "x": 9100, "y": 940, "rings": 32, "timer": 8700, "main": "sonic",
+  "input_from": "captures/ghz-clear2/input.txt",
+  "commit": "b088fae95bdbf3f53094fdce79b9eb8e3bf7f9e0",
+  "command": ["com.openggf.tools.GameplayCaptureTool", "--game", "s1", "--zone", "ghz", "--act", "1", "--main", "sonic",
+              "--out-dir", "$TASK/captures/ghz-clear-stock-control", "--width", "320", "--scale", "1", "--no-video",
+              "--x", "9100", "--y", "940", "--rings", "32", "--timer", "8700", "--input", "$TASK/captures/ghz-clear2/input.txt"],
+  "finding": "Frame 460: act oval and blob render over 'SONIC HAS PASSED' and 'SCORE', identical to the MICA capture."
+}

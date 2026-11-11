@@ -15327,3 +15327,116 @@ mica-and-talon,mica-and-talon/fonts,FiraSans-Bold.ttf,third-party font dependenc
 mica-and-talon,mica-and-talon/fonts,FiraSans-BoldItalic.ttf,third-party font dependency; external,506864,1
 mica-and-talon,mica-and-talon/fonts,Anton-Regular.ttf,third-party font dependency; external,170812,1
 mica-and-talon,mica-and-talon/drawing,wait-00-2.png,original redraw reference; external,790168,1
+mica-and-talon,mica-and-talon/production-20261111,out/master-16x9.mp4,finished promo video (H.264 High/AAC 320k),98243003,1
+mica-and-talon,mica-and-talon/production-20261111,out/master-9x16.mp4,finished promo video (H.264 High/AAC 320k),120885767,1
+mica-and-talon,mica-and-talon/production-20261111,out/contact-16x9-2fps.jpg,review contact sheet / key frame,1221559,1
+mica-and-talon,mica-and-talon/production-20261111,out/contact-9x16-2fps.jpg,review contact sheet / key frame,547645,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint1/cold-open-frame0.png,review contact sheet / key frame,21985,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint1/edit-contact-sheet-every-0.5s.png,review contact sheet / key frame,8878730,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint1/in-points-contact-sheet.png,review contact sheet / key frame,500903,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint1/keyframe-1-title-drop.png,review contact sheet / key frame,37835,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint1/keyframe-2-titles-triptych.png,review contact sheet / key frame,79300,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint1/keyframe-2b-special-stages.png,review contact sheet / key frame,25436,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint1/keyframe-3-end-card.png,review contact sheet / key frame,140831,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint1/s1-results-mica-vs-stock.png,review contact sheet / key frame,38284,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint2/draft-contact-1fps.jpg,review contact sheet / key frame,695479,1
+mica-and-talon,mica-and-talon/production-20261111,checkpoint2/draft-16x9.mp4,superseded draft render (checkpoint 2),94624570,1
+mica-and-talon,mica-and-talon/production-20261111,captures/aiz-hero/frames,native capture frame sequence (ROM-derived pixels; external),23085948,710
+mica-and-talon,mica-and-talon/production-20261111,captures/arz1-whisp-a/frames,native capture frame sequence (ROM-derived pixels; external),17208256,351
+mica-and-talon,mica-and-talon/production-20261111,captures/arz1-whisp-b/frames,native capture frame sequence (ROM-derived pixels; external),16498100,351
+mica-and-talon,mica-and-talon/production-20261111,captures/blue-play/frames,native capture frame sequence (ROM-derived pixels; external),10980508,720
+mica-and-talon,mica-and-talon/production-20261111,captures/blue-turn/frames,native capture frame sequence (ROM-derived pixels; external),12320904,1096
+mica-and-talon,mica-and-talon/production-20261111,captures/carry/frames,native capture frame sequence (ROM-derived pixels; external),10177148,311
+mica-and-talon,mica-and-talon/production-20261111,captures/carry-fly/frames,native capture frame sequence (ROM-derived pixels; external),10026201,370
+mica-and-talon,mica-and-talon/production-20261111,captures/competition/frames,native capture frame sequence (ROM-derived pixels; external),17874447,953
+mica-and-talon,mica-and-talon/production-20261111,captures/continue/frames,native capture frame sequence (ROM-derived pixels; external),3264006,480
+mica-and-talon,mica-and-talon/production-20261111,captures/cpz1-spiny/frames,native capture frame sequence (ROM-derived pixels; external),7082505,351
+mica-and-talon,mica-and-talon/production-20261111,captures/data-select/frames,native capture frame sequence (ROM-derived pixels; external),13638873,721
+mica-and-talon,mica-and-talon/production-20261111,captures/ehz-clear/frames,native capture frame sequence (ROM-derived pixels; external),17452413,930
+mica-and-talon,mica-and-talon/production-20261111,captures/ehz1-chain/frames,native capture frame sequence (ROM-derived pixels; external),8135429,393
+mica-and-talon,mica-and-talon/production-20261111,captures/ehz2-chain-a/frames,native capture frame sequence (ROM-derived pixels; external),7914317,393
+mica-and-talon,mica-and-talon/production-20261111,captures/ehz2-chain-b/frames,native capture frame sequence (ROM-derived pixels; external),10056951,491
+mica-and-talon,mica-and-talon/production-20261111,captures/ending/frames,native capture frame sequence (ROM-derived pixels; external),27814256,4438
+mica-and-talon,mica-and-talon/production-20261111,captures/ghz-clear/frames,native capture frame sequence (ROM-derived pixels; external),25216444,930
+mica-and-talon,mica-and-talon/production-20261111,captures/ghz-clear-stock-control/frames,native capture frame sequence (ROM-derived pixels; external),24177506,930
+mica-and-talon,mica-and-talon/production-20261111,captures/ghz-clear2/frames,native capture frame sequence (ROM-derived pixels; external),24582287,930
+mica-and-talon,mica-and-talon/production-20261111,captures/gilded/frames,native capture frame sequence (ROM-derived pixels; external),12618426,348
+mica-and-talon,mica-and-talon/production-20261111,captures/gilded-clear/frames,native capture frame sequence (ROM-derived pixels; external),26745674,1416
+mica-and-talon,mica-and-talon/production-20261111,captures/halfpipe/frames,native capture frame sequence (ROM-derived pixels; external),10192363,911
+mica-and-talon,mica-and-talon/production-20261111,captures/halfpipe-run/frames,native capture frame sequence (ROM-derived pixels; external),15352482,1386
+mica-and-talon,mica-and-talon/production-20261111,captures/halfpipe-turn/frames,native capture frame sequence (ROM-derived pixels; external),12188422,1097
+mica-and-talon,mica-and-talon/production-20261111,captures/hero-mgz2/frames,native capture frame sequence (ROM-derived pixels; external),23632884,669
+mica-and-talon,mica-and-talon/production-20261111,captures/mgz2-chain/frames,native capture frame sequence (ROM-derived pixels; external),23654537,669
+mica-and-talon,mica-and-talon/production-20261111,captures/s1-ghz2-buzz/frames,native capture frame sequence (ROM-derived pixels; external),6316293,351
+mica-and-talon,mica-and-talon/production-20261111,captures/s1-ghz2-chopper/frames,native capture frame sequence (ROM-derived pixels; external),7491404,351
+mica-and-talon,mica-and-talon/production-20261111,captures/s1-ghz2-newtron/frames,native capture frame sequence (ROM-derived pixels; external),6427350,351
+mica-and-talon,mica-and-talon/production-20261111,captures/s1-ghz3-newtron/frames,native capture frame sequence (ROM-derived pixels; external),5465801,351
+mica-and-talon,mica-and-talon/production-20261111,captures/s2-titlecard/frames,native capture frame sequence (ROM-derived pixels; external),3177350,240
+mica-and-talon,mica-and-talon/production-20261111,captures/solar/frames,native capture frame sequence (ROM-derived pixels; external),12535127,336
+mica-and-talon,mica-and-talon/production-20261111,captures/solar-fly/frames,native capture frame sequence (ROM-derived pixels; external),15914093,460
+mica-and-talon,mica-and-talon/production-20261111,captures/talon-arz/frames,native capture frame sequence (ROM-derived pixels; external),12868205,295
+mica-and-talon,mica-and-talon/production-20261111,captures/talon-cpz/frames,native capture frame sequence (ROM-derived pixels; external),5752193,295
+mica-and-talon,mica-and-talon/production-20261111,captures/talon-s2/frames,native capture frame sequence (ROM-derived pixels; external),5741776,295
+mica-and-talon,mica-and-talon/production-20261111,captures/talon-s3k/frames,native capture frame sequence (ROM-derived pixels; external),10909602,295
+mica-and-talon,mica-and-talon/production-20261111,captures/team/frames,native capture frame sequence (ROM-derived pixels; external),13070063,360
+mica-and-talon,mica-and-talon/production-20261111,captures/title-s1/frames,native capture frame sequence (ROM-derived pixels; external),22527031,1300
+mica-and-talon,mica-and-talon/production-20261111,captures/title-s2/frames,native capture frame sequence (ROM-derived pixels; external),18000372,1300
+mica-and-talon,mica-and-talon/production-20261111,captures/title-s3k/frames,native capture frame sequence (ROM-derived pixels; external),36093588,1300
+mica-and-talon,mica-and-talon/production-20261111,captures/aiz-hero/state.csv,measured native gameplay CSV (see provenance for entry kind),61675,1
+mica-and-talon,mica-and-talon/production-20261111,captures/arz1-whisp-a/state.csv,measured native gameplay CSV (see provenance for entry kind),30634,1
+mica-and-talon,mica-and-talon/production-20261111,captures/arz1-whisp-b/state.csv,measured native gameplay CSV (see provenance for entry kind),30157,1
+mica-and-talon,mica-and-talon/production-20261111,captures/blue-play/state.csv,measured native gameplay CSV (see provenance for entry kind),66896,1
+mica-and-talon,mica-and-talon/production-20261111,captures/blue-turn/state.csv,measured native gameplay CSV (see provenance for entry kind),105680,1
+mica-and-talon,mica-and-talon/production-20261111,captures/carry/state.csv,measured native gameplay CSV (see provenance for entry kind),27582,1
+mica-and-talon,mica-and-talon/production-20261111,captures/carry-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),33041,1
+mica-and-talon,mica-and-talon/production-20261111,captures/competition/state.csv,measured native gameplay CSV (see provenance for entry kind),82035,1
+mica-and-talon,mica-and-talon/production-20261111,captures/continue/state.csv,measured native gameplay CSV (see provenance for entry kind),32674,1
+mica-and-talon,mica-and-talon/production-20261111,captures/cpz1-spiny/state.csv,measured native gameplay CSV (see provenance for entry kind),30355,1
+mica-and-talon,mica-and-talon/production-20261111,captures/data-select/state.csv,measured native gameplay CSV (see provenance for entry kind),60280,1
+mica-and-talon,mica-and-talon/production-20261111,captures/ehz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),75239,1
+mica-and-talon,mica-and-talon/production-20261111,captures/ehz1-chain/state.csv,measured native gameplay CSV (see provenance for entry kind),33371,1
+mica-and-talon,mica-and-talon/production-20261111,captures/ehz2-chain-a/state.csv,measured native gameplay CSV (see provenance for entry kind),34238,1
+mica-and-talon,mica-and-talon/production-20261111,captures/ehz2-chain-b/state.csv,measured native gameplay CSV (see provenance for entry kind),43060,1
+mica-and-talon,mica-and-talon/production-20261111,captures/ending/state.csv,measured native gameplay CSV (see provenance for entry kind),260876,1
+mica-and-talon,mica-and-talon/production-20261111,captures/ghz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),73766,1
+mica-and-talon,mica-and-talon/production-20261111,captures/ghz-clear-stock-control/state.csv,measured native gameplay CSV (see provenance for entry kind),72383,1
+mica-and-talon,mica-and-talon/production-20261111,captures/ghz-clear2/state.csv,measured native gameplay CSV (see provenance for entry kind),73686,1
+mica-and-talon,mica-and-talon/production-20261111,captures/gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),27875,1
+mica-and-talon,mica-and-talon/production-20261111,captures/gilded-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),120949,1
+mica-and-talon,mica-and-talon/production-20261111,captures/halfpipe/state.csv,measured native gameplay CSV (see provenance for entry kind),84378,1
+mica-and-talon,mica-and-talon/production-20261111,captures/halfpipe-run/state.csv,measured native gameplay CSV (see provenance for entry kind),129414,1
+mica-and-talon,mica-and-talon/production-20261111,captures/halfpipe-turn/state.csv,measured native gameplay CSV (see provenance for entry kind),101959,1
+mica-and-talon,mica-and-talon/production-20261111,captures/hero-mgz2/state.csv,measured native gameplay CSV (see provenance for entry kind),57631,1
+mica-and-talon,mica-and-talon/production-20261111,captures/mgz2-chain/state.csv,measured native gameplay CSV (see provenance for entry kind),57631,1
+mica-and-talon,mica-and-talon/production-20261111,captures/s1-ghz2-buzz/state.csv,measured native gameplay CSV (see provenance for entry kind),30962,1
+mica-and-talon,mica-and-talon/production-20261111,captures/s1-ghz2-chopper/state.csv,measured native gameplay CSV (see provenance for entry kind),30482,1
+mica-and-talon,mica-and-talon/production-20261111,captures/s1-ghz2-newtron/state.csv,measured native gameplay CSV (see provenance for entry kind),30348,1
+mica-and-talon,mica-and-talon/production-20261111,captures/s1-ghz3-newtron/state.csv,measured native gameplay CSV (see provenance for entry kind),27736,1
+mica-and-talon,mica-and-talon/production-20261111,captures/s2-titlecard/state.csv,measured native gameplay CSV (see provenance for entry kind),17374,1
+mica-and-talon,mica-and-talon/production-20261111,captures/solar/state.csv,measured native gameplay CSV (see provenance for entry kind),27348,1
+mica-and-talon,mica-and-talon/production-20261111,captures/solar-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),38069,1
+mica-and-talon,mica-and-talon/production-20261111,captures/talon-arz/state.csv,measured native gameplay CSV (see provenance for entry kind),23914,1
+mica-and-talon,mica-and-talon/production-20261111,captures/talon-cpz/state.csv,measured native gameplay CSV (see provenance for entry kind),24117,1
+mica-and-talon,mica-and-talon/production-20261111,captures/talon-s2/state.csv,measured native gameplay CSV (see provenance for entry kind),24548,1
+mica-and-talon,mica-and-talon/production-20261111,captures/talon-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),24077,1
+mica-and-talon,mica-and-talon/production-20261111,captures/team/state.csv,measured native gameplay CSV (see provenance for entry kind),32496,1
+mica-and-talon,mica-and-talon/production-20261111,captures/title-s1/state.csv,measured native gameplay CSV (see provenance for entry kind),84855,1
+mica-and-talon,mica-and-talon/production-20261111,captures/title-s2/state.csv,measured native gameplay CSV (see provenance for entry kind),84855,1
+mica-and-talon,mica-and-talon/production-20261111,captures/title-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),84855,1
+mica-and-talon,mica-and-talon/production-20261111,sfx/s2-sfx-c1-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,89644,1
+mica-and-talon,mica-and-talon/production-20261111,sfx/s2-sfx-ca-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,326444,1
+mica-and-talon,mica-and-talon/production-20261111,sfx/s2-sfx-cf-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,352044,1
+mica-and-talon,mica-and-talon/production-20261111,sfx/s2-sfx-df-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,534444,1
+mica-and-talon,mica-and-talon/production-20261111,sfx/s3k-sfx-9f-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,320044,1
+mica-and-talon,mica-and-talon/production-20261111,sfx/s3k-sfx-b3-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,188844,1
+mica-and-talon,mica-and-talon/production-20261111,sfx/s3k-sfx-b4-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,89644,1
+mica-and-talon,mica-and-talon/production-20261111,sfx/s3k-sfx-b8-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,467244,1
+mica-and-talon,mica-and-talon/production-20261111,work/bed.wav,"edited music bed PCM (owner-supplied track, spliced); external, not redistributable",18380212,1
+mica-and-talon,mica-and-talon/production-20261111,edit/s2-title-font.txt,S2 title-card glyph table extracted from the ROM (unused in final); external,7304,1
+mica-and-talon,mica-and-talon/owner-music,run-into-the-sunshine-chiptune.wav,"owner-supplied music ""RUN INTO THE SUNSHINE (Chiptune Remix)""; reference by name+hash only, never committed",31271428,1
+mica-and-talon,mica-and-talon/fonts-20261110,Anton-Regular.ttf,third-party font dependency (PROMO_FONT_DIRS); external,170812,1
+mica-and-talon,mica-and-talon/fonts-20261110,FiraSans-Bold.ttf,third-party font dependency (PROMO_FONT_DIRS); external,489720,1
+mica-and-talon,mica-and-talon/fonts-20261110,FiraSans-BoldItalic.ttf,third-party font dependency (PROMO_FONT_DIRS); external,506864,1
+mica-and-talon,mica-and-talon/fonts-20261110,FiraSansCondensed-BoldItalic.ttf,third-party font dependency (PROMO_FONT_DIRS); external,514400,1
+mica-and-talon,mica-and-talon/fonts-20261110,FiraSansExtraCondensed-Black.ttf,third-party font dependency (PROMO_FONT_DIRS); external,516808,1
+mica-and-talon,mica-and-talon/fonts-20261110,FiraSansExtraCondensed-BlackItalic.ttf,third-party font dependency (PROMO_FONT_DIRS); external,539564,1

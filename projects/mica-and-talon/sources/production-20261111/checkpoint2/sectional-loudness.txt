@@ -1,0 +1,5 @@
+  0.00- 11.15 s  cold open + title  I -14.7 LUFS  TP -3.4 dBTP
+ 11.15- 39.02 s  homing + TALON     I -14.3 LUFS  TP -2.5 dBTP
+ 39.02- 65.50 s  three games        I -13.6 LUFS  TP -4.2 dBTP
+ 65.50- 89.18 s  powered up         I -14.0 LUFS  TP -2.7 dBTP
+ 89.18- 95.37 s  end card           I -13.3 LUFS  TP -3.1 dBTP

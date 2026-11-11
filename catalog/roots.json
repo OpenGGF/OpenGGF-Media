@@ -353,5 +353,20 @@
     "id": "mica-and-talon/drawing",
     "original": "/home/farrell/scratch/agent-tmp/mica-regen-20261108/attempts",
     "archive": "projects/mica-and-talon/sources/final"
+  },
+  {
+    "id": "mica-and-talon/production-20261111",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-final-20261111",
+    "archive": "projects/mica-and-talon/sources/production-20261111"
+  },
+  {
+    "id": "mica-and-talon/owner-music",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-final-20261111/music",
+    "archive": "projects/mica-and-talon/sources/production-20261111"
+  },
+  {
+    "id": "mica-and-talon/fonts-20261110",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/final/fonts",
+    "archive": "projects/mica-and-talon/sources/production-20261111"
   }
 ]

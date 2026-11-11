@@ -1,0 +1,11 @@
+[
+ {"id":"blue-turn","kind":"tool","game":"s3k","zone":"cnz","x":11616,"y":1612,"rings":42,"timer":9600,
+  "script":"90 -; 90 R; 300 -; 1 A; 60 -; 16 R; 110 -; 16 L; 90 -; 1 A; 50 -; 16 L; 120 -; 16 R; 120 -"},
+ {"id":"halfpipe-turn","kind":"host","host":"starpost","mode":"halfpipe","game":"s2","zone":0,"act":0,"x":3568,"y":150,
+  "script":"150 -; 1 A; 50 -; 1 A; 45 -; 1 A; 45 -; 1 A; 45 -; 1 A; 45 -; 1 A; 200 -; 60 R; 120 L; 120 R; 90 L; 1 A; 120 -",
+  "note":"debug positioned ROM-starpost component entry; ring collision admits SPECIAL_STAGE; L/R steering in stage"},
+ {"id":"solar-fly","kind":"tool","game":"s3k","zone":"aiz","x":7100,"y":900,"rings":70,"timer":7200,"emeralds":"1111111","main":"talon",
+  "script":"30 -; 1 A; 20 -; 1 A; 40 -; repeat 5 { 1 A; 8 - }; 18 D; 1 D+A; 50 R; 1 R+A; 6 R; 1 R+A; repeat 14 { 8 R; 1 R+A }; 120 R"},
+ {"id":"carry-fly","kind":"tool","game":"s3k","zone":"aiz","x":6040,"y":1040,"rings":34,"timer":5400,"sidekick":"talon",
+  "script":"30 -; 22 - / R; 1 - / A; 2 -; 1 - / A; repeat 6 { 8 -; 1 - / A }; repeat 20 { 8 - / R; 1 - / R+A }; 80 -"}
+]
