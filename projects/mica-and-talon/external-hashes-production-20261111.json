@@ -1,11 +1,11 @@
 [
   {
     "root": "mica-and-talon/production-20261111",
-    "path": "out/master-16x9.mp4",
+    "path": "out/superseded/master-16x9-pre-s1fix.mp4",
     "files": 1,
     "bytes": 98243003,
     "sha256": "f2b513895677d8fcbce6ed9c3db154d3e543b8950140bf41b2a85fce408e9ee4",
-    "sha256_manifest": "f96418aff05012e52ac1faef576cf31981fff1de637fae10159a97e391a15e3e"
+    "sha256_manifest": null
   },
   {
     "root": "mica-and-talon/production-20261111",
@@ -18,11 +18,11 @@
   },
   {
     "root": "mica-and-talon/production-20261111",
-    "path": "out/contact-16x9-2fps.jpg",
+    "path": "out/superseded/contact-16x9-pre-s1fix-2fps.jpg",
     "files": 1,
     "bytes": 1221559,
     "sha256": "bca5ae721a25e3fc7da49c72887063d442bd926a76afbf78fbe57b1f39eea695",
-    "sha256_manifest": "7d59d9478203edce605dd595e8077cc93ab8a57c43ad5206a1ca05e83b4fb870"
+    "sha256_manifest": null
   },
   {
     "root": "mica-and-talon/production-20261111",
@@ -907,16 +907,18 @@
   },
   {
     "root": "mica-and-talon/production-20261111",
-    "path": "out/master-16x9-s1fix.mp4",
+    "path": "out/master-16x9.mp4",
     "files": 1,
     "bytes": 98348316,
-    "sha256": "b880fa81b07944dc534182cf916563bb4b3afc5956eb0a7424d1d4a8d9becfe9"
+    "sha256": "b880fa81b07944dc534182cf916563bb4b3afc5956eb0a7424d1d4a8d9becfe9",
+    "sha256_manifest": null
   },
   {
     "root": "mica-and-talon/production-20261111",
-    "path": "out/contact-16x9-s1fix-2fps.jpg",
+    "path": "out/contact-16x9-2fps.jpg",
     "files": 1,
     "bytes": 1221390,
-    "sha256": "d8fa7bcc3ecfa3b9e40ea0497ddb12c3f5139fbef5493c555a462959f1450c31"
+    "sha256": "d8fa7bcc3ecfa3b9e40ea0497ddb12c3f5139fbef5493c555a462959f1450c31",
+    "sha256_manifest": null
   }
 ]

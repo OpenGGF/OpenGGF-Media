@@ -91,5 +91,6 @@ python3 tools/finish.py work/build-v out/master-9x16.mp4 work/chapters.ffmeta
   TALON/powered pairs were already full width. `master-9x16.mp4` re-rendered.
 - Found during that fix: in the last ~0.3 s of the signpost pair (≈47.1–47.4 s, and through the push) the S1 pane
   showed the faulty S1 results card entering (src ≥ 322). The edit now starts the S1 pane at src 135 (MICA running
-  into the signpost) so it ends at src 316. The approved `out/master-16x9.mp4` is **unchanged** and still contains
-  the 0.3 s leak; `out/master-16x9-s1fix.mp4` is the same edit with only this fix, for the lead to swap in if wanted.
+  into the signpost) so it ends at src 316. The lead checked the fixed 16:9 at 46.9, 47.15 and 47.35 s and promoted it:
+  `out/master-16x9.mp4` is now the fixed render; the earlier approved master is kept as
+  `out/superseded/master-16x9-pre-s1fix.mp4` (with its loudness JSON and contact sheet) and contains the 0.3 s leak.

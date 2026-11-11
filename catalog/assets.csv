@@ -15327,9 +15327,9 @@ mica-and-talon,mica-and-talon/fonts,FiraSans-Bold.ttf,third-party font dependenc
 mica-and-talon,mica-and-talon/fonts,FiraSans-BoldItalic.ttf,third-party font dependency; external,506864,1
 mica-and-talon,mica-and-talon/fonts,Anton-Regular.ttf,third-party font dependency; external,170812,1
 mica-and-talon,mica-and-talon/drawing,wait-00-2.png,original redraw reference; external,790168,1
-mica-and-talon,mica-and-talon/production-20261111,out/master-16x9.mp4,finished promo video (H.264 High/AAC 320k),98243003,1
+mica-and-talon,mica-and-talon/production-20261111,out/superseded/master-16x9-pre-s1fix.mp4,superseded approved master (pre S1 results-card fix),98243003,1
 mica-and-talon,mica-and-talon/production-20261111,out/master-9x16.mp4,finished promo video (H.264 High/AAC 320k),120689951,1
-mica-and-talon,mica-and-talon/production-20261111,out/contact-16x9-2fps.jpg,review contact sheet / key frame,1221559,1
+mica-and-talon,mica-and-talon/production-20261111,out/superseded/contact-16x9-pre-s1fix-2fps.jpg,review contact sheet / key frame,1221559,1
 mica-and-talon,mica-and-talon/production-20261111,out/contact-9x16-2fps.jpg,review contact sheet / key frame,550016,1
 mica-and-talon,mica-and-talon/production-20261111,checkpoint1/cold-open-frame0.png,review contact sheet / key frame,21985,1
 mica-and-talon,mica-and-talon/production-20261111,checkpoint1/edit-contact-sheet-every-0.5s.png,review contact sheet / key frame,8878730,1
@@ -15440,5 +15440,5 @@ mica-and-talon,mica-and-talon/fonts-20261110,FiraSans-BoldItalic.ttf,third-party
 mica-and-talon,mica-and-talon/fonts-20261110,FiraSansCondensed-BoldItalic.ttf,third-party font dependency (PROMO_FONT_DIRS); external,514400,1
 mica-and-talon,mica-and-talon/fonts-20261110,FiraSansExtraCondensed-Black.ttf,third-party font dependency (PROMO_FONT_DIRS); external,516808,1
 mica-and-talon,mica-and-talon/fonts-20261110,FiraSansExtraCondensed-BlackItalic.ttf,third-party font dependency (PROMO_FONT_DIRS); external,539564,1
-mica-and-talon,mica-and-talon/production-20261111,out/master-16x9-s1fix.mp4,finished promo video (H.264 High/AAC 320k),98348316,1
-mica-and-talon,mica-and-talon/production-20261111,out/contact-16x9-s1fix-2fps.jpg,review contact sheet / key frame,1221390,1
+mica-and-talon,mica-and-talon/production-20261111,out/master-16x9.mp4,finished promo video (H.264 High/AAC 320k),98348316,1
+mica-and-talon,mica-and-talon/production-20261111,out/contact-16x9-2fps.jpg,review contact sheet / key frame,1221390,1

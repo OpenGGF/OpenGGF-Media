@@ -27,7 +27,7 @@
         "height": 1080,
         "pix_fmt": "yuv420p",
         "avg_frame_rate": "60/1",
-        "bit_rate": "7902514"
+        "bit_rate": "7911347"
       },
       {
         "codec_name": "aac",
