@@ -1,7 +1,23 @@
 # MICA & TALON Mod Showcase
 
-**Current: production promo, 2026-11-11** (OpenGGF `b088fae95b`, 95.4 s, 16:9 and designed 9:16 cuts, owner-supplied
-music). Local archive only; not pushed. Sound checked by measurement only.
+**Current: promo redo, 2026-11-12** (OpenGGF `1e0faac123`, 124.0 s, 16:9 and designed 9:16 cuts, the owner's music
+from its start with one fade). Local archive only; not pushed. Sound checked by measurement only.
+
+- [README: source, music decision, what is not filmed as it ships, the 9:16 cut, review history, rebuild](sources/redo-20261112/README.md)
+- [Edit: brief, tracked bar grid and both cuts](sources/redo-20261112/edit/edit.py)
+- [Shot index (every capture on screen: entry kind, declared setup, frames used, command)](sources/redo-20261112/out/shot-index.csv),
+  [chapters](sources/redo-20261112/out/chapters.txt), [viewer pass](sources/redo-20261112/out/viewer-pass.md),
+  [verification](sources/redo-20261112/out/verification.json), [check](sources/redo-20261112/out/promo_kit-check.txt),
+  [stinger levels](sources/redo-20261112/out/stinger-levels.json)
+- Edit as it stood at each review: [storyboard](sources/redo-20261112/checkpoint1/edit-at-storyboard.py),
+  [draft](sources/redo-20261112/checkpoint2/edit-at-draft.py), [climax check](sources/redo-20261112/checkpoint3/edit-at-climax-check.py)
+- [External hashes](external-hashes-redo-20261112.json): videos, review pages, frames, state CSVs, PCM, fonts and the
+  owner's music (name + SHA-256 only; the WAV is not in this repository).
+
+## Superseded: production promo, 2026-11-11
+
+Superseded by the redo after the owner's feedback (zoom at the start, spliced music, features not shown).
+OpenGGF `b088fae95b`, 95.4 s, 16:9 and designed 9:16 cuts.
 
 - [Production README: sources, music edit, disclosures, known limits, rebuild, review history](sources/production-20261111/README.md)
 - [Edit: brief, beat sheet and compositor](sources/production-20261111/edit/edit.py)

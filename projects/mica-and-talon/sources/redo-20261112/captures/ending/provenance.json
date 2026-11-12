@@ -1,0 +1,28 @@
+{
+  "id": "ending",
+  "kind": "host",
+  "host": "original",
+  "mode": "ending",
+  "game": "s2",
+  "zone": 10,
+  "act": 0,
+  "note": "debug credits entry from DEZ",
+  "commit": "1e0faac12350c56af40954d2a4ee4f74f28641df",
+  "worktree_dirty": false,
+  "jar_sha256": "449ada47b0e963d9fcc630255fed80f4fbad7b53390bdebd21e35386381abfce",
+  "checkout": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f",
+  "command": [
+    "PromoCapture",
+    "ending",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/ending",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/target/mica-and-talon/mica-and-talon.jar",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/s2.gen",
+    "10",
+    "0"
+  ],
+  "source_kind": "debug/positioned presentation host",
+  "fps": 60,
+  "every": 1,
+  "audio": false,
+  "capture_host_sha256": "72c1f0fdf950c6a8e25a33f763beda98ae27ec8adfb368c443529005a56ca56a"
+}

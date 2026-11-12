@@ -1,0 +1,6 @@
+[
+ {"id":"w400-title-s3k","kind":"title","game":"s3k","zone":"aiz","frames":560,"width":400},
+ {"id":"w400-title-s2","kind":"title","game":"s2","zone":"ehz","frames":900,"width":400},
+ {"id":"w400-gilded-aiz","game":"s3k","zone":"aiz","x":7100,"y":900,"rings":70,"timer":7200,"emeralds":"1111111","width":400,
+  "script":"30 -; 1 A; 20 -; 1 A; 40 -; repeat 8 { 1 R+A; 16 R }; 120 R"}
+]

@@ -1,0 +1,78 @@
+[
+ {
+  "id": "q-pairrise-128-10",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 10 - / -; 10 L / L; 332 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-pairrise-128-16",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 10 - / -; 16 L / L; 326 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-pairrise-134-22",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 16 - / -; 22 L / L; 314 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-pairrise-128-0",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 352 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ }
+]

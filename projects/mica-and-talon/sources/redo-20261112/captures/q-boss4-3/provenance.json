@@ -1,0 +1,39 @@
+{
+  "id": "q-boss4-3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 24 A; 1 -; 1 A; 6 -; 3 R; 461 -",
+  "props": {
+    "promo.emeralds": "3333333",
+    "promo.rings": 70,
+    "promo.timer": 7200,
+    "promo.score": 4800
+  },
+  "commit": "1e0faac12350c56af40954d2a4ee4f74f28641df",
+  "worktree_dirty": false,
+  "jar_sha256": "449ada47b0e963d9fcc630255fed80f4fbad7b53390bdebd21e35386381abfce",
+  "checkout": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f",
+  "command": [
+    "PromoCapture",
+    "run",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/q-boss4-3",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/target/mica-and-talon/mica-and-talon.jar",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/s3k.gen",
+    "0",
+    "0",
+    "11900",
+    "620",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/q-boss4-3/input.txt"
+  ],
+  "source_kind": "debug/positioned presentation host",
+  "fps": 60,
+  "every": 1,
+  "audio": false,
+  "capture_host_sha256": "c391cda2dc60df2805571e657fbc0c739287135167b62dcb8632ed4e2a8da741"
+}

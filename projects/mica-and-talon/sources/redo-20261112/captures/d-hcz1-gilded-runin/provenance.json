@@ -1,0 +1,40 @@
+{
+  "id": "d-hcz1-gilded-runin",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 6690,
+  "y": 836,
+  "script": "24 -; 90 R; 1 R+A; 20 R; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+    "promo.emeralds": "1111111",
+    "promo.rings": 66,
+    "promo.timer": 6000,
+    "promo.score": 41900
+  },
+  "note": "Hydrocity 1 before its second starpost: normal MICA runs 90 frames, jumps (#114), transforms (#135, reveal #160), then runs and dashes as Gilded MICA",
+  "commit": "1e0faac12350c56af40954d2a4ee4f74f28641df",
+  "worktree_dirty": false,
+  "jar_sha256": "449ada47b0e963d9fcc630255fed80f4fbad7b53390bdebd21e35386381abfce",
+  "checkout": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f",
+  "command": [
+    "PromoCapture",
+    "run",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/d-hcz1-gilded-runin",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/target/mica-and-talon/mica-and-talon.jar",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/s3k.gen",
+    "1",
+    "0",
+    "6690",
+    "836",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/d-hcz1-gilded-runin/input.txt"
+  ],
+  "source_kind": "debug/positioned presentation host",
+  "fps": 60,
+  "every": 1,
+  "audio": false,
+  "capture_host_sha256": "a116622ce5dfa9354f0346023931442894a69ea361492f2750e0dc6dc5eb13a9"
+}

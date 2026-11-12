@@ -15442,3 +15442,664 @@ mica-and-talon,mica-and-talon/fonts-20261110,FiraSansExtraCondensed-Black.ttf,th
 mica-and-talon,mica-and-talon/fonts-20261110,FiraSansExtraCondensed-BlackItalic.ttf,third-party font dependency (PROMO_FONT_DIRS); external,539564,1
 mica-and-talon,mica-and-talon/production-20261111,out/master-16x9.mp4,finished promo video (H.264 High/AAC 320k),98348316,1
 mica-and-talon,mica-and-talon/production-20261111,out/contact-16x9-2fps.jpg,review contact sheet / key frame,1221390,1
+mica-and-talon,mica-and-talon/redo-20261112,out/master-16x9.mp4,finished promo video (H.264 High/AAC 320k),124086068,1
+mica-and-talon,mica-and-talon/redo-20261112,out/master-9x16.mp4,finished promo video (H.264 High/AAC 320k),156667238,1
+mica-and-talon,mica-and-talon/redo-20261112,out/contact-16x9-2s.jpg,contact sheet of the encoded master,1815493,1
+mica-and-talon,mica-and-talon/redo-20261112,out/contact-9x16-2s.jpg,contact sheet of the encoded master,1484624,1
+mica-and-talon,mica-and-talon/redo-20261112,final/master-9x16-540.mp4,"final vertical review (self-contained HTML, or its 540 px video)",11096010,1
+mica-and-talon,mica-and-talon/redo-20261112,final/vertical-review.html,"final vertical review (self-contained HTML, or its 540 px video)",19467011,1
+mica-and-talon,mica-and-talon/redo-20261112,checkpoint1/keys-lead.jpg,superseded review package or render (checkpoint1),319923,1
+mica-and-talon,mica-and-talon/redo-20261112,checkpoint1/storyboard.html,superseded review package or render (checkpoint1),7526791,1
+mica-and-talon,mica-and-talon/redo-20261112,checkpoint2/draft-16x9.mp4,superseded review package or render (checkpoint2),127556603,1
+mica-and-talon,mica-and-talon/redo-20261112,checkpoint2/draft-640.mp4,superseded review package or render (checkpoint2),13233140,1
+mica-and-talon,mica-and-talon/redo-20261112,checkpoint2/draft-review.html,superseded review package or render (checkpoint2),19553474,1
+mica-and-talon,mica-and-talon/redo-20261112,checkpoint3/climax-100-124-640.mp4,superseded review package or render (checkpoint3),2223533,1
+mica-and-talon,mica-and-talon/redo-20261112,checkpoint3/climax-16x9.mp4,superseded review package or render (checkpoint3),124086791,1
+mica-and-talon,mica-and-talon/redo-20261112,checkpoint3/climax-check.html,superseded review package or render (checkpoint3),4859808,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/aiz-hero/frames,native capture frame sequence (ROM-derived pixels; external),23144276,710
+mica-and-talon,mica-and-talon/redo-20261112,captures/arz1-whisp-a/frames,native capture frame sequence (ROM-derived pixels; external),17206110,351
+mica-and-talon,mica-and-talon/redo-20261112,captures/blue-turn/frames,native capture frame sequence (ROM-derived pixels; external),12338729,1096
+mica-and-talon,mica-and-talon/redo-20261112,captures/boss-gilded/frames,native capture frame sequence (ROM-derived pixels; external),28153798,1110
+mica-and-talon,mica-and-talon/redo-20261112,captures/boss-hyper/frames,native capture frame sequence (ROM-derived pixels; external),28103845,1110
+mica-and-talon,mica-and-talon/redo-20261112,captures/carry-fly/frames,native capture frame sequence (ROM-derived pixels; external),10227770,370
+mica-and-talon,mica-and-talon/redo-20261112,captures/competition/frames,native capture frame sequence (ROM-derived pixels; external),17874447,953
+mica-and-talon,mica-and-talon/redo-20261112,captures/continue/frames,native capture frame sequence (ROM-derived pixels; external),3264006,480
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-aiz-normal/frames,native capture frame sequence (ROM-derived pixels; external),14027692,426
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-aiz-solar-dive/frames,native capture frame sequence (ROM-derived pixels; external),14083062,367
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-aiz-talon-dive/frames,native capture frame sequence (ROM-derived pixels; external),15245630,472
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-arz1-whisp/frames,native capture frame sequence (ROM-derived pixels; external),24572580,491
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-boss-gilded/frames,native capture frame sequence (ROM-derived pixels; external),24584246,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-boss-hyper/frames,native capture frame sequence (ROM-derived pixels; external),24477586,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-carry-fly/frames,native capture frame sequence (ROM-derived pixels; external),10271835,370
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-cnz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),9814981,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-cnz2-team/frames,native capture frame sequence (ROM-derived pixels; external),7339458,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-cpz-talon/frames,native capture frame sequence (ROM-derived pixels; external),9719471,495
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-cpz1-run/frames,native capture frame sequence (ROM-derived pixels; external),9407298,376
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-dez1-hyper/frames,native capture frame sequence (ROM-derived pixels; external),14827987,452
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-ehz-clear/frames,native capture frame sequence (ROM-derived pixels; external),17890780,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-ghz-clear/frames,native capture frame sequence (ROM-derived pixels; external),24644644,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-ghz2-buzz/frames,native capture frame sequence (ROM-derived pixels; external),10376729,491
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-hcz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),11200820,452
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-hcz1-gilded-runin/frames,native capture frame sequence (ROM-derived pixels; external),12389903,516
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-lbz-boss/frames,native capture frame sequence (ROM-derived pixels; external),37387712,1543
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-lbz-pair/frames,native capture frame sequence (ROM-derived pixels; external),23042167,820
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-lbz-pair-312/frames,native capture frame sequence (ROM-derived pixels; external),23036108,820
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-lbz1-team/frames,native capture frame sequence (ROM-derived pixels; external),12773836,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-mgz2-chain/frames,native capture frame sequence (ROM-derived pixels; external),23777044,669
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-syz1-talon/frames,native capture frame sequence (ROM-derived pixels; external),8831274,518
+mica-and-talon,mica-and-talon/redo-20261112,captures/data-select/frames,native capture frame sequence (ROM-derived pixels; external),13638873,721
+mica-and-talon,mica-and-talon/redo-20261112,captures/e-lbz-boss-state/frames,native capture frame sequence (ROM-derived pixels; external),37387712,1543
+mica-and-talon,mica-and-talon/redo-20261112,captures/ehz-clear/frames,native capture frame sequence (ROM-derived pixels; external),17820446,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/ehz2-chain-b/frames,native capture frame sequence (ROM-derived pixels; external),10056483,491
+mica-and-talon,mica-and-talon/redo-20261112,captures/ending/frames,native capture frame sequence (ROM-derived pixels; external),27863178,4438
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-boss-gilded/frames,native capture frame sequence (ROM-derived pixels; external),19297345,788
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-boss-hyper/frames,native capture frame sequence (ROM-derived pixels; external),25430036,1008
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cnz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),9716745,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cnz1-team/frames,native capture frame sequence (ROM-derived pixels; external),7634998,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cnz2-team/frames,native capture frame sequence (ROM-derived pixels; external),7295640,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cpz-medley/frames,native capture frame sequence (ROM-derived pixels; external),9861429,461
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cpz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),10003326,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-dez1-hyper/frames,native capture frame sequence (ROM-derived pixels; external),14106403,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-ehz-medley/frames,native capture frame sequence (ROM-derived pixels; external),5510324,294
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-ehz1-run/frames,native capture frame sequence (ROM-derived pixels; external),18336382,920
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-fbz1-hyper/frames,native capture frame sequence (ROM-derived pixels; external),6751109,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-fbz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),7530720,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-ghz-ss/frames,native capture frame sequence (ROM-derived pixels; external),39436017,1828
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-ghz2-talon/frames,native capture frame sequence (ROM-derived pixels; external),4018914,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-hcz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),10629844,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-hcz1-normal/frames,native capture frame sequence (ROM-derived pixels; external),10605793,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-hcz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),11134489,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-htz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),9677781,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-htz1-talon/frames,native capture frame sequence (ROM-derived pixels; external),4880243,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-lbz1-talon/frames,native capture frame sequence (ROM-derived pixels; external),9037485,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-lbz1-team/frames,native capture frame sequence (ROM-derived pixels; external),12697235,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-mcz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),13164538,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-mcz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),14633097,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-mhz1-team/frames,native capture frame sequence (ROM-derived pixels; external),12347182,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-sbz1-team/frames,native capture frame sequence (ROM-derived pixels; external),5662464,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-scz-team/frames,native capture frame sequence (ROM-derived pixels; external),11180952,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-slz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),4299996,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-slz1-talon/frames,native capture frame sequence (ROM-derived pixels; external),3050016,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-slz1-talon-long/frames,native capture frame sequence (ROM-derived pixels; external),5828806,518
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-carry-fly/frames,native capture frame sequence (ROM-derived pixels; external),9896988,370
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-cnz1-team/frames,native capture frame sequence (ROM-derived pixels; external),7443447,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-cpz-medley/frames,native capture frame sequence (ROM-derived pixels; external),9666781,461
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-ehz-clear/frames,native capture frame sequence (ROM-derived pixels; external),17500073,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-ehz-medley/frames,native capture frame sequence (ROM-derived pixels; external),5389416,294
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-ehz1-run/frames,native capture frame sequence (ROM-derived pixels; external),17887087,920
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-ghz-clear/frames,native capture frame sequence (ROM-derived pixels; external),24177506,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-scz/frames,native capture frame sequence (ROM-derived pixels; external),10341778,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-syz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),7176240,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-syz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),7061786,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-syz1-talon/frames,native capture frame sequence (ROM-derived pixels; external),4388062,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-cnz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),10974771,490
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-cpz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),10565710,452
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-hyper/frames,native capture frame sequence (ROM-derived pixels; external),14768368,452
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-normal/frames,native capture frame sequence (ROM-derived pixels; external),15106593,452
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-solar/frames,native capture frame sequence (ROM-derived pixels; external),14009291,402
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-talon-a/frames,native capture frame sequence (ROM-derived pixels; external),10806528,304
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-talon-b/frames,native capture frame sequence (ROM-derived pixels; external),11485530,331
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-hcz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),11135645,452
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-mcz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),15134329,490
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-syz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),7251492,490
+mica-and-talon,mica-and-talon/redo-20261112,captures/ghz-clear/frames,native capture frame sequence (ROM-derived pixels; external),24582287,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/gilded-aiz/frames,native capture frame sequence (ROM-derived pixels; external),12414709,348
+mica-and-talon,mica-and-talon/redo-20261112,captures/gilded-clear/frames,native capture frame sequence (ROM-derived pixels; external),26783262,1416
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-arz1-whisp3/frames,native capture frame sequence (ROM-derived pixels; external),26464347,525
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-arz1-whisp3-b/frames,native capture frame sequence (ROM-derived pixels; external),25253008,505
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-cnz1/frames,native capture frame sequence (ROM-derived pixels; external),11989263,525
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-dez1/frames,native capture frame sequence (ROM-derived pixels; external),18385810,525
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-fbz1/frames,native capture frame sequence (ROM-derived pixels; external),8353160,525
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-hcz1/frames,native capture frame sequence (ROM-derived pixels; external),12376101,525
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-lbz1/frames,native capture frame sequence (ROM-derived pixels; external),16319637,525
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-mtz1-asteron/frames,native capture frame sequence (ROM-derived pixels; external),12752097,525
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-mtz1-asteron-b/frames,native capture frame sequence (ROM-derived pixels; external),11412208,505
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-ooz1-octus/frames,native capture frame sequence (ROM-derived pixels; external),11101400,525
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-a/frames,native capture frame sequence (ROM-derived pixels; external),12091699,960
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-b/frames,native capture frame sequence (ROM-derived pixels; external),8042865,657
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-c/frames,native capture frame sequence (ROM-derived pixels; external),12455688,1000
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-d/frames,native capture frame sequence (ROM-derived pixels; external),10420506,828
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-e/frames,native capture frame sequence (ROM-derived pixels; external),11182851,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/halfpipe-run/frames,native capture frame sequence (ROM-derived pixels; external),15386824,1386
+mica-and-talon,mica-and-talon/redo-20261112,captures/hyper-aiz/frames,native capture frame sequence (ROM-derived pixels; external),12727508,348
+mica-and-talon,mica-and-talon/redo-20261112,captures/mgz2-chain/frames,native capture frame sequence (ROM-derived pixels; external),23712694,669
+mica-and-talon,mica-and-talon/redo-20261112,captures/normal-aiz/frames,native capture frame sequence (ROM-derived pixels; external),9675327,286
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cnz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),11841278,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cnz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),11505804,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cnz1-team/frames,native capture frame sequence (ROM-derived pixels; external),9392078,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cnz2-team/frames,native capture frame sequence (ROM-derived pixels; external),8232021,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cpz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),11929561,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cpz1-team/frames,native capture frame sequence (ROM-derived pixels; external),9883550,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-dez1-hyper/frames,native capture frame sequence (ROM-derived pixels; external),16944875,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-fbz1-hyper/frames,native capture frame sequence (ROM-derived pixels; external),7758185,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-fbz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),8622868,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-ghz-ss-a/frames,native capture frame sequence (ROM-derived pixels; external),24193396,864
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-ghz-ss-b/frames,native capture frame sequence (ROM-derived pixels; external),24202444,868
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-ghz-ss-c/frames,native capture frame sequence (ROM-derived pixels; external),24305049,872
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-hcz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),12526643,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-hcz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),12707480,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-hcz2-team/frames,native capture frame sequence (ROM-derived pixels; external),9723413,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-htz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),10817778,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-icz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),13989265,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-lbz1-talon/frames,native capture frame sequence (ROM-derived pixels; external),10959780,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-lbz1-team/frames,native capture frame sequence (ROM-derived pixels; external),15223741,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-lrz1-hyper/frames,native capture frame sequence (ROM-derived pixels; external),16866329,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-lrz1-hyper-b/frames,native capture frame sequence (ROM-derived pixels; external),15205545,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mcz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),14985037,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mcz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),16702108,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mgz1-team/frames,native capture frame sequence (ROM-derived pixels; external),18323828,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mhz1-hyper/frames,native capture frame sequence (ROM-derived pixels; external),15209968,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mhz1-team/frames,native capture frame sequence (ROM-derived pixels; external),14874443,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mtz1-team/frames,native capture frame sequence (ROM-derived pixels; external),14886267,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),919699,61
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-ooz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),9042937,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-sbz1-team/frames,native capture frame sequence (ROM-derived pixels; external),6771555,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-slz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),5060481,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-soz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),13021944,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-syz1-gilded/frames,native capture frame sequence (ROM-derived pixels; external),8416557,432
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-syz1-solar/frames,native capture frame sequence (ROM-derived pixels; external),8262008,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-a/frames,native capture frame sequence (ROM-derived pixels; external),13773695,1116
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-b/frames,native capture frame sequence (ROM-derived pixels; external),11724781,1116
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-c/frames,native capture frame sequence (ROM-derived pixels; external),14302942,1170
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-d/frames,native capture frame sequence (ROM-derived pixels; external),13814312,1080
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-e/frames,native capture frame sequence (ROM-derived pixels; external),12287455,1088
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-f/frames,native capture frame sequence (ROM-derived pixels; external),11625857,1088
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-36a/frames,native capture frame sequence (ROM-derived pixels; external),22706696,908
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-36b/frames,native capture frame sequence (ROM-derived pixels; external),23139739,922
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-44a/frames,native capture frame sequence (ROM-derived pixels; external),22719305,908
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-44b/frames,native capture frame sequence (ROM-derived pixels; external),23150624,922
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-52a/frames,native capture frame sequence (ROM-derived pixels; external),22720702,908
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-52b/frames,native capture frame sequence (ROM-derived pixels; external),23150955,922
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-21/frames,native capture frame sequence (ROM-derived pixels; external),21520635,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-22/frames,native capture frame sequence (ROM-derived pixels; external),21178570,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-23/frames,native capture frame sequence (ROM-derived pixels; external),22734062,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-24/frames,native capture frame sequence (ROM-derived pixels; external),22849928,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-25/frames,native capture frame sequence (ROM-derived pixels; external),22627493,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-26/frames,native capture frame sequence (ROM-derived pixels; external),22680201,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-22-12/frames,native capture frame sequence (ROM-derived pixels; external),21194152,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-22-16/frames,native capture frame sequence (ROM-derived pixels; external),21262641,920
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-22-20/frames,native capture frame sequence (ROM-derived pixels; external),21334021,924
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-22-24/frames,native capture frame sequence (ROM-derived pixels; external),21415862,928
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-23-12/frames,native capture frame sequence (ROM-derived pixels; external),22740999,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-23-16/frames,native capture frame sequence (ROM-derived pixels; external),22869406,920
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-23-20/frames,native capture frame sequence (ROM-derived pixels; external),22984423,924
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-23-24/frames,native capture frame sequence (ROM-derived pixels; external),23096827,928
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-24-12/frames,native capture frame sequence (ROM-derived pixels; external),22864827,916
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-24-16/frames,native capture frame sequence (ROM-derived pixels; external),22980405,920
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-24-20/frames,native capture frame sequence (ROM-derived pixels; external),22919821,924
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-24-24/frames,native capture frame sequence (ROM-derived pixels; external),22998128,928
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-10/frames,native capture frame sequence (ROM-derived pixels; external),24467014,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-16/frames,native capture frame sequence (ROM-derived pixels; external),24524761,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-22/frames,native capture frame sequence (ROM-derived pixels; external),24529157,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-28/frames,native capture frame sequence (ROM-derived pixels; external),24530189,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-3/frames,native capture frame sequence (ROM-derived pixels; external),24477586,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-4/frames,native capture frame sequence (ROM-derived pixels; external),24502913,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-5/frames,native capture frame sequence (ROM-derived pixels; external),24489433,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-6/frames,native capture frame sequence (ROM-derived pixels; external),24486066,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-7/frames,native capture frame sequence (ROM-derived pixels; external),24468348,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-8/frames,native capture frame sequence (ROM-derived pixels; external),24496120,978
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-12/frames,native capture frame sequence (ROM-derived pixels; external),9823644,302
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-16/frames,native capture frame sequence (ROM-derived pixels; external),9491769,302
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-20/frames,native capture frame sequence (ROM-derived pixels; external),8910330,302
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-24/frames,native capture frame sequence (ROM-derived pixels; external),8617764,302
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-28/frames,native capture frame sequence (ROM-derived pixels; external),8541439,302
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-8/frames,native capture frame sequence (ROM-derived pixels; external),10186165,302
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-cpz-talon-a/frames,native capture frame sequence (ROM-derived pixels; external),9719471,495
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-cpz-talon-b/frames,native capture frame sequence (ROM-derived pixels; external),10006114,501
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-eb-hcz2/frames,native capture frame sequence (ROM-derived pixels; external),63336111,2272
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-eb-mgz2/frames,native capture frame sequence (ROM-derived pixels; external),93495962,2272
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-eb-mgz2b/frames,native capture frame sequence (ROM-derived pixels; external),38460298,2272
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-hcz-runin-6600/frames,native capture frame sequence (ROM-derived pixels; external),10419898,516
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-hcz-runin-6690/frames,native capture frame sequence (ROM-derived pixels; external),12389903,516
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbz-pair-a/frames,native capture frame sequence (ROM-derived pixels; external),16460855,640
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbz-pair-b/frames,native capture frame sequence (ROM-derived pixels; external),17507237,640
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-680-11/frames,native capture frame sequence (ROM-derived pixels; external),17986447,783
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-680-7/frames,native capture frame sequence (ROM-derived pixels; external),17897539,779
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-692-11/frames,native capture frame sequence (ROM-derived pixels; external),18291810,795
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-692-7/frames,native capture frame sequence (ROM-derived pixels; external),18203507,791
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-704-11/frames,native capture frame sequence (ROM-derived pixels; external),18590540,807
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-704-7/frames,native capture frame sequence (ROM-derived pixels; external),18501141,803
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-614-15/frames,native capture frame sequence (ROM-derived pixels; external),28055219,1191
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-626-15/frames,native capture frame sequence (ROM-derived pixels; external),28329980,1203
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-638-15/frames,native capture frame sequence (ROM-derived pixels; external),28608678,1215
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-650-15/frames,native capture frame sequence (ROM-derived pixels; external),17949443,777
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-650-19/frames,native capture frame sequence (ROM-derived pixels; external),18034244,781
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-662-15/frames,native capture frame sequence (ROM-derived pixels; external),18203199,789
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-662-19/frames,native capture frame sequence (ROM-derived pixels; external),18281480,793
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-674-15/frames,native capture frame sequence (ROM-derived pixels; external),18459494,801
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-674-19/frames,native capture frame sequence (ROM-derived pixels; external),18557522,805
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzstop-78/frames,native capture frame sequence (ROM-derived pixels; external),6888436,305
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzstop-82/frames,native capture frame sequence (ROM-derived pixels; external),7006829,309
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzstop-86/frames,native capture frame sequence (ROM-derived pixels; external),7089327,313
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzstop-90/frames,native capture frame sequence (ROM-derived pixels; external),7166415,317
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzwalk-20/frames,native capture frame sequence (ROM-derived pixels; external),18059924,797
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzwalk-30/frames,native capture frame sequence (ROM-derived pixels; external),18691391,807
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-cnz1/frames,native capture frame sequence (ROM-derived pixels; external),27058417,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-dez1/frames,native capture frame sequence (ROM-derived pixels; external),36279151,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-fbz1/frames,native capture frame sequence (ROM-derived pixels; external),23293161,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-hcz1/frames,native capture frame sequence (ROM-derived pixels; external),50687161,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-icz1/frames,native capture frame sequence (ROM-derived pixels; external),55507973,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-lbz1/frames,native capture frame sequence (ROM-derived pixels; external),40676989,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-lrz1/frames,native capture frame sequence (ROM-derived pixels; external),40744505,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-mgz1/frames,native capture frame sequence (ROM-derived pixels; external),64887801,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-mhz1/frames,native capture frame sequence (ROM-derived pixels; external),40082744,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-soz1/frames,native capture frame sequence (ROM-derived pixels; external),42070008,1672
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-carry-aiz/frames,native capture frame sequence (ROM-derived pixels; external),16084391,472
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-dez-a/frames,native capture frame sequence (ROM-derived pixels; external),14514587,406
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-dez-b/frames,native capture frame sequence (ROM-derived pixels; external),17549850,488
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-run-dez/frames,native capture frame sequence (ROM-derived pixels; external),18710103,501
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-run-dez-ground/frames,native capture frame sequence (ROM-derived pixels; external),18154594,501
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-run-lbz/frames,native capture frame sequence (ROM-derived pixels; external),8130188,321
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairfly-40-24/frames,native capture frame sequence (ROM-derived pixels; external),14425991,448
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairfly-40-32/frames,native capture frame sequence (ROM-derived pixels; external),14410537,448
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairfly-400-30/frames,native capture frame sequence (ROM-derived pixels; external),14421213,448
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairfly-90-28/frames,native capture frame sequence (ROM-derived pixels; external),14429138,448
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairrise-128-0/frames,native capture frame sequence (ROM-derived pixels; external),12042229,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairrise-128-10/frames,native capture frame sequence (ROM-derived pixels; external),10859233,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairrise-128-16/frames,native capture frame sequence (ROM-derived pixels; external),10923094,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairrise-134-22/frames,native capture frame sequence (ROM-derived pixels; external),11326960,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a1/frames,native capture frame sequence (ROM-derived pixels; external),13858082,370
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a2/frames,native capture frame sequence (ROM-derived pixels; external),14649453,388
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a3/frames,native capture frame sequence (ROM-derived pixels; external),14335827,374
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a4/frames,native capture frame sequence (ROM-derived pixels; external),14509320,379
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a5/frames,native capture frame sequence (ROM-derived pixels; external),14310876,373
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a6/frames,native capture frame sequence (ROM-derived pixels; external),14083062,367
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b1/frames,native capture frame sequence (ROM-derived pixels; external),14101032,370
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b2/frames,native capture frame sequence (ROM-derived pixels; external),14672853,388
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b3/frames,native capture frame sequence (ROM-derived pixels; external),14343131,374
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b4/frames,native capture frame sequence (ROM-derived pixels; external),14527691,379
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b5/frames,native capture frame sequence (ROM-derived pixels; external),14319473,373
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b6/frames,native capture frame sequence (ROM-derived pixels; external),14121283,367
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-c1/frames,native capture frame sequence (ROM-derived pixels; external),14199997,370
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-c2/frames,native capture frame sequence (ROM-derived pixels; external),14776053,388
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-syz-talon-a/frames,native capture frame sequence (ROM-derived pixels; external),8831274,518
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-syz-talon-b/frames,native capture frame sequence (ROM-derived pixels; external),8965937,518
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-syz-talon-c/frames,native capture frame sequence (ROM-derived pixels; external),8951300,518
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-syz-talon-d/frames,native capture frame sequence (ROM-derived pixels; external),9409162,518
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-walk-14500/frames,native capture frame sequence (ROM-derived pixels; external),14562734,460
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-walk-14800/frames,native capture frame sequence (ROM-derived pixels; external),15684319,460
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-walk-15100/frames,native capture frame sequence (ROM-derived pixels; external),16695420,460
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-walk-15350/frames,native capture frame sequence (ROM-derived pixels; external),11907870,460
+mica-and-talon,mica-and-talon/redo-20261112,captures/s1-ghz2-buzz/frames,native capture frame sequence (ROM-derived pixels; external),6316340,351
+mica-and-talon,mica-and-talon/redo-20261112,captures/s1-gilded-ghz/frames,native capture frame sequence (ROM-derived pixels; external),7536353,408
+mica-and-talon,mica-and-talon/redo-20261112,captures/s1-solar-ghz/frames,native capture frame sequence (ROM-derived pixels; external),7518132,480
+mica-and-talon,mica-and-talon/redo-20261112,captures/s2-gilded-arz/frames,native capture frame sequence (ROM-derived pixels; external),16566233,408
+mica-and-talon,mica-and-talon/redo-20261112,captures/s2-solar-arz/frames,native capture frame sequence (ROM-derived pixels; external),20534065,480
+mica-and-talon,mica-and-talon/redo-20261112,captures/solar-dive/frames,native capture frame sequence (ROM-derived pixels; external),12724972,336
+mica-and-talon,mica-and-talon/redo-20261112,captures/solar-fly/frames,native capture frame sequence (ROM-derived pixels; external),16163481,460
+mica-and-talon,mica-and-talon/redo-20261112,captures/stock-title-s1/frames,native capture frame sequence (ROM-derived pixels; external),20708209,1300
+mica-and-talon,mica-and-talon/redo-20261112,captures/stock-title-s2/frames,native capture frame sequence (ROM-derived pixels; external),16534633,1300
+mica-and-talon,mica-and-talon/redo-20261112,captures/stock-title-s3k/frames,native capture frame sequence (ROM-derived pixels; external),30146328,1300
+mica-and-talon,mica-and-talon/redo-20261112,captures/talon-arz/frames,native capture frame sequence (ROM-derived pixels; external),12951943,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/talon-cpz/frames,native capture frame sequence (ROM-derived pixels; external),5846138,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/talon-s3k/frames,native capture frame sequence (ROM-derived pixels; external),11028627,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/team-aiz/frames,native capture frame sequence (ROM-derived pixels; external),13138591,360
+mica-and-talon,mica-and-talon/redo-20261112,captures/title-s1/frames,native capture frame sequence (ROM-derived pixels; external),22527031,1300
+mica-and-talon,mica-and-talon/redo-20261112,captures/title-s2/frames,native capture frame sequence (ROM-derived pixels; external),18000292,1300
+mica-and-talon,mica-and-talon/redo-20261112,captures/title-s3k/frames,native capture frame sequence (ROM-derived pixels; external),36093588,1300
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-aiz-hero/frames,native capture frame sequence (ROM-derived pixels; external),28269859,710
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-arz1-whisp/frames,native capture frame sequence (ROM-derived pixels; external),20135939,351
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-boss-gilded/frames,native capture frame sequence (ROM-derived pixels; external),49645556,788
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-boss-hyper/frames,native capture frame sequence (ROM-derived pixels; external),70648230,1008
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-carry-fly/frames,native capture frame sequence (ROM-derived pixels; external),11960876,370
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-ehz-clear/frames,native capture frame sequence (ROM-derived pixels; external),28182297,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-ehz1-run/frames,native capture frame sequence (ROM-derived pixels; external),21423910,920
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-ehz2-chain/frames,native capture frame sequence (ROM-derived pixels; external),14839930,491
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-ghz-clear/frames,native capture frame sequence (ROM-derived pixels; external),36506512,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-gilded-aiz/frames,native capture frame sequence (ROM-derived pixels; external),14543201,348
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-gilded-clear/frames,native capture frame sequence (ROM-derived pixels; external),39201513,1416
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-hyper-aiz/frames,native capture frame sequence (ROM-derived pixels; external),14895127,348
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-mgz2-chain/frames,native capture frame sequence (ROM-derived pixels; external),28007056,669
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-normal-aiz/frames,native capture frame sequence (ROM-derived pixels; external),11543493,286
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s1-ghz2-buzz/frames,native capture frame sequence (ROM-derived pixels; external),5934566,351
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s1-gilded-ghz/frames,native capture frame sequence (ROM-derived pixels; external),9829013,408
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s1-solar-ghz/frames,native capture frame sequence (ROM-derived pixels; external),9146369,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s2-gilded-arz/frames,native capture frame sequence (ROM-derived pixels; external),19600560,408
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s2-solar-arz/frames,native capture frame sequence (ROM-derived pixels; external),23928989,470
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-solar-fly/frames,native capture frame sequence (ROM-derived pixels; external),18848712,460
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-carry-fly/frames,native capture frame sequence (ROM-derived pixels; external),11628154,370
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-ehz-clear/frames,native capture frame sequence (ROM-derived pixels; external),27933105,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-ehz1-run/frames,native capture frame sequence (ROM-derived pixels; external),20909332,920
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-ghz-clear/frames,native capture frame sequence (ROM-derived pixels; external),35921036,930
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-title-s2/frames,native capture frame sequence (ROM-derived pixels; external),11175401,1000
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-title-s3k/frames,native capture frame sequence (ROM-derived pixels; external),13824013,700
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-talon-arz/frames,native capture frame sequence (ROM-derived pixels; external),15634483,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-talon-cpz/frames,native capture frame sequence (ROM-derived pixels; external),6899662,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-talon-s3k/frames,native capture frame sequence (ROM-derived pixels; external),13124764,295
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-team-aiz/frames,native capture frame sequence (ROM-derived pixels; external),16713467,390
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-title-s1/frames,native capture frame sequence (ROM-derived pixels; external),11797164,760
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-title-s2/frames,native capture frame sequence (ROM-derived pixels; external),12026741,1000
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-title-s3k/frames,native capture frame sequence (ROM-derived pixels; external),16539249,700
+mica-and-talon,mica-and-talon/redo-20261112,captures/w400-gilded-aiz/frames,native capture frame sequence (ROM-derived pixels; external),14543201,348
+mica-and-talon,mica-and-talon/redo-20261112,captures/w400-title-s2/frames,native capture frame sequence (ROM-derived pixels; external),9670191,900
+mica-and-talon,mica-and-talon/redo-20261112,captures/w400-title-s3k/frames,native capture frame sequence (ROM-derived pixels; external),11682482,560
+mica-and-talon,mica-and-talon/redo-20261112,captures/aiz-hero/state.csv,measured native gameplay CSV (see provenance for entry kind),61675,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/arz1-whisp-a/state.csv,measured native gameplay CSV (see provenance for entry kind),30634,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/blue-turn/state.csv,measured native gameplay CSV (see provenance for entry kind),105680,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/boss-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),89248,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/boss-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),89275,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/carry-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),33041,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/competition/state.csv,measured native gameplay CSV (see provenance for entry kind),82035,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/continue/state.csv,measured native gameplay CSV (see provenance for entry kind),32674,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-aiz-normal/state.csv,measured native gameplay CSV (see provenance for entry kind),38431,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-aiz-solar-dive/state.csv,measured native gameplay CSV (see provenance for entry kind),31249,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-aiz-talon-dive/state.csv,measured native gameplay CSV (see provenance for entry kind),41687,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-arz1-whisp/state.csv,measured native gameplay CSV (see provenance for entry kind),44121,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-boss-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),84483,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-boss-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),84483,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-carry-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),34897,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-cnz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),41468,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-cnz2-team/state.csv,measured native gameplay CSV (see provenance for entry kind),38147,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-cpz-talon/state.csv,measured native gameplay CSV (see provenance for entry kind),43424,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-cpz1-run/state.csv,measured native gameplay CSV (see provenance for entry kind),33764,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-dez1-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),41023,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-ehz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),87482,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-ghz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),78689,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-ghz2-buzz/state.csv,measured native gameplay CSV (see provenance for entry kind),43404,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-hcz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),41161,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-hcz1-gilded-runin/state.csv,measured native gameplay CSV (see provenance for entry kind),56660,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-lbz-boss/state.csv,measured native gameplay CSV (see provenance for entry kind),133836,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-lbz-pair/state.csv,measured native gameplay CSV (see provenance for entry kind),106096,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-lbz-pair-312/state.csv,measured native gameplay CSV (see provenance for entry kind),106096,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-lbz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),38069,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-mgz2-chain/state.csv,measured native gameplay CSV (see provenance for entry kind),59099,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/d-syz1-talon/state.csv,measured native gameplay CSV (see provenance for entry kind),46017,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/data-select/state.csv,measured native gameplay CSV (see provenance for entry kind),60280,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/e-lbz-boss-state/state.csv,measured native gameplay CSV (see provenance for entry kind),161161,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/ehz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),82575,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/ehz2-chain-b/state.csv,measured native gameplay CSV (see provenance for entry kind),43060,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/ending/state.csv,measured native gameplay CSV (see provenance for entry kind),260876,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-boss-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),63756,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-boss-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),80974,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cnz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),38172,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cnz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),33699,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cnz2-team/state.csv,measured native gameplay CSV (see provenance for entry kind),35801,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cpz-medley/state.csv,measured native gameplay CSV (see provenance for entry kind),38332,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-cpz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),36338,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-dez1-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),35995,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-ehz-medley/state.csv,measured native gameplay CSV (see provenance for entry kind),24349,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-ehz1-run/state.csv,measured native gameplay CSV (see provenance for entry kind),81260,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-fbz1-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),34774,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-fbz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),37866,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-ghz-ss/state.csv,measured native gameplay CSV (see provenance for entry kind),161507,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-ghz2-talon/state.csv,measured native gameplay CSV (see provenance for entry kind),23845,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-hcz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),36232,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-hcz1-normal/state.csv,measured native gameplay CSV (see provenance for entry kind),36143,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-hcz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),38466,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-htz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),38120,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-htz1-talon/state.csv,measured native gameplay CSV (see provenance for entry kind),24477,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-lbz1-talon/state.csv,measured native gameplay CSV (see provenance for entry kind),24541,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-lbz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),35333,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-mcz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),35628,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-mcz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),39075,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-mhz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),34764,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-sbz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),35491,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-scz-team/state.csv,measured native gameplay CSV (see provenance for entry kind),73528,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-slz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),35633,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-slz1-talon/state.csv,measured native gameplay CSV (see provenance for entry kind),24154,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-slz1-talon-long/state.csv,measured native gameplay CSV (see provenance for entry kind),42614,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-carry-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),32955,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-cnz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),33499,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-cpz-medley/state.csv,measured native gameplay CSV (see provenance for entry kind),37828,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-ehz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),81506,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-ehz-medley/state.csv,measured native gameplay CSV (see provenance for entry kind),24014,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-ehz1-run/state.csv,measured native gameplay CSV (see provenance for entry kind),80320,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-ghz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),72383,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-stock-scz/state.csv,measured native gameplay CSV (see provenance for entry kind),71536,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-syz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),34529,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-syz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),38375,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/f-syz1-talon/state.csv,measured native gameplay CSV (see provenance for entry kind),23542,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-cnz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),40377,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-cpz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),38280,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),37853,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-normal/state.csv,measured native gameplay CSV (see provenance for entry kind),38696,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),34484,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-talon-a/state.csv,measured native gameplay CSV (see provenance for entry kind),25762,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-dez1-talon-b/state.csv,measured native gameplay CSV (see provenance for entry kind),27928,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-hcz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),38443,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-mcz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),41029,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/g-syz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),40241,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/ghz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),73686,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/gilded-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),27922,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/gilded-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),121164,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-arz1-whisp3/state.csv,measured native gameplay CSV (see provenance for entry kind),45450,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-arz1-whisp3-b/state.csv,measured native gameplay CSV (see provenance for entry kind),43601,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-cnz1/state.csv,measured native gameplay CSV (see provenance for entry kind),47502,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-dez1/state.csv,measured native gameplay CSV (see provenance for entry kind),45757,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-fbz1/state.csv,measured native gameplay CSV (see provenance for entry kind),43539,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-hcz1/state.csv,measured native gameplay CSV (see provenance for entry kind),45599,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-lbz1/state.csv,measured native gameplay CSV (see provenance for entry kind),44928,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-mtz1-asteron/state.csv,measured native gameplay CSV (see provenance for entry kind),45766,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-mtz1-asteron-b/state.csv,measured native gameplay CSV (see provenance for entry kind),43789,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-ooz1-octus/state.csv,measured native gameplay CSV (see provenance for entry kind),44486,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-a/state.csv,measured native gameplay CSV (see provenance for entry kind),75023,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-b/state.csv,measured native gameplay CSV (see provenance for entry kind),50736,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-c/state.csv,measured native gameplay CSV (see provenance for entry kind),78131,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-d/state.csv,measured native gameplay CSV (see provenance for entry kind),64462,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/h-scz-e/state.csv,measured native gameplay CSV (see provenance for entry kind),72074,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/halfpipe-run/state.csv,measured native gameplay CSV (see provenance for entry kind),129414,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/hyper-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),27924,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/mgz2-chain/state.csv,measured native gameplay CSV (see provenance for entry kind),57631,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/normal-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),24371,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cnz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),38213,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cnz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),38172,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cnz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),33699,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cnz2-team/state.csv,measured native gameplay CSV (see provenance for entry kind),35780,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cpz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),36338,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-cpz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),35136,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-dez1-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),35994,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-fbz1-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),34774,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-fbz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),37860,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-ghz-ss-a/state.csv,measured native gameplay CSV (see provenance for entry kind),74889,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-ghz-ss-b/state.csv,measured native gameplay CSV (see provenance for entry kind),75239,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-ghz-ss-c/state.csv,measured native gameplay CSV (see provenance for entry kind),75586,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-hcz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),36232,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-hcz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),38466,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-hcz2-team/state.csv,measured native gameplay CSV (see provenance for entry kind),33638,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-htz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),38041,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-icz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),37610,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-lbz1-talon/state.csv,measured native gameplay CSV (see provenance for entry kind),24541,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-lbz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),35333,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-lrz1-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),35530,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-lrz1-hyper-b/state.csv,measured native gameplay CSV (see provenance for entry kind),35826,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mcz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),35628,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mcz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),39075,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mgz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),35980,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mhz1-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),40974,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mhz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),34822,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mtz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),34778,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-mz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),4827,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-ooz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),36231,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-sbz1-team/state.csv,measured native gameplay CSV (see provenance for entry kind),35570,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-slz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),35633,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-soz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),35432,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-syz1-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),34526,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/p-syz1-solar/state.csv,measured native gameplay CSV (see provenance for entry kind),38375,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-a/state.csv,measured native gameplay CSV (see provenance for entry kind),105536,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-b/state.csv,measured native gameplay CSV (see provenance for entry kind),107120,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-c/state.csv,measured native gameplay CSV (see provenance for entry kind),110532,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-d/state.csv,measured native gameplay CSV (see provenance for entry kind),101608,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-e/state.csv,measured native gameplay CSV (see provenance for entry kind),104872,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-blue-f/state.csv,measured native gameplay CSV (see provenance for entry kind),104740,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-36a/state.csv,measured native gameplay CSV (see provenance for entry kind),77947,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-36b/state.csv,measured native gameplay CSV (see provenance for entry kind),79114,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-44a/state.csv,measured native gameplay CSV (see provenance for entry kind),77907,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-44b/state.csv,measured native gameplay CSV (see provenance for entry kind),79049,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-52a/state.csv,measured native gameplay CSV (see provenance for entry kind),77902,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss-52b/state.csv,measured native gameplay CSV (see provenance for entry kind),79044,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-21/state.csv,measured native gameplay CSV (see provenance for entry kind),78648,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-22/state.csv,measured native gameplay CSV (see provenance for entry kind),78654,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-23/state.csv,measured native gameplay CSV (see provenance for entry kind),78689,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-24/state.csv,measured native gameplay CSV (see provenance for entry kind),78688,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-25/state.csv,measured native gameplay CSV (see provenance for entry kind),79067,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss2-26/state.csv,measured native gameplay CSV (see provenance for entry kind),79028,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-22-12/state.csv,measured native gameplay CSV (see provenance for entry kind),78748,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-22-16/state.csv,measured native gameplay CSV (see provenance for entry kind),79103,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-22-20/state.csv,measured native gameplay CSV (see provenance for entry kind),79457,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-22-24/state.csv,measured native gameplay CSV (see provenance for entry kind),79787,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-23-12/state.csv,measured native gameplay CSV (see provenance for entry kind),78769,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-23-16/state.csv,measured native gameplay CSV (see provenance for entry kind),79368,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-23-20/state.csv,measured native gameplay CSV (see provenance for entry kind),79725,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-23-24/state.csv,measured native gameplay CSV (see provenance for entry kind),80086,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-24-12/state.csv,measured native gameplay CSV (see provenance for entry kind),79164,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-24-16/state.csv,measured native gameplay CSV (see provenance for entry kind),79317,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-24-20/state.csv,measured native gameplay CSV (see provenance for entry kind),80038,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss3-24-24/state.csv,measured native gameplay CSV (see provenance for entry kind),80375,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-10/state.csv,measured native gameplay CSV (see provenance for entry kind),84274,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-16/state.csv,measured native gameplay CSV (see provenance for entry kind),84226,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-22/state.csv,measured native gameplay CSV (see provenance for entry kind),84175,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-28/state.csv,measured native gameplay CSV (see provenance for entry kind),84159,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-3/state.csv,measured native gameplay CSV (see provenance for entry kind),84483,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-4/state.csv,measured native gameplay CSV (see provenance for entry kind),84448,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-5/state.csv,measured native gameplay CSV (see provenance for entry kind),84413,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-6/state.csv,measured native gameplay CSV (see provenance for entry kind),84375,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-7/state.csv,measured native gameplay CSV (see provenance for entry kind),84336,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-boss4-8/state.csv,measured native gameplay CSV (see provenance for entry kind),84268,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-12/state.csv,measured native gameplay CSV (see provenance for entry kind),26008,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-16/state.csv,measured native gameplay CSV (see provenance for entry kind),26161,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-20/state.csv,measured native gameplay CSV (see provenance for entry kind),26221,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-24/state.csv,measured native gameplay CSV (see provenance for entry kind),26351,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-28/state.csv,measured native gameplay CSV (see provenance for entry kind),26377,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-bstop-8/state.csv,measured native gameplay CSV (see provenance for entry kind),25948,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-cpz-talon-a/state.csv,measured native gameplay CSV (see provenance for entry kind),43424,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-cpz-talon-b/state.csv,measured native gameplay CSV (see provenance for entry kind),43988,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-eb-hcz2/state.csv,measured native gameplay CSV (see provenance for entry kind),248843,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-eb-mgz2/state.csv,measured native gameplay CSV (see provenance for entry kind),252833,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-eb-mgz2b/state.csv,measured native gameplay CSV (see provenance for entry kind),243618,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-hcz-runin-6600/state.csv,measured native gameplay CSV (see provenance for entry kind),55399,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-hcz-runin-6690/state.csv,measured native gameplay CSV (see provenance for entry kind),56660,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbz-pair-a/state.csv,measured native gameplay CSV (see provenance for entry kind),82853,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbz-pair-b/state.csv,measured native gameplay CSV (see provenance for entry kind),82891,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-680-11/state.csv,measured native gameplay CSV (see provenance for entry kind),69131,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-680-7/state.csv,measured native gameplay CSV (see provenance for entry kind),68791,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-692-11/state.csv,measured native gameplay CSV (see provenance for entry kind),70175,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-692-7/state.csv,measured native gameplay CSV (see provenance for entry kind),69835,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-704-11/state.csv,measured native gameplay CSV (see provenance for entry kind),71219,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit-704-7/state.csv,measured native gameplay CSV (see provenance for entry kind),70879,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-614-15/state.csv,measured native gameplay CSV (see provenance for entry kind),103907,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-626-15/state.csv,measured native gameplay CSV (see provenance for entry kind),104936,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-638-15/state.csv,measured native gameplay CSV (see provenance for entry kind),105966,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-650-15/state.csv,measured native gameplay CSV (see provenance for entry kind),68422,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-650-19/state.csv,measured native gameplay CSV (see provenance for entry kind),68783,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-662-15/state.csv,measured native gameplay CSV (see provenance for entry kind),69446,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-662-19/state.csv,measured native gameplay CSV (see provenance for entry kind),69806,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-674-15/state.csv,measured native gameplay CSV (see provenance for entry kind),70470,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzhit2-674-19/state.csv,measured native gameplay CSV (see provenance for entry kind),70839,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzstop-78/state.csv,measured native gameplay CSV (see provenance for entry kind),27058,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzstop-82/state.csv,measured native gameplay CSV (see provenance for entry kind),27426,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzstop-86/state.csv,measured native gameplay CSV (see provenance for entry kind),27794,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzstop-90/state.csv,measured native gameplay CSV (see provenance for entry kind),28162,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzwalk-20/state.csv,measured native gameplay CSV (see provenance for entry kind),70372,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-lbzwalk-30/state.csv,measured native gameplay CSV (see provenance for entry kind),71576,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-cnz1/state.csv,measured native gameplay CSV (see provenance for entry kind),162291,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-dez1/state.csv,measured native gameplay CSV (see provenance for entry kind),148036,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-fbz1/state.csv,measured native gameplay CSV (see provenance for entry kind),150636,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-hcz1/state.csv,measured native gameplay CSV (see provenance for entry kind),155623,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-icz1/state.csv,measured native gameplay CSV (see provenance for entry kind),154528,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-lbz1/state.csv,measured native gameplay CSV (see provenance for entry kind),144970,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-lrz1/state.csv,measured native gameplay CSV (see provenance for entry kind),150990,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-mgz1/state.csv,measured native gameplay CSV (see provenance for entry kind),152950,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-mhz1/state.csv,measured native gameplay CSV (see provenance for entry kind),161517,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-mb-soz1/state.csv,measured native gameplay CSV (see provenance for entry kind),152375,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-carry-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),59369,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-dez-a/state.csv,measured native gameplay CSV (see provenance for entry kind),53596,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-dez-b/state.csv,measured native gameplay CSV (see provenance for entry kind),64028,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-run-dez/state.csv,measured native gameplay CSV (see provenance for entry kind),65795,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-run-dez-ground/state.csv,measured native gameplay CSV (see provenance for entry kind),66247,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pair-run-lbz/state.csv,measured native gameplay CSV (see provenance for entry kind),42093,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairfly-40-24/state.csv,measured native gameplay CSV (see provenance for entry kind),58248,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairfly-40-32/state.csv,measured native gameplay CSV (see provenance for entry kind),58248,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairfly-400-30/state.csv,measured native gameplay CSV (see provenance for entry kind),58431,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairfly-90-28/state.csv,measured native gameplay CSV (see provenance for entry kind),58269,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairrise-128-0/state.csv,measured native gameplay CSV (see provenance for entry kind),60859,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairrise-128-10/state.csv,measured native gameplay CSV (see provenance for entry kind),60773,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairrise-128-16/state.csv,measured native gameplay CSV (see provenance for entry kind),61060,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-pairrise-134-22/state.csv,measured native gameplay CSV (see provenance for entry kind),61090,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a1/state.csv,measured native gameplay CSV (see provenance for entry kind),31436,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a2/state.csv,measured native gameplay CSV (see provenance for entry kind),32883,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a3/state.csv,measured native gameplay CSV (see provenance for entry kind),31847,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a4/state.csv,measured native gameplay CSV (see provenance for entry kind),32272,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a5/state.csv,measured native gameplay CSV (see provenance for entry kind),31763,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-a6/state.csv,measured native gameplay CSV (see provenance for entry kind),31249,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b1/state.csv,measured native gameplay CSV (see provenance for entry kind),31510,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b2/state.csv,measured native gameplay CSV (see provenance for entry kind),32840,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b3/state.csv,measured native gameplay CSV (see provenance for entry kind),31837,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b4/state.csv,measured native gameplay CSV (see provenance for entry kind),32270,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b5/state.csv,measured native gameplay CSV (see provenance for entry kind),31749,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-b6/state.csv,measured native gameplay CSV (see provenance for entry kind),31240,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-c1/state.csv,measured native gameplay CSV (see provenance for entry kind),31834,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-solar-dive-c2/state.csv,measured native gameplay CSV (see provenance for entry kind),33231,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-syz-talon-a/state.csv,measured native gameplay CSV (see provenance for entry kind),46017,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-syz-talon-b/state.csv,measured native gameplay CSV (see provenance for entry kind),45980,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-syz-talon-c/state.csv,measured native gameplay CSV (see provenance for entry kind),45954,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-syz-talon-d/state.csv,measured native gameplay CSV (see provenance for entry kind),45582,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-walk-14500/state.csv,measured native gameplay CSV (see provenance for entry kind),57670,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-walk-14800/state.csv,measured native gameplay CSV (see provenance for entry kind),57519,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-walk-15100/state.csv,measured native gameplay CSV (see provenance for entry kind),54731,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/q-walk-15350/state.csv,measured native gameplay CSV (see provenance for entry kind),56366,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/s1-ghz2-buzz/state.csv,measured native gameplay CSV (see provenance for entry kind),30962,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/s1-gilded-ghz/state.csv,measured native gameplay CSV (see provenance for entry kind),33695,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/s1-solar-ghz/state.csv,measured native gameplay CSV (see provenance for entry kind),39623,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/s2-gilded-arz/state.csv,measured native gameplay CSV (see provenance for entry kind),34507,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/s2-solar-arz/state.csv,measured native gameplay CSV (see provenance for entry kind),39912,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/solar-dive/state.csv,measured native gameplay CSV (see provenance for entry kind),27487,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/solar-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),38078,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/stock-title-s1/state.csv,measured native gameplay CSV (see provenance for entry kind),78355,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/stock-title-s2/state.csv,measured native gameplay CSV (see provenance for entry kind),84855,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/stock-title-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),84855,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/talon-arz/state.csv,measured native gameplay CSV (see provenance for entry kind),23914,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/talon-cpz/state.csv,measured native gameplay CSV (see provenance for entry kind),24117,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/talon-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),24077,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/team-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),32496,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/title-s1/state.csv,measured native gameplay CSV (see provenance for entry kind),84855,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/title-s2/state.csv,measured native gameplay CSV (see provenance for entry kind),84855,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/title-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),84855,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-aiz-hero/state.csv,measured native gameplay CSV (see provenance for entry kind),61675,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-arz1-whisp/state.csv,measured native gameplay CSV (see provenance for entry kind),30634,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-boss-gilded/state.csv,measured native gameplay CSV (see provenance for entry kind),63756,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-boss-hyper/state.csv,measured native gameplay CSV (see provenance for entry kind),80990,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-carry-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),33041,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-ehz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),82574,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-ehz1-run/state.csv,measured native gameplay CSV (see provenance for entry kind),81228,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-ehz2-chain/state.csv,measured native gameplay CSV (see provenance for entry kind),43049,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-ghz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),73686,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-gilded-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),27922,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-gilded-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),121213,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-hyper-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),27924,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-mgz2-chain/state.csv,measured native gameplay CSV (see provenance for entry kind),57738,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-normal-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),24371,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s1-ghz2-buzz/state.csv,measured native gameplay CSV (see provenance for entry kind),30827,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s1-gilded-ghz/state.csv,measured native gameplay CSV (see provenance for entry kind),33703,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s1-solar-ghz/state.csv,measured native gameplay CSV (see provenance for entry kind),38820,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s2-gilded-arz/state.csv,measured native gameplay CSV (see provenance for entry kind),34507,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-s2-solar-arz/state.csv,measured native gameplay CSV (see provenance for entry kind),39151,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-solar-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),38078,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-carry-fly/state.csv,measured native gameplay CSV (see provenance for entry kind),32955,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-ehz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),81505,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-ehz1-run/state.csv,measured native gameplay CSV (see provenance for entry kind),80288,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-ghz-clear/state.csv,measured native gameplay CSV (see provenance for entry kind),72383,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-title-s2/state.csv,measured native gameplay CSV (see provenance for entry kind),65055,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-stock-title-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),45555,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-talon-arz/state.csv,measured native gameplay CSV (see provenance for entry kind),23914,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-talon-cpz/state.csv,measured native gameplay CSV (see provenance for entry kind),24117,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-talon-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),24077,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-team-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),35113,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-title-s1/state.csv,measured native gameplay CSV (see provenance for entry kind),49455,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-title-s2/state.csv,measured native gameplay CSV (see provenance for entry kind),65055,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w-title-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),45555,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w400-gilded-aiz/state.csv,measured native gameplay CSV (see provenance for entry kind),27922,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w400-title-s2/state.csv,measured native gameplay CSV (see provenance for entry kind),58555,1
+mica-and-talon,mica-and-talon/redo-20261112,captures/w400-title-s3k/state.csv,measured native gameplay CSV (see provenance for entry kind),36455,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s1-sfx-c1-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,89644,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s1-sfx-cf-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,352044,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s2-sfx-c1-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,89644,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s2-sfx-cf-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,352044,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s2-sfx-df-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,534444,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s3k-sfx-4a-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,25644,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s3k-sfx-6e-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,134444,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s3k-sfx-9f-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,320044,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s3k-sfx-b3-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,188844,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s3k-sfx-b4-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,89644,1
+mica-and-talon,mica-and-talon/redo-20261112,sfx/s3k-sfx-b8-paced.wav,ROM-derived paced SFX PCM (FmSfxRenderTool --paced); external,467244,1
+mica-and-talon,mica-and-talon/redo-20261112,work/bed.wav,"music bed PCM (owner-supplied track 0-123.4 s with one fade); external, not redistributable",23886112,1
+mica-and-talon,mica-and-talon/redo-20261112,edit/s2-title-font.txt,S2 title-card glyph table extracted from the ROM (unused); external,7304,1

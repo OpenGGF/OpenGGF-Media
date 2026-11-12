@@ -1,0 +1,20 @@
+[
+ {
+  "id": "d-cpz1-run",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 1,
+  "act": 0,
+  "x": 7880,
+  "y": 724,
+  "script": "20 -; 1 D; repeat 6 { 1 D+A; 3 D }; 1 -; 330 R",
+  "props": {
+   "promo.rings": 31,
+   "promo.timer": 6900,
+   "promo.score": 23400
+  },
+  "note": "normal MICA: spindash, then the blue tube run after the third starpost of Chemical Plant 1"
+ }
+]

@@ -1,0 +1,94 @@
+[
+ {
+  "id": "d-arz1-whisp",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 200 R",
+  "note": "arz1-whisp-a with a longer tail",
+  "props": {
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  }
+ },
+ {
+  "id": "d-ghz2-buzz",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 0,
+  "act": 1,
+  "x": 6800,
+  "y": 960,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 200 R",
+  "note": "s1-ghz2-buzz with a longer tail",
+  "props": {
+   "promo.rings": 36,
+   "promo.timer": 6900,
+   "promo.score": 18500
+  }
+ },
+ {
+  "id": "d-cpz-talon",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 1,
+  "act": 0,
+  "x": 4300,
+  "y": 340,
+  "script": "30 -; 1 R+A; 20 R; repeat 30 { 1 A; 8 R }; 150 R",
+  "note": "TALON solo: a long flight across Chemical Plant 1",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 26,
+   "promo.timer": 5400,
+   "promo.score": 21900
+  }
+ },
+ {
+  "id": "d-aiz-talon-dive",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7100,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; repeat 5 { 1 A; 8 - }; 18 D; 1 D+A; 150 R; 1 R+A; 20 R; repeat 8 { 1 A; 8 R }; 120 R; 40 -",
+  "note": "talon-s3k with a second flight after the divebomb kill",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 38,
+   "promo.timer": 6300,
+   "promo.score": 5200
+  }
+ },
+ {
+  "id": "d-aiz-normal",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7100,
+  "y": 900,
+  "script": "30 -; repeat 8 { 1 R+A; 16 R }; 260 R",
+  "note": "normal-aiz with a longer tail",
+  "props": {
+   "promo.rings": 41,
+   "promo.timer": 7200,
+   "promo.score": 6100
+  }
+ }
+]

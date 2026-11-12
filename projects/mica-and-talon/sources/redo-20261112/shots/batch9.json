@@ -1,0 +1,110 @@
+[
+ {
+  "id": "q-bstop-8",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 8 R; 142 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-bstop-12",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 12 R; 138 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-bstop-16",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 16 R; 134 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-bstop-20",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 20 R; 130 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-bstop-24",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 126 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-bstop-28",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 28 R; 122 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ }
+]

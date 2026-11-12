@@ -1,0 +1,78 @@
+[
+ {
+  "id": "q-pairfly-40-24",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 23 - / R; 1 - / R+A; 16 - / R; 7 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 18 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-pairfly-40-32",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 31 - / R; 1 - / R+A; 8 - / R; 23 - / -; 1 - / A; 31 - / -; 1 - / A; 31 - / -; 1 - / A; 31 - / -; 1 - / A; 31 - / -; 1 - / A; 31 - / -; 1 - / A; 31 - / -; 1 - / A; 31 - / -; 1 - / A; 31 - / -; 1 - / A; 10 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-pairfly-90-28",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 27 - / R; 1 - / R+A; 27 - / R; 1 - / R+A; 27 - / R; 1 - / R+A; 6 - / R; 21 - / -; 1 - / A; 27 - / -; 1 - / A; 27 - / -; 1 - / A; 27 - / -; 1 - / A; 27 - / -; 1 - / A; 27 - / -; 1 - / A; 27 - / -; 1 - / A; 27 - / -; 1 - / A; 22 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-pairfly-400-30",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A; 29 - / R; 1 - / R+A",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ }
+]

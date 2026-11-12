@@ -1,0 +1,68 @@
+[
+ {
+  "id": "q-blue-a",
+  "game": "s3k",
+  "zone": "cnz",
+  "act": 1,
+  "x": 11616,
+  "y": 1612,
+  "rings": 42,
+  "timer": 9600,
+  "script": "90 -; 90 R; 220 -; 16 L; 700 -"
+ },
+ {
+  "id": "q-blue-b",
+  "game": "s3k",
+  "zone": "cnz",
+  "act": 1,
+  "x": 11616,
+  "y": 1612,
+  "rings": 42,
+  "timer": 9600,
+  "script": "90 -; 90 R; 220 -; 16 R; 700 -"
+ },
+ {
+  "id": "q-blue-c",
+  "game": "s3k",
+  "zone": "cnz",
+  "act": 1,
+  "x": 11616,
+  "y": 1612,
+  "rings": 42,
+  "timer": 9600,
+  "script": "90 -; 90 R; 240 -; repeat 30 { 1 A; 24 - }"
+ },
+ {
+  "id": "q-blue-d",
+  "game": "s3k",
+  "zone": "cnz",
+  "act": 1,
+  "x": 11616,
+  "y": 1612,
+  "rings": 42,
+  "timer": 9600,
+  "script": "90 -; 90 R; 900 -"
+ },
+ {
+  "id": "q-blue-e",
+  "game": "s3k",
+  "zone": "cnz",
+  "act": 1,
+  "x": 11616,
+  "y": 1612,
+  "rings": 42,
+  "timer": 9600,
+  "script": "90 -; 90 R; 220 -; 16 L; 120 -; 16 L; 120 -; 16 R; 400 -"
+ },
+ {
+  "id": "q-blue-f",
+  "game": "s3k",
+  "zone": "cnz",
+  "act": 1,
+  "x": 11616,
+  "y": 1612,
+  "rings": 42,
+  "timer": 9600,
+  "script": "90 -; 90 R; 220 -; 16 R; 120 -; 16 R; 120 -; 16 L; 400 -"
+ }
+]

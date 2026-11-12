@@ -368,5 +368,10 @@
     "id": "mica-and-talon/fonts-20261110",
     "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/final/fonts",
     "archive": "projects/mica-and-talon/sources/production-20261111"
+  },
+  {
+    "id": "mica-and-talon/redo-20261112",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111",
+    "archive": "projects/mica-and-talon/sources/redo-20261112"
   }
 ]

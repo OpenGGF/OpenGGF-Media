@@ -1,0 +1,39 @@
+{
+  "id": "d-ghz2-buzz",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 0,
+  "act": 1,
+  "x": 6800,
+  "y": 960,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 200 R",
+  "note": "s1-ghz2-buzz with a longer tail",
+  "props": {
+    "promo.rings": 36,
+    "promo.timer": 6900,
+    "promo.score": 18500
+  },
+  "commit": "1e0faac12350c56af40954d2a4ee4f74f28641df",
+  "worktree_dirty": false,
+  "jar_sha256": "449ada47b0e963d9fcc630255fed80f4fbad7b53390bdebd21e35386381abfce",
+  "checkout": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f",
+  "command": [
+    "PromoCapture",
+    "run",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/d-ghz2-buzz",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/target/mica-and-talon/mica-and-talon.jar",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/s1.gen",
+    "0",
+    "1",
+    "6800",
+    "960",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/d-ghz2-buzz/input.txt"
+  ],
+  "source_kind": "debug/positioned presentation host",
+  "fps": 60,
+  "every": 1,
+  "audio": false,
+  "capture_host_sha256": "c391cda2dc60df2805571e657fbc0c739287135167b62dcb8632ed4e2a8da741"
+}

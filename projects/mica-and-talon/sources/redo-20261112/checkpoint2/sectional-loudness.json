@@ -1,0 +1,58 @@
+[
+ {
+  "section": "Cold open",
+  "t0": 0,
+  "t1": 14.1,
+  "lufs": -14.2,
+  "true_peak": -2.5
+ },
+ {
+  "section": "Title drop",
+  "t0": 14.1,
+  "t1": 22.47,
+  "lufs": -13.7,
+  "true_peak": -2.7
+ },
+ {
+  "section": "MICA",
+  "t0": 22.47,
+  "t1": 39.2,
+  "lufs": -13.6,
+  "true_peak": -2.1
+ },
+ {
+  "section": "TALON",
+  "t0": 39.2,
+  "t1": 50.35,
+  "lufs": -14.7,
+  "true_peak": -2.3
+ },
+ {
+  "section": "Every screen",
+  "t0": 50.35,
+  "t1": 83.94,
+  "lufs": -14.3,
+  "true_peak": -2.8
+ },
+ {
+  "section": "Powered up (chorus)",
+  "t0": 83.94,
+  "t1": 106.42,
+  "lufs": -13.9,
+  "true_peak": -2.2
+ },
+ {
+  "section": "Hyper and boss (lift)",
+  "t0": 106.42,
+  "t1": 117.72,
+  "lufs": -13.8,
+  "true_peak": -1.2
+ },
+ {
+  "section": "End card (fade)",
+  "t0": 117.72,
+  "t1": 124.0,
+  "lufs": -14.9,
+  "true_peak": -4.0
+ }
+]

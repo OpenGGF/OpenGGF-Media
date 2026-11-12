@@ -1,0 +1,22 @@
+[
+ {
+  "id": "d-aiz-solar-dive",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6990,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 52 -; 1 R+A; 20 R; repeat 5 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "note": "Solar TALON: transform, fly, divebomb pressed at #176, Rhinobot struck at #186 (score +100, rebound)"
+ }
+]

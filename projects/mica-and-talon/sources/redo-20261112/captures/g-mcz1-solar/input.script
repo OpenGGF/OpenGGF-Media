@@ -1,0 +1,1 @@
+24 -; 26 R; 1 R+A; 20 R; 1 A; 50 -; repeat 5 { 1 A; 8 - }; 18 D; 1 D+A; 50 R; 1 R+A; 6 R; 1 R+A; repeat 14 { 8 R; 1 R+A }; 120 R
