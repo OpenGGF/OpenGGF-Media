@@ -1,0 +1,48 @@
+  2.97s lbz-duo            src    72-  239  off 16:9   0/167 (longest run   0)  outside tall-frame centre   0  
+  5.75s carry-swoop        src    86-  253  off 16:9  31/167 (longest run  31)  outside tall-frame centre   0  CHECK
+  8.53s aiz-talon-dive     src    78-  162  off 16:9   0/84 (longest run   0)  outside tall-frame centre  15  
+  9.93s aiz-normal         src   122-  205  off 16:9   0/83 (longest run   0)  outside tall-frame centre  13  
+ 11.32s mhz-hyper          src   262-  429  off 16:9   2/167 (longest run   2)  outside tall-frame centre  18  
+ 20.38s mgz-chain          src     3-  170  off 16:9   0/167 (longest run   0)  outside tall-frame centre  12  
+ 23.17s ghz2-buzz          src    20-  187  off 16:9   0/167 (longest run   0)  outside tall-frame centre  12  
+ 23.50s arz-whisp          src    98-  245  off 16:9   0/147 (longest run   0)  outside tall-frame centre  17  
+ 23.83s aiz-hero           src    30-  157  off 16:9   0/127 (longest run   0)  outside tall-frame centre  29  
+ 25.95s hcz-loop           src   282-  408  off 16:9   0/126 (longest run   0)  outside tall-frame centre  22  
+ 28.05s cpz-spindash       src    24-  107  off 16:9   0/83 (longest run   0)  outside tall-frame centre  15  
+ 29.43s ghz2-buzz          src   201-  285  off 16:9   0/84 (longest run   0)  outside tall-frame centre   8  
+ 30.83s ehz2-corkscrew     src     8-  175  off 16:9   0/167 (longest run   0)  outside tall-frame centre   9  
+ 33.62s mhz-spring         src    66-  233  off 16:9   0/167 (longest run   0)  outside tall-frame centre   0  
+ 36.40s cnz-bumpers        src   152-  320  off 16:9   0/168 (longest run   0)  outside tall-frame centre   0  
+ 39.90s syz-talon          src    56-  265  off 16:9   0/209 (longest run   0)  outside tall-frame centre   0  
+ 43.38s htz-talon-dive     src    73-  156  off 16:9   0/83 (longest run   0)  outside tall-frame centre   4  
+ 44.77s dez-talon          src   113-  281  off 16:9   0/168 (longest run   0)  outside tall-frame centre   0  
+ 47.57s arz-talon-whisp    src   108-  275  off 16:9   0/167 (longest run   0)  outside tall-frame centre   7  
+ 50.35s cpz-lock-mod       src    80-  164  off 16:9   0/84 (longest run   0)  outside tall-frame centre   0  
+ 51.75s cpz-lock-mod       src   268-  351  off 16:9   0/83 (longest run   0)  outside tall-frame centre  57  
+ 53.13s ehz-lock-mod       src   182-  350  off 16:9   0/168 (longest run   0)  outside tall-frame centre   0  
+ 58.72s ghz-clear          src   227-  311  off 16:9  84/84 (longest run  84)  outside tall-frame centre  84  CHECK
+ 58.88s ehz-clear          src   387-  461  off 16:9  74/74 (longest run  74)  outside tall-frame centre  74  CHECK
+ 60.12s ehz-clear          src   471-  555  off 16:9  84/84 (longest run  84)  outside tall-frame centre  84  CHECK
+ 65.32s cpz-talon          src    60-  167  off 16:9   0/107 (longest run   0)  outside tall-frame centre   0  
+ 67.10s scz-chain          src   237-  406  off 16:9   0/169 (longest run   0)  outside tall-frame centre 123  
+ 69.92s ending             src  2676- 2760  off 16:9  84/84 (longest run  84)  outside tall-frame centre  84  CHECK
+ 71.32s ending             src  4077- 4161  off 16:9  84/84 (longest run  84)  outside tall-frame centre  84  CHECK
+ 72.72s mtz-run            src   271-  440  off 16:9  14/169 (longest run  14)  outside tall-frame centre  21  CHECK
+ 75.53s lbz-slope          src   101-  269  off 16:9   0/168 (longest run   0)  outside tall-frame centre  35  
+ 78.33s cnz-bumpers        src    68-  152  off 16:9   0/84 (longest run   0)  outside tall-frame centre   0  
+ 79.73s ehz2-corkscrew     src   197-  323  off 16:9   0/126 (longest run   0)  outside tall-frame centre  18  
+ 81.83s hcz-gilded-runin   src    33-  328  off 16:9   1/295 (longest run   1)  outside tall-frame centre  18  
+ 86.75s aiz-normal         src    13-  181  off 16:9   0/168 (longest run   0)  outside tall-frame centre  34  
+ 87.45s aiz-gilded         src    52-  178  off 16:9   0/126 (longest run   0)  outside tall-frame centre  24  
+ 89.55s slz-gilded         src   112-  196  off 16:9   1/84 (longest run   1)  outside tall-frame centre  23  
+ 90.95s arz-gilded         src   230-  314  off 16:9   1/84 (longest run   1)  outside tall-frame centre  14  
+ 92.35s cpz-gilded         src   217-  343  off 16:9   2/126 (longest run   2)  outside tall-frame centre  17  
+ 94.45s aiz-solar-reveal   src    61-  272  off 16:9   0/211 (longest run   0)  outside tall-frame centre   0  
+ 97.97s dez-solar          src   225-  394  off 16:9   0/169 (longest run   0)  outside tall-frame centre   0  
+100.78s syz-solar          src   405-  490  off 16:9   0/85 (longest run   0)  outside tall-frame centre   0  
+102.20s htz-solar          src   165-  249  off 16:9   0/84 (longest run   0)  outside tall-frame centre   7  
+103.60s fbz-solar          src   149-  255  off 16:9   0/106 (longest run   0)  outside tall-frame centre   8  
+105.37s dez-hyper          src    33-  266  off 16:9   2/233 (longest run   2)  outside tall-frame centre  41  
+109.25s lbz-boss           src   548-  717  off 16:9   0/169 (longest run   0)  outside tall-frame centre  89  
+112.07s lbz-pair           src    65-  404  off 16:9   0/339 (longest run   0)  outside tall-frame centre   0  
+117.72s lbz-pair           src   404-  570  off 16:9   0/166 (longest run   0)  outside tall-frame centre   0  

@@ -1,0 +1,21 @@
+take,frames,source_kind,commit,provenance
+blue-play,720,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/blue-play/provenance.json
+continue,480,debug presentation component entry,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/continue/provenance.json
+data-select-team,721,title-first production presentation,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/data-select-team/provenance.json
+ehz-clear,930,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/ehz-clear/provenance.json
+ending-full,4438,debug presentation component entry,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/ending-full/provenance.json
+gilded,348,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/gilded/provenance.json
+gilded-clear-low,1416,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/gilded-clear-low/provenance.json
+halfpipe-cleared-post,911,debug positioned ROM-starpost component entry; real ring collision admission,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/halfpipe-cleared-post/provenance.json
+hero,710,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/hero/provenance.json
+hero-mgz2,669,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/hero-mgz2/provenance.json
+s1-run,300,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/s1-run/provenance.json
+s1-safe,282,"cold GHZ1 start, authored right input",a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/s1-safe/provenance.json
+s2-run,300,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/s2-run/provenance.json
+s3k-run,300,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/s3k-run/provenance.json
+solar,336,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/solar/provenance.json
+talon-s2,295,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/talon-s2/provenance.json
+talon-s3k,295,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/talon-s3k/provenance.json
+team,360,positioned native gameplay,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/team/provenance.json
+title-s2,660,production S2 title; neutral input through full rise,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/title-s2/provenance.json
+title-s2-full,1200,production S2 title; neutral input through full rise,a64655fe976cdb86d0f3978df633f7b40c94e38e,captures/final/title-s2-full/provenance.json

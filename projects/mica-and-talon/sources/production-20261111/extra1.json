@@ -1,0 +1,11 @@
+[
+ {"id":"mgz2-chain","kind":"host","host":"declared","mode":"hero","game":"s3k","zone":2,"act":1,"x":7600,"y":1136,
+  "input_from":"/home/farrell/scratch/agent-tmp/mt-promo-20261110/final/captures/final/hero-mgz2/input.txt",
+  "props":{"promo.rings":36,"promo.timer":8100},"note":"solo MICA; MGZ2 positioned mid-act; declared 36 rings, 2:15"},
+ {"id":"ehz2-chain-a","kind":"host","host":"declared","mode":"hero","game":"s2","zone":0,"act":1,"x":8900,"y":560,
+  "script":"20 -; 30 R; 1 R+A; 12 R; repeat 14 { 1 R+A; 14 R }; 120 R","props":{"promo.rings":44,"promo.timer":8400}},
+ {"id":"ehz2-chain-b","kind":"host","host":"declared","mode":"hero","game":"s2","zone":0,"act":1,"x":8960,"y":560,
+  "script":"20 -; 16 R; 1 R+A; 12 R; repeat 14 { 1 R+A; 22 R }; 120 R","props":{"promo.rings":44,"promo.timer":8400}},
+ {"id":"ehz1-chain","kind":"host","host":"declared","mode":"hero","game":"s2","zone":0,"act":0,"x":8380,"y":560,
+  "script":"20 -; 30 R; 1 R+A; 12 R; repeat 14 { 1 R+A; 14 R }; 120 R","props":{"promo.rings":38,"promo.timer":7500}}
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "id": "q-mb-hcz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 13744,
+  "y": 980,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-mgz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 0,
+  "x": 10976,
+  "y": 3678,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-cnz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 3,
+  "act": 0,
+  "x": 11456,
+  "y": 660,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-fbz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 4,
+  "act": 0,
+  "x": 11632,
+  "y": 1496,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-icz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 5,
+  "act": 0,
+  "x": 22096,
+  "y": 1049,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-lbz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-mhz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 7,
+  "act": 0,
+  "x": 16096,
+  "y": 1684,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-dez1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 12800,
+  "y": 532,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-lrz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 9,
+  "act": 0,
+  "x": 10814,
+  "y": 1940,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-mb-soz1",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 8,
+  "act": 0,
+  "x": 16128,
+  "y": 1748,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 26 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ }
+]

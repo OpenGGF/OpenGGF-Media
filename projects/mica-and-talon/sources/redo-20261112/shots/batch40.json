@@ -1,0 +1,22 @@
+[
+ {
+  "id": "d-lbz-pair-312",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 10 - / -; 2 L / L; 1 L / L+A; 7 L / L; 12 - / -; 4 R / R; 1 R / R+A; 3 R / R; 20 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 17 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "note": "Launch Base 1, last starpost. MICA on pad 1, TALON on pad 2. Both jump (#24) and transform (#45, reveal #70): Hyper MICA and Solar TALON. TALON walks to her, hops and flies (#118), catches her (#125) and carries her up; pad 2 flaps every 24 frames; a 10-frame Left and an 8-frame Right trim the drift. Same take as d-lbz-pair with the declared time moved from 2:40 to 3:12, so the HUD clock does not run backward after the boss take (which ends at 3:10)."
+ }
+]

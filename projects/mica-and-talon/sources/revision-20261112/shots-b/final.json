@@ -1,0 +1,838 @@
+[
+ {
+  "id": "title-s3k",
+  "kind": "title",
+  "game": "s3k",
+  "zone": "aiz",
+  "frames": 1300
+ },
+ {
+  "id": "title-s2",
+  "kind": "title",
+  "game": "s2",
+  "zone": "ehz",
+  "frames": 1300
+ },
+ {
+  "id": "title-s1",
+  "kind": "title",
+  "game": "s1",
+  "zone": "ghz",
+  "frames": 1300
+ },
+ {
+  "id": "data-select",
+  "kind": "title",
+  "game": "s3k",
+  "zone": "aiz",
+  "script": "360 -; 1 S; 360 -",
+  "slots": true
+ },
+ {
+  "id": "continue",
+  "kind": "host",
+  "host": "original",
+  "mode": "continue",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "note": "debug presentation component entry"
+ },
+ {
+  "id": "ending",
+  "kind": "host",
+  "host": "original",
+  "mode": "ending",
+  "game": "s2",
+  "zone": 10,
+  "act": 0,
+  "note": "debug credits entry from DEZ"
+ },
+ {
+  "id": "halfpipe-run",
+  "kind": "host",
+  "host": "starpost",
+  "mode": "halfpipe",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "x": 3568,
+  "y": 150,
+  "script": "150 -; 1 A; 50 -; 1 A; 45 -; 1 A; 45 -; 1 A; 45 -; 1 A; 45 -; 1 A; 1000 -",
+  "note": "debug positioned ROM-starpost component entry; ring collision admits SPECIAL_STAGE; neutral in stage"
+ },
+ {
+  "id": "ghz-ss",
+  "game": "s1",
+  "zone": "ghz",
+  "act": 1,
+  "x": 9100,
+  "y": 940,
+  "rings": 55,
+  "timer": 8700,
+  "script": "30 -; 108 R; 30 R+A; 700 -; repeat 12 { 40 L; 40 R }"
+ },
+ {
+  "id": "blue-sphere",
+  "game": "s3k",
+  "zone": "cnz",
+  "act": 1,
+  "x": 11616,
+  "y": 1612,
+  "rings": 42,
+  "timer": 9600,
+  "script": "90 -; 90 R; 240 -; repeat 30 { 1 A; 24 - }"
+ },
+ {
+  "id": "lbz-duo",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14300,
+  "y": 1470,
+  "script": "20 -; 250 R",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  },
+  "note": "R1. Launch Base 1 lower bridge from a run-up: top speed #139, spring #218."
+ },
+ {
+  "id": "carry-swoop",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "note": "R2. TALON (pad 2) runs ahead, hops (#70), hovers; MICA runs (#75), jumps (#115) and is caught in the air (#128)."
+ },
+ {
+  "id": "aiz-talon-dive",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7100,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; repeat 5 { 1 A; 8 - }; 18 D; 1 D+A; 70 R; 1 L+A; 20 L; repeat 14 { 1 A; 8 L }; 100 L; 40 -",
+  "note": "talon-s3k divebomb kill, then a second flight back over the clearing",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 38,
+   "promo.timer": 6300,
+   "promo.score": 5200
+  }
+ },
+ {
+  "id": "aiz-normal",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7100,
+  "y": 900,
+  "script": "30 -; repeat 8 { 1 R+A; 16 R }; 260 R",
+  "note": "normal-aiz with a longer tail",
+  "props": {
+   "promo.rings": 41,
+   "promo.timer": 7200,
+   "promo.score": 6100
+  }
+ },
+ {
+  "id": "mhz-hyper",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 7,
+  "act": 0,
+  "x": 10176,
+  "y": 1428,
+  "script": "30 -; 1 A; 20 -; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 77,
+   "promo.timer": 8100,
+   "promo.score": 61800
+  },
+  "note": "Hyper MICA through the Mushroom Hill 1 loops (was p-mhz1-hyper, shot 400 wide without a score)."
+ },
+ {
+  "id": "mgz-chain",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 7600,
+  "y": 1136,
+  "script": "21 -; 1 R+A; 12 R; 1 R+A; 22 R; 1 R+A; 26 R; 1 R+A; 20 R; 1 R+A; 78 R",
+  "props": {
+   "promo.rings": 36,
+   "promo.timer": 8100,
+   "promo.score": 87300
+  },
+  "note": "T1. Marble Garden 2 chain, strike presses tuned so the kills (#65, #85, #107) are 20 and 22 frames apart. Its lead-in cannot be lengthened: the Mantises are on a timer, and 40 more idle frames change which ones are struck."
+ },
+ {
+  "id": "ghz2-buzz",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 0,
+  "act": 1,
+  "x": 6800,
+  "y": 960,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 200 R",
+  "note": "s1-ghz2-buzz with a longer tail",
+  "props": {
+   "promo.rings": 36,
+   "promo.timer": 6900,
+   "promo.score": 18500
+  }
+ },
+ {
+  "id": "arz-whisp",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 200 R",
+  "note": "arz1-whisp-a with a longer tail",
+  "props": {
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  }
+ },
+ {
+  "id": "aiz-hero",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7100,
+  "y": 900,
+  "script": "30 -; 20 R; 1 R+A; 12 R; 1 A; 12 -; repeat 10 { 1 R+A; 12 R }; repeat 18 { 12 R; 1 R+A; 15 R }",
+  "props": {
+   "promo.rings": 38,
+   "promo.timer": 6300,
+   "promo.score": 4800
+  },
+  "note": ""
+ },
+ {
+  "id": "hcz-loop",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 6848,
+  "y": 856,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 18 { 1 R+A; 22 R }; 60 R",
+  "props": {
+   "promo.rings": 35,
+   "promo.timer": 6000,
+   "promo.score": 38200
+  },
+  "note": ""
+ },
+ {
+  "id": "cpz-spindash",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 1,
+  "act": 0,
+  "x": 7880,
+  "y": 724,
+  "script": "20 -; 1 D; repeat 6 { 1 D+A; 3 D }; 1 -; 330 R",
+  "props": {
+   "promo.rings": 31,
+   "promo.timer": 6900,
+   "promo.score": 23400
+  },
+  "note": "normal MICA: spindash, then the blue tube run after the third starpost of Chemical Plant 1"
+ },
+ {
+  "id": "ehz2-corkscrew",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 0,
+  "act": 1,
+  "x": 8960,
+  "y": 560,
+  "script": "20 -; 16 R; 1 R+A; 12 R; repeat 14 { 1 R+A; 22 R }; 120 R",
+  "props": {
+   "promo.rings": 44,
+   "promo.timer": 8400,
+   "promo.score": 27400
+  },
+  "note": ""
+ },
+ {
+  "id": "mhz-spring",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 7,
+  "act": 0,
+  "x": 7520,
+  "y": 404,
+  "script": "30 -; 240 R; 1 R+A; 59 R; 60 -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 29,
+   "promo.timer": 6300,
+   "promo.score": 52300
+  },
+  "note": ""
+ },
+ {
+  "id": "cnz-bumpers",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 3,
+  "act": 0,
+  "x": 5944,
+  "y": 276,
+  "script": "30 -; 240 R; 1 R+A; 59 R; 60 -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 45,
+   "promo.timer": 5400,
+   "promo.score": 31700
+  },
+  "note": "MICA and TALON together through Casino Night 1 from its first starpost"
+ },
+ {
+  "id": "syz-talon",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 2,
+  "act": 0,
+  "x": 4130,
+  "y": 548,
+  "script": "30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D+R; 1 D+A; 150 R; 1 R+A; 20 R; repeat 8 { 1 A; 8 R }; 120 R; 40 -",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 28,
+   "promo.timer": 6300,
+   "promo.score": 58200
+  },
+  "note": "TALON solo in Spring Yard 1: flight, two divebomb kills on Crabmeats (native 100 then 200)"
+ },
+ {
+  "id": "htz-talon-dive",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 4,
+  "act": 0,
+  "x": 4160,
+  "y": 184,
+  "script": "30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D; 1 D+A; 120 R; 60 -",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 25,
+   "promo.timer": 4800,
+   "promo.score": 35600
+  },
+  "note": ""
+ },
+ {
+  "id": "dez-talon",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 1 R+A; 20 R; repeat 6 { 1 R+A; 8 R }; 24 D+R; 1 D+A; 120 R; 60 -",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 33,
+   "promo.timer": 6000,
+   "promo.score": 498700
+  },
+  "note": ""
+ },
+ {
+  "id": "arz-talon-whisp",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 130 R; 1 R+A; 13 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 112 R",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "note": "R3. TALON solo divebombs a Whisp in Aquatic Ruin 1 (#191)."
+ },
+ {
+  "id": "cpz-talon",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 1,
+  "act": 0,
+  "x": 4300,
+  "y": 340,
+  "script": "30 -; 1 R+A; 20 R; repeat 21 { 1 A; 13 R }; 150 R",
+  "note": "TALON solo: a long level flight across Chemical Plant 1",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 26,
+   "promo.timer": 5400,
+   "promo.score": 21900
+  }
+ },
+ {
+  "id": "cpz-lock-mod",
+  "game": "s2",
+  "zone": "cpz",
+  "act": 1,
+  "script": "40 -; 50 R; 1 R+A; 34 R; 24 D+R; 30 R; 14 L; 26 -; 24 U; 6 -; 20 D; repeat 5 { 1 D+A; 3 D }; 1 -; 70 R; 1 R+A; 40 R; 60 -",
+  "sidekick": "talon"
+ },
+ {
+  "id": "cpz-lock-stock",
+  "game": "s2",
+  "zone": "cpz",
+  "act": 1,
+  "script": "40 -; 50 R; 1 R+A; 34 R; 24 D+R; 30 R; 14 L; 26 -; 24 U; 6 -; 20 D; repeat 5 { 1 D+A; 3 D }; 1 -; 70 R; 1 R+A; 40 R; 60 -",
+  "stock": true,
+  "main": "sonic",
+  "sidekick": "tails"
+ },
+ {
+  "id": "ehz-lock-mod",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "x": 1884,
+  "y": 560,
+  "script": "20 -; 345 R",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 28,
+   "promo.timer": 2700,
+   "promo.score": 3100
+  },
+  "note": ""
+ },
+ {
+  "id": "ehz-lock-stock",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "x": 1884,
+  "y": 560,
+  "script": "20 -; 345 R",
+  "props": {
+   "promo.stock": "true",
+   "promo.main": "sonic",
+   "promo.sidekick": "tails",
+   "promo.rings": 28,
+   "promo.timer": 2700,
+   "promo.score": 3100
+  },
+  "note": ""
+ },
+ {
+  "id": "ghz-clear",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 0,
+  "act": 0,
+  "x": 9100,
+  "y": 940,
+  "props": {
+   "promo.rings": 32,
+   "promo.timer": 8700,
+   "promo.score": 6300
+  },
+  "script": "30 -; 240 R; 660 -"
+ },
+ {
+  "id": "ehz-clear",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "x": 9900,
+  "y": 400,
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 48,
+   "promo.timer": 8700,
+   "promo.score": 7100
+  },
+  "script": "30 -; 240 R; 660 -"
+ },
+ {
+  "id": "scz-chain",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "236 -; 1 A; 20 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 12 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 12 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 120 -",
+  "props": {
+   "promo.rings": 0,
+   "promo.timer": 0
+  },
+  "note": "T2. Sky Chase from the act start; strike presses tuned (kills #259, #321, #364). The game puts TALON in the cockpit."
+ },
+ {
+  "id": "mtz-run",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 7,
+  "act": 0,
+  "x": 6330,
+  "y": 330,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 18 { 1 R+A; 22 R }; 60 R",
+  "props": {
+   "promo.rings": 34,
+   "promo.timer": 6000,
+   "promo.score": 187300
+  },
+  "note": ""
+ },
+ {
+  "id": "lbz-slope",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 7296,
+  "y": 788,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 18 { 1 R+A; 22 R }; 60 R",
+  "props": {
+   "promo.rings": 31,
+   "promo.timer": 5700,
+   "promo.score": 244100
+  },
+  "note": ""
+ },
+ {
+  "id": "hcz-gilded-runin",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 6690,
+  "y": 836,
+  "script": "24 -; 90 R; 1 R+A; 20 R; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.emeralds": "1111111",
+   "promo.rings": 66,
+   "promo.timer": 6000,
+   "promo.score": 41900
+  },
+  "note": "Hydrocity 1 before its second starpost: normal MICA runs 90 frames, jumps (#114), transforms (#135, reveal #160), then runs and dashes as Gilded MICA"
+ },
+ {
+  "id": "aiz-gilded",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7100,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 40 -; repeat 8 { 1 R+A; 16 R }; 120 R",
+  "props": {
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 6100
+  },
+  "note": ""
+ },
+ {
+  "id": "slz-gilded",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s1",
+  "zone": 4,
+  "act": 0,
+  "x": 3000,
+  "y": 400,
+  "script": "30 -; 1 A; 20 -; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.emeralds": "111111",
+   "promo.rings": 70,
+   "promo.timer": 4800,
+   "promo.score": 143200
+  },
+  "note": ""
+ },
+ {
+  "id": "arz-gilded",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 5200,
+  "y": 700,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 8 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 4800,
+   "promo.score": 51200
+  },
+  "note": ""
+ },
+ {
+  "id": "cpz-gilded",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s2",
+  "zone": 1,
+  "act": 0,
+  "x": 7936,
+  "y": 724,
+  "script": "30 -; 1 A; 20 -; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.emeralds": "1111111",
+   "promo.rings": 72,
+   "promo.timer": 6900,
+   "promo.score": 24800
+  },
+  "note": ""
+ },
+ {
+  "id": "aiz-solar-reveal",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6900,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 12 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "note": "R4. Solar TALON: transform in the air (#79), reveal #104, eight flaps, dive, Rhinobot killed #188."
+ },
+ {
+  "id": "dez-solar",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 50 -; 1 R+A; 20 R; repeat 6 { 1 R+A; 8 R }; 24 D+R; 1 D+A; 120 R; 60 -",
+  "props": {
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 6000,
+   "promo.score": 503900
+  },
+  "note": ""
+ },
+ {
+  "id": "syz-solar",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s1",
+  "zone": 2,
+  "act": 0,
+  "x": 5112,
+  "y": 425,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 50 -; repeat 5 { 1 A; 8 - }; 18 D; 1 D+A; 50 R; 1 R+A; 6 R; 1 R+A; repeat 14 { 8 R; 1 R+A }; 120 R",
+  "props": {
+   "promo.main": "talon",
+   "promo.emeralds": "111111",
+   "promo.rings": 70,
+   "promo.timer": 6300,
+   "promo.score": 61400
+  },
+  "note": ""
+ },
+ {
+  "id": "htz-solar",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s2",
+  "zone": 4,
+  "act": 0,
+  "x": 4160,
+  "y": 184,
+  "script": "30 -; 1 A; 20 -; 1 A; 50 -; repeat 5 { 1 A; 8 - }; 18 D; 1 D+A; 50 R; 1 R+A; 6 R; 1 R+A; repeat 14 { 8 R; 1 R+A }; 120 R",
+  "props": {
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 66,
+   "promo.timer": 4800,
+   "promo.score": 36900
+  },
+  "note": ""
+ },
+ {
+  "id": "fbz-solar",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 4,
+  "act": 0,
+  "x": 7360,
+  "y": 600,
+  "script": "30 -; 1 A; 20 -; 1 A; 50 -; repeat 5 { 1 A; 8 - }; 18 D; 1 D+A; 50 R; 1 R+A; 6 R; 1 R+A; repeat 14 { 8 R; 1 R+A }; 120 R",
+  "props": {
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 63,
+   "promo.timer": 6900,
+   "promo.score": 176300
+  },
+  "note": "Solar TALON in Flying Battery 1 (replaces the second Angel Island Rhinobot dive, whose last 0.7 s is TALON against a wall)."
+ },
+ {
+  "id": "dez-hyper",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 47 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 75,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  },
+  "note": "T4. Hyper reveal #96, kill #182."
+ },
+ {
+  "id": "lbz-boss",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 338 -; 30 L; 28 R; 1 R+A; 7 R; 1 R+A; 200 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "note": "R5. Hyper MICA at the Launch Base 1 mini-boss: backs off (#560), runs in (#590), hops (#618), strikes once (#626), boss hit #632."
+ },
+ {
+  "id": "lbz-pair",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14350,
+  "y": 1470,
+  "script": "40 - / -; 1 A / A; 20 - / -; 1 A / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "note": "R6. Lower bridge, MICA on pad 1 and TALON on pad 2: both jump (#40) and transform (#61, reveal #86); TALON hops (#113), catches her (#128) and carries her up and right."
+ }
+]

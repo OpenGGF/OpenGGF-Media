@@ -1,0 +1,74 @@
+[
+ {
+  "id": "q-boss4-10",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 24 A; 1 -; 1 A; 6 -; 10 R; 454 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss4-16",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 24 A; 1 -; 1 A; 6 -; 16 R; 448 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss4-22",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 24 A; 1 -; 1 A; 6 -; 22 R; 442 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss4-28",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 24 A; 1 -; 1 A; 6 -; 28 R; 436 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ }
+]

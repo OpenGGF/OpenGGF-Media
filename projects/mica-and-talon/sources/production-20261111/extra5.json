@@ -1,0 +1,12 @@
+[
+ {"id":"arz1-whisp-a","kind":"host","host":"declared","mode":"hero","game":"s2","zone":2,"act":0,"x":8300,"y":860,
+  "script":"20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 60 R","props":{"promo.rings":31,"promo.timer":7200}},
+ {"id":"arz1-whisp-b","kind":"host","host":"declared","mode":"hero","game":"s2","zone":2,"act":0,"x":5200,"y":700,
+  "script":"20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 60 R","props":{"promo.rings":27,"promo.timer":4800}},
+ {"id":"cpz1-spiny","kind":"host","host":"declared","mode":"hero","game":"s2","zone":1,"act":0,"x":4300,"y":340,
+  "script":"20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 60 R","props":{"promo.rings":26,"promo.timer":5400}},
+ {"id":"talon-cpz","kind":"tool","game":"s2","zone":"cpz","x":4300,"y":340,"rings":26,"timer":5400,"main":"talon",
+  "script":"30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D; 1 D+A; 120 R; 60 -"},
+ {"id":"talon-arz","kind":"tool","game":"s2","zone":"arz","x":5200,"y":700,"rings":27,"timer":4800,"main":"talon",
+  "script":"30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D; 1 D+A; 120 R; 60 -"}
+]

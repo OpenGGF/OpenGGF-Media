@@ -1,0 +1,201 @@
+[
+ {
+  "id": "rms-positioned-sfx",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7100,
+  "y": 900,
+  "script": "30 -; repeat 8 { 1 R+A; 16 R }; 60 R",
+  "props": {
+   "promo.rings": 41,
+   "promo.timer": 7200,
+   "promo.score": 6100
+  }
+ },
+ {
+  "id": "rms-positioned-mus",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7100,
+  "y": 900,
+  "script": "30 -; repeat 8 { 1 R+A; 16 R }; 60 R",
+  "props": {
+   "promo.rings": 41,
+   "promo.timer": 7200,
+   "promo.score": 6100
+  },
+  "music": true
+ },
+ {
+  "id": "rms-powered-sfx",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 60 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "rms-powered-mus",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 60 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "music": true
+ },
+ {
+  "id": "rms-declared-sfx",
+  "kind": "host",
+  "host": "declared",
+  "mode": "hero",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 6848,
+  "y": 856,
+  "script": "60 -; 20 R; 1 R+A; 10 R; repeat 4 { 1 R+A; 22 R }; 30 R",
+  "props": {
+   "promo.rings": 35,
+   "promo.timer": 6000
+  }
+ },
+ {
+  "id": "rms-declared-mus",
+  "kind": "host",
+  "host": "declared",
+  "mode": "hero",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 6848,
+  "y": 856,
+  "script": "60 -; 20 R; 1 R+A; 10 R; repeat 4 { 1 R+A; 22 R }; 30 R",
+  "props": {
+   "promo.rings": 35,
+   "promo.timer": 6000
+  },
+  "music": true
+ },
+ {
+  "id": "rms-starpost-sfx",
+  "kind": "host",
+  "host": "starpost",
+  "mode": "halfpipe",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "x": 3568,
+  "y": 150,
+  "script": "150 -; 1 A; 50 -; 1 A; 45 -; 1 A; 45 -; 1 A; 45 -; 1 A; 45 -; 1 A; 300 -"
+ },
+ {
+  "id": "rms-starpost-mus",
+  "kind": "host",
+  "host": "starpost",
+  "mode": "halfpipe",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "x": 3568,
+  "y": 150,
+  "script": "150 -; 1 A; 50 -; 1 A; 45 -; 1 A; 45 -; 1 A; 45 -; 1 A; 45 -; 1 A; 300 -",
+  "music": true
+ },
+ {
+  "id": "rms-continue-sfx",
+  "kind": "host",
+  "host": "original",
+  "mode": "continue",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "props": {
+   "promo.frames": 300
+  }
+ },
+ {
+  "id": "rms-continue-mus",
+  "kind": "host",
+  "host": "original",
+  "mode": "continue",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "props": {
+   "promo.frames": 300
+  },
+  "music": true
+ },
+ {
+  "id": "rms-ending-sfx",
+  "kind": "host",
+  "host": "original",
+  "mode": "ending",
+  "game": "s2",
+  "zone": 10,
+  "act": 0,
+  "props": {
+   "promo.frames": 420
+  }
+ },
+ {
+  "id": "rms-ending-mus",
+  "kind": "host",
+  "host": "original",
+  "mode": "ending",
+  "game": "s2",
+  "zone": 10,
+  "act": 0,
+  "props": {
+   "promo.frames": 420
+  },
+  "music": true
+ },
+ {
+  "id": "rms-tool-sfx",
+  "game": "s2",
+  "zone": "cpz",
+  "act": 1,
+  "script": "40 -; 50 R; 1 R+A; 34 R; 24 D+R; 30 R; 14 L; 26 -",
+  "sidekick": "talon"
+ },
+ {
+  "id": "rms-tool-mus",
+  "game": "s2",
+  "zone": "cpz",
+  "act": 1,
+  "script": "40 -; 50 R; 1 R+A; 34 R; 24 D+R; 30 R; 14 L; 26 -",
+  "sidekick": "talon",
+  "music": true
+ }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "d-cpz1-run",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 1,
+  "act": 0,
+  "x": 7880,
+  "y": 724,
+  "script": "20 -; 1 D; repeat 6 { 1 D+A; 3 D }; 1 -; 330 R",
+  "props": {
+    "promo.rings": 31,
+    "promo.timer": 6900,
+    "promo.score": 23400
+  },
+  "note": "normal MICA: spindash, then the blue tube run after the third starpost of Chemical Plant 1",
+  "commit": "1e0faac12350c56af40954d2a4ee4f74f28641df",
+  "worktree_dirty": false,
+  "jar_sha256": "449ada47b0e963d9fcc630255fed80f4fbad7b53390bdebd21e35386381abfce",
+  "checkout": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f",
+  "command": [
+    "PromoCapture",
+    "run",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/d-cpz1-run",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/target/mica-and-talon/mica-and-talon.jar",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/s2.gen",
+    "1",
+    "0",
+    "7880",
+    "724",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/d-cpz1-run/input.txt"
+  ],
+  "source_kind": "debug/positioned presentation host",
+  "fps": 60,
+  "every": 1,
+  "audio": false,
+  "capture_host_sha256": "c391cda2dc60df2805571e657fbc0c739287135167b62dcb8632ed4e2a8da741"
+}

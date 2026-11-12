@@ -1,0 +1,28 @@
+[
+  {
+    "video": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/phase2/out/master-16x9.mp4",
+    "size": [
+      1920,
+      1080
+    ],
+    "fps": "60/1",
+    "duration": "84.800000",
+    "input_i": "-18.86",
+    "true_peak_dbtp": "-3.25",
+    "decode_exit": 0,
+    "check": "pacing: {'shots': 13, 'mean_shot_s': 6.52, 'busiest_window_cuts': 5, 'cuts_in_last_window': 1, 'seconds': 84.8, 'longest_bare_s': 0, 'busiest_window_captions': 2}\n"
+  },
+  {
+    "video": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/phase2/out/master-9x16.mp4",
+    "size": [
+      1080,
+      1920
+    ],
+    "fps": "60/1",
+    "duration": "84.800000",
+    "input_i": "-18.88",
+    "true_peak_dbtp": "-3.00",
+    "decode_exit": 0,
+    "check": "pacing: {'shots': 13, 'mean_shot_s': 6.52, 'busiest_window_cuts': 5, 'cuts_in_last_window': 1, 'seconds': 84.8, 'longest_bare_s': 0, 'busiest_window_captions': 2}\n"
+  }
+]

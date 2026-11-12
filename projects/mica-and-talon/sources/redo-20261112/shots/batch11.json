@@ -1,0 +1,218 @@
+[
+ {
+  "id": "q-boss3-22-12",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 22 R; 308 -; 12 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-22-16",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 22 R; 308 -; 16 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-22-20",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 22 R; 308 -; 20 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-22-24",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 22 R; 308 -; 24 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-23-12",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 23 R; 307 -; 12 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-23-16",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 23 R; 307 -; 16 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-23-20",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 23 R; 307 -; 20 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-23-24",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 23 R; 307 -; 24 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-24-12",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 12 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-24-16",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 16 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-24-20",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 20 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss3-24-24",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 24 A; 1 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ }
+]

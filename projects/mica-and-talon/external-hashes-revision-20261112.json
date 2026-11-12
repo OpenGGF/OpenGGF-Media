@@ -1,0 +1,1901 @@
+[
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "out/master-16x9.mp4",
+    "kind": "finished promo video (H.264 High/AAC 320k)",
+    "files": 1,
+    "bytes": 142731443,
+    "sha256": "b5e94d0f9987a673e619c42322319ae56935a2984fe2310245f0a5e2e0f8b42b",
+    "sha256_manifest": "5ef7e64aeac8a4896ba6770195a1c217c10a556badffeae8890c3a1a451f03cc"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "out/master-9x16.mp4",
+    "kind": "finished promo video (H.264 High/AAC 320k)",
+    "files": 1,
+    "bytes": 178669060,
+    "sha256": "244380e40c6ce3227020e9ff28c21d72702e11040fb04d661c88520620e69eed",
+    "sha256_manifest": "ea28c916cea76b822f75656f0a390d4aa22c414b10e874ac2eaa09fbb3deec87"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "out/contact-16x9-2s.jpg",
+    "kind": "contact sheet of the encoded master",
+    "files": 1,
+    "bytes": 2189822,
+    "sha256": "6470851e87e54a3ed5b116542feca97a08c428224a37abf77a4fc8eb4b8e4a1b",
+    "sha256_manifest": "9e5dc8b9642fb90b906ad2f5f836e698459e1ce638e4df1b6a6515aa819c5df2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "out/contact-9x16-2s.jpg",
+    "kind": "contact sheet of the encoded master",
+    "files": 1,
+    "bytes": 1607371,
+    "sha256": "799c55962f92528356fc3109eacd14ac698d122a980592bbe9b3015d51178982",
+    "sha256_manifest": "107221901f899dc2b9102893487ac4f78b72f80b8f57f5a40cb86277eb8597bf"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint4/storyboard.html",
+    "kind": "review page or preview (checkpoint4)",
+    "files": 1,
+    "bytes": 1392175,
+    "sha256": "f09af57b6d29e7ab5f3e167a540afc61e8688ec193187fd6967724d02e84542c",
+    "sha256_manifest": "e7e84c0d99253c7a8004d87c2b67a97b863653edc9d315028cc4a9446bb0da86"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint4/storyboard.png",
+    "kind": "review page or preview (checkpoint4)",
+    "files": 1,
+    "bytes": 319380,
+    "sha256": "623485a02787e39cc37f3ebcede5d5cb9823a2b887c3cdb364996ac744980ccc",
+    "sha256_manifest": "1c86fd6a47e2bf10f48b2665905f94679de5e36c41ed6f3836174b3e1ebfa1d1"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint5/probes.html",
+    "kind": "review page or preview (checkpoint5)",
+    "files": 1,
+    "bytes": 878365,
+    "sha256": "05f9fe21f0667947c538a6dcf7e9713a16e9f87e23f529ed3ce426eefa200a99",
+    "sha256_manifest": "1c8990c740508734b7f0ffe67a96582503396f6cdfbe3566170ff175b3f83c6b"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint5/probes.png",
+    "kind": "review page or preview (checkpoint5)",
+    "files": 1,
+    "bytes": 260925,
+    "sha256": "14397e4f708ec95aebbb1f79676e92bdd8c43d412bf7470d969e16d8f8f83adb",
+    "sha256_manifest": "acc9eb8fd2ad2ef7ea9d530d7a6e657582b9d6b46e595fd6fb2645b3e08d6684"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint6/cards.html",
+    "kind": "review page or preview (checkpoint6)",
+    "files": 1,
+    "bytes": 4561731,
+    "sha256": "d1b8c4b47df53937241250d47e7be2e0e4e1f71946904ef549811e94cba6bd2f",
+    "sha256_manifest": "76aaed8d44730b6217b675372fa520c2d7fa7be0b45521edbaeae09bc6f81154"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint6/cards.png",
+    "kind": "review page or preview (checkpoint6)",
+    "files": 1,
+    "bytes": 244793,
+    "sha256": "3f6062bf6436ef10a24e634ebc759793f9848d2b3c160ac7766a0af2d1e97d65",
+    "sha256_manifest": "5e7ec730d22ad3e99cec74f931c88eb9ac28eb7d478548b4d052825429efeb81"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint6/mica-h.mp4",
+    "kind": "review page or preview (checkpoint6)",
+    "files": 1,
+    "bytes": 693765,
+    "sha256": "821fcbf370792fd901bd98de28037d567ad491729c2dcb4661ce8192589d02b0",
+    "sha256_manifest": "2ce2d1d8a3c5bf0a060fbd3ca8fd20c587e27317ab9a26ca6314098f51eea00d"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint6/mica-v.mp4",
+    "kind": "review page or preview (checkpoint6)",
+    "files": 1,
+    "bytes": 517838,
+    "sha256": "0f1dc04733a96d0e1fbbebde41edafd788e5ad999b6170d56d671542558cb77f",
+    "sha256_manifest": "d5143bb3550141242c1da1f5b34934ccf85f1c5899f7720b423a5b58e578adce"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint6/talon-h.mp4",
+    "kind": "review page or preview (checkpoint6)",
+    "files": 1,
+    "bytes": 535299,
+    "sha256": "9337645fba638af734af779f290d1c5e7d627e9bf8b6b56ceb993a7f3ff661ff",
+    "sha256_manifest": "030024aa91cdcb6fdb5fea7ea3d1718bfd1e71a3656a73bbddab0b42b7f4702f"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "checkpoint6/talon-v.mp4",
+    "kind": "review page or preview (checkpoint6)",
+    "files": 1,
+    "bytes": 431077,
+    "sha256": "c9ba234df6f70000edb209b2223065476fc59fdba7dbeddd488b6cacdab975c3",
+    "sha256_manifest": "6c85fcec37cbdd1045a56e3365cbcae7837828a36f66a01705e63e9aed29309f"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-gilded/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 348,
+    "bytes": 12426917,
+    "sha256": null,
+    "sha256_manifest": "1995a50623947a3ae91c528806a868d6955a130f1ed7109c73321098cd24eb5d"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-hero/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 710,
+    "bytes": 23150212,
+    "sha256": null,
+    "sha256_manifest": "835e463676808708ce6c6d637a865dc2949b05300bbf38a2992fe837bcad057e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-normal/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 426,
+    "bytes": 14024190,
+    "sha256": null,
+    "sha256_manifest": "095dae79424bd2e72999278136074a5b7832aa8cd888d92ed50cb7e3c051bbd2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-solar-reveal/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 375,
+    "bytes": 14048558,
+    "sha256": null,
+    "sha256_manifest": "06d310d8fa16c7131032ff6123251338ca3e35947d14d95fa2b538b98037a592"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-talon-dive/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 472,
+    "bytes": 15211401,
+    "sha256": null,
+    "sha256_manifest": "d889b9085c9a79eba5eaff27a0538f778bda693022d72c51eb2fdedb319cdc1f"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-gilded/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 408,
+    "bytes": 16616079,
+    "sha256": null,
+    "sha256_manifest": "13414bd3cd9a17025f522910c50e3065825215faead6b289f618208287908072"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-talon-whisp/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 299,
+    "bytes": 14139659,
+    "sha256": null,
+    "sha256_manifest": "fd390020c7dbb8ecb222f3861e1ee5f122d90fad85036e9dccdbd4ad951d6768"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-whisp/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 491,
+    "bytes": 24566605,
+    "sha256": null,
+    "sha256_manifest": "87e6df6ecbae36f154361d4cef9713796f2e5a567ac24c62d8ffc79833d31d9a"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/blue-sphere/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1170,
+    "bytes": 14302942,
+    "sha256": null,
+    "sha256_manifest": "21e938f99cec1204c873764be65242dd66ab279f31c6d984d9f14dd7a2d8749e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/carry-fly/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 370,
+    "bytes": 10159446,
+    "sha256": null,
+    "sha256_manifest": "ffcd113bd47233a4dd6323b7df51618a9746f495df0d0fc8eee11be8f77bd3b4"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/carry-swoop/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 330,
+    "bytes": 11088564,
+    "sha256": null,
+    "sha256_manifest": "8c381cee8f488df78b543fa0ab966db5c9257f073674f9ab579f05fe403ab274"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cnz-bumpers/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 390,
+    "bytes": 7307314,
+    "sha256": null,
+    "sha256_manifest": "ed10797706c48ee2b57436784eccb8a2fad9909fab749076d816be86a9f02992"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/continue/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 480,
+    "bytes": 3264006,
+    "sha256": null,
+    "sha256_manifest": "b558756c9e4dec7312e2b24b286a211221f191c41d119572690572920fb58a64"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-gilded/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 432,
+    "bytes": 10068264,
+    "sha256": null,
+    "sha256_manifest": "bf5eca60856bc002087ec1670df757dad8ccc57631852c3ea14e42d12e0d372d"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-lock-mod/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 461,
+    "bytes": 9842415,
+    "sha256": null,
+    "sha256_manifest": "6b3a4b1bd637a94c52bd6c5a99a6e2405032498f2c7412b07e9beb6633074de9"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-lock-stock/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 461,
+    "bytes": 9666781,
+    "sha256": null,
+    "sha256_manifest": "0e87e63f38c7f23361d62787417d30669bb1019c3d11b7fec2be09c444662394"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-spindash/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 376,
+    "bytes": 9404934,
+    "sha256": null,
+    "sha256_manifest": "96534fa6b0ea9113961b5804ad9107ffc55edaeead0d024d1a6f36d000ca3e7a"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-talon/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 495,
+    "bytes": 9676665,
+    "sha256": null,
+    "sha256_manifest": "4bb0ccdcaa53924a237ee721c37ae6f4a91b8d0ba8f6bdbe48343910eabdd728"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/data-select/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 721,
+    "bytes": 13638873,
+    "sha256": null,
+    "sha256_manifest": "4011d7739cfa1bcfe6530fd8edd2c3b185364b4eeed31864c5dc6b771980a2b8"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-hyper/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 449,
+    "bytes": 14695765,
+    "sha256": null,
+    "sha256_manifest": "30c9a79c9282e6380e4c9c2fe02724d622f8cccd780b440d8588184737b57533"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-solar/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 402,
+    "bytes": 14047664,
+    "sha256": null,
+    "sha256_manifest": "825f3bc8f56b24a76252d972dd98f2e982049034442e8b666f375d3ec705446a"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-talon/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 304,
+    "bytes": 10822509,
+    "sha256": null,
+    "sha256_manifest": "d6ecfb03ee52b0a7c2db8d9aaa3dd3a9a8e25f361a6f378b4414db3015787e79"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-clear/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 930,
+    "bytes": 17858454,
+    "sha256": null,
+    "sha256_manifest": "2d0e7dec9a288ce2fb5987d55a8cf02e9864dcdfd9c05cd3850db1102f17aec6"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-lock-mod/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 365,
+    "bytes": 7016620,
+    "sha256": null,
+    "sha256_manifest": "5d44a79f7fd8044d00b482f0bdf9079c280b79500cb0ae5416840d798d0ef30d"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-lock-stock/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 365,
+    "bytes": 6912088,
+    "sha256": null,
+    "sha256_manifest": "ed68b1d9bcb81e8dfaa04984a9581bd54c3f663c8796efeb4c70b51e0b328e12"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz2-corkscrew/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 491,
+    "bytes": 10129868,
+    "sha256": null,
+    "sha256_manifest": "e89e79face9d5557de88f242c692c36f36d3156b347aa3252c094c223ab0971e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ending/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 4438,
+    "bytes": 27863178,
+    "sha256": null,
+    "sha256_manifest": "d8d3c607bf941fbe5cfdacff19fae7a67d4934e7ce69db66bc86447dc2ee89a9"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/fbz-solar/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 470,
+    "bytes": 7621953,
+    "sha256": null,
+    "sha256_manifest": "1795dceecf7d097a5160f185a99f9e985a52af65972f7dfb385959421f24e6c3"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz-clear/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 930,
+    "bytes": 24644644,
+    "sha256": null,
+    "sha256_manifest": "e2eb78b6b27308b6e61353651e398b2add558db01bfbffce03e35c1f69e1ea97"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz-ss/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1828,
+    "bytes": 39436017,
+    "sha256": null,
+    "sha256_manifest": "12f6761a7053983ca3208cc8378e1990d4ee874b34e9c95f5a09faa0d848e3c1"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz2-buzz/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 491,
+    "bytes": 10374192,
+    "sha256": null,
+    "sha256_manifest": "6a308d69eb3a43a9943e41e900c943baaadae081c38613837aeda0c09d860b49"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/gilded-clear/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1416,
+    "bytes": 26772982,
+    "sha256": null,
+    "sha256_manifest": "7d7490115084e332cfee77c36744c13d2cd1fbf7665fa2989ce2d5b4e3d66dcb"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/halfpipe-run/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1386,
+    "bytes": 15386824,
+    "sha256": null,
+    "sha256_manifest": "a683c648a396e1bef504654168ed1219082eca0b61bbdbd662afa0dad4c08cfe"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/hcz-gilded-runin/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 516,
+    "bytes": 12382937,
+    "sha256": null,
+    "sha256_manifest": "c94f7adb65cf400f965bc5ae5dec79567e4b8ad3e77ad7019a6376a27048c251"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/hcz-loop/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 525,
+    "bytes": 12462656,
+    "sha256": null,
+    "sha256_manifest": "6a04d606dde67fa0564a26c0d0f7f250b9d1301a2e9a92cbf9a1c525d92a0df0"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/htz-solar/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 470,
+    "bytes": 9749795,
+    "sha256": null,
+    "sha256_manifest": "e8e672cbc12a01aae3537b9939f2dbc964f85fe0b65077354f69e5a808b5f0e9"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/htz-talon-dive/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 295,
+    "bytes": 4917218,
+    "sha256": null,
+    "sha256_manifest": "fcf7f1c9b49f243ef0acc179773dce96f316d170e2e09cd6480c0330500e33d2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-boss/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 826,
+    "bytes": 19018554,
+    "sha256": null,
+    "sha256_manifest": "c350ebeef8ddc36370fe6ac92514a86ed204793729a91431a98c0414dab1636d"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-duo/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 270,
+    "bytes": 7825338,
+    "sha256": null,
+    "sha256_manifest": "4f109ad131b42e8e5d22c7551ce8914c2b7a8835b59ee0711a3e63a6ff1bd98e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-pair/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 660,
+    "bytes": 18029167,
+    "sha256": null,
+    "sha256_manifest": "e5840d62c108c9a31a6d61fd2e3e39a2a35f49262cd7696d19a987651f17be38"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-slope/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 525,
+    "bytes": 16389708,
+    "sha256": null,
+    "sha256_manifest": "22e9255a022827df785a4c2638e7e01cb4ad1b0096dba0f488bbe2dfced5150a"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mgz-chain/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 184,
+    "bytes": 5342211,
+    "sha256": null,
+    "sha256_manifest": "75b3e472b7f1db122778fc7e08c3d9d8241c70e36b33e2da8dc00e6627cf5434"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mgz2-chain/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 669,
+    "bytes": 23704005,
+    "sha256": null,
+    "sha256_manifest": "2222f0ba189e48346b3be4490c1de690e5126ee61bf417ee861ed96144f7c60f"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mhz-hyper/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 432,
+    "bytes": 12641193,
+    "sha256": null,
+    "sha256_manifest": "a3cb607b7bb581ba516285288269d4d976a0aff122e41d1ef09a49721f80bf8b"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mhz-spring/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 390,
+    "bytes": 12389447,
+    "sha256": null,
+    "sha256_manifest": "6d5cbd996ecbb9576172b786020216f5ddf868f51e3e60847b585c94be0a45a4"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mtz-run/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 525,
+    "bytes": 12862997,
+    "sha256": null,
+    "sha256_manifest": "d64a95a8e0b7b580912b63c2e3d6c15f8b2937bbc77161cab10b1ddff0c303ef"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/s1-ghz2-buzz/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 351,
+    "bytes": 6313796,
+    "sha256": null,
+    "sha256_manifest": "002b60fa3899743e8236ee82528801be2df01496923ee9a310ec91a24686a9a3"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/scz-chain/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 544,
+    "bytes": 6640231,
+    "sha256": null,
+    "sha256_manifest": "ae3f470131217cb3d533eb20b704c670df5bcd7b6ae203d6385a16f224616b9b"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/slz-gilded/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 432,
+    "bytes": 4366586,
+    "sha256": null,
+    "sha256_manifest": "916431d8b5161ba9fea725698ea5836d17f86ba23b04f4fe9ffc115abb1a3048"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/solar-fly/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 460,
+    "bytes": 16163357,
+    "sha256": null,
+    "sha256_manifest": "394983aded55f3fa5b7a8c17e4cf9dd192740b6db1ba223a9216f439f58c6680"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/syz-solar/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 490,
+    "bytes": 7331482,
+    "sha256": null,
+    "sha256_manifest": "2e0ebc3310e8f7a3ebc4737105f1e20e4404827974eb8ee14451bd9f87f9bcfd"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/syz-talon/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 518,
+    "bytes": 8800692,
+    "sha256": null,
+    "sha256_manifest": "e1a089116b3d51489d1285ea583d883b54f672445000a376dc85727815ac6a9f"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s1/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1300,
+    "bytes": 22527031,
+    "sha256": null,
+    "sha256_manifest": "c9b62e947f051ae071c926951196bd72741b5f99b93095ed5b9634c6c73e7303"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s2/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1300,
+    "bytes": 18000292,
+    "sha256": null,
+    "sha256_manifest": "4f8bf2f04bb99d6d2bb80cc5b1d6adfdd4ab06140eb84ca6f6809d76cb85b8a5"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s3k/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1300,
+    "bytes": 36093588,
+    "sha256": null,
+    "sha256_manifest": "30e94ed10426763b2d6d7d501a70dbdb771267c27d052ed5c656c499369f508e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-carry-fly/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 370,
+    "bytes": 11890080,
+    "sha256": null,
+    "sha256_manifest": "50fac4517bd6ead1a74df13f30d524ffc0c7e79f5cf9ca94095909f80a00b8b6"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-gilded-clear/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1416,
+    "bytes": 39176051,
+    "sha256": null,
+    "sha256_manifest": "d4a021172f998eb7bc24a18ffc7cabde178d20a9145c40db95743888b8c7a7dd"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-mgz2-chain/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 669,
+    "bytes": 27998535,
+    "sha256": null,
+    "sha256_manifest": "1fe98bdd6f65f06d9b124dbf3e0c5b9b84eb3c24c245f18decd7a79ef4349bd1"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-s1-ghz2-buzz/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 351,
+    "bytes": 5932117,
+    "sha256": null,
+    "sha256_manifest": "e63b28518a691d8583ecb3e644f1881e82c27c919a75015e9f6eebcf6ff2affd"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-solar-fly/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 460,
+    "bytes": 18848531,
+    "sha256": null,
+    "sha256_manifest": "ff836176db148e47c29db3ae95df4ce26622e93a5a4bf903cf3b9505d10213fe"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-title-s2/frames",
+    "kind": "native capture frame sequence (ROM-derived pixels; external)",
+    "files": 1000,
+    "bytes": 12026741,
+    "sha256": null,
+    "sha256_manifest": "acc4be9a84a09ec87c4addff7b1bff00612644b03e02ee6a904a0ea12740cd72"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-gilded/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 36673,
+    "sha256": "26b914b273fc68f76ea0f0c69ea6ef8ed31c918287817ae3a5ddbbc145921562",
+    "sha256_manifest": "8e3431d589b1724cc44f9201a904760fd633431b66b2870b823343a8076d2860"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-hero/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 65231,
+    "sha256": "9ea76c0a5f7acc592f7e62189fa4316a9056b905850ab0570fbed742ff80b013",
+    "sha256_manifest": "1773f1a71cb88299bf2ac4ffb64c433d4628e485bccf994cbcf95871b5bebe6e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-normal/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 38431,
+    "sha256": "c2a5b57711c5fce305f74837bad2eaa9b03d97f9fc5cd7f39986f0a4bfedd17d",
+    "sha256_manifest": "65c22c35feb9e7b12bcec0a2325662d3107d1f78297f611c0c8e4e15f3826838"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-solar-reveal/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 39675,
+    "sha256": "4b7a5addaf3d2492b4ec6f09ece97d8596e26093ce9d9bc5930b1b84ac89ab03",
+    "sha256_manifest": "51ec3d0d13e1fc037a4cea008d259b3dfe0f7db3322e821cc526a67b8078b51c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-talon-dive/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 41687,
+    "sha256": "41e89b2f308faa5bb46a9502a4d2c66df0ecdd120c7f18d5ee82a47ec86fa3b4",
+    "sha256_manifest": "01ead5eb08590fe378113111ae717fcf7ef33b59c295573db88a127a184f81e7"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-gilded/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 45240,
+    "sha256": "58e88d45b0d5f3217410a3d8925cd950c1101840b90bb2dc235e651c129de115",
+    "sha256_manifest": "133c0ce016e534dc449627af6f438a850e1ce101a82692f793925bf7bbd1ecdd"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-talon-whisp/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 26699,
+    "sha256": "5d20f7339e7832d84bd88a543f571be87c8d7e66a4088a19bc0c978130e569fa",
+    "sha256_manifest": "4c505c4b3012bc3b77dc97fbfbec131275c95d6ce8ea6be902d6631b38093832"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-whisp/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 44121,
+    "sha256": "582dd8a9d87b47c8deffb92706f07d1a72d42d34411c56b342f840b4ea600a48",
+    "sha256_manifest": "9a5c80d59a65325a350a828bd8303a30b504e22ae6cddb232cddfd6a17602548"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/blue-sphere/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 110532,
+    "sha256": "5b660313cf3eb42a18f12ad4f0f60a8d902390d9ab676b5cff203dc7d75dcb97",
+    "sha256_manifest": "e5b2e14684e646b0eb367f73774c8cb9ef7c5f97b9000ea5e5dc08c34287da29"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/carry-fly/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 33041,
+    "sha256": "9dedab58413c23805404020e33eb959c8a7a2b1baca488d49d6ce1e4c1599867",
+    "sha256_manifest": "f25dbe4351533694412cfae7ad4e427c4233ee37747502b335ef018a05c1f756"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/carry-swoop/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 31459,
+    "sha256": "a34e67c473ba5a215a44e6cfc3e32927ff57fb1444b9799f6ecc9d99d13fc8a4",
+    "sha256_manifest": "2038cda5222d62c8bdc0a038d0fa90dce2ceaaa24e83ed448cccec413e45e02d"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cnz-bumpers/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 38147,
+    "sha256": "8541f546d86735a4327fd5af8bdaca4d586ce140c7f4cbc8a53dddac15a12ef9",
+    "sha256_manifest": "4eaeca58cc996f8237a60b151da80e2a50f6c80749a064d91b0d71dbc66425dc"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/continue/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 32674,
+    "sha256": "882513b450837aa770148d5d4d620a9ef04bc2ef72fb7748d9c03ca5b54ea4c5",
+    "sha256_manifest": "49e4b0461a7f2c5433c2549138576358b698f84ac3baceb5f7477bc258a50851"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-gilded/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 47695,
+    "sha256": "26f8c2df451e3b9bae016ddee4bea6e1b883e84fd3f2ea0d023b3db4d0e70407",
+    "sha256_manifest": "7031d2fae57c41cc9be1f2db9c2b25c0f3113aee940591bff8b4bb5ff209f655"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-lock-mod/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 38332,
+    "sha256": "8777824afd127cc890814eb61e1a116538788111ac8ef9f93afeb34c894c95c4",
+    "sha256_manifest": "deb3e975e42612782186163b826d9f437b8941d53e516677a4544c7daa9a1f1c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-lock-stock/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 37828,
+    "sha256": "75186fed58d289e67a1099392df6b0b4cfb6829f379c895bd4165958d90e56f9",
+    "sha256_manifest": "fbdd5fbbbe9ebc8f514bce754d6ca932ce4046eda2792686d15a98f2d0eeab79"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-spindash/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 33764,
+    "sha256": "f4990b3bcc2839d645f1548647be25cea61bef8fda431e6af1046976deaaffec",
+    "sha256_manifest": "44cb12daad7af947ea4089131e69fe4c1e80e6c459702b02936356ef928b3455"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-talon/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 43424,
+    "sha256": "e230a532d8f38e914c4e082f6c47be4b5cdfac19670d6baeb608109b5810f30f",
+    "sha256_manifest": "d5c7156d92817b36f24a577598c6d466e4e534e017cbaaa91417a9eb7dd6720b"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/data-select/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 60280,
+    "sha256": "fcb54473182559a61cd045dbd361eb9e6497e631a344103be3be559af4046537",
+    "sha256_manifest": "5c7a122cb7bf3a8c5e7fa7d816209364cefd76b6793293215c784ee52d0d5c00"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-hyper/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 49731,
+    "sha256": "965a7158db9fde45462ad2526e20b99a693aa81899296ac9e24cfc83705fc6c8",
+    "sha256_manifest": "560772d1f24abe59057c1705e91907c8eb609dab754cf367d949479be68b2a5c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-solar/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 45309,
+    "sha256": "9f606fe6af99ae759d33bfcfaaf2009988f13e30b4b638897369872519b0bea1",
+    "sha256_manifest": "370c7737ea79ac95dfdb0bd8e098ff7ec60168eb61aa14b0db37cc22f983767c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-talon/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 27896,
+    "sha256": "0de9363d5b0cf7d3e9d630b2d552f0a29b7ee70e2f4cb84cabc352d30114a5a9",
+    "sha256_manifest": "fd02c3ed66628ccd863642bd5e41952429b0e5b1f42ae5e12f434ac2bfba50cc"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-clear/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 87482,
+    "sha256": "a0d816c4eccd2cd70eddef2f31a4080b7501ddda7c4012acebb45384698b1fb0",
+    "sha256_manifest": "8d73b4c1d4815bad364d93d915fdd3ff4639a2d1e3b797d111c8917954070a7a"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-lock-mod/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 34861,
+    "sha256": "36808466d36bcb73a086f8c79057e1a963983fa5c8edde721ce65a75aa6a9e7b",
+    "sha256_manifest": "b36302f5a13903c9fdc5c628cef6caac6010dec2bef7ae90819c2149bfc044f1"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-lock-stock/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 34477,
+    "sha256": "779f250141a43bc3a990082ad01f648dd87218dd5f8abf9f5830129d7c84f84c",
+    "sha256_manifest": "ba76afeebeeb1449cf37247ddca667d3b7f64984bde7518e51540adaae7ae688"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz2-corkscrew/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 44604,
+    "sha256": "f3aae9eb0c6ad27561e2c3938aaec6b8be3fdb93ef6d452328074556b8fd2fff",
+    "sha256_manifest": "c0864eea8d830bf2b97014f30ce9d0600d7da2d649827b34239a3f859d9fcbdf"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ending/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 260876,
+    "sha256": "4607737c3b6b48849f94d8d3eb9c6f27af2a33e7e7c9aeec1ba6ad9ab9a7f37b",
+    "sha256_manifest": "c543010ccf6826c7079fa1bd27d69b216d8d293e96f3b55bb07def24440b1ea0"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/fbz-solar/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 50607,
+    "sha256": "66aef57a15a1127b60221aac3b7ad1b2af6b2aa0e41c1fa5fe141d84ca35fbe8",
+    "sha256_manifest": "bfb378a6ea482d115977ec6d53fc613c70c812ab450a0b360310163682713845"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz-clear/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 78689,
+    "sha256": "c3370e42bc04ccdcd0eea486f325abc90e93975f927a5905e86e9a1a43461788",
+    "sha256_manifest": "616e246d5121083f956459fd1e84c3ad47bf43adaaede53e72305812c9b33d87"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz-ss/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 161507,
+    "sha256": "31a29277f20c4f46438755951b77931e5cbe057db3ba9a1de349c0f17c01c4af",
+    "sha256_manifest": "595a96afe2a6556aff943e5adda7c977984c435d1bc20532b5e16027579bdaf7"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz2-buzz/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 43404,
+    "sha256": "183a16a0c38073b4187411d61a35b4a341592af2526dd5a096cefc6a73eab436",
+    "sha256_manifest": "59885eb235eefc181c6457770b660bab609dba603de57cbed5088205759e28b9"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/gilded-clear/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 121164,
+    "sha256": "0731e311280cd5830d48c129832b15097348509bb65976498bc5b0af81158f45",
+    "sha256_manifest": "f112bec349a4b0a18e1a48c2aeca227289537e7eb1a3de8e4c2465aba6cfcbb8"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/halfpipe-run/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 129414,
+    "sha256": "0ed31c3fbbe686876115835403b0e79ded5ffbadb7dc212bf9df0e9aba2ac168",
+    "sha256_manifest": "b923fd3eee31aeb966ebb11a52513784c1674fd614803c46d65f7e12b277e398"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/hcz-gilded-runin/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 56660,
+    "sha256": "6a1336a6062d68e6759b28380d2481ce1451201e9dc074c920093b714a5c32ef",
+    "sha256_manifest": "dc8339e66b45342786b6daa8c548d00395ce82d77e40ee0d555fc97e6cc133ae"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/hcz-loop/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 47699,
+    "sha256": "270fc3e318ad6a6b908ac78cd67fadf0bd1511365157557ab680ca1ddaee0517",
+    "sha256_manifest": "670f71b7806a58146094c2f5906bb0de4a491f9a7a57eebea37f248cf8c0dca2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/htz-solar/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 50465,
+    "sha256": "6a11f32aef420521d58fe1356e205280d7b29fc8c3e5678f3b4d38439cc2485c",
+    "sha256_manifest": "42c54ad2994b97ba7eae99e1c78f9d0628f5338cc839bffa48bdce58c45f984b"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/htz-talon-dive/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 26253,
+    "sha256": "290501eb589cde563292ae83c9f37f7a03f714f2bd08224bb1c9d6ef0c83d5d9",
+    "sha256_manifest": "ef1c75b1a8a95e83a4305412b986641cc7d2f7d808f29ae386d88317d91bf4ae"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-boss/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 88806,
+    "sha256": "d03be8f9dd38e6786eaf8965fc0c3d88fd97b0528f6b38499cd5881d815996bf",
+    "sha256_manifest": "514dff64ed8806cbf2b6c578fa1e3c10101e71bc7e52aea7becf4d603c19a655"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-duo/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 27488,
+    "sha256": "5bd063d6ec9075191ead2dd21e5d775b3c7ad7f82ed640f3e3b52e83e3c40ad8",
+    "sha256_manifest": "e8e0290b6ea16425153a7e66c299c2ea4378d7310c78646ea3dabf5a6c3a1751"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-pair/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 88239,
+    "sha256": "dd5778bf4322eaeeba38a09c3f4210d4b48dba2cb884bba5f8ebfab5086a26f1",
+    "sha256_manifest": "e0ab4350d0ef186ad7c28d267e27f9ecd297576cd783a59df82cf821818b03ff"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-slope/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 47553,
+    "sha256": "dcea7c1a889f4aa805533b3dc3e202cdc66e0e6d7850245366093fc1c23867e6",
+    "sha256_manifest": "2147f595a338d0155f7d5a3cc3907d5f9427628fef8799fa5af2429feacf208c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mgz-chain/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 16883,
+    "sha256": "e4742f1ad34926e9a9a1624706cab2231e2cc91903acc0d16b49315185bce28f",
+    "sha256_manifest": "7c47d4ac5ad606f83c116825774b1f3c32dfcbd45ba6e3b252a4183c33cfb95c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mgz2-chain/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 57631,
+    "sha256": "6cddfe3c45e096641ac2423d31aaae2b72f0d2cdbdd0ce0d6fb102c828b143fd",
+    "sha256_manifest": "62e917cee6c1ca9e48344879c9a1f349aa22e2252680ea3c96b89635f79626a2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mhz-hyper/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 55392,
+    "sha256": "501171331497996d95e269afbea419444d83a6bbb4973a8e723d149dcd46cc80",
+    "sha256_manifest": "aaede15315bb98607c2270b9914a1ee72954de6aa184737f9f0026e40ad2e8d0"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mhz-spring/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 37110,
+    "sha256": "0eea5059c1c4a7eb9d0146c8f847e3bdf967c9a5cfca14accd674ec6cf3c5934",
+    "sha256_manifest": "67f897c59bbe878117b6b9088cfe6f676504272f025f3b445c4b544d114be751"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mtz-run/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 48391,
+    "sha256": "8a21ebfaf232a948206e8941a53a5aefd82284c528afa2ebb5020f49edf397af",
+    "sha256_manifest": "3e556eeb153b947db89eebd60867650b2c1cb5d6e47e585fff0fc608e656abfd"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/s1-ghz2-buzz/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 30962,
+    "sha256": "1aeb13bb983d4b7b1729ec7812e29ed421c167585d60f2712bac4952a459b07d",
+    "sha256_manifest": "1e1760d271204f0a608e50b00fb80a6e553b124fc7936bff7bc863b160fa4c5b"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/scz-chain/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 41572,
+    "sha256": "e8ecf3a91eb689a4f2c30f85c82bb524fb17ef411e05d0aef554c9f81bbdc845",
+    "sha256_manifest": "b4ae12d22c09bb468100a29071ee8f71eb948c57993f0c9797b99fb5507c0179"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/slz-gilded/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 47422,
+    "sha256": "9346265f777aaa13479384b9df936e57cb2b3b66f59a35db8cc6690419d102e6",
+    "sha256_manifest": "71f7207f374897cabce8f5618598106d04f53e835be1f5f37bd21fc4dde138b2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/solar-fly/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 38078,
+    "sha256": "2417a1f3f28fa2e9b6bc22bb4ab55279db2bbbb5d81fe1de61cabf568b073557",
+    "sha256_manifest": "6be621cb9450a9647a150025b3165f22c79edc082da01962fc096159a5d2f536"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/syz-solar/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 53026,
+    "sha256": "cc026da51af89e767bb7dac91ec0152a456938da9c96fd8907bd5a193d3b1d74",
+    "sha256_manifest": "d7a770132607de5877c5b78f46cb7155caad798e109aa7d23dfaaf9d5f0bc624"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/syz-talon/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 46017,
+    "sha256": "0f96c37ac78b6f90717034733f48485539cd4192c5b6bf197d68c4396dbedbaf",
+    "sha256_manifest": "3b8ca761d68d3de1b5bb2692dbf5f6eb92166a6696a545c9ae541d5eace2b51e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s1/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 84855,
+    "sha256": "5ad089c5a700269f14005410efd1ff5c58e4543dea66dd62bd1ba9e8d09ff1a2",
+    "sha256_manifest": "8457b2f077091614a07102bc48a85cf0b53dd144cde292f3d85e3566f585be8c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s2/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 84855,
+    "sha256": "5ad089c5a700269f14005410efd1ff5c58e4543dea66dd62bd1ba9e8d09ff1a2",
+    "sha256_manifest": "da3979c820b13527a5383f808cdc6b25baa3bbab829cf8abad264dfc7f5debe0"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s3k/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 84855,
+    "sha256": "5ad089c5a700269f14005410efd1ff5c58e4543dea66dd62bd1ba9e8d09ff1a2",
+    "sha256_manifest": "ae91dcc8ff8f136dfe86d282e75e5b165a4b87d93ced281d128017aa0dcbf775"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-carry-fly/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 33041,
+    "sha256": "0a80eadad255acfb85b87f92758dadf957d38eedfc939d44bccb3e28b989c7a7",
+    "sha256_manifest": "ecadf724dd387079419cccc1c185d7c25cd435a8d99b19e617ccd160d78e3242"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-gilded-clear/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 121213,
+    "sha256": "69b60290ac985e4a98ed96754ec5b2b30070c4f0298ee94eefcb3a6518bd752b",
+    "sha256_manifest": "6b7928e5028cce6d501c3d0d3582cfc5f4316d3436db10d2e92af2afb180c664"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-mgz2-chain/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 57738,
+    "sha256": "37855edfc0639146819b291ca83c56b52d1ec32cffe8c79c9927f22024600050",
+    "sha256_manifest": "23fee5af47227129cdc4d69123c3ddcc18153064b7a186884937a755356875fa"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-s1-ghz2-buzz/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 30827,
+    "sha256": "091c33a1e1785a15a76de76365c1c9fd7354ac532c233fd64a9e2ff95173efee",
+    "sha256_manifest": "aed5dccdf96fd8bff7b3d5116bde38bc2f0f8b593211c2f15053824f6e1d9f58"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-solar-fly/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 38078,
+    "sha256": "29129af2d6fb78a2429894c0c93ee4b467ad4707257aeb8451eabfd66aacbb4a",
+    "sha256_manifest": "a0fdc885c748082e5881c8e70c7a0b0052130818c9161f9b666ac8dc0e1aec2b"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-title-s2/state.csv",
+    "kind": "measured native gameplay CSV (see provenance for entry kind)",
+    "files": 1,
+    "bytes": 65055,
+    "sha256": "367b3fd3821f49bdb951fbd54b32f3e465486d5967c8e287181b2b2a6c0ecd68",
+    "sha256_manifest": "350126e7f25b5fa96b159120bfa8909c30592b9c432c0799e0284abf99eb5949"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-gilded/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1113644,
+    "sha256": "ff78dc508766de415e3efd88523a1a8582842acab3b09f5bae3a3e3d8a31f141",
+    "sha256_manifest": "8b771bda32cc1f0d0137373e7de0bf9fb35666142ff97ab9cf13b307f3336614"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-hero/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 2272044,
+    "sha256": "b899626407f70460a27debefc61d27395737fde9ba2d1e4c8427a974112ad4ec",
+    "sha256_manifest": "32dd1e29defb7668be09b81406e623506992c3332b41a4ed2788de0c35e003a6"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-normal/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1363244,
+    "sha256": "ac17a9486d22c47205333154cf62e4001c829231a9efbcff88b329a53c7e5bfb",
+    "sha256_manifest": "6a8d30d741cdb1e25ba6a8fe4e819a43504707afe6dc4ccce8d716ea2b5d492e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-solar-reveal/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1200044,
+    "sha256": "3f4d286e8228a1b5d6785f49a8c9d0eee68d2336d715ee3dc93439dae6eee955",
+    "sha256_manifest": "d856de2d04392ab2a1c34ef5454617b29b7a945b4fc5ebe43c0e163fe1dc3c7d"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/aiz-talon-dive/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1510444,
+    "sha256": "b85dc60f45acd3bf92075d59e77ebaa5384ae50876df9153714757d402d87e0d",
+    "sha256_manifest": "f406fae0c1c460b49c6d2ea8636c0e27934d8af7bcb46fdf69035c4734d0461c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-gilded/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1305644,
+    "sha256": "993decc2c91187dcd697117e963fdcd890f1cbfd0bcd553f73906ad6696f5d05",
+    "sha256_manifest": "21148ea799b426ccd148ecef05b2223e6a7320de3dd34e37056607779d15047b"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-talon-whisp/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 956844,
+    "sha256": "2dc7e1d31aa9b49c99d7b7770cc750be34773f88ded3b4bfb3c9069f562201fd",
+    "sha256_manifest": "00268c2c199d769d250a4b3366b29cf4a9f9c6a5b3f927869dc857a448b8eb55"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/arz-whisp/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1571244,
+    "sha256": "719a1f7ab6ae05a593cf5b3a4861b78f7820e49a6ad0c089e88030642944bc5e",
+    "sha256_manifest": "fc34d75d764a91ffacb346b48db212f248de09824bf7af7138828b331d91cbc5"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/blue-sphere/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 3744044,
+    "sha256": "d34214fa2008b5aa0de1edced7dd9862aea92b7095e3d3608007e776686e69fe",
+    "sha256_manifest": "9278396c6a8ef2e56132cb9fa67e604aeed0b16294089dba61a2c71484e26d7c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/carry-fly/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1184044,
+    "sha256": "ab00f1f3905ace92cf325ea8c998c6e8619e46c13dc109dfbf5619c3e02d6765",
+    "sha256_manifest": "75c4c22ce42c67016313c3dc491636447f0397f0c5402027c00f315f49de38d2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/carry-swoop/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1056044,
+    "sha256": "5502db1c987e86410273df190154406e94eb5324fd6878f8c08bbb056d1f5517",
+    "sha256_manifest": "8d764f1fc8f3fde7a4000d160f9b3c817e8526ae43b9bd1d2b114755a6d5bf04"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cnz-bumpers/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1248044,
+    "sha256": "11cd043af30cb2d2c8768c3ee36f3a811a2ad642089fd4d91cc196e25e858dc7",
+    "sha256_manifest": "3c1ced1fa2d768a225d6bbfb5f24c29fc89362373798d3ad97d0c30dade3d8f4"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/continue/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1536044,
+    "sha256": "46ea71da247c66a543a722efb94bc0008c5448bc6b03da650b8d818627c196ac",
+    "sha256_manifest": "3817f2bd8f5734588d76bc7552b0497d0f24dd4295a7b4fc23aaf5a197a9d231"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-gilded/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1382444,
+    "sha256": "63d8fa4d0540a7c6cdb14cf7c60cbac356079e8b7447af7a2434b624029db61c",
+    "sha256_manifest": "7c1b73927492b0e64b8304814af245e6b6a5e2ecb8e46596999b6a8b85a9a86e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-lock-mod/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1475244,
+    "sha256": "95899b63eb717aea12ccb2cacca89a54ec605c82d08e28351db91f01ecde20eb",
+    "sha256_manifest": "eaa2b16cdb710f05461514afef13eb5d20cf5118b93100a275241c9c100699c9"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-lock-stock/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1475244,
+    "sha256": "95899b63eb717aea12ccb2cacca89a54ec605c82d08e28351db91f01ecde20eb",
+    "sha256_manifest": "ed4317bbf746c71247843decfc300b63f5df3227f74a212902ac89edb75b8fb7"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-spindash/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1203244,
+    "sha256": "9aeaf1b49710d8e72c3300534b41c494f59a1c5c3647acb001c8b0801f6e5ab3",
+    "sha256_manifest": "ef6ac3a8fe2405f306dba43fbfbe577c36dc1d2b1a249e041eb0fb215c233fb9"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/cpz-talon/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1584044,
+    "sha256": "e54aa90aae8333b220e8b00fa7761b2d8f5877cf7d6708bba8b2c8ea81ac3fc9",
+    "sha256_manifest": "84946ac94d9d1d6a347b91ad0cfe71533b8ff5aec9a92359fa8e7c48fa85c221"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/data-select/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 2307244,
+    "sha256": "d8745f63aa442b464778465d01393bffe9a2dc48825ff2c58788ebc7d50682db",
+    "sha256_manifest": "99b28ccd9e4fff57b8932c26ebaf934b2c615660cdfa02f2c595fbe559f5d5ad"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-hyper/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1436844,
+    "sha256": "95a76a451a9a6d8301d2f782eb7564b4629d1075dbd92ad87f77fa6280a34c74",
+    "sha256_manifest": "e2d8ae2aa79d71e1f1363b8ec85e23883dd0465fc1e48ccf831e4b0cfc908916"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-solar/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1286444,
+    "sha256": "2fc67aad662fcc2b579a02d3753c6fc73a7cb6a19f0c5142d729bd2f9a856144",
+    "sha256_manifest": "ec765ca4e162f1b2130ff279d6c6a5bd64ea700873faf15d607193e208365759"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/dez-talon/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 972844,
+    "sha256": "ebc712c73e9ea2c575b3921f391bfafb7b5e3c410988ceec3762a1195513043d",
+    "sha256_manifest": "8f0c11f7fd6435b0e663117d377f5cd4dd2bc0b435c8fa2540c091db187350d9"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-clear/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 2976044,
+    "sha256": "57ffeda2cb64e4cf84b1aab768cdeab83d46d810ce2bd5ae87369beb2c33203e",
+    "sha256_manifest": "9b74f5d4edbaf8124f2205a566f940f48c5b2624ab3719289aa19d4881197fbc"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-lock-mod/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1168044,
+    "sha256": "1dedf38cbddf0e0182516b2011e8b81fbddf709f64abcae6a782a427caec2218",
+    "sha256_manifest": "a1f602b686e0fd350b48e1c513b46427febb4ff593728bc0bb366aad2d4a76c7"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz-lock-stock/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1168044,
+    "sha256": "1dedf38cbddf0e0182516b2011e8b81fbddf709f64abcae6a782a427caec2218",
+    "sha256_manifest": "2d630fa77c62cb0bfda74e0d7bf51d8b9c046324c755b07e17764303b0065b0e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ehz2-corkscrew/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1571244,
+    "sha256": "42e149483c8c66724afc8f078eddcbed8192ee44334e8e0abdaca4438d0c8858",
+    "sha256_manifest": "1b3dcf20c4128083fd327555ebb189a9b950b6a6f06e0229a976e5876e12ccb7"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ending/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 14201644,
+    "sha256": "c8f7cb406c20cf3ae60a8c96476d2c6e4f23a2aad96d3faab53c5b2c528d5e03",
+    "sha256_manifest": "fdad6aef530e78d3e038a8baf4be95be519429463520b07e59e0c1e57e01e09a"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/fbz-solar/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1504044,
+    "sha256": "84a1d45b7678925286e2445825ef90bb59a8b862eeeb914bdb5bcd82bf57323c",
+    "sha256_manifest": "8413809d7b442b7a6cff47aa2a0237cc7fdd5e4ee8975c1e65f975a3753cee10"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz-clear/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 2976044,
+    "sha256": "9aa36cb40fb3c8666dab468dc9e439fee7a3ae704f1e8972f0efd6abefa082a8",
+    "sha256_manifest": "fe9353c6c40d80c2c86624c083c56757f73b24ce2d3f2497eab15c92bdc7aabd"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz-ss/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 5849644,
+    "sha256": "ef9e5ec4c355f65e6235c94eb5c8ab7914bcb329c4b81ea80ecef69895278c83",
+    "sha256_manifest": "a098ed7f6f49342fd3055c5e87fe5b20392677f3d3923adf63cfd02f4e3b9821"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/ghz2-buzz/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1571244,
+    "sha256": "8eb2d9cea53b336a709e235f633973ba2975ebedf736ec7eab4438040dd9d3af",
+    "sha256_manifest": "fc10d5cd4fa253d6e0467cdef94a888e04abb2842619fdf8dfe63d0cb8139e25"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/gilded-clear/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 4531244,
+    "sha256": "22410a15ca164f8f96fca03c4a7d20dcaa0ef25d47297ab5502bb7a2e5fbc2d6",
+    "sha256_manifest": "10c228ba3aa41536f9fb7c093da0c7bba247f55a79ed222502a87ca3d6493b06"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/halfpipe-run/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 4435244,
+    "sha256": "20fefc0b5ed0ffce1375d77ff711b2cd1a05d4a9d4f50247e1a66e274177013e",
+    "sha256_manifest": "b8c0dd89c004fc6e526f120d8ecd97d63c4abe5e9a356c298f4096c7a7cc1c28"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/hcz-gilded-runin/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1651244,
+    "sha256": "8a60ca1c728d334ad3e9bd5bd8e5ff50a050f26b7d6a41c4f62f34f2cd9f9a5c",
+    "sha256_manifest": "21347258270eb83d51523cd2ac03a1b5abf1c5ced830d204966930a32c94087e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/hcz-loop/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1680044,
+    "sha256": "1c484450960055e78625c14ff41bd89f9389a297dbf7d24e18b0bb4abe1d0f9e",
+    "sha256_manifest": "61147dd6aa3955bb8aa37b15fa0c85d491313f4b4c578c24b7f70af608f83700"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/htz-solar/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1504044,
+    "sha256": "1398125fb0831f11fa5d952cae66269c549bd936f1f9989a128eb4da57d2dc91",
+    "sha256_manifest": "be8b02808537a3ff7cb521f27f5661769889a182b3f5c38ed23d9368d76520e9"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/htz-talon-dive/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 944044,
+    "sha256": "e6762ee581b0aee2fce81a85d8df95be31453f1ddb03c2479ff3ed8206a7e911",
+    "sha256_manifest": "456f101c08f95fc92b204a699d78ec9dff20a96425c4bd310d3217071797b503"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-boss/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 2643244,
+    "sha256": "3bfd151c4503c3ff00b68ff81ce4614c2aa8b1e780445673e0cb069a14bb44fe",
+    "sha256_manifest": "a45aa445d5e914f8008ab9e34a87ec7f5e0cc41915afc3dff4e996a4d6a1fd2d"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-duo/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 864044,
+    "sha256": "5ebdbff0e42ee92a010c5e2cae047faf9fb10be29ce9a026e2c485ea25b44672",
+    "sha256_manifest": "8b366aa3d588e2ac6cbac8c1ecf804d99f64ef00d229456b1804228acf36a155"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-pair/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 2112044,
+    "sha256": "c838a97042e7f08774358014a4adf8aeaaf1fd07f8e716ad70483bf41ed8fac8",
+    "sha256_manifest": "0f93e1872681ccd7de101224dc7f006d15a9cc480ca67cb1aea4e4971b4a4d44"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/lbz-slope/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1680044,
+    "sha256": "edd0d49822252f2997d40dae3d5aa2aec5cc2a51db2ecf7eafa186d799cd5c46",
+    "sha256_manifest": "76a102350c7ae4608fec9ebb89c923bf6bb5a906233a519c2f2c26175623482e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mgz-chain/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 588844,
+    "sha256": "0b0c7e931421ccd3745a81fa03291c99d43c952273da487c2b8e52ecb82df588",
+    "sha256_manifest": "63c9fae51cf9e5d8537d46c3bff444366a7351079db248d0d173a81eebbeb379"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mgz2-chain/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 2140844,
+    "sha256": "a1e0195c668591025e55a8ada1b5cb9143dec32b73f66e31eed7b2cbf00d1cbc",
+    "sha256_manifest": "d91276fc6ccaffb32f90c29cd7ea2c347b66fdaf89e3c2df1e7d2d992a079949"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mhz-hyper/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1382444,
+    "sha256": "fcafa58c07d3cc41881b4a0ccfb60d7030516cbdd5a760cbe695f1ac1fa38148",
+    "sha256_manifest": "cc23ef0733a36e29bc7d232eb22bfdd04f2e4cecdff53c163eadb14d3cd88d94"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mhz-spring/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1248044,
+    "sha256": "97b52317b422675170fee9fa57a7a976628193d726400178a7495f2ac4db2bbb",
+    "sha256_manifest": "c860b69c1d6ac8eccdf87ff936e4b89e9a6c80796d4cdf89fa25c16526aad20e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/mtz-run/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1680044,
+    "sha256": "fdba0b1744de80ba4247a96e96b97f2529991ceccbbf827c3a348245d4da0041",
+    "sha256_manifest": "7a5506f6bcf721a3a48e71a58be36fad41e49c1ab9783c7600936c8f8de019cb"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/s1-ghz2-buzz/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1123244,
+    "sha256": "705bbfb4a05aa02e73e8b6d6caaf34ff217f7c8ed249e18a4a38c4010182ef6f",
+    "sha256_manifest": "90fc2b37472e868b3b710ba95c0dc488b9cf955e4e4744a318f3b8d8a5fc9e05"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/scz-chain/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1740844,
+    "sha256": "45da2490d039bb74f3e18788ee8e9855fb98ff4861e8c34d14944ce630af49ec",
+    "sha256_manifest": "6f421289760e98d4e5b47f68d9b7e6e19ca6e3a3ff435c0c351ab1cc8ffcd02c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/slz-gilded/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1382444,
+    "sha256": "e6c32249a5273ec20b9314594e54e8d782e30bebf057495d93cc904e678bf505",
+    "sha256_manifest": "fa7abacea7338f57abfb95bb94429e20b004cb3140e498805f40cd52dc04d022"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/solar-fly/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1472044,
+    "sha256": "aa0ff99b1111d716d7f6cac878b227c9f483a2122fc607ced9f1b8836e70c313",
+    "sha256_manifest": "47723d91e9aac9c081dd3f127fda4e46f8d3877b90dd379ddf2a872a5c3a810e"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/syz-solar/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1568044,
+    "sha256": "ba3ec0b9e48ce24f659ec4c7646637e5ff9e3c8843722540366dcee1841a23c8",
+    "sha256_manifest": "11d3b922276bd0e1c40587a462694ae92dfd3d91bac9874ac64adcc42b70b261"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/syz-talon/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1657644,
+    "sha256": "9ac333607666196bb7e1f11d30f9f03bbbce4144be33462fda3833a58e5fc50e",
+    "sha256_manifest": "26bba1ebdd2e932cbe2000632725ce289b1b6593ad06a38f0f93fcd6c94329b6"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s1/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 4160044,
+    "sha256": "a2d85c80315c10cbda138fc4c9de6769e80687fe25421f73a859ebc20f71f9f9",
+    "sha256_manifest": "ad371b5761c480d5da84d4c0b4349eedf7fe5c3f6f593afbc18f27586c3f0a1c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s2/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 4160044,
+    "sha256": "59390359dd5a14f4c17dbd58ecbec688c780e0ad44274ce5257ca96e12350831",
+    "sha256_manifest": "83a644ee209c9628dd99910257e2982018483dcd2d450949c7dc2b6ecf59c601"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/title-s3k/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 4160044,
+    "sha256": "a2d85c80315c10cbda138fc4c9de6769e80687fe25421f73a859ebc20f71f9f9",
+    "sha256_manifest": "bd2a9ed03153cc2d8dc15128e3cc3f80ce7841265ce065898b21d052f452b66f"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-carry-fly/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1184044,
+    "sha256": "ab00f1f3905ace92cf325ea8c998c6e8619e46c13dc109dfbf5619c3e02d6765",
+    "sha256_manifest": "1069c51cc2a0602a6c243fc1a34d7387a5613ed5e88219e89b719a68f623834c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-gilded-clear/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 4531244,
+    "sha256": "12acb902a881109f903813ce92075b6ad02d4f514b076a135330d151e177dae5",
+    "sha256_manifest": "6da0d1307f619accd727b8edca05b1fcce379350418a09a2380208cc334e0b3c"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-mgz2-chain/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 2140844,
+    "sha256": "b2ba3d11b72a51f39ed59241ff5db1107f7cd0b0bdbd1de51b280bb3ab9ec6b8",
+    "sha256_manifest": "0194f3d89177ae1cbe370d70d76a13e7b79c3247ebbd0c6a712c2c485c47bff2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-s1-ghz2-buzz/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1123244,
+    "sha256": "7c75f65c7e06522d1a814b7fcb4d6b5178eb380f472c1892a338af636f32aaa8",
+    "sha256_manifest": "9bd76394866d14e76cad113b0e9301255f19799a7788fcca5fe82f635a94c0e3"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-solar-fly/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 1472044,
+    "sha256": "aa0ff99b1111d716d7f6cac878b227c9f483a2122fc607ced9f1b8836e70c313",
+    "sha256_manifest": "fbbf68a3a670369a76d3b1f60038467c9430ac73957b4881c03ed04ce6c17bd2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "captures/w-title-s2/audio.wav",
+    "kind": "SFX-only capture audio, music volume 0 (ROM-derived PCM; external)",
+    "files": 1,
+    "bytes": 3200044,
+    "sha256": "ca7b186a90c48525a11611f15a64f627ff32b92c024f61830934018dddccea81",
+    "sha256_manifest": "869e1977b2538e5f19d0117f2295a8169236344384b59566091d4fb6416d5d28"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "work/bed.wav",
+    "kind": "music bed PCM (owner-supplied track 0-123.4 s with one fade); external, not redistributable",
+    "files": 1,
+    "bytes": 23886112,
+    "sha256": "dfcef548cc9c5f981b61e2f2a79d83645a62aeb2c3e05815b0ae775dac70bfd3",
+    "sha256_manifest": "a2b25bfa30766af86e76c5c07b51fb5b376c0f5c53ad90daa03a66599dd1b3fe"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "art/duo-sunrise-b.png",
+    "kind": "mascot drawing cut-out (Sol, from the owner's release-promo project); external",
+    "files": 1,
+    "bytes": 992555,
+    "sha256": "5faca81eeb241af3868887b3bbfa06798d5d43ab85d850755085761bf220097e",
+    "sha256_manifest": "979c7645480c9c609bbedcd3345c7df697ef04a3cae7dc78aee55d31fb8df973"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "art/duo-sunrise.png",
+    "kind": "mascot drawing cut-out (Sol, from the owner's release-promo project); external",
+    "files": 1,
+    "bytes": 1102329,
+    "sha256": "e4afd726e4091156c1f40410ff4cd0c1fac8070c727cd207d9a07fd89466eb2f",
+    "sha256_manifest": "12a8f419dda8563ed19f17e02668f85586c8d7edbd3bbedfc286bccdb2acd4e7"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "art/mica-hero.png",
+    "kind": "mascot drawing cut-out (Sol, from the owner's release-promo project); external",
+    "files": 1,
+    "bytes": 827304,
+    "sha256": "d3b5210544f48c29ede0d745604f7a4f2998e2fd09f358a7d8ef70327b5b73d3",
+    "sha256_manifest": "d981de0fd7539eac2b6368574702c73fa4853f39bc4cca7f7e811fbeec888b09"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "art/name-mica.png",
+    "kind": "mascot drawing cut-out (Sol, from the owner's release-promo project); external",
+    "files": 1,
+    "bytes": 1437617,
+    "sha256": "07c7a5cef8b64581133a9f3eccc80374fe0f42c8bdf338a828198c4c6fbf931a",
+    "sha256_manifest": "c9c990f371ed8f30cce39fbca5117bc882fc842f070ba3aed01acb73a38f51b2"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "art/name-talon.png",
+    "kind": "mascot drawing cut-out (Sol, from the owner's release-promo project); external",
+    "files": 1,
+    "bytes": 1097256,
+    "sha256": "3ce6418b700555dee38cb3584f717821b91b77d4f31ff1eb735cd4893f68fba5",
+    "sha256_manifest": "377b040bf056f90ab5f773761b14d450d9d95a733168b1ae0e3d2651d7964161"
+  },
+  {
+    "root": "mica-and-talon/revision-20261112",
+    "path": "art/talon-hero.png",
+    "kind": "mascot drawing cut-out (Sol, from the owner's release-promo project); external",
+    "files": 1,
+    "bytes": 889674,
+    "sha256": "f7cb2b55c814890ee62572ca033773687a8055a5f671de907df41244baf96522",
+    "sha256_manifest": "f14a69c454ac5b3dbd58f2a022a6b01886c3ff711bc174e5bccd600feffaf292"
+  },
+  {
+    "root": "mica-and-talon/owner-music",
+    "path": "run-into-the-sunshine-chiptune.wav",
+    "kind": "owner-supplied music \"RUN INTO THE SUNSHINE (Chiptune Remix)\"; name + hash only, never committed",
+    "files": 1,
+    "bytes": 31271428,
+    "sha256": "569a921b69983c1a6f2916c6be963bb134a39aaa742b0624044fbe4baf8481ff",
+    "sha256_manifest": "1a91022b11976b146dd478691a4fb79b6f7d7bf26f4eed64a59cf390cd826d39"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "Anton-Regular.ttf",
+    "kind": "third-party font dependency (PROMO_FONT_DIRS); external",
+    "files": 1,
+    "bytes": 170812,
+    "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+    "sha256_manifest": "1c8f0571dc8cae5e50e7be7b3a618c3eb9febc42cff33aafb3079ce380abad9e"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSans-Bold.ttf",
+    "kind": "third-party font dependency (PROMO_FONT_DIRS); external",
+    "files": 1,
+    "bytes": 489720,
+    "sha256": "a4d8e149ecdd4874a0726eb0af894488b3b31c423d6b0017c8f415ed1b795b45",
+    "sha256_manifest": "cd80e1f1fb6eb4dfcf0d2765e6d352c2ff1163330e394f3932a0adac2ff8b468"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSans-BoldItalic.ttf",
+    "kind": "third-party font dependency (PROMO_FONT_DIRS); external",
+    "files": 1,
+    "bytes": 506864,
+    "sha256": "1b96c16db9819bcaa9d588068bb397bb6e977c4874965d3d50d789a1943757eb",
+    "sha256_manifest": "ea37c7612c8cc9e85f75bdc7039fcfff62c259eca84be209ce982aa1c8ede3ef"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSansCondensed-BoldItalic.ttf",
+    "kind": "third-party font dependency (PROMO_FONT_DIRS); external",
+    "files": 1,
+    "bytes": 514400,
+    "sha256": "aebe32d2d821890e0d66443ca2dc59b237ff34a575048696a96516d857ae0da6",
+    "sha256_manifest": "755a54d627530d6b246ce5f9fabf38412516ef5003ce920efa66281b9147f73d"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSansExtraCondensed-Black.ttf",
+    "kind": "third-party font dependency (PROMO_FONT_DIRS); external",
+    "files": 1,
+    "bytes": 516808,
+    "sha256": "9792878489db97d068aaf115cab50bdadd1e843274ff51b3786ca8102ba16a87",
+    "sha256_manifest": "8e208a029abb727133d3c4409293f1b337be000aa9a36432c395eeefa6ef7d71"
+  },
+  {
+    "root": "mica-and-talon/fonts-20261110",
+    "path": "FiraSansExtraCondensed-BlackItalic.ttf",
+    "kind": "third-party font dependency (PROMO_FONT_DIRS); external",
+    "files": 1,
+    "bytes": 539564,
+    "sha256": "9ca866c1aff106aeb850e22dc1541ea35c0cf6862b25869a452a833fe6821fb1",
+    "sha256_manifest": "0cf7e5669a1ce4a9a55c22d9fcaf662427a41ab3d4c3a3c9d50d8ac6cece9323"
+  }
+]

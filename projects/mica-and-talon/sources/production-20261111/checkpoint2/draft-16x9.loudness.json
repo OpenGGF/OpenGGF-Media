@@ -1,0 +1,52 @@
+{
+  "out": "checkpoint2/draft-16x9.mp4",
+  "integrated_lufs": -14.0,
+  "true_peak_dbtp": -2.5,
+  "lra_lu": 2.2,
+  "extra_gain_db": 0.0,
+  "pass1": {
+    "input_i": "-14.40",
+    "input_tp": "-2.57",
+    "input_lra": "2.30",
+    "input_thresh": "-24.55",
+    "output_i": "-13.73",
+    "output_tp": "-1.81",
+    "output_lra": "1.90",
+    "output_thresh": "-23.80",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.27"
+  },
+  "ffprobe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "profile": "High",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "7599012"
+      },
+      {
+        "codec_name": "aac",
+        "profile": "LC",
+        "sample_rate": "48000",
+        "channels": 2,
+        "avg_frame_rate": "0/0",
+        "bit_rate": "327041"
+      },
+      {
+        "codec_name": "bin_data",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "21"
+      }
+    ],
+    "format": {
+      "duration": "95.366667"
+    }
+  },
+  "full_decode_exit": 0,
+  "decode_errors": ""
+}

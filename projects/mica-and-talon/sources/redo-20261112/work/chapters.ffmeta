@@ -1,0 +1,47 @@
+;FFMETADATA1
+title=MICA & TALON - an example character mod for OpenGGF
+[CHAPTER]
+TIMEBASE=1/60
+START=0
+END=846
+title=Cold open: S3K roll-in, partners, the carry
+[CHAPTER]
+TIMEBASE=1/60
+START=846
+END=1348
+title=Title drop: Sonic 2 title
+[CHAPTER]
+TIMEBASE=1/60
+START=1348
+END=2352
+title=MICA: homing strike
+[CHAPTER]
+TIMEBASE=1/60
+START=2352
+END=3021
+title=TALON: flight, carry, divebomb
+[CHAPTER]
+TIMEBASE=1/60
+START=3021
+END=4910
+title=Every screen, redrawn
+[CHAPTER]
+TIMEBASE=1/60
+START=4910
+END=6343
+title=Powered up: Gilded and Solar
+[CHAPTER]
+TIMEBASE=1/60
+START=6343
+END=6724
+title=Hyper MICA: one hit
+[CHAPTER]
+TIMEBASE=1/60
+START=6724
+END=7063
+title=Together, powered
+[CHAPTER]
+TIMEBASE=1/60
+START=7063
+END=7440
+title=End card

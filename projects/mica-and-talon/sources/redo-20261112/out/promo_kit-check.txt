@@ -1,0 +1,5 @@
+16:9
+pacing: {'shots': 27, 'mean_shot_s': 4.59, 'busiest_window_cuts': 6, 'cuts_in_last_window': 4, 'seconds': 124.0, 'longest_bare_s': 0, 'busiest_window_captions': 0}
+
+9:16
+pacing: {'shots': 27, 'mean_shot_s': 4.59, 'busiest_window_cuts': 6, 'cuts_in_last_window': 4, 'seconds': 124.0, 'longest_bare_s': 0, 'busiest_window_captions': 0}

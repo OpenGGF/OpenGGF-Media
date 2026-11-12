@@ -1,0 +1,38 @@
+[
+ {
+  "id": "q-lbzwalk-20",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 90 R; 14 L; 20 L; 1 R; 560 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  }
+ },
+ {
+  "id": "q-lbzwalk-30",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 90 R; 14 L; 30 L; 1 R; 560 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  }
+ }
+]

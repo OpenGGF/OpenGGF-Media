@@ -1,0 +1,110 @@
+[
+ {
+  "id": "q-boss2-21",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 21 R; 307 -; 1 A; 14 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss2-22",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 22 R; 306 -; 1 A; 14 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss2-23",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 23 R; 305 -; 1 A; 14 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss2-24",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 304 -; 1 A; 14 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss2-25",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 25 R; 303 -; 1 A; 14 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ },
+ {
+  "id": "q-boss2-26",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 26 R; 302 -; 1 A; 14 -; 1 A; 420 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  }
+ }
+]

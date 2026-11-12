@@ -1,0 +1,235 @@
+{
+ "16x9": {
+  "file": "out/master-16x9.mp4",
+  "bytes": 142731443,
+  "duration_s": 124.0,
+  "video": {
+   "codec": "h264",
+   "profile": "High",
+   "pix_fmt": "yuv420p",
+   "width": 1920,
+   "height": 1080,
+   "fps": "60/1",
+   "bit_rate": 8872814
+  },
+  "audio": {
+   "codec": "aac",
+   "bit_rate": 324397,
+   "sample_rate": 48000
+  },
+  "chapters": 10,
+  "full_decode_exit": 0,
+  "integrated_lufs": -14.0,
+  "true_peak_dbtp": -1.5,
+  "loudness_range_lu": 2.4,
+  "loudness_method": "ffmpeg ebur128=peak=true on the encoded AAC; two-pass linear loudnorm, extra gain 0.00 dB",
+  "sections": [
+   {
+    "section": "Cold open",
+    "t0": 0,
+    "t1": 14.1,
+    "lufs": -13.7,
+    "true_peak_dbtp": -1.6
+   },
+   {
+    "section": "Title drop",
+    "t0": 14.1,
+    "t1": 19.68,
+    "lufs": -14.4,
+    "true_peak_dbtp": -4.4
+   },
+   {
+    "section": "MICA",
+    "t0": 19.68,
+    "t1": 39.2,
+    "lufs": -13.2,
+    "true_peak_dbtp": -1.5
+   },
+   {
+    "section": "TALON",
+    "t0": 39.2,
+    "t1": 50.35,
+    "lufs": -15.1,
+    "true_peak_dbtp": -3.4
+   },
+   {
+    "section": "Every screen",
+    "t0": 50.35,
+    "t1": 72.72,
+    "lufs": -14.3,
+    "true_peak_dbtp": -2.9
+   },
+   {
+    "section": "At speed",
+    "t0": 72.72,
+    "t1": 83.94,
+    "lufs": -13.8,
+    "true_peak_dbtp": -3.5
+   },
+   {
+    "section": "Powered up (chorus)",
+    "t0": 83.94,
+    "t1": 106.42,
+    "lufs": -14.2,
+    "true_peak_dbtp": -3.3
+   },
+   {
+    "section": "Hyper, boss and the pair (lift)",
+    "t0": 106.42,
+    "t1": 117.72,
+    "lufs": -14.0,
+    "true_peak_dbtp": -2.4
+   },
+   {
+    "section": "End card (fade)",
+    "t0": 117.72,
+    "t1": 124.0,
+    "lufs": -15.6,
+    "true_peak_dbtp": -5.3
+   }
+  ],
+  "black_and_frozen": [
+   "freeze_start: 0",
+   "black_start:0 black_end:0.55 black_duration:0.55",
+   "freeze_duration: 0.55",
+   "freeze_start: 15.883333",
+   "freeze_duration: 1.016667",
+   "freeze_start: 123.416667",
+   "black_start:123.283333 black_end:123.983333 black_duration:0.7"
+  ],
+  "promo_kit_check": "pacing: {'shots': 46, 'mean_shot_s': 2.7, 'busiest_window_cuts': 10, 'cuts_in_last_window': 4, 'seconds': 124.0, 'longest_bare_s': 0, 'busiest_window_captions': 0}",
+  "captures_used": 50,
+  "captures_outlived": {},
+  "usage_sample_step": 3
+ },
+ "9x16": {
+  "file": "out/master-9x16.mp4",
+  "bytes": 178669060,
+  "duration_s": 124.0,
+  "video": {
+   "codec": "h264",
+   "profile": "High",
+   "pix_fmt": "yuv420p",
+   "width": 1080,
+   "height": 1920,
+   "fps": "60/1",
+   "bit_rate": 11191261
+  },
+  "audio": {
+   "codec": "aac",
+   "bit_rate": 324397,
+   "sample_rate": 48000
+  },
+  "chapters": 10,
+  "full_decode_exit": 0,
+  "integrated_lufs": -14.0,
+  "true_peak_dbtp": -1.5,
+  "loudness_range_lu": 2.4,
+  "loudness_method": "ffmpeg ebur128=peak=true on the encoded AAC; two-pass linear loudnorm, extra gain 0.00 dB",
+  "sections": [
+   {
+    "section": "Cold open",
+    "t0": 0,
+    "t1": 14.1,
+    "lufs": -13.7,
+    "true_peak_dbtp": -1.6
+   },
+   {
+    "section": "Title drop",
+    "t0": 14.1,
+    "t1": 19.68,
+    "lufs": -14.4,
+    "true_peak_dbtp": -4.4
+   },
+   {
+    "section": "MICA",
+    "t0": 19.68,
+    "t1": 39.2,
+    "lufs": -13.2,
+    "true_peak_dbtp": -1.5
+   },
+   {
+    "section": "TALON",
+    "t0": 39.2,
+    "t1": 50.35,
+    "lufs": -15.1,
+    "true_peak_dbtp": -3.4
+   },
+   {
+    "section": "Every screen",
+    "t0": 50.35,
+    "t1": 72.72,
+    "lufs": -14.3,
+    "true_peak_dbtp": -2.9
+   },
+   {
+    "section": "At speed",
+    "t0": 72.72,
+    "t1": 83.94,
+    "lufs": -13.8,
+    "true_peak_dbtp": -3.5
+   },
+   {
+    "section": "Powered up (chorus)",
+    "t0": 83.94,
+    "t1": 106.42,
+    "lufs": -14.2,
+    "true_peak_dbtp": -3.3
+   },
+   {
+    "section": "Hyper, boss and the pair (lift)",
+    "t0": 106.42,
+    "t1": 117.72,
+    "lufs": -14.0,
+    "true_peak_dbtp": -2.4
+   },
+   {
+    "section": "End card (fade)",
+    "t0": 117.72,
+    "t1": 124.0,
+    "lufs": -15.6,
+    "true_peak_dbtp": -5.3
+   }
+  ],
+  "black_and_frozen": [
+   "freeze_start: 0",
+   "black_start:0 black_end:0.55 black_duration:0.55",
+   "freeze_duration: 0.55",
+   "freeze_start: 15.883333",
+   "freeze_duration: 1.016667",
+   "freeze_start: 123.416667",
+   "black_start:123.283333 black_end:123.983333 black_duration:0.7"
+  ],
+  "promo_kit_check": "pacing: {'shots': 46, 'mean_shot_s': 2.7, 'busiest_window_cuts': 10, 'cuts_in_last_window': 4, 'seconds': 124.0, 'longest_bare_s': 0, 'busiest_window_captions': 0}",
+  "captures_used": 50,
+  "captures_outlived": {},
+  "usage_sample_step": 3
+ },
+ "game_sound": {
+  "sfx_gain": null,
+  "events": 46,
+  "kills_and_boss_hits": 24,
+  "hits_under_bed_db": {
+   "min": -1.0,
+   "median": 1.9,
+   "max": 6.2
+  },
+  "hits_more_than_6_db_under": [
+   [
+    88.15,
+    "aiz-gilded",
+    6.2
+   ]
+  ],
+  "hits_within_1_frame_of_a_beat": 17,
+  "worst_hit_offset_frames": 10,
+  "sfx_bus_db_where_sounding": -27.9,
+  "bed_db": -20.4,
+  "sfx_peak": 0.409,
+  "sounding_share": 0.69,
+  "source": "each take's own SFX-only stem (music volume 0 at capture), cut to the frames on screen",
+  "placed_stingers": 0,
+  "note": "the two cuts share one sound track; levels are before mastering, relative to the bed"
+ },
+ "sound_checked_by": "measurement only; nobody listened to these files"
+}

@@ -1,0 +1,82 @@
+[
+ {
+  "id": "q-pair-run-lbz",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 70 - / -; 3 R / R; 2 - / R; 1 R / R; 1 R / R+A; 1 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 1 R / R; 1 R / R+A; 1 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 1 - / R+A; 1 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 1 R / R+A; 2 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R; 1 - / R+A; 2 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 3 - / R; 1 - / R+A; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R+A; 3 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 2 - / R; 1 - / R+A; 1 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R+A; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R; 1 - / R+A; 2 - / R",
+  "note": "",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 95,
+   "promo.timer": 10200,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-pair-run-dez",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 70 - / -; 3 R / R; 2 - / R; 1 R / R; 1 R / R+A; 1 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 1 R / R; 1 R / R+A; 1 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 1 - / R+A; 1 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 1 R / R+A; 2 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R; 1 - / R+A; 2 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 3 - / R; 1 - / R+A; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R+A; 3 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 2 - / R; 1 - / R+A; 1 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R+A; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R; 1 - / R+A; 2 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 3 - / R; 1 - / R+A; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R+A; 3 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 2 - / R; 1 - / R+A; 1 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R+A; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R; 1 - / R+A; 2 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 3 - / R; 1 - / R+A; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 1 - / R+A; 3 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 2 - / R; 1 - / R+A; 1 - / R; 1 R / R; 4 - / R",
+  "note": "",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 95,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  }
+ },
+ {
+  "id": "q-pair-run-dez-ground",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 70 - / -; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 3 R / R; 2 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R; 1 R / R; 4 - / R",
+  "note": "",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 95,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  }
+ },
+ {
+  "id": "q-pair-carry-aiz",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 70 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 8 - / -; 1 - / A; 8 - / -; 1 - / A; 8 - / -; 1 - / A; 8 - / -; 1 - / A; 8 - / -; 1 - / A; 8 - / -; 1 - / A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 8 - / R; 1 - / R+A; 60 - / -",
+  "note": "",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 95,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  }
+ }
+]

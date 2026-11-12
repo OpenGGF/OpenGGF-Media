@@ -1,0 +1,7 @@
+freeze_start: 0
+black_start:0 black_end:0.55 black_duration:0.55
+freeze_duration: 0.55
+freeze_start: 15.883333
+freeze_duration: 1.016667
+freeze_start: 123.433333
+black_start:123.266667 black_end:123.983333 black_duration:0.716667

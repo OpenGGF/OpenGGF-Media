@@ -1,0 +1,21 @@
+[
+ {
+  "id": "d-cnz2-team",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 3,
+  "act": 0,
+  "x": 5944,
+  "y": 276,
+  "script": "30 -; 240 R; 1 R+A; 59 R; 60 -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 45,
+   "promo.timer": 5400,
+   "promo.score": 31700
+  },
+  "note": "MICA and TALON together through Casino Night 1 from its first starpost"
+ }
+]

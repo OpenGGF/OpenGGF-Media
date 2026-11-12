@@ -1,0 +1,42 @@
+{
+  "events": [
+    {
+      "frame": 65,
+      "score": 100,
+      "air": 1,
+      "x": 7697,
+      "y": 1198
+    },
+    {
+      "frame": 82,
+      "score": 300,
+      "air": 1,
+      "x": 7759,
+      "y": 1149
+    },
+    {
+      "frame": 104,
+      "score": 800,
+      "air": 1,
+      "x": 7825,
+      "y": 1107
+    },
+    {
+      "frame": 273,
+      "score": 900,
+      "air": 1,
+      "x": 8142,
+      "y": 1122
+    }
+  ],
+  "first_hurt": 183,
+  "used_cold_frames": [
+    15,
+    169
+  ],
+  "used_homing_frames": [
+    0,
+    176
+  ],
+  "proof": "First three score deltas 100,200,500; consecutive ROM Mantis kills, airborne, corroborated PNG65/82/104/110. No trace input."
+}

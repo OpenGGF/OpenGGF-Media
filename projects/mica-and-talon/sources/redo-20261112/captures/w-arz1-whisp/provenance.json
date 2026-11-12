@@ -1,0 +1,38 @@
+{
+  "id": "w-arz1-whisp",
+  "kind": "host",
+  "host": "declared",
+  "mode": "hero",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 20 R; 1 R+A; 10 R; repeat 16 { 1 R+A; 14 R }; 60 R",
+  "props": {
+    "promo.rings": 31,
+    "promo.timer": 7200,
+    "promo.width": 400
+  },
+  "commit": "1e0faac12350c56af40954d2a4ee4f74f28641df",
+  "worktree_dirty": false,
+  "jar_sha256": "449ada47b0e963d9fcc630255fed80f4fbad7b53390bdebd21e35386381abfce",
+  "checkout": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f",
+  "command": [
+    "PromoCapture",
+    "hero",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/w-arz1-whisp",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/target/mica-and-talon/mica-and-talon.jar",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-841b918f/s2.gen",
+    "2",
+    "0",
+    "8300",
+    "860",
+    "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111/captures/w-arz1-whisp/input.txt"
+  ],
+  "source_kind": "debug/positioned presentation host",
+  "fps": 60,
+  "every": 1,
+  "audio": false,
+  "capture_host_sha256": "24fe85497b58cbd5d3556f137886ffd3a12b6b6a85d2310e752a3cbc835a06bc"
+}

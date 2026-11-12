@@ -1,0 +1,74 @@
+[
+ {
+  "id": "q-walk-14500",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14500,
+  "y": 420,
+  "script": "60 -; 400 R",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  }
+ },
+ {
+  "id": "q-walk-14800",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14800,
+  "y": 420,
+  "script": "60 -; 400 R",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  }
+ },
+ {
+  "id": "q-walk-15100",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15100,
+  "y": 420,
+  "script": "60 -; 400 R",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  }
+ },
+ {
+  "id": "q-walk-15350",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15350,
+  "y": 420,
+  "script": "60 -; 400 R",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  }
+ }
+]

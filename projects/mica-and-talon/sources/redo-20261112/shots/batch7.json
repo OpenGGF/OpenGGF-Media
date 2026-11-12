@@ -1,0 +1,26 @@
+[
+ {
+  "id": "f-mhz1-team",
+  "game": "s3k",
+  "zone": "mhz",
+  "act": 1,
+  "x": 7520,
+  "y": 404,
+  "rings": 29,
+  "timer": 6300,
+  "sidekick": "talon",
+  "script": "30 -; 240 R; 1 R+A; 59 R; 60 -"
+ },
+ {
+  "id": "f-lbz1-team",
+  "game": "s3k",
+  "zone": "lbz",
+  "act": 1,
+  "x": 4672,
+  "y": 1044,
+  "rings": 24,
+  "timer": 3900,
+  "sidekick": "talon",
+  "script": "30 -; 240 R; 1 R+A; 59 R; 60 -"
+ }
+]

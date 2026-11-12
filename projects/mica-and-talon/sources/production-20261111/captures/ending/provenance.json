@@ -1,0 +1,27 @@
+{
+  "id": "ending",
+  "kind": "host",
+  "host": "original",
+  "mode": "ending",
+  "game": "s2",
+  "zone": 10,
+  "act": 0,
+  "note": "debug credits entry from DEZ; stock photos excluded in edit",
+  "commit": "b088fae95bdbf3f53094fdce79b9eb8e3bf7f9e0",
+  "jar_sha256": "79796eae301420ff10e625a6434c950131856d61a09567a7f35aae4997a2cf6b",
+  "checkout": "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-3c245e9e",
+  "command": [
+    "PromoCapture",
+    "ending",
+    "/home/farrell/scratch/agent-tmp/mt-promo-final-20261111/captures/ending",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-3c245e9e/target/mica-and-talon/mica-and-talon.jar",
+    "/mnt/LinuxData/T3/worktrees/OpenGGF/t3-3c245e9e/s2.gen",
+    "10",
+    "0"
+  ],
+  "source_kind": "debug/positioned presentation host",
+  "fps": 60,
+  "every": 1,
+  "audio": false,
+  "capture_host_sha256": "72c1f0fdf950c6a8e25a33f763beda98ae27ec8adfb368c443529005a56ca56a"
+}

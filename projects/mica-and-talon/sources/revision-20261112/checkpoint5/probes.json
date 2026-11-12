@@ -1,0 +1,537 @@
+{
+ "build": {
+  "head": "0999789a60 Merge commit '4f885afbd6' into feature/ai-mt-promo-redo",
+  "jar_sha256": "449ada47b0e963d9fcc630255fed80f4fbad7b53390bdebd21e35386381abfce"
+ },
+ "audio_check": [
+  {
+   "host": "positioned",
+   "sfx_only": {
+    "frames": 226,
+    "silent_frames": 66,
+    "loudest_frame_db": -24.1,
+    "mean_loud_db": -36.8,
+    "first_sound_frame": 31.0
+   },
+   "music_control": {
+    "frames": 226,
+    "silent_frames": 0,
+    "loudest_frame_db": -22.1,
+    "mean_loud_db": -30.7,
+    "first_sound_frame": 0.0
+   },
+   "event": "jump pressed #30"
+  },
+  {
+   "host": "powered",
+   "sfx_only": {
+    "frames": 152,
+    "silent_frames": 97,
+    "loudest_frame_db": -25.5,
+    "mean_loud_db": -34.5,
+    "first_sound_frame": 1.07
+   },
+   "music_control": {
+    "frames": 152,
+    "silent_frames": 0,
+    "loudest_frame_db": -19.4,
+    "mean_loud_db": -29.6,
+    "first_sound_frame": 0.01
+   },
+   "event": "starpost at spawn, jumps #24 and #45"
+  },
+  {
+   "host": "declared (hero)",
+   "sfx_only": {
+    "frames": 213,
+    "silent_frames": 52,
+    "loudest_frame_db": -25.5,
+    "mean_loud_db": -37.4,
+    "first_sound_frame": 1.07
+   },
+   "music_control": {
+    "frames": 213,
+    "silent_frames": 0,
+    "loudest_frame_db": -21.7,
+    "mean_loud_db": -30.6,
+    "first_sound_frame": 0.01
+   },
+   "event": "starpost at spawn, jump pressed #80"
+  },
+  {
+   "host": "starpost (half-pipe)",
+   "sfx_only": {
+    "frames": 686,
+    "silent_frames": 487,
+    "loudest_frame_db": -24.4,
+    "mean_loud_db": -40.2,
+    "first_sound_frame": 0.01
+   },
+   "music_control": {
+    "frames": 686,
+    "silent_frames": 0,
+    "loudest_frame_db": -22.2,
+    "mean_loud_db": -33.5,
+    "first_sound_frame": 0.0
+   },
+   "event": "starpost at spawn, jump pressed #150"
+  },
+  {
+   "host": "original, Continue",
+   "sfx_only": {
+    "frames": 300,
+    "silent_frames": 300,
+    "loudest_frame_db": -180.0,
+    "mean_loud_db": null,
+    "first_sound_frame": null
+   },
+   "music_control": {
+    "frames": 300,
+    "silent_frames": 30,
+    "loudest_frame_db": -21.7,
+    "mean_loud_db": -30.0,
+    "first_sound_frame": 2.25
+   },
+   "event": "no sound effect on this screen"
+  },
+  {
+   "host": "original, ending",
+   "sfx_only": {
+    "frames": 420,
+    "silent_frames": 420,
+    "loudest_frame_db": -180.0,
+    "mean_loud_db": null,
+    "first_sound_frame": null
+   },
+   "music_control": {
+    "frames": 420,
+    "silent_frames": 0,
+    "loudest_frame_db": -21.5,
+    "mean_loud_db": -32.0,
+    "first_sound_frame": 0.0
+   },
+   "event": "no sound effect in these 7 s"
+  },
+  {
+   "host": "GameplayCaptureTool",
+   "sfx_only": {
+    "frames": 219,
+    "silent_frames": 172,
+    "loudest_frame_db": -31.3,
+    "mean_loud_db": -36.0,
+    "first_sound_frame": 90.0
+   },
+   "music_control": {
+    "frames": 219,
+    "silent_frames": 25,
+    "loudest_frame_db": -22.3,
+    "mean_loud_db": -32.3,
+    "first_sound_frame": 16.01
+   },
+   "event": "jump pressed #90 (Sonic 2)"
+  }
+ ],
+ "tool_positioned_same_start": {
+  "frames": 226,
+  "silent_frames": 66,
+  "loudest_frame_db": -24.1,
+  "mean_loud_db": -36.8,
+  "first_sound_frame": 31.0
+ },
+ "restages": [
+  {
+   "key": "R1",
+   "bars": "2-4",
+   "title": "Launch Base 1 duo from a run-up",
+   "status": "confirmed, with a limit",
+   "probe": "r1-final-look",
+   "window": [
+    72,
+    239
+   ],
+   "mean_gspeed": 1164,
+   "speed_px_f": 5.7,
+   "idle_s": 0.0,
+   "events": [
+    {
+     "event": "spring",
+     "src": 218,
+     "bar": 3,
+     "beat": 4,
+     "dev": 0
+    }
+   ],
+   "script": "positioned host, MICA + TALON, start (14300, 1470), script \"20 -; 250 R\""
+  },
+  {
+   "key": "R2",
+   "bars": "4-6",
+   "title": "Angel Island 1 carry swoop",
+   "status": "confirmed",
+   "probe": "r2-look-s75-j40",
+   "window": [
+    86,
+    253
+   ],
+   "mean_gspeed": 236,
+   "speed_px_f": 3.1,
+   "idle_s": 0.0,
+   "events": [
+    {
+     "event": "catch",
+     "src": 128,
+     "bar": 4,
+     "beat": 3,
+     "dev": 0
+    }
+   ],
+   "script": "positioned host, MICA on pad 1, TALON on pad 2: TALON \"50 R; R+A; 7 -; A\", then Right with a flap every 8 frames from #150; MICA waits to #75, runs, jumps #115 (A held 12)"
+  },
+  {
+   "key": "R3",
+   "bars": "34-36",
+   "title": "Aquatic Ruin 1: TALON divebombs a Whisp",
+   "status": "confirmed in part: one kill, not two",
+   "probe": "r3-look-t150-d14-x3",
+   "window": [
+    108,
+    275
+   ],
+   "mean_gspeed": 1210,
+   "speed_px_f": 4.2,
+   "idle_s": 0.22,
+   "events": [
+    {
+     "event": "kill",
+     "src": 191,
+     "bar": 35,
+     "beat": 1,
+     "dev": 0
+    }
+   ],
+   "script": "positioned host, TALON solo, start (8300, 860), script \"20 -; 130 R; R+A; 13 R; D+A; 11 R; D+A; 9 R; D+A; 100 R\""
+  },
+  {
+   "key": "R4",
+   "bars": "67.5-70",
+   "title": "Solar TALON: reveal straight into a divebomb kill",
+   "status": "confirmed",
+   "probe": "r4-look-x6900-dh12",
+   "window": [
+    61,
+    272
+   ],
+   "mean_gspeed": 474,
+   "speed_px_f": 3.7,
+   "idle_s": 0.53,
+   "events": [
+    {
+     "event": "reveal",
+     "src": 104,
+     "bar": 68,
+     "beat": 1,
+     "dev": 0
+    },
+    {
+     "event": "kill",
+     "src": 188,
+     "bar": 69,
+     "beat": 1,
+     "dev": 0
+    }
+   ],
+   "script": "powered host, TALON solo, 7 emeralds, start (6900, 900), script \"30 -; A; 20 -; A; 27 -; R+A; 20 R; repeat 8 { R+A; 8 R }; 12 D+R; D+A; 150 R\""
+  },
+  {
+   "key": "R5",
+   "bars": "78-80",
+   "title": "Launch Base 1 mini-boss: run-in strike",
+   "status": "confirmed",
+   "probe": "r5-look2-t560-r590-h618-s8",
+   "window": [
+    548,
+    717
+   ],
+   "mean_gspeed": 1138,
+   "speed_px_f": 3.6,
+   "idle_s": 0.42,
+   "events": [
+    {
+     "event": "boss hit",
+     "src": 632,
+     "bar": 79,
+     "beat": 1,
+     "dev": 0
+    }
+   ],
+   "script": "powered host, Hyper MICA, the old script to the arena, then \"338 -; 30 L; 28 R; R+A; 7 R; R+A\""
+  },
+  {
+   "key": "R6",
+   "bars": "80-84",
+   "title": "The pair: nobody stands, the carry travels",
+   "status": "confirmed, moved to the lower bridge",
+   "probe": "r6-final-look-b20k10",
+   "window": [
+    65,
+    404
+   ],
+   "mean_gspeed": 0,
+   "speed_px_f": 1.7,
+   "idle_s": 3.0,
+   "events": [
+    {
+     "event": "reveal",
+     "src": 86,
+     "bar": 80,
+     "beat": 2,
+     "dev": 0
+    },
+    {
+     "event": "catch",
+     "src": 128,
+     "bar": 80,
+     "beat": 4,
+     "dev": 0
+    }
+   ],
+   "script": "powered host, both pads, Super Emeralds, start (14350, 1470): \"40 -; A / A; 20 -; A / A\", TALON \"R+A\" at #113, flap, Right held 20 frames after the catch then tapped one frame in ten, a flap every 9 frames"
+  }
+ ],
+ "tunes": [
+  {
+   "bars": "14-16",
+   "title": "Marble Garden chain",
+   "probe": "t1-mgz-84-105",
+   "note": "second and third strike presses moved from #80, #103 to #84, #105",
+   "src0": 2,
+   "verified_in_probe": true,
+   "before": [
+    {
+     "event": "kill 100",
+     "src": 65,
+     "bar": 14,
+     "beat": 4,
+     "dev": 0
+    },
+    {
+     "event": "kill 200",
+     "src": 82,
+     "bar": 15,
+     "beat": 1,
+     "dev": -3
+    },
+    {
+     "event": "kill 500",
+     "src": 104,
+     "bar": 15,
+     "beat": 2,
+     "dev": -2
+    }
+   ],
+   "after": [
+    {
+     "event": "kill 100",
+     "src": 65,
+     "bar": 14,
+     "beat": 4,
+     "dev": 0
+    },
+    {
+     "event": "kill 200",
+     "src": 85,
+     "bar": 15,
+     "beat": 1,
+     "dev": 0
+    },
+    {
+     "event": "kill 500",
+     "src": 107,
+     "bar": 15,
+     "beat": 2,
+     "dev": 1
+    }
+   ]
+  },
+  {
+   "bars": "48-50",
+   "title": "Sky Chase chain",
+   "probe": "t2-scz-320-363",
+   "note": "the strike presses at #317 and #357 moved to #320 and #363",
+   "src0": 237,
+   "verified_in_probe": true,
+   "before": [
+    {
+     "event": "kill",
+     "src": 259,
+     "bar": 48,
+     "beat": 2,
+     "dev": 0
+    },
+    {
+     "event": "kill",
+     "src": 319,
+     "bar": 49,
+     "beat": 1,
+     "dev": -3
+    },
+    {
+     "event": "kill",
+     "src": 358,
+     "bar": 49,
+     "beat": 3,
+     "dev": -6
+    }
+   ],
+   "after": [
+    {
+     "event": "kill",
+     "src": 259,
+     "bar": 48,
+     "beat": 2,
+     "dev": 0
+    },
+    {
+     "event": "kill",
+     "src": 321,
+     "bar": 49,
+     "beat": 1,
+     "dev": -1
+    },
+    {
+     "event": "kill",
+     "src": 364,
+     "bar": 49,
+     "beat": 3,
+     "dev": 0
+    }
+   ]
+  },
+  {
+   "bars": "75.5-78",
+   "title": "Hyper reveal and kill (Death Egg)",
+   "probe": "t4-dez-w47",
+   "note": "the wait after the transform press cut from 50 frames to 47 (46 misses the badnik)",
+   "src0": 54,
+   "verified_in_probe": true,
+   "before": [
+    {
+     "event": "reveal",
+     "src": 96,
+     "bar": 76,
+     "beat": 1,
+     "dev": 0
+    },
+    {
+     "event": "kill",
+     "src": 185,
+     "bar": 77,
+     "beat": 1,
+     "dev": 4
+    }
+   ],
+   "after": [
+    {
+     "event": "reveal",
+     "src": 96,
+     "bar": 76,
+     "beat": 1,
+     "dev": 0
+    },
+    {
+     "event": "kill",
+     "src": 182,
+     "bar": 77,
+     "beat": 1,
+     "dev": 1
+    }
+   ]
+  },
+  {
+   "bars": "26-28",
+   "title": "Casino Night bumpers",
+   "probe": "t3-cnz-j270",
+   "note": "cannot be tuned: the leap comes after the bumpers, and the gaps between them (15, 50, 15 frames) are the game's physics. The window is placed for the smallest worst offset.",
+   "src0": 152,
+   "verified_in_probe": true,
+   "before": [
+    {
+     "event": "bumper",
+     "src": 196,
+     "bar": 26,
+     "beat": 3,
+     "dev": 2
+    },
+    {
+     "event": "bumper",
+     "src": 211,
+     "bar": 26,
+     "beat": 4,
+     "dev": -4
+    },
+    {
+     "event": "bumper",
+     "src": 261,
+     "bar": 27,
+     "beat": 2,
+     "dev": 4
+    },
+    {
+     "event": "bumper",
+     "src": 276,
+     "bar": 27,
+     "beat": 3,
+     "dev": -2
+    }
+   ],
+   "after": [
+    {
+     "event": "bumper",
+     "src": 196,
+     "bar": 26,
+     "beat": 3,
+     "dev": 2
+    },
+    {
+     "event": "bumper",
+     "src": 211,
+     "bar": 26,
+     "beat": 4,
+     "dev": -4
+    },
+    {
+     "event": "bumper",
+     "src": 261,
+     "bar": 27,
+     "beat": 2,
+     "dev": 4
+    },
+    {
+     "event": "bumper",
+     "src": 276,
+     "bar": 27,
+     "beat": 3,
+     "dev": -2
+    }
+   ]
+  }
+ ],
+ "lockstep_positioned": {
+  "frames": 350,
+  "columns": [
+   "x",
+   "y",
+   "xvel",
+   "yvel",
+   "gspeed",
+   "air",
+   "rolling",
+   "cam_x",
+   "cam_y",
+   "sk_x",
+   "sk_y",
+   "rings"
+  ],
+  "differences": 0
+ }
+}

@@ -1,0 +1,76 @@
+[
+ {
+  "id": "q-lbz-pair-a",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 10 - / -; 2 L / L; 1 L / L+A; 7 L / L; 12 - / -; 4 R / R; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 5 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-lbz-pair-b",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "24 - / -; 1 A / A; 20 - / -; 1 A / A; 46 - / -; 22 - / R; 1 - / A; 2 - / -; 1 - / A; 10 - / -; 2 L / L; 1 L / L+A; 7 L / L; 12 - / -; 4 R / R; 1 R / R+A; 3 R / R; 20 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 23 - / -; 1 - / A; 5 - / -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 9600,
+   "promo.score": 283200
+  }
+ },
+ {
+  "id": "q-hcz-runin-6600",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 6600,
+  "y": 836,
+  "script": "24 -; 90 R; 1 R+A; 20 R; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.emeralds": "1111111",
+   "promo.rings": 66,
+   "promo.timer": 6000,
+   "promo.score": 41900
+  }
+ },
+ {
+  "id": "q-hcz-runin-6690",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 6690,
+  "y": 836,
+  "script": "24 -; 90 R; 1 R+A; 20 R; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.emeralds": "1111111",
+   "promo.rings": 66,
+   "promo.timer": 6000,
+   "promo.score": 41900
+  }
+ }
+]

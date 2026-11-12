@@ -1,0 +1,325 @@
+[
+ {
+  "id": "d-lbz1-team",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 4672,
+  "y": 1044,
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 24,
+   "promo.timer": 3900,
+   "promo.score": 268400
+  },
+  "script": "30 -; 240 R; 1 R+A; 59 R; 60 -"
+ },
+ {
+  "id": "d-carry-fly",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "script": "30 -; 22 - / R; 1 - / A; 2 -; 1 - / A; repeat 6 { 8 -; 1 - / A }; repeat 20 { 8 - / R; 1 - / R+A }; 80 -"
+ },
+ {
+  "id": "d-mgz2-chain",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 7600,
+  "y": 1136,
+  "props": {
+   "promo.rings": 36,
+   "promo.timer": 8100,
+   "promo.score": 87300
+  },
+  "input_from": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/final/captures/final/hero-mgz2/input.txt"
+ },
+ {
+  "id": "d-dez1-hyper",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 75,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  },
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R"
+ },
+ {
+  "id": "d-hcz1-gilded",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 1,
+  "act": 0,
+  "x": 6792,
+  "y": 856,
+  "props": {
+   "promo.emeralds": "1111111",
+   "promo.rings": 66,
+   "promo.timer": 6000,
+   "promo.score": 41900
+  },
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R"
+ },
+ {
+  "id": "d-cnz1-solar",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 3,
+  "act": 0,
+  "x": 6768,
+  "y": 788,
+  "props": {
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 68,
+   "promo.timer": 5700,
+   "promo.score": 124500
+  },
+  "script": "30 -; 1 A; 20 -; 1 A; 50 -; repeat 5 { 1 A; 8 - }; 18 D; 1 D+A; 50 R; 1 R+A; 6 R; 1 R+A; repeat 14 { 8 R; 1 R+A }; 120 R"
+ },
+ {
+  "id": "d-ghz-clear",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 0,
+  "act": 0,
+  "x": 9100,
+  "y": 940,
+  "props": {
+   "promo.rings": 32,
+   "promo.timer": 8700,
+   "promo.score": 6300
+  },
+  "script": "30 -; 240 R; 660 -"
+ },
+ {
+  "id": "d-ehz-clear",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 0,
+  "act": 0,
+  "x": 9900,
+  "y": 400,
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.rings": 48,
+   "promo.timer": 8700,
+   "promo.score": 7100
+  },
+  "script": "30 -; 240 R; 660 -"
+ },
+ {
+  "id": "q-boss-36a",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  },
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 36 R; 284 -; 1 A; 14 -; 1 A; 420 -"
+ },
+ {
+  "id": "q-boss-36b",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  },
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 36 R; 298 -; 1 A; 14 -; 1 A; 420 -"
+ },
+ {
+  "id": "q-boss-44a",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  },
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 44 R; 276 -; 1 A; 14 -; 1 A; 420 -"
+ },
+ {
+  "id": "q-boss-44b",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  },
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 44 R; 290 -; 1 A; 14 -; 1 A; 420 -"
+ },
+ {
+  "id": "q-boss-52a",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  },
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 52 R; 268 -; 1 A; 14 -; 1 A; 420 -"
+ },
+ {
+  "id": "q-boss-52b",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  },
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 52 R; 282 -; 1 A; 14 -; 1 A; 420 -"
+ },
+ {
+  "id": "q-syz-talon-a",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 2,
+  "act": 0,
+  "x": 4130,
+  "y": 548,
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 28,
+   "promo.timer": 6300,
+   "promo.score": 58200
+  },
+  "script": "30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D+R; 1 D+A; 150 R; 1 R+A; 20 R; repeat 8 { 1 A; 8 R }; 120 R; 40 -"
+ },
+ {
+  "id": "q-syz-talon-b",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 2,
+  "act": 0,
+  "x": 4170,
+  "y": 548,
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 28,
+   "promo.timer": 6300,
+   "promo.score": 58200
+  },
+  "script": "30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D+R; 1 D+A; 150 R; 1 R+A; 20 R; repeat 8 { 1 A; 8 R }; 120 R; 40 -"
+ },
+ {
+  "id": "q-syz-talon-c",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 2,
+  "act": 0,
+  "x": 4210,
+  "y": 548,
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 28,
+   "promo.timer": 6300,
+   "promo.score": 58200
+  },
+  "script": "30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D+R; 1 D+A; 150 R; 1 R+A; 20 R; repeat 8 { 1 A; 8 R }; 120 R; 40 -"
+ },
+ {
+  "id": "q-syz-talon-d",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 2,
+  "act": 0,
+  "x": 6260,
+  "y": 330,
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 28,
+   "promo.timer": 6300,
+   "promo.score": 58200
+  },
+  "script": "30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D+R; 1 D+A; 150 R; 1 R+A; 20 R; repeat 8 { 1 A; 8 R }; 120 R; 40 -"
+ }
+]

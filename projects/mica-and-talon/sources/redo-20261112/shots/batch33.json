@@ -1,0 +1,56 @@
+[
+ {
+  "id": "q-eb-hcz2",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 1,
+  "act": 1,
+  "x": 17088,
+  "y": 852,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 36 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 95,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-eb-mgz2",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 15872,
+  "y": 2276,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 36 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 95,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ },
+ {
+  "id": "q-eb-mgz2b",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 15328,
+  "y": 108,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; repeat 36 { 34 R; 1 R+A; 14 R; 1 R+A; 10 R }",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 95,
+   "promo.timer": 10800,
+   "promo.score": 60000
+  }
+ }
+]

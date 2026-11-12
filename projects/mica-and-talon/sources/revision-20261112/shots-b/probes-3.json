@@ -1,0 +1,853 @@
+[
+ {
+  "id": "r2b-carry-s60-j0",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s60-j25",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s60-j40",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s75-j0",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s75-j25",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s75-j40",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / A; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s90-j0",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s90-j25",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s90-j40",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s105-j0",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s105-j25",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2b-carry-s105-j40",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / -; 1 R+A / R+A; 1 R+A / R; 1 R+A / R; 1 R+A / R; 1 R+A / R; 1 R+A / R; 1 R+A / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t140-d6",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 120 R; 1 R+A; 5 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t140-d6-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 120 R; 1 R+A; 5 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t140-d10",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 120 R; 1 R+A; 9 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t140-d10-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 120 R; 1 R+A; 9 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t140-d14",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 120 R; 1 R+A; 13 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t140-d14-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 120 R; 1 R+A; 13 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t146-d6",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 126 R; 1 R+A; 5 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t146-d6-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 126 R; 1 R+A; 5 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t146-d10",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 126 R; 1 R+A; 9 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t146-d10-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 126 R; 1 R+A; 9 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t146-d14",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 126 R; 1 R+A; 13 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t146-d14-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 126 R; 1 R+A; 13 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t150-d6",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 130 R; 1 R+A; 5 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t150-d6-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 130 R; 1 R+A; 5 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t150-d10",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 130 R; 1 R+A; 9 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t150-d10-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 130 R; 1 R+A; 9 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t150-d14",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 130 R; 1 R+A; 13 R; 1 D+A; 120 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3c-arz-t150-d14-x3",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 130 R; 1 R+A; 13 R; 1 D+A; 11 R; 1 D+A; 9 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r4c-solar-x6900-dh10",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6900,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 10 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4c-solar-x6900-dh11",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6900,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 11 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4c-solar-x6900-dh12",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6900,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 12 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4c-solar-x6920-dh10",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6920,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 10 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4c-solar-x6920-dh11",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6920,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 11 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4c-solar-x6920-dh12",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6920,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 12 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r5-look-t512-l40-r588",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 290 -; 40 L; 36 -; 38 R; 1 R+A; 15 R; 1 R+A; 120 -",
+  "props": {
+   "promo.png.every": 3,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r6b-pair-sd0",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14350,
+  "y": 1470,
+  "script": "40 - / -; 1 A / A; 20 - / -; 1 A / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6b-pair-sd12",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14350,
+  "y": 1470,
+  "script": "40 - / -; 1 A / A; 20 - / -; 1 A / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6b-pair-sd24",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14350,
+  "y": 1470,
+  "script": "40 - / -; 1 A / A; 20 - / -; 1 A / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6b-pair-sd34",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14350,
+  "y": 1470,
+  "script": "40 - / -; 1 A / A; 20 - / -; 1 A / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6b-pair-sd40",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14350,
+  "y": 1470,
+  "script": "40 - / -; 1 A / A; 20 - / -; 1 A / A; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / -; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ }
+]

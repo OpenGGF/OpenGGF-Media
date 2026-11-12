@@ -229,5 +229,12 @@
     "notes": "Reels of the rebuilt Sonic 2 two-player Competition mode (OpenGGF PR #273). v2 (75.6 s, 75.6 s, engine 55c41c4fa) answers \"both players playing at once rather than alternating\": a simultaneous planner-authored route, CNZ after its object-sprite fix, and an engine vs BizHawk split with both players moving. v1 (73.8 s, engine a41d0c714) used one-player-at-a-time routes and is superseded. Edits, edit lists, capture/prep/mux scripts and provenance; captures, frames, audio, native frames and films remain external. Sound checked by measurement only. The \"?\" monitor outcomes reel (latest delivery, 57.5 s, engine 0b7b4db4f) shows all eight items beside native BizHawk.",
     "source_files": 29,
     "catalog_entries": 49
+  },
+  {
+    "id": "mica-and-talon",
+    "title": "MICA & TALON example mod showcase",
+    "notes": "Pacing revision (current); superseded: delivered redo 2026-11-12, production promo 2026-11-11, showcase 2026-11-10; local, sound measured only",
+    "source_files": 2122,
+    "catalog_entries": 1164
   }
 ]

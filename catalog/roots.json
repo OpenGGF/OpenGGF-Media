@@ -328,5 +328,56 @@
     "original": "~/Videos/OGGF/s2-competition/qmark",
     "archive": "projects/s2-competition-highlights/revisions/qmark-outcomes",
     "notes": "\"?\" monitor outcomes evidence reel: edit, edit list, prep/mux and capture scripts; engine and native captures, frames and the film stay external."
+  },
+  {
+    "id": "mica-and-talon/final",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/final",
+    "archive": "projects/mica-and-talon/sources/final"
+  },
+  {
+    "id": "mica-and-talon/phase2",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/phase2",
+    "archive": "projects/mica-and-talon/sources/phase2"
+  },
+  {
+    "id": "mica-and-talon/music",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/music",
+    "archive": "projects/mica-and-talon/sources/final"
+  },
+  {
+    "id": "mica-and-talon/fonts",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/fonts",
+    "archive": "projects/mica-and-talon/sources/final"
+  },
+  {
+    "id": "mica-and-talon/drawing",
+    "original": "/home/farrell/scratch/agent-tmp/mica-regen-20261108/attempts",
+    "archive": "projects/mica-and-talon/sources/final"
+  },
+  {
+    "id": "mica-and-talon/production-20261111",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-final-20261111",
+    "archive": "projects/mica-and-talon/sources/production-20261111"
+  },
+  {
+    "id": "mica-and-talon/owner-music",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-final-20261111/music",
+    "archive": "projects/mica-and-talon/sources/production-20261111"
+  },
+  {
+    "id": "mica-and-talon/fonts-20261110",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-20261110/final/fonts",
+    "archive": "projects/mica-and-talon/sources/production-20261111"
+  },
+  {
+    "id": "mica-and-talon/redo-20261112",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111",
+    "archive": "projects/mica-and-talon/sources/redo-20261112",
+    "note": "captures/ of this root was renamed captures-old-art-1e0faac123/ when the pacing revision was shot; every path under captures/ in assets.csv and external-hashes-redo-20261112.json resolves under captures-old-art-1e0faac123/ (same files, same hashes)"
+  },
+  {
+    "id": "mica-and-talon/revision-20261112",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111",
+    "archive": "projects/mica-and-talon/sources/revision-20261112"
   }
 ]

@@ -1,0 +1,40 @@
+[
+ {
+  "id": "d-boss-hyper",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 11900,
+  "y": 620,
+  "script": "50 -; 1 A; 20 -; 1 A; 80 -; 24 R; 306 -; 24 A; 1 -; 1 A; 6 -; 3 R; 461 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 4800
+  },
+  "note": "Hyper MICA stops left of centre; held jump; Instagib strike level with the mini-boss from its left; 3 frames of Right in the rebound so she lands left of centre"
+ },
+ {
+  "id": "d-syz1-talon",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s1",
+  "zone": 2,
+  "act": 0,
+  "x": 4130,
+  "y": 548,
+  "script": "30 -; 1 R+A; 20 R; repeat 5 { 1 A; 8 R }; 18 D+R; 1 D+A; 150 R; 1 R+A; 20 R; repeat 8 { 1 A; 8 R }; 120 R; 40 -",
+  "props": {
+   "promo.main": "talon",
+   "promo.rings": 28,
+   "promo.timer": 6300,
+   "promo.score": 58200
+  },
+  "note": "TALON solo in Spring Yard 1: flight, two divebomb kills on Crabmeats (native 100 then 200)"
+ }
+]

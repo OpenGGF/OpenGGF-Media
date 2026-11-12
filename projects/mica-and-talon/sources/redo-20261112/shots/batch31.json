@@ -1,0 +1,21 @@
+[
+ {
+  "id": "d-lbz-boss",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 405 -; 1 A; 15 -; 1 A; 900 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "note": "Hyper MICA at the Launch Base 1 mini-boss from the last starpost: transforms off camera (frames 51-96), runs into the arena, waits, tap-jumps (#626) and strikes once (#642); score +1000 at #648; signpost and results follow"
+ }
+]

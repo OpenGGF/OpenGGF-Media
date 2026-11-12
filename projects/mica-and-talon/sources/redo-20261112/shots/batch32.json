@@ -1,0 +1,59 @@
+[
+ {
+  "id": "e-lbz-boss-state",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 405 -; 1 A; 15 -; 1 A; 900 -",
+  "props": {
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "note": "d-lbz-boss again, same inputs, with powered-form state logged per frame"
+ },
+ {
+  "id": "q-pair-dez-a",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 1 A / A; 20 -; 1 A / A; 60 -; 240 R / R; 60 -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  }
+ },
+ {
+  "id": "q-pair-dez-b",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 1 A; 20 -; 1 A; 60 -; 1 - / A; 20 -; 1 - / A; 60 -; 240 R / R; 60 -",
+  "props": {
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 90,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  }
+ }
+]

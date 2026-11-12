@@ -1,0 +1,2649 @@
+[
+ {
+  "shot": 0,
+  "f0": 0,
+  "f1": 178,
+  "t0": 0.0,
+  "t1": 2.97,
+  "panes": [
+   {
+    "capture": "title-s3k",
+    "src": [
+     268,
+     410
+    ],
+    "frames": 144,
+    "kind": "title_screen",
+    "on_screen_s": [
+     0.57,
+     2.93
+    ],
+    "out0": 34,
+    "src0": 268
+   }
+  ]
+ },
+ {
+  "shot": 1,
+  "f0": 178,
+  "f1": 345,
+  "t0": 2.97,
+  "t1": 5.75,
+  "panes": [
+   {
+    "capture": "lbz-duo",
+    "src": [
+     72,
+     238
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 1155,
+    "mean_speed": 1457,
+    "air_share": 0.13,
+    "cam_px_per_s": 326,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 218,
+      "kind": "spring",
+      "detail": "up"
+     },
+     {
+      "src": 222,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 224,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 228,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 232,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 237,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     2.97,
+     5.73
+    ],
+    "out0": 178,
+    "src0": 72
+   }
+  ]
+ },
+ {
+  "shot": 2,
+  "f0": 345,
+  "f1": 512,
+  "t0": 5.75,
+  "t1": 8.53,
+  "panes": [
+   {
+    "capture": "carry-swoop",
+    "src": [
+     87,
+     251
+    ],
+    "frames": 166,
+    "kind": "level",
+    "mean_gspeed": 239,
+    "mean_speed": 761,
+    "air_share": 0.83,
+    "cam_px_per_s": 177,
+    "idle_s": 0.5,
+    "longest_idle_s": 0.5,
+    "events": [],
+    "on_screen_s": [
+     5.77,
+     8.5
+    ],
+    "out0": 346,
+    "src0": 87
+   }
+  ]
+ },
+ {
+  "shot": 3,
+  "f0": 512,
+  "f1": 596,
+  "t0": 8.53,
+  "t1": 9.93,
+  "panes": [
+   {
+    "capture": "aiz-talon-dive",
+    "src": [
+     78,
+     160
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 875,
+    "mean_speed": 706,
+    "air_share": 1.0,
+    "cam_px_per_s": 26,
+    "idle_s": 0.1,
+    "longest_idle_s": 0.1,
+    "events": [
+     {
+      "src": 114,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 120,
+      "kind": "kill",
+      "detail": "+100"
+     }
+    ],
+    "on_screen_s": [
+     8.53,
+     9.9
+    ],
+    "out0": 512,
+    "src0": 78
+   }
+  ]
+ },
+ {
+  "shot": 4,
+  "f0": 596,
+  "f1": 679,
+  "t0": 9.93,
+  "t1": 11.32,
+  "panes": [
+   {
+    "capture": "aiz-normal",
+    "src": [
+     122,
+     204
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 2024,
+    "mean_speed": 2046,
+    "air_share": 0.95,
+    "cam_px_per_s": 571,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 163,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 164,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     9.93,
+     11.3
+    ],
+    "out0": 596,
+    "src0": 122
+   }
+  ]
+ },
+ {
+  "shot": 5,
+  "f0": 679,
+  "f1": 846,
+  "t0": 11.32,
+  "t1": 14.1,
+  "panes": [
+   {
+    "capture": "mhz-hyper",
+    "src": [
+     263,
+     427
+    ],
+    "frames": 166,
+    "kind": "level",
+    "mean_gspeed": 2742,
+    "mean_speed": 2965,
+    "air_share": 0.41,
+    "cam_px_per_s": 710,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 321,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 338,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 344,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 351,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 356,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 418,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 421,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 424,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     11.33,
+     14.07
+    ],
+    "out0": 680,
+    "src0": 263
+   }
+  ]
+ },
+ {
+  "shot": 6,
+  "f0": 846,
+  "f1": 1181,
+  "t0": 14.1,
+  "t1": 19.68,
+  "panes": [
+   {
+    "capture": "title-s2",
+    "src": [
+     589,
+     923
+    ],
+    "frames": 336,
+    "kind": "title_screen",
+    "on_screen_s": [
+     14.1,
+     19.67
+    ],
+    "out0": 846,
+    "src0": 589
+   }
+  ]
+ },
+ {
+  "shot": 7,
+  "f0": 1181,
+  "f1": 1390,
+  "t0": 19.68,
+  "t1": 23.17,
+  "panes": [
+   {
+    "capture": "mgz-chain",
+    "src": [
+     1,
+     168
+    ],
+    "frames": 208,
+    "kind": "level",
+    "mean_gspeed": 1223,
+    "mean_speed": 908,
+    "air_share": 0.92,
+    "cam_px_per_s": 171,
+    "idle_s": 0.77,
+    "longest_idle_s": 0.77,
+    "events": [
+     {
+      "src": 57,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 65,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 84,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 85,
+      "kind": "kill",
+      "detail": "+200"
+     },
+     {
+      "src": 105,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 107,
+      "kind": "kill",
+      "detail": "+500"
+     }
+    ],
+    "on_screen_s": [
+     19.7,
+     23.13
+    ],
+    "out0": 1182,
+    "src0": 0
+   }
+  ]
+ },
+ {
+  "shot": 8,
+  "f0": 1390,
+  "f1": 1557,
+  "t0": 23.17,
+  "t1": 25.95,
+  "panes": [
+   {
+    "capture": "ghz2-buzz",
+    "src": [
+     34,
+     186
+    ],
+    "frames": 154,
+    "kind": "level",
+    "mean_gspeed": 1324,
+    "mean_speed": 1370,
+    "air_share": 0.84,
+    "cam_px_per_s": 216,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 60,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 66,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 70,
+      "kind": "kill",
+      "detail": "+200"
+     },
+     {
+      "src": 141,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 156,
+      "kind": "kill",
+      "detail": "+200"
+     }
+    ],
+    "on_screen_s": [
+     23.4,
+     25.93
+    ],
+    "out0": 1404,
+    "src0": 34
+   },
+   {
+    "capture": "arz-whisp",
+    "src": [
+     98,
+     244
+    ],
+    "frames": 148,
+    "kind": "level",
+    "mean_gspeed": 1337,
+    "mean_speed": 1371,
+    "air_share": 0.77,
+    "cam_px_per_s": 144,
+    "idle_s": 0.07,
+    "longest_idle_s": 0.03,
+    "events": [
+     {
+      "src": 138,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 186,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 198,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     23.5,
+     25.93
+    ],
+    "out0": 1410,
+    "src0": 98
+   },
+   {
+    "capture": "aiz-hero",
+    "src": [
+     30,
+     156
+    ],
+    "frames": 128,
+    "kind": "level",
+    "mean_gspeed": 1281,
+    "mean_speed": 1289,
+    "air_share": 0.8,
+    "cam_px_per_s": 231,
+    "idle_s": 0.07,
+    "longest_idle_s": 0.07,
+    "events": [
+     {
+      "src": 63,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 70,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 128,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     23.83,
+     25.93
+    ],
+    "out0": 1430,
+    "src0": 30
+   }
+  ]
+ },
+ {
+  "shot": 9,
+  "f0": 1557,
+  "f1": 1683,
+  "t0": 25.95,
+  "t1": 28.05,
+  "panes": [
+   {
+    "capture": "hcz-loop",
+    "src": [
+     283,
+     407
+    ],
+    "frames": 126,
+    "kind": "level",
+    "mean_gspeed": 1391,
+    "mean_speed": 1412,
+    "air_share": 0.78,
+    "cam_px_per_s": 94,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 298,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 373,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 396,
+      "kind": "spring",
+      "detail": "up"
+     },
+     {
+      "src": 397,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     25.97,
+     28.03
+    ],
+    "out0": 1558,
+    "src0": 283
+   }
+  ]
+ },
+ {
+  "shot": 10,
+  "f0": 1683,
+  "f1": 1766,
+  "t0": 28.05,
+  "t1": 29.43,
+  "panes": [
+   {
+    "capture": "cpz-spindash",
+    "src": [
+     25,
+     105
+    ],
+    "frames": 82,
+    "kind": "level",
+    "mean_gspeed": 1110,
+    "mean_speed": 1408,
+    "air_share": 0.54,
+    "cam_px_per_s": 304,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 45,
+      "kind": "spindash",
+      "detail": ""
+     },
+     {
+      "src": 46,
+      "kind": "spring",
+      "detail": "side"
+     },
+     {
+      "src": 70,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     28.07,
+     29.4
+    ],
+    "out0": 1684,
+    "src0": 25
+   }
+  ]
+ },
+ {
+  "shot": 11,
+  "f0": 1766,
+  "f1": 1850,
+  "t0": 29.43,
+  "t1": 30.83,
+  "panes": [
+   {
+    "capture": "ghz2-buzz",
+    "src": [
+     201,
+     283
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 1320,
+    "mean_speed": 1464,
+    "air_share": 0.69,
+    "cam_px_per_s": 300,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 217,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 231,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 264,
+      "kind": "rings",
+      "detail": "+10"
+     }
+    ],
+    "on_screen_s": [
+     29.43,
+     30.8
+    ],
+    "out0": 1766,
+    "src0": 201
+   }
+  ]
+ },
+ {
+  "shot": 12,
+  "f0": 1850,
+  "f1": 2017,
+  "t0": 30.83,
+  "t1": 33.62,
+  "panes": [
+   {
+    "capture": "ehz2-corkscrew",
+    "src": [
+     8,
+     174
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 880,
+    "mean_speed": 1536,
+    "air_share": 0.87,
+    "cam_px_per_s": 318,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 69,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 81,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 94,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 133,
+      "kind": "spring",
+      "detail": "side"
+     },
+     {
+      "src": 164,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     30.83,
+     33.6
+    ],
+    "out0": 1850,
+    "src0": 8
+   }
+  ]
+ },
+ {
+  "shot": 13,
+  "f0": 2017,
+  "f1": 2184,
+  "t0": 33.62,
+  "t1": 36.4,
+  "panes": [
+   {
+    "capture": "mhz-spring",
+    "src": [
+     67,
+     231
+    ],
+    "frames": 166,
+    "kind": "level",
+    "mean_gspeed": 717,
+    "mean_speed": 2237,
+    "air_share": 0.75,
+    "cam_px_per_s": 492,
+    "idle_s": 0.1,
+    "longest_idle_s": 0.07,
+    "events": [
+     {
+      "src": 108,
+      "kind": "spring",
+      "detail": "up"
+     },
+     {
+      "src": 159,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 163,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 165,
+      "kind": "rings",
+      "detail": "+2"
+     },
+     {
+      "src": 167,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 169,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 171,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 215,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     33.63,
+     36.37
+    ],
+    "out0": 2018,
+    "src0": 67
+   }
+  ]
+ },
+ {
+  "shot": 14,
+  "f0": 2184,
+  "f1": 2352,
+  "t0": 36.4,
+  "t1": 39.2,
+  "panes": [
+   {
+    "capture": "cnz-bumpers",
+    "src": [
+     152,
+     318
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 3014,
+    "mean_speed": 1884,
+    "air_share": 0.98,
+    "cam_px_per_s": 228,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 196,
+      "kind": "kill",
+      "detail": "+10"
+     },
+     {
+      "src": 203,
+      "kind": "rings",
+      "detail": "+2"
+     },
+     {
+      "src": 206,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 208,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 209,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 211,
+      "kind": "kill",
+      "detail": "+10"
+     },
+     {
+      "src": 261,
+      "kind": "kill",
+      "detail": "+10"
+     },
+     {
+      "src": 276,
+      "kind": "kill",
+      "detail": "+10"
+     },
+     {
+      "src": 277,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 278,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 308,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     36.4,
+     39.17
+    ],
+    "out0": 2184,
+    "src0": 152
+   }
+  ]
+ },
+ {
+  "shot": 15,
+  "f0": 2352,
+  "f1": 2603,
+  "t0": 39.2,
+  "t1": 43.38,
+  "panes": [
+   {
+    "capture": "syz-talon",
+    "src": [
+     14,
+     264
+    ],
+    "frames": 252,
+    "kind": "level",
+    "mean_gspeed": 974,
+    "mean_speed": 1109,
+    "air_share": 0.71,
+    "cam_px_per_s": 210,
+    "idle_s": 0.23,
+    "longest_idle_s": 0.13,
+    "events": [
+     {
+      "src": 114,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 118,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 160,
+      "kind": "kill",
+      "detail": "+200"
+     }
+    ],
+    "on_screen_s": [
+     39.2,
+     43.37
+    ],
+    "out0": 2352,
+    "src0": 14
+   }
+  ]
+ },
+ {
+  "shot": 16,
+  "f0": 2603,
+  "f1": 2686,
+  "t0": 43.38,
+  "t1": 44.77,
+  "panes": [
+   {
+    "capture": "htz-talon-dive",
+    "src": [
+     74,
+     154
+    ],
+    "frames": 82,
+    "kind": "level",
+    "mean_gspeed": 524,
+    "mean_speed": 2351,
+    "air_share": 1.0,
+    "cam_px_per_s": 566,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 114,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 141,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     43.4,
+     44.73
+    ],
+    "out0": 2604,
+    "src0": 74
+   }
+  ]
+ },
+ {
+  "shot": 17,
+  "f0": 2686,
+  "f1": 2854,
+  "t0": 44.77,
+  "t1": 47.57,
+  "panes": [
+   {
+    "capture": "dez-talon",
+    "src": [
+     113,
+     279
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 1224,
+    "mean_speed": 1421,
+    "air_share": 0.13,
+    "cam_px_per_s": 51,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 123,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 239,
+      "kind": "spring",
+      "detail": "side"
+     }
+    ],
+    "on_screen_s": [
+     44.77,
+     47.53
+    ],
+    "out0": 2686,
+    "src0": 113
+   }
+  ]
+ },
+ {
+  "shot": 18,
+  "f0": 2854,
+  "f1": 3021,
+  "t0": 47.57,
+  "t1": 50.35,
+  "panes": [
+   {
+    "capture": "arz-talon-whisp",
+    "src": [
+     108,
+     274
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 1203,
+    "mean_speed": 1091,
+    "air_share": 0.56,
+    "cam_px_per_s": 202,
+    "idle_s": 0.23,
+    "longest_idle_s": 0.23,
+    "events": [
+     {
+      "src": 164,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 186,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 191,
+      "kind": "kill",
+      "detail": "+100"
+     }
+    ],
+    "on_screen_s": [
+     47.57,
+     50.33
+    ],
+    "out0": 2854,
+    "src0": 108
+   }
+  ]
+ },
+ {
+  "shot": 19,
+  "f0": 3021,
+  "f1": 3356,
+  "t0": 50.35,
+  "t1": 55.93,
+  "panes": [
+   {
+    "capture": "cpz-lock-mod",
+    "src": [
+     99,
+     349
+    ],
+    "frames": 148,
+    "kind": "level",
+    "mean_gspeed": 1085,
+    "mean_speed": 1132,
+    "air_share": 0.43,
+    "cam_px_per_s": 4,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 289,
+      "kind": "spindash",
+      "detail": ""
+     },
+     {
+      "src": 290,
+      "kind": "spring",
+      "detail": "side"
+     },
+     {
+      "src": 323,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 327,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 330,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     50.67,
+     53.1
+    ],
+    "out0": 3040,
+    "src0": 99
+   },
+   {
+    "capture": "cpz-lock-stock",
+    "src": [
+     99,
+     349
+    ],
+    "frames": 148,
+    "kind": "level",
+    "mean_gspeed": 1085,
+    "mean_speed": 1132,
+    "air_share": 0.43,
+    "cam_px_per_s": 4,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 289,
+      "kind": "spindash",
+      "detail": ""
+     },
+     {
+      "src": 290,
+      "kind": "spring",
+      "detail": "side"
+     },
+     {
+      "src": 323,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 327,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 330,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     50.67,
+     53.1
+    ],
+    "out0": 3040,
+    "src0": 99
+   },
+   {
+    "capture": "ehz-lock-mod",
+    "src": [
+     182,
+     348
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 1906,
+    "mean_speed": 1971,
+    "air_share": 0.01,
+    "cam_px_per_s": 456,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 186,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 192,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 197,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 202,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 207,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 329,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 335,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 340,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 344,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     53.13,
+     55.9
+    ],
+    "out0": 3188,
+    "src0": 182
+   },
+   {
+    "capture": "ehz-lock-stock",
+    "src": [
+     182,
+     348
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 1906,
+    "mean_speed": 1971,
+    "air_share": 0.01,
+    "cam_px_per_s": 456,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 186,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 192,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 197,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 202,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 207,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 329,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 335,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 340,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 344,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     53.13,
+     55.9
+    ],
+    "out0": 3188,
+    "src0": 182
+   }
+  ]
+ },
+ {
+  "shot": 20,
+  "f0": 3356,
+  "f1": 3523,
+  "t0": 55.93,
+  "t1": 58.72,
+  "panes": [
+   {
+    "capture": "title-s1",
+    "src": [
+     406,
+     558
+    ],
+    "frames": 154,
+    "kind": "title_screen",
+    "on_screen_s": [
+     56.17,
+     58.7
+    ],
+    "out0": 3370,
+    "src0": 406
+   },
+   {
+    "capture": "title-s2",
+    "src": [
+     840,
+     986
+    ],
+    "frames": 148,
+    "kind": "title_screen",
+    "on_screen_s": [
+     56.27,
+     58.7
+    ],
+    "out0": 3376,
+    "src0": 840
+   },
+   {
+    "capture": "title-s3k",
+    "src": [
+     320,
+     446
+    ],
+    "frames": 128,
+    "kind": "title_screen",
+    "on_screen_s": [
+     56.6,
+     58.7
+    ],
+    "out0": 3396,
+    "src0": 320
+   }
+  ]
+ },
+ {
+  "shot": 21,
+  "f0": 3523,
+  "f1": 3607,
+  "t0": 58.72,
+  "t1": 60.12,
+  "panes": [
+   {
+    "capture": "ghz-clear",
+    "src": [
+     228,
+     310
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 1,
+    "air_share": 0.0,
+    "cam_px_per_s": 0,
+    "idle_s": 1.4,
+    "longest_idle_s": 1.4,
+    "events": [],
+    "on_screen_s": [
+     58.73,
+     60.1
+    ],
+    "out0": 3524,
+    "src0": 228
+   },
+   {
+    "capture": "ehz-clear",
+    "src": [
+     388,
+     460
+    ],
+    "frames": 74,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 0,
+    "air_share": 0.0,
+    "cam_px_per_s": 0,
+    "idle_s": 1.23,
+    "longest_idle_s": 1.23,
+    "events": [],
+    "on_screen_s": [
+     58.9,
+     60.1
+    ],
+    "out0": 3534,
+    "src0": 388
+   }
+  ]
+ },
+ {
+  "shot": 22,
+  "f0": 3607,
+  "f1": 3691,
+  "t0": 60.12,
+  "t1": 61.52,
+  "panes": [
+   {
+    "capture": "ehz-clear",
+    "src": [
+     472,
+     554
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 0,
+    "air_share": 0.0,
+    "cam_px_per_s": 0,
+    "idle_s": 1.4,
+    "longest_idle_s": 1.4,
+    "events": [],
+    "on_screen_s": [
+     60.13,
+     61.5
+    ],
+    "out0": 3608,
+    "src0": 472
+   }
+  ]
+ },
+ {
+  "shot": 23,
+  "f0": 3691,
+  "f1": 3859,
+  "t0": 61.52,
+  "t1": 64.32,
+  "panes": [
+   {
+    "capture": "ghz-ss",
+    "src": [
+     915,
+     1067
+    ],
+    "frames": 154,
+    "kind": "special_stage",
+    "on_screen_s": [
+     61.77,
+     64.3
+    ],
+    "out0": 3706,
+    "src0": 915
+   },
+   {
+    "capture": "halfpipe-run",
+    "src": [
+     741,
+     887
+    ],
+    "frames": 148,
+    "kind": "special_stage",
+    "on_screen_s": [
+     61.87,
+     64.3
+    ],
+    "out0": 3712,
+    "src0": 741
+   },
+   {
+    "capture": "blue-sphere",
+    "src": [
+     431,
+     557
+    ],
+    "frames": 128,
+    "kind": "special_stage",
+    "on_screen_s": [
+     62.2,
+     64.3
+    ],
+    "out0": 3732,
+    "src0": 431
+   }
+  ]
+ },
+ {
+  "shot": 24,
+  "f0": 3859,
+  "f1": 4026,
+  "t0": 64.32,
+  "t1": 67.1,
+  "panes": [
+   {
+    "capture": "continue",
+    "src": [
+     75,
+     225
+    ],
+    "frames": 152,
+    "kind": "continue_screen",
+    "on_screen_s": [
+     64.57,
+     67.07
+    ],
+    "out0": 3874,
+    "src0": 75
+   },
+   {
+    "capture": "data-select",
+    "src": [
+     406,
+     550
+    ],
+    "frames": 146,
+    "kind": "data_select",
+    "on_screen_s": [
+     64.67,
+     67.07
+    ],
+    "out0": 3880,
+    "src0": 406
+   },
+   {
+    "capture": "halfpipe-run",
+    "src": [
+     1011,
+     1135
+    ],
+    "frames": 126,
+    "kind": "special_stage",
+    "on_screen_s": [
+     65.0,
+     67.07
+    ],
+    "out0": 3900,
+    "src0": 1011
+   },
+   {
+    "capture": "cpz-talon",
+    "src": [
+     61,
+     165
+    ],
+    "frames": 106,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 822,
+    "air_share": 1.0,
+    "cam_px_per_s": 213,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [],
+    "on_screen_s": [
+     65.33,
+     67.07
+    ],
+    "out0": 3920,
+    "src0": 61
+   }
+  ]
+ },
+ {
+  "shot": 25,
+  "f0": 4026,
+  "f1": 4195,
+  "t0": 67.1,
+  "t1": 69.92,
+  "panes": [
+   {
+    "capture": "scz-chain",
+    "src": [
+     237,
+     405
+    ],
+    "frames": 170,
+    "kind": "level",
+    "mean_gspeed": 555,
+    "mean_speed": 996,
+    "air_share": 0.93,
+    "cam_px_per_s": 60,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 257,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 259,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 267,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 320,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 321,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 323,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 363,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 364,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 373,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 375,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     67.1,
+     69.9
+    ],
+    "out0": 4026,
+    "src0": 237
+   }
+  ]
+ },
+ {
+  "shot": 26,
+  "f0": 4195,
+  "f1": 4279,
+  "t0": 69.92,
+  "t1": 71.32,
+  "panes": [
+   {
+    "capture": "ending",
+    "src": [
+     2677,
+     2759
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 0,
+    "air_share": 0.0,
+    "cam_px_per_s": 0,
+    "idle_s": 1.4,
+    "longest_idle_s": 1.4,
+    "events": [],
+    "on_screen_s": [
+     69.93,
+     71.3
+    ],
+    "out0": 4196,
+    "src0": 2677
+   }
+  ]
+ },
+ {
+  "shot": 27,
+  "f0": 4279,
+  "f1": 4363,
+  "t0": 71.32,
+  "t1": 72.72,
+  "panes": [
+   {
+    "capture": "ending",
+    "src": [
+     4078,
+     4160
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 0,
+    "air_share": 0.0,
+    "cam_px_per_s": 0,
+    "idle_s": 1.4,
+    "longest_idle_s": 1.4,
+    "events": [],
+    "on_screen_s": [
+     71.33,
+     72.7
+    ],
+    "out0": 4280,
+    "src0": 4078
+   }
+  ]
+ },
+ {
+  "shot": 28,
+  "f0": 4363,
+  "f1": 4532,
+  "t0": 72.72,
+  "t1": 75.53,
+  "panes": [
+   {
+    "capture": "mtz-run",
+    "src": [
+     272,
+     438
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 2000,
+    "mean_speed": 2855,
+    "air_share": 0.85,
+    "cam_px_per_s": 214,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 291,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 293,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 295,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 297,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 344,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 350,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 378,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 389,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 392,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 394,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 397,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 431,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 438,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     72.73,
+     75.5
+    ],
+    "out0": 4364,
+    "src0": 272
+   }
+  ]
+ },
+ {
+  "shot": 29,
+  "f0": 4532,
+  "f1": 4700,
+  "t0": 75.53,
+  "t1": 78.33,
+  "panes": [
+   {
+    "capture": "lbz-slope",
+    "src": [
+     101,
+     267
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 1806,
+    "mean_speed": 1549,
+    "air_share": 0.73,
+    "cam_px_per_s": 370,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 140,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 143,
+      "kind": "spring",
+      "detail": "up"
+     },
+     {
+      "src": 144,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 162,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 172,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 181,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 207,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 212,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 217,
+      "kind": "rings",
+      "detail": "+1"
+     }
+    ],
+    "on_screen_s": [
+     75.53,
+     78.3
+    ],
+    "out0": 4532,
+    "src0": 101
+   }
+  ]
+ },
+ {
+  "shot": 30,
+  "f0": 4700,
+  "f1": 4784,
+  "t0": 78.33,
+  "t1": 79.73,
+  "panes": [
+   {
+    "capture": "cnz-bumpers",
+    "src": [
+     68,
+     150
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 985,
+    "mean_speed": 1275,
+    "air_share": 0.6,
+    "cam_px_per_s": 335,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [],
+    "on_screen_s": [
+     78.33,
+     79.7
+    ],
+    "out0": 4700,
+    "src0": 68
+   }
+  ]
+ },
+ {
+  "shot": 31,
+  "f0": 4784,
+  "f1": 4910,
+  "t0": 79.73,
+  "t1": 81.83,
+  "panes": [
+   {
+    "capture": "ehz2-corkscrew",
+    "src": [
+     197,
+     321
+    ],
+    "frames": 126,
+    "kind": "level",
+    "mean_gspeed": 1674,
+    "mean_speed": 1428,
+    "air_share": 0.79,
+    "cam_px_per_s": 314,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 281,
+      "kind": "kill",
+      "detail": "+100"
+     }
+    ],
+    "on_screen_s": [
+     79.73,
+     81.8
+    ],
+    "out0": 4784,
+    "src0": 197
+   }
+  ]
+ },
+ {
+  "shot": 32,
+  "f0": 4910,
+  "f1": 5205,
+  "t0": 81.83,
+  "t1": 86.75,
+  "panes": [
+   {
+    "capture": "hcz-gilded-runin",
+    "src": [
+     33,
+     327
+    ],
+    "frames": 296,
+    "kind": "level",
+    "mean_gspeed": 988,
+    "mean_speed": 1280,
+    "air_share": 0.64,
+    "cam_px_per_s": 262,
+    "idle_s": 0.3,
+    "longest_idle_s": 0.23,
+    "events": [
+     {
+      "src": 135,
+      "kind": "transform",
+      "detail": "MICA"
+     },
+     {
+      "src": 244,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 269,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 288,
+      "kind": "spring",
+      "detail": "up"
+     },
+     {
+      "src": 289,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     81.83,
+     86.73
+    ],
+    "out0": 4910,
+    "src0": 33
+   }
+  ]
+ },
+ {
+  "shot": 33,
+  "f0": 5205,
+  "f1": 5373,
+  "t0": 86.75,
+  "t1": 89.55,
+  "panes": [
+   {
+    "capture": "aiz-normal",
+    "src": [
+     28,
+     180
+    ],
+    "frames": 154,
+    "kind": "level",
+    "mean_gspeed": 1555,
+    "mean_speed": 1657,
+    "air_share": 0.96,
+    "cam_px_per_s": 370,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 47,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 55,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 115,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 163,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 164,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     87.0,
+     89.53
+    ],
+    "out0": 5220,
+    "src0": 28
+   },
+   {
+    "capture": "aiz-gilded",
+    "src": [
+     53,
+     177
+    ],
+    "frames": 126,
+    "kind": "level",
+    "mean_gspeed": 717,
+    "mean_speed": 1007,
+    "air_share": 0.9,
+    "cam_px_per_s": 103,
+    "idle_s": 0.17,
+    "longest_idle_s": 0.17,
+    "events": [
+     {
+      "src": 92,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 94,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 120,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 160,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 173,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     87.47,
+     89.53
+    ],
+    "out0": 5248,
+    "src0": 53
+   }
+  ]
+ },
+ {
+  "shot": 34,
+  "f0": 5373,
+  "f1": 5457,
+  "t0": 89.55,
+  "t1": 90.95,
+  "panes": [
+   {
+    "capture": "slz-gilded",
+    "src": [
+     113,
+     195
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 1066,
+    "mean_speed": 1717,
+    "air_share": 0.81,
+    "cam_px_per_s": 420,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 118,
+      "kind": "spring",
+      "detail": "side"
+     },
+     {
+      "src": 149,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     89.57,
+     90.93
+    ],
+    "out0": 5374,
+    "src0": 113
+   }
+  ]
+ },
+ {
+  "shot": 35,
+  "f0": 5457,
+  "f1": 5541,
+  "t0": 90.95,
+  "t1": 92.35,
+  "panes": [
+   {
+    "capture": "arz-gilded",
+    "src": [
+     231,
+     313
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 2475,
+    "mean_speed": 2571,
+    "air_share": 0.93,
+    "cam_px_per_s": 659,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 242,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 243,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 245,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 247,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 251,
+      "kind": "spring",
+      "detail": "up"
+     }
+    ],
+    "on_screen_s": [
+     90.97,
+     92.33
+    ],
+    "out0": 5458,
+    "src0": 231
+   }
+  ]
+ },
+ {
+  "shot": 36,
+  "f0": 5541,
+  "f1": 5667,
+  "t0": 92.35,
+  "t1": 94.45,
+  "panes": [
+   {
+    "capture": "cpz-gilded",
+    "src": [
+     218,
+     342
+    ],
+    "frames": 126,
+    "kind": "level",
+    "mean_gspeed": 1585,
+    "mean_speed": 1733,
+    "air_share": 0.4,
+    "cam_px_per_s": 461,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 218,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 238,
+      "kind": "spring",
+      "detail": "up"
+     },
+     {
+      "src": 239,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 247,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     92.37,
+     94.43
+    ],
+    "out0": 5542,
+    "src0": 218
+   }
+  ]
+ },
+ {
+  "shot": 37,
+  "f0": 5667,
+  "f1": 5878,
+  "t0": 94.45,
+  "t1": 97.97,
+  "panes": [
+   {
+    "capture": "aiz-solar-reveal",
+    "src": [
+     62,
+     270
+    ],
+    "frames": 210,
+    "kind": "level",
+    "mean_gspeed": 475,
+    "mean_speed": 969,
+    "air_share": 0.85,
+    "cam_px_per_s": 154,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 79,
+      "kind": "transform",
+      "detail": "MICA"
+     },
+     {
+      "src": 184,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 188,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 243,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     94.47,
+     97.93
+    ],
+    "out0": 5668,
+    "src0": 62
+   }
+  ]
+ },
+ {
+  "shot": 38,
+  "f0": 5878,
+  "f1": 6047,
+  "t0": 97.97,
+  "t1": 100.78,
+  "panes": [
+   {
+    "capture": "dez-solar",
+    "src": [
+     225,
+     393
+    ],
+    "frames": 170,
+    "kind": "level",
+    "mean_gspeed": 1636,
+    "mean_speed": 1677,
+    "air_share": 0.34,
+    "cam_px_per_s": 51,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 331,
+      "kind": "spring",
+      "detail": "side"
+     },
+     {
+      "src": 386,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     97.97,
+     100.77
+    ],
+    "out0": 5878,
+    "src0": 225
+   }
+  ]
+ },
+ {
+  "shot": 39,
+  "f0": 6047,
+  "f1": 6132,
+  "t0": 100.78,
+  "t1": 102.2,
+  "panes": [
+   {
+    "capture": "syz-solar",
+    "src": [
+     406,
+     488
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 2018,
+    "air_share": 1.0,
+    "cam_px_per_s": 487,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [],
+    "on_screen_s": [
+     100.8,
+     102.17
+    ],
+    "out0": 6048,
+    "src0": 406
+   }
+  ]
+ },
+ {
+  "shot": 40,
+  "f0": 6132,
+  "f1": 6216,
+  "t0": 102.2,
+  "t1": 103.6,
+  "panes": [
+   {
+    "capture": "htz-solar",
+    "src": [
+     165,
+     247
+    ],
+    "frames": 84,
+    "kind": "level",
+    "mean_gspeed": 1299,
+    "mean_speed": 1920,
+    "air_share": 0.93,
+    "cam_px_per_s": 482,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 165,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 208,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 209,
+      "kind": "rings",
+      "detail": "+1"
+     },
+     {
+      "src": 227,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     102.2,
+     103.57
+    ],
+    "out0": 6132,
+    "src0": 165
+   }
+  ]
+ },
+ {
+  "shot": 41,
+  "f0": 6216,
+  "f1": 6322,
+  "t0": 103.6,
+  "t1": 105.37,
+  "panes": [
+   {
+    "capture": "fbz-solar",
+    "src": [
+     149,
+     253
+    ],
+    "frames": 106,
+    "kind": "level",
+    "mean_gspeed": 1339,
+    "mean_speed": 1747,
+    "air_share": 0.92,
+    "cam_px_per_s": 400,
+    "idle_s": 0.0,
+    "longest_idle_s": 0.0,
+    "events": [
+     {
+      "src": 165,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 246,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     103.6,
+     105.33
+    ],
+    "out0": 6216,
+    "src0": 149
+   }
+  ]
+ },
+ {
+  "shot": 42,
+  "f0": 6322,
+  "f1": 6555,
+  "t0": 105.37,
+  "t1": 109.25,
+  "panes": [
+   {
+    "capture": "dez-hyper",
+    "src": [
+     33,
+     265
+    ],
+    "frames": 234,
+    "kind": "level",
+    "mean_gspeed": 1134,
+    "mean_speed": 1617,
+    "air_share": 0.85,
+    "cam_px_per_s": 333,
+    "idle_s": 0.13,
+    "longest_idle_s": 0.13,
+    "events": [
+     {
+      "src": 71,
+      "kind": "transform",
+      "detail": "MICA"
+     },
+     {
+      "src": 182,
+      "kind": "kill",
+      "detail": "+100"
+     },
+     {
+      "src": 221,
+      "kind": "air burst",
+      "detail": ""
+     }
+    ],
+    "on_screen_s": [
+     105.37,
+     109.23
+    ],
+    "out0": 6322,
+    "src0": 33
+   }
+  ]
+ },
+ {
+  "shot": 43,
+  "f0": 6555,
+  "f1": 6724,
+  "t0": 109.25,
+  "t1": 112.07,
+  "panes": [
+   {
+    "capture": "lbz-boss",
+    "src": [
+     549,
+     715
+    ],
+    "frames": 168,
+    "kind": "level",
+    "mean_gspeed": 908,
+    "mean_speed": 737,
+    "air_share": 0.31,
+    "cam_px_per_s": 0,
+    "idle_s": 0.87,
+    "longest_idle_s": 0.53,
+    "events": [
+     {
+      "src": 625,
+      "kind": "air burst",
+      "detail": ""
+     },
+     {
+      "src": 632,
+      "kind": "boss hit",
+      "detail": "+1000"
+     }
+    ],
+    "on_screen_s": [
+     109.27,
+     112.03
+    ],
+    "out0": 6556,
+    "src0": 549
+   }
+  ]
+ },
+ {
+  "shot": 44,
+  "f0": 6724,
+  "f1": 7063,
+  "t0": 112.07,
+  "t1": 117.72,
+  "panes": [
+   {
+    "capture": "lbz-pair",
+    "src": [
+     65,
+     403
+    ],
+    "frames": 340,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 430,
+    "air_share": 0.92,
+    "cam_px_per_s": 109,
+    "idle_s": 0.53,
+    "longest_idle_s": 0.43,
+    "events": [
+     {
+      "src": 121,
+      "kind": "ring loss",
+      "detail": "-2"
+     },
+     {
+      "src": 182,
+      "kind": "ring loss",
+      "detail": "-2"
+     },
+     {
+      "src": 243,
+      "kind": "ring loss",
+      "detail": "-2"
+     },
+     {
+      "src": 304,
+      "kind": "ring loss",
+      "detail": "-2"
+     },
+     {
+      "src": 365,
+      "kind": "ring loss",
+      "detail": "-2"
+     }
+    ],
+    "on_screen_s": [
+     112.07,
+     117.7
+    ],
+    "out0": 6724,
+    "src0": 65
+   }
+  ]
+ },
+ {
+  "shot": 45,
+  "f0": 7063,
+  "f1": 7440,
+  "t0": 117.72,
+  "t1": 124.0,
+  "panes": [
+   {
+    "capture": "lbz-pair",
+    "src": [
+     431,
+     569
+    ],
+    "frames": 350,
+    "kind": "level",
+    "mean_gspeed": 0,
+    "mean_speed": 343,
+    "air_share": 1.0,
+    "cam_px_per_s": 99,
+    "idle_s": 0.4,
+    "longest_idle_s": 0.4,
+    "events": [
+     {
+      "src": 487,
+      "kind": "ring loss",
+      "detail": "-2"
+     },
+     {
+      "src": 548,
+      "kind": "ring loss",
+      "detail": "-2"
+     }
+    ],
+    "on_screen_s": [
+     118.17,
+     123.97
+    ],
+    "out0": 7090,
+    "src0": 431
+   }
+  ]
+ }
+]

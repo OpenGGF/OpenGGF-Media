@@ -1,0 +1,237 @@
+{
+  "master-16x9": {
+    "integrated_lufs": -14.0,
+    "true_peak_dbtp": -1.4,
+    "lra_lu": 2.3,
+    "full_decode_exit": 0,
+    "ffprobe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1920,
+          "height": 1080,
+          "pix_fmt": "yuv420p",
+          "avg_frame_rate": "60/1",
+          "bit_rate": "7911347"
+        },
+        {
+          "codec_name": "aac",
+          "profile": "LC",
+          "sample_rate": "48000",
+          "channels": 2,
+          "avg_frame_rate": "0/0",
+          "bit_rate": "327129"
+        },
+        {
+          "codec_name": "bin_data",
+          "avg_frame_rate": "0/0",
+          "bit_rate": "21"
+        }
+      ],
+      "format": {
+        "duration": "95.366667"
+      }
+    },
+    "sections": [
+      {
+        "section": "cold open + title",
+        "start": 0,
+        "end": 11.15,
+        "lufs": -14.8,
+        "tp": -3.5
+      },
+      {
+        "section": "homing + TALON",
+        "start": 11.15,
+        "end": 39.02,
+        "lufs": -14.3,
+        "tp": -2.4
+      },
+      {
+        "section": "three games",
+        "start": 39.02,
+        "end": 62.72,
+        "lufs": -13.7,
+        "tp": -4.3
+      },
+      {
+        "section": "powered up",
+        "start": 62.72,
+        "end": 89.18,
+        "lufs": -13.8,
+        "tp": -1.4
+      },
+      {
+        "section": "end card",
+        "start": 89.18,
+        "end": 95.37,
+        "lufs": -13.4,
+        "tp": -3.2
+      }
+    ],
+    "chapters": 7
+  },
+  "master-9x16": {
+    "integrated_lufs": -14.0,
+    "true_peak_dbtp": -1.4,
+    "lra_lu": 2.3,
+    "full_decode_exit": 0,
+    "ffprobe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p",
+          "avg_frame_rate": "60/1",
+          "bit_rate": "9785412"
+        },
+        {
+          "codec_name": "aac",
+          "profile": "LC",
+          "sample_rate": "48000",
+          "channels": 2,
+          "avg_frame_rate": "0/0",
+          "bit_rate": "327129"
+        },
+        {
+          "codec_name": "bin_data",
+          "avg_frame_rate": "0/0",
+          "bit_rate": "21"
+        }
+      ],
+      "format": {
+        "duration": "95.366667"
+      }
+    },
+    "sections": [
+      {
+        "section": "cold open + title",
+        "start": 0,
+        "end": 11.15,
+        "lufs": -14.8,
+        "tp": -3.5
+      },
+      {
+        "section": "homing + TALON",
+        "start": 11.15,
+        "end": 39.02,
+        "lufs": -14.3,
+        "tp": -2.4
+      },
+      {
+        "section": "three games",
+        "start": 39.02,
+        "end": 62.72,
+        "lufs": -13.7,
+        "tp": -4.3
+      },
+      {
+        "section": "powered up",
+        "start": 62.72,
+        "end": 89.18,
+        "lufs": -13.8,
+        "tp": -1.4
+      },
+      {
+        "section": "end card",
+        "start": 89.18,
+        "end": 95.37,
+        "lufs": -13.4,
+        "tp": -3.2
+      }
+    ],
+    "chapters": 7
+  },
+  "superseded/master-16x9-pre-s1fix": {
+    "integrated_lufs": -14.0,
+    "true_peak_dbtp": -1.4,
+    "lra_lu": 2.3,
+    "full_decode_exit": 0,
+    "ffprobe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1920,
+          "height": 1080,
+          "pix_fmt": "yuv420p",
+          "avg_frame_rate": "60/1",
+          "bit_rate": "7902514"
+        },
+        {
+          "codec_name": "aac",
+          "profile": "LC",
+          "sample_rate": "48000",
+          "channels": 2,
+          "avg_frame_rate": "0/0",
+          "bit_rate": "327129"
+        },
+        {
+          "codec_name": "bin_data",
+          "avg_frame_rate": "0/0",
+          "bit_rate": "21"
+        }
+      ],
+      "format": {
+        "duration": "95.366667"
+      }
+    },
+    "sections": [
+      {
+        "section": "cold open + title",
+        "start": 0,
+        "end": 11.15,
+        "lufs": -14.8,
+        "tp": -3.5
+      },
+      {
+        "section": "homing + TALON",
+        "start": 11.15,
+        "end": 39.02,
+        "lufs": -14.3,
+        "tp": -2.4
+      },
+      {
+        "section": "three games",
+        "start": 39.02,
+        "end": 62.7,
+        "lufs": -13.7,
+        "tp": -4.3
+      },
+      {
+        "section": "powered up",
+        "start": 62.7,
+        "end": 89.18,
+        "lufs": -13.8,
+        "tp": -1.4
+      },
+      {
+        "section": "end card",
+        "start": 89.18,
+        "end": 95.37,
+        "lufs": -13.4,
+        "tp": -3.2
+      }
+    ],
+    "chapters": 7,
+    "chapters_remuxed": [
+      "  0.00-  5.57  Cold open: S3K title roll-in",
+      "  5.57- 11.15  Title drop: Sonic 2 title",
+      " 11.15- 27.87  Homing attack",
+      " 27.87- 39.02  TALON: flight, carry, divebomb",
+      " 39.02- 62.72  Three games, every screen",
+      " 62.72- 89.18  Powered up: Gilded and Solar",
+      " 89.18- 95.37  End card"
+    ],
+    "note": "approved 2026-11-11 master superseded by the S1 results-card fix; contains a ~0.3 s leak of the faulty S1 results card at ~47.1-47.4 s"
+  }
+}

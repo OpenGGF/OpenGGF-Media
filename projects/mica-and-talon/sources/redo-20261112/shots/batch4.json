@@ -1,0 +1,129 @@
+[
+ {
+  "id": "f-cpz-medley",
+  "game": "s2",
+  "zone": "cpz",
+  "act": 1,
+  "script": "40 -; 50 R; 1 R+A; 34 R; 24 D+R; 30 R; 14 L; 26 -; 24 U; 6 -; 20 D; repeat 5 { 1 D+A; 3 D }; 1 -; 70 R; 1 R+A; 40 R; 60 -",
+  "sidekick": "talon"
+ },
+ {
+  "id": "f-stock-cpz-medley",
+  "game": "s2",
+  "zone": "cpz",
+  "act": 1,
+  "script": "40 -; 50 R; 1 R+A; 34 R; 24 D+R; 30 R; 14 L; 26 -; 24 U; 6 -; 20 D; repeat 5 { 1 D+A; 3 D }; 1 -; 70 R; 1 R+A; 40 R; 60 -",
+  "stock": true,
+  "main": "sonic",
+  "sidekick": "tails"
+ },
+ {
+  "id": "f-ehz-medley",
+  "game": "s2",
+  "zone": "ehz",
+  "act": 1,
+  "script": "40 -; 50 R; 1 R+A; 34 R; 24 D+R; 30 R; 14 L; 26 -; 24 U; 6 -; 20 D; repeat 5 { 1 D+A; 3 D }; 1 -; 70 R; 1 R+A; 40 R; 60 -",
+  "sidekick": "talon"
+ },
+ {
+  "id": "f-stock-ehz-medley",
+  "game": "s2",
+  "zone": "ehz",
+  "act": 1,
+  "script": "40 -; 50 R; 1 R+A; 34 R; 24 D+R; 30 R; 14 L; 26 -; 24 U; 6 -; 20 D; repeat 5 { 1 D+A; 3 D }; 1 -; 70 R; 1 R+A; 40 R; 60 -",
+  "stock": true,
+  "main": "sonic",
+  "sidekick": "tails"
+ },
+ {
+  "id": "f-ghz-ss",
+  "game": "s1",
+  "zone": "ghz",
+  "act": 1,
+  "x": 9100,
+  "y": 940,
+  "rings": 55,
+  "timer": 8700,
+  "script": "30 -; 108 R; 30 R+A; 700 -; repeat 12 { 40 L; 40 R }"
+ },
+ {
+  "id": "h-scz-a",
+  "kind": "host",
+  "host": "declared",
+  "mode": "hero",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "240 -; repeat 60 { 1 A; 11 - }",
+  "props": {
+   "promo.rings": 0,
+   "promo.timer": 0
+  }
+ },
+ {
+  "id": "h-scz-b",
+  "kind": "host",
+  "host": "declared",
+  "mode": "hero",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "236 -; 1 A; 20 -; repeat 40 { 1 A; 9 - }",
+  "props": {
+   "promo.rings": 0,
+   "promo.timer": 0
+  }
+ },
+ {
+  "id": "h-scz-c",
+  "kind": "host",
+  "host": "declared",
+  "mode": "hero",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "250 -; repeat 30 { 1 A; 16 -; 1 A; 7 - }",
+  "props": {
+   "promo.rings": 0,
+   "promo.timer": 0
+  }
+ },
+ {
+  "id": "h-scz-d",
+  "kind": "host",
+  "host": "declared",
+  "mode": "hero",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "228 -; repeat 40 { 1 A; 14 - }",
+  "props": {
+   "promo.rings": 0,
+   "promo.timer": 0
+  }
+ },
+ {
+  "id": "h-scz-e",
+  "kind": "host",
+  "host": "declared",
+  "mode": "hero",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "240 -; repeat 30 { 1 A; 22 - }",
+  "props": {
+   "promo.rings": 0,
+   "promo.timer": 0
+  }
+ }
+]
