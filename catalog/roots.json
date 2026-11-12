@@ -372,6 +372,12 @@
   {
     "id": "mica-and-talon/redo-20261112",
     "original": "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111",
-    "archive": "projects/mica-and-talon/sources/redo-20261112"
+    "archive": "projects/mica-and-talon/sources/redo-20261112",
+    "note": "captures/ of this root was renamed captures-old-art-1e0faac123/ when the pacing revision was shot; every path under captures/ in assets.csv and external-hashes-redo-20261112.json resolves under captures-old-art-1e0faac123/ (same files, same hashes)"
+  },
+  {
+    "id": "mica-and-talon/revision-20261112",
+    "original": "/home/farrell/scratch/agent-tmp/mt-promo-redo-20261111",
+    "archive": "projects/mica-and-talon/sources/revision-20261112"
   }
 ]

@@ -1,0 +1,52 @@
+{
+  "out": "out/master-16x9.mp4",
+  "integrated_lufs": -14.0,
+  "true_peak_dbtp": -1.5,
+  "lra_lu": 2.4,
+  "extra_gain_db": 0.0,
+  "pass1": {
+    "input_i": "-13.96",
+    "input_tp": "-1.23",
+    "input_lra": "3.20",
+    "input_thresh": "-24.09",
+    "output_i": "-13.47",
+    "output_tp": "-1.50",
+    "output_lra": "2.40",
+    "output_thresh": "-23.53",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.53"
+  },
+  "ffprobe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "profile": "High",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "8872814"
+      },
+      {
+        "codec_name": "aac",
+        "profile": "LC",
+        "sample_rate": "48000",
+        "channels": 2,
+        "avg_frame_rate": "0/0",
+        "bit_rate": "324397"
+      },
+      {
+        "codec_name": "bin_data",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "22"
+      }
+    ],
+    "format": {
+      "duration": "124.000000"
+    }
+  },
+  "full_decode_exit": 0,
+  "decode_errors": ""
+}

@@ -1,7 +1,22 @@
 # MICA & TALON Mod Showcase
 
-**Current: promo redo, 2026-11-12** (OpenGGF `1e0faac123`, 124.0 s, 16:9 and designed 9:16 cuts, the owner's music
-from its start with one fade). Local archive only; not pushed. Sound checked by measurement only.
+**Current: pacing revision, 2026-11-12** (mod commit `47e1826b80`, build `5313360296`, develop
+`4f885afbd6`; 124.0 s, 16:9 and designed 9:16 cuts; the owner's music from its start with one fade; game sound from
+each take's own SFX-only audio). Local archive only; not pushed. Sound checked by measurement only.
+
+- [README: source and commits, owner feedback, sound, cards, what is not filmed as it ships, 1.0 clips, rebuild](sources/revision-20261112/README.md)
+- [Edit: brief, tracked bar grid and both cuts](sources/revision-20261112/edit/edit.py), [cards](sources/revision-20261112/edit/cards.py)
+- [Shot index](sources/revision-20261112/out/shot-index.csv), [chapters](sources/revision-20261112/out/chapters.txt), [verification](sources/revision-20261112/out/verification.json),
+  [game-sound levels](sources/revision-20261112/out/sfx-levels.json), [takes check](sources/revision-20261112/out/takes-check.json)
+- Reviews: [pacing storyboard data](sources/revision-20261112/checkpoint4/plan.json), [probe results](sources/revision-20261112/checkpoint5/probes.json)
+- [External hashes](external-hashes-revision-20261112.json): masters, review pages, frames, state CSVs, take audio, the bed, mascot
+  cut-outs, fonts and the owner's music (name + SHA-256 only; no WAV is in this repository).
+
+## Superseded: promo redo, delivered 2026-11-12
+
+The 124 s cut the owner reviewed (OpenGGF `1e0faac123`, placed ROM stingers). Its takes now live in
+`captures-old-art-1e0faac123/` in the task folder: `captures/` there was renamed when the revision was shot, so every `captures/...`
+path in [its external hashes](external-hashes-redo-20261112.json) resolves under that folder. Same files, same hashes.
 
 - [README: source, music decision, what is not filmed as it ships, the 9:16 cut, review history, rebuild](sources/redo-20261112/README.md)
 - [Edit: brief, tracked bar grid and both cuts](sources/redo-20261112/edit/edit.py)

@@ -1,0 +1,359 @@
+{
+ "vertical": false,
+ "sampled_frames": 2480,
+ "step": 3,
+ "seconds": 124.0,
+ "captures": {
+  "aiz-gilded": {
+   "capture_frames": 348,
+   "src_min": 52,
+   "src_max": 175,
+   "first_s": 87.45,
+   "last_s": 89.5
+  },
+  "aiz-hero": {
+   "capture_frames": 710,
+   "src_min": 31,
+   "src_max": 154,
+   "first_s": 23.85,
+   "last_s": 25.9
+  },
+  "aiz-normal": {
+   "capture_frames": 426,
+   "src_min": 13,
+   "src_max": 204,
+   "first_s": 9.95,
+   "last_s": 89.5
+  },
+  "aiz-solar-reveal": {
+   "capture_frames": 375,
+   "src_min": 61,
+   "src_max": 271,
+   "first_s": 94.45,
+   "last_s": 97.95
+  },
+  "aiz-talon-dive": {
+   "capture_frames": 472,
+   "src_min": 79,
+   "src_max": 160,
+   "first_s": 8.55,
+   "last_s": 9.9
+  },
+  "arz-gilded": {
+   "capture_frames": 408,
+   "src_min": 230,
+   "src_max": 311,
+   "first_s": 90.95,
+   "last_s": 92.3
+  },
+  "arz-talon-whisp": {
+   "capture_frames": 299,
+   "src_min": 110,
+   "src_max": 290,
+   "first_s": 47.6,
+   "last_s": 50.6
+  },
+  "arz-whisp": {
+   "capture_frames": 491,
+   "src_min": 98,
+   "src_max": 242,
+   "first_s": 23.5,
+   "last_s": 25.9
+  },
+  "blue-sphere": {
+   "capture_frames": 1170,
+   "src_min": 431,
+   "src_max": 569,
+   "first_s": 62.2,
+   "last_s": 64.5
+  },
+  "carry-swoop": {
+   "capture_frames": 330,
+   "src_min": 86,
+   "src_max": 251,
+   "first_s": 5.75,
+   "last_s": 8.5
+  },
+  "cnz-bumpers": {
+   "capture_frames": 390,
+   "src_min": 69,
+   "src_max": 317,
+   "first_s": 36.4,
+   "last_s": 79.7
+  },
+  "continue": {
+   "capture_frames": 480,
+   "src_min": 62,
+   "src_max": 224,
+   "first_s": 64.35,
+   "last_s": 67.05
+  },
+  "cpz-gilded": {
+   "capture_frames": 432,
+   "src_min": 217,
+   "src_max": 340,
+   "first_s": 92.35,
+   "last_s": 94.4
+  },
+  "cpz-lock-mod": {
+   "capture_frames": 461,
+   "src_min": 80,
+   "src_max": 349,
+   "first_s": 50.35,
+   "last_s": 53.1
+  },
+  "cpz-lock-stock": {
+   "capture_frames": 461,
+   "src_min": 80,
+   "src_max": 349,
+   "first_s": 50.35,
+   "last_s": 53.1
+  },
+  "cpz-spindash": {
+   "capture_frames": 376,
+   "src_min": 24,
+   "src_max": 105,
+   "first_s": 28.05,
+   "last_s": 29.4
+  },
+  "cpz-talon": {
+   "capture_frames": 495,
+   "src_min": 62,
+   "src_max": 164,
+   "first_s": 65.35,
+   "last_s": 67.05
+  },
+  "data-select": {
+   "capture_frames": 721,
+   "src_min": 405,
+   "src_max": 549,
+   "first_s": 64.65,
+   "last_s": 67.05
+  },
+  "dez-hyper": {
+   "capture_frames": 449,
+   "src_min": 35,
+   "src_max": 263,
+   "first_s": 105.4,
+   "last_s": 109.2
+  },
+  "dez-solar": {
+   "capture_frames": 402,
+   "src_min": 227,
+   "src_max": 392,
+   "first_s": 98.0,
+   "last_s": 100.75
+  },
+  "dez-talon": {
+   "capture_frames": 304,
+   "src_min": 115,
+   "src_max": 280,
+   "first_s": 44.8,
+   "last_s": 47.55
+  },
+  "ehz-clear": {
+   "capture_frames": 930,
+   "src_min": 388,
+   "src_max": 566,
+   "first_s": 58.9,
+   "last_s": 61.7
+  },
+  "ehz-lock-mod": {
+   "capture_frames": 365,
+   "src_min": 183,
+   "src_max": 360,
+   "first_s": 53.15,
+   "last_s": 56.1
+  },
+  "ehz-lock-stock": {
+   "capture_frames": 365,
+   "src_min": 183,
+   "src_max": 360,
+   "first_s": 53.15,
+   "last_s": 56.1
+  },
+  "ehz2-corkscrew": {
+   "capture_frames": 491,
+   "src_min": 9,
+   "src_max": 321,
+   "first_s": 30.85,
+   "last_s": 81.8
+  },
+  "ending": {
+   "capture_frames": 4438,
+   "src_min": 2678,
+   "src_max": 4160,
+   "first_s": 69.95,
+   "last_s": 72.7
+  },
+  "fbz-solar": {
+   "capture_frames": 470,
+   "src_min": 149,
+   "src_max": 254,
+   "first_s": 103.6,
+   "last_s": 105.35
+  },
+  "ghz-clear": {
+   "capture_frames": 930,
+   "src_min": 229,
+   "src_max": 310,
+   "first_s": 58.75,
+   "last_s": 60.1
+  },
+  "ghz-ss": {
+   "capture_frames": 1828,
+   "src_min": 902,
+   "src_max": 1079,
+   "first_s": 61.55,
+   "last_s": 64.5
+  },
+  "ghz2-buzz": {
+   "capture_frames": 491,
+   "src_min": 22,
+   "src_max": 283,
+   "first_s": 23.2,
+   "last_s": 30.8
+  },
+  "halfpipe-run": {
+   "capture_frames": 1386,
+   "src_min": 740,
+   "src_max": 1134,
+   "first_s": 61.85,
+   "last_s": 67.05
+  },
+  "hcz-gilded-runin": {
+   "capture_frames": 516,
+   "src_min": 34,
+   "src_max": 337,
+   "first_s": 81.85,
+   "last_s": 86.9
+  },
+  "hcz-loop": {
+   "capture_frames": 525,
+   "src_min": 282,
+   "src_max": 405,
+   "first_s": 25.95,
+   "last_s": 28.0
+  },
+  "htz-solar": {
+   "capture_frames": 470,
+   "src_min": 165,
+   "src_max": 246,
+   "first_s": 102.2,
+   "last_s": 103.55
+  },
+  "htz-talon-dive": {
+   "capture_frames": 295,
+   "src_min": 74,
+   "src_max": 155,
+   "first_s": 43.4,
+   "last_s": 44.75
+  },
+  "lbz-boss": {
+   "capture_frames": 826,
+   "src_min": 548,
+   "src_max": 716,
+   "first_s": 109.25,
+   "last_s": 112.05
+  },
+  "lbz-duo": {
+   "capture_frames": 270,
+   "src_min": 74,
+   "src_max": 236,
+   "first_s": 3.0,
+   "last_s": 5.7
+  },
+  "lbz-pair": {
+   "capture_frames": 660,
+   "src_min": 67,
+   "src_max": 569,
+   "first_s": 112.1,
+   "last_s": 123.95
+  },
+  "lbz-slope": {
+   "capture_frames": 525,
+   "src_min": 102,
+   "src_max": 267,
+   "first_s": 75.55,
+   "last_s": 78.3
+  },
+  "mgz-chain": {
+   "capture_frames": 184,
+   "src_min": 0,
+   "src_max": 181,
+   "first_s": 19.7,
+   "last_s": 23.35
+  },
+  "mhz-hyper": {
+   "capture_frames": 432,
+   "src_min": 264,
+   "src_max": 426,
+   "first_s": 11.35,
+   "last_s": 14.05
+  },
+  "mhz-spring": {
+   "capture_frames": 390,
+   "src_min": 68,
+   "src_max": 230,
+   "first_s": 33.65,
+   "last_s": 36.35
+  },
+  "mtz-run": {
+   "capture_frames": 525,
+   "src_min": 273,
+   "src_max": 438,
+   "first_s": 72.75,
+   "last_s": 75.5
+  },
+  "scz-chain": {
+   "capture_frames": 544,
+   "src_min": 237,
+   "src_max": 405,
+   "first_s": 67.1,
+   "last_s": 69.9
+  },
+  "slz-gilded": {
+   "capture_frames": 432,
+   "src_min": 112,
+   "src_max": 193,
+   "first_s": 89.55,
+   "last_s": 90.9
+  },
+  "syz-solar": {
+   "capture_frames": 490,
+   "src_min": 406,
+   "src_max": 487,
+   "first_s": 100.8,
+   "last_s": 102.15
+  },
+  "syz-talon": {
+   "capture_frames": 518,
+   "src_min": 14,
+   "src_max": 263,
+   "first_s": 39.2,
+   "last_s": 43.35
+  },
+  "title-s1": {
+   "capture_frames": 1300,
+   "src_min": 393,
+   "src_max": 558,
+   "first_s": 55.95,
+   "last_s": 58.7
+  },
+  "title-s2": {
+   "capture_frames": 1300,
+   "src_min": 589,
+   "src_max": 986,
+   "first_s": 14.1,
+   "last_s": 58.7
+  },
+  "title-s3k": {
+   "capture_frames": 1300,
+   "src_min": 267,
+   "src_max": 446,
+   "first_s": 0.55,
+   "last_s": 58.7
+  }
+ },
+ "overruns": {}
+}

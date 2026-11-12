@@ -1,0 +1,1 @@
+[{"id": "rms-toolpos-sfx", "game": "s3k", "zone": "aiz", "act": 1, "x": 7100, "y": 900, "rings": 41, "timer": 7200, "script": "30 -; repeat 8 { 1 R+A; 16 R }; 60 R"}]

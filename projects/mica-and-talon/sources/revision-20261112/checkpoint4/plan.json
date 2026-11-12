@@ -1,0 +1,3512 @@
+{
+ "summary": {
+  "current": {
+   "shots": 27,
+   "mean_s": 4.59,
+   "longest_s": 8.37,
+   "idle_s": 11.6,
+   "act_clear_and_cutscene_s": 10.5,
+   "verdicts": {
+    "keep": 4,
+    "trim": 14,
+    "replace": 4,
+    "re-stage": 5
+   }
+  },
+  "plan": {
+   "shots": 49,
+   "mean_s": 2.53,
+   "longest_s": 6.28,
+   "idle_s_takes_on_disk": 1.5,
+   "idle_s_restage_standins": 3.1,
+   "act_clear_and_cutscene_s": 5.6,
+   "takes_without_declared_score": [
+    "aiz-hero",
+    "ehz2-chain-b",
+    "f-cpz-medley",
+    "f-cpz1-gilded",
+    "f-ehz1-run",
+    "f-htz1-solar",
+    "f-htz1-talon",
+    "f-mhz1-team",
+    "f-slz1-gilded",
+    "f-stock-cpz-medley",
+    "f-stock-ehz1-run",
+    "g-dez1-solar",
+    "g-dez1-talon-a",
+    "g-syz1-solar",
+    "gilded-aiz",
+    "h-hcz1",
+    "h-lbz1",
+    "h-mtz1-asteron",
+    "h-scz-b",
+    "p-ghz-ss-a",
+    "p-mhz1-hyper",
+    "s2-gilded-arz"
+   ],
+   "statuses": {
+    "keep": 5,
+    "trim": 16,
+    "replace": 22,
+    "re-stage": 6
+   },
+   "kills_measured": 24,
+   "kills_within_2_frames_of_a_beat": 15
+  }
+ },
+ "plan": [
+  {
+   "b0": 0,
+   "b1": 2,
+   "f0": 11,
+   "f1": 178,
+   "t0": 0.18333333333333332,
+   "t1": 2.966666666666667,
+   "chapter": "COLD OPEN",
+   "name": "S3K title roll-in, whole width, no move",
+   "status": "keep",
+   "panes": [
+    {
+     "take": "title-s3k",
+     "src0": 267,
+     "src1": 401,
+     "label": "",
+     "m": {
+      "capture": "title-s3k",
+      "src": [
+       267,
+       399
+      ],
+      "frames": 134,
+      "kind": "title_screen"
+     },
+     "hits": []
+    }
+   ],
+   "why": "Unchanged: black for 0.55 s (the SEGA logo is never shown), then the smear frames, native flash, logo drop, wink.",
+   "restage": null
+  },
+  {
+   "b0": 2,
+   "b1": 4,
+   "f0": 178,
+   "f1": 345,
+   "t0": 2.966666666666667,
+   "t1": 5.75,
+   "chapter": "COLD OPEN",
+   "name": "Launch Base 1: MICA and TALON cross the bridge at full speed, spring launch",
+   "status": "re-stage",
+   "panes": [
+    {
+     "take": "q-walk-14500",
+     "src0": 54,
+     "src1": 221,
+     "label": "stand-in",
+     "m": {
+      "capture": "q-walk-14500",
+      "src": [
+       112,
+       220
+      ],
+      "frames": 110,
+      "kind": "level",
+      "mean_gspeed": 1170,
+      "mean_speed": 1609,
+      "air_share": 0.2,
+      "cam_px_per_s": 358,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 200,
+        "kind": "spring",
+        "detail": "up"
+       },
+       {
+        "src": 204,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 206,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 210,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 214,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 219,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring up",
+       "src": 200,
+       "bar": 3,
+       "beat": 4,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "Was a run from a standstill (mean |gspeed| 863). Same act, started further back so both are at top speed (1536) on the first frame; name tags a beat apart; the spring fires on beat 4 of bar 3 and the cut follows the launch.",
+   "restage": {
+    "target": "both at |gspeed| 1536 for the whole shot; spring on bar 3 beat 4",
+    "probe": "start x about 13500-14000 on the same floor, R held on both pads",
+    "fallback": "q-walk-14500 #112-222 as a 1.3-bar shot behind a longer roll-in hold",
+    "m": [
+     112,
+     222
+    ]
+   }
+  },
+  {
+   "b0": 4,
+   "b1": 6,
+   "f0": 345,
+   "f1": 512,
+   "t0": 5.75,
+   "t1": 8.533333333333333,
+   "chapter": "COLD OPEN",
+   "name": "Angel Island 1: carry swoop. MICA jumps from a run, TALON catches her in the air and carries her on",
+   "status": "re-stage",
+   "panes": [
+    {
+     "take": "d-carry-fly",
+     "src0": 37,
+     "src1": 204,
+     "label": "stand-in",
+     "m": {
+      "capture": "d-carry-fly",
+      "src": [
+       37,
+       203
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 55,
+      "mean_speed": 730,
+      "air_share": 0.87,
+      "cam_px_per_s": 182,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 55,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "Was 4 bars with TALON walking up to a standing MICA, then a slow vertical climb (mean speed 2.5 px/f, no interaction after the catch). Now 2 bars: both moving when he catches her, the catch on a beat, then travel across the canopy. Promise line on bar 5.",
+   "restage": {
+    "target": "catch on bar 4 beat 3 with MICA airborne from a run; camera travelling at 3 px/f or more after it",
+    "probe": "pad 2 jumps and flaps toward her while pad 1 runs and jumps (the pair take already steers a carry with L/R)",
+    "fallback": "the current take from #37 (catch on beat 2), cut at 2 bars"
+   }
+  },
+  {
+   "b0": 6,
+   "b1": 7,
+   "f0": 512,
+   "f1": 596,
+   "t0": 8.533333333333333,
+   "t1": 9.933333333333334,
+   "chapter": "COLD OPEN",
+   "name": "Angel Island 1: TALON divebombs a Rhinobot",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "d-aiz-talon-dive",
+     "src0": 78,
+     "src1": 162,
+     "label": "",
+     "m": {
+      "capture": "d-aiz-talon-dive",
+      "src": [
+       78,
+       160
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 875,
+      "mean_speed": 706,
+      "air_share": 1.0,
+      "cam_px_per_s": 26,
+      "idle_s": 0.1,
+      "longest_idle_s": 0.1,
+      "events": [
+       {
+        "src": 114,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 120,
+        "kind": "kill",
+        "detail": "+100"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 120,
+       "bar": 6,
+       "beat": 3,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "One bar. Was a pane of the verbs triptych; here it is his first hit, full frame, on the beat.",
+   "restage": null
+  },
+  {
+   "b0": 7,
+   "b1": 8,
+   "f0": 596,
+   "f1": 679,
+   "t0": 9.933333333333334,
+   "t1": 11.316666666666666,
+   "chapter": "COLD OPEN",
+   "name": "Angel Island 1: MICA strikes the second Rhinobot, jade trail",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "d-aiz-normal",
+     "src0": 122,
+     "src1": 205,
+     "label": "",
+     "m": {
+      "capture": "d-aiz-normal",
+      "src": [
+       122,
+       204
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 2024,
+      "mean_speed": 2046,
+      "air_share": 0.95,
+      "cam_px_per_s": 571,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 163,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 164,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 163,
+       "bar": 7,
+       "beat": 3,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "One bar. Her first hit, a beat pattern with the shot before: his hit on beat 3 of bar 6, hers on beat 3 of bar 7.",
+   "restage": null
+  },
+  {
+   "b0": 8,
+   "b1": 10,
+   "f0": 679,
+   "f1": 846,
+   "t0": 11.316666666666666,
+   "t1": 14.1,
+   "chapter": "COLD OPEN (riser)",
+   "name": "Mushroom Hill 1: Hyper MICA through two loops with banded after-images",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "p-mhz1-hyper",
+     "src0": 262,
+     "src1": 429,
+     "label": "",
+     "m": {
+      "capture": "p-mhz1-hyper",
+      "src": [
+       262,
+       428
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 2747,
+      "mean_speed": 2989,
+      "air_share": 0.4,
+      "cam_px_per_s": 711,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 321,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 338,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 344,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 351,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 356,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 418,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 421,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 424,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "Replaces the Death Egg Hyper fragment, which showed the same kill twice in the film (here and at bar 77). The loops are the fastest picture on disk: 10.5 px/f, camera 700 px/s.",
+   "restage": null
+  },
+  {
+   "b0": 10,
+   "b1": 12,
+   "f0": 846,
+   "f1": 1014,
+   "t0": 14.1,
+   "t1": 16.9,
+   "chapter": "TITLE",
+   "name": "Sonic 2 title: MICA then TALON rise over the emblem",
+   "status": "keep",
+   "panes": [
+    {
+     "take": "title-s2",
+     "src0": 589,
+     "src1": 757,
+     "label": "",
+     "m": {
+      "capture": "title-s2",
+      "src": [
+       589,
+       755
+      ],
+      "frames": 168,
+      "kind": "title_screen"
+     },
+     "hits": []
+    }
+   ],
+   "why": "Unchanged; the native flash still lands on the drop (bar 12).",
+   "restage": null
+  },
+  {
+   "b0": 12,
+   "b1": 14,
+   "f0": 1014,
+   "f1": 1181,
+   "t0": 16.9,
+   "t1": 19.683333333333334,
+   "chapter": "TITLE",
+   "name": "Title flash on the drop, lock-up band, names pop a beat apart",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "title-s2",
+     "src0": 757,
+     "src1": 924,
+     "label": "",
+     "m": {
+      "capture": "title-s2",
+      "src": [
+       757,
+       923
+      ],
+      "frames": 168,
+      "kind": "title_screen"
+     },
+     "hits": []
+    }
+   ],
+   "why": "Hold cut from 4 bars to 2: glint on bar 13, out on bar 14.",
+   "restage": null
+  },
+  {
+   "b0": 14,
+   "b1": 16,
+   "f0": 1181,
+   "f1": 1348,
+   "t0": 19.683333333333334,
+   "t1": 22.466666666666665,
+   "chapter": "MICA",
+   "name": "Marble Garden 2: lock-on, three Mantises in one flight (100, 200, 500)",
+   "status": "keep",
+   "panes": [
+    {
+     "take": "d-mgz2-chain",
+     "src0": 2,
+     "src1": 169,
+     "label": "",
+     "m": {
+      "capture": "d-mgz2-chain",
+      "src": [
+       2,
+       168
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1367,
+      "mean_speed": 1178,
+      "air_share": 0.9,
+      "cam_px_per_s": 192,
+      "idle_s": 0.33,
+      "longest_idle_s": 0.23,
+      "events": [
+       {
+        "src": 57,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 65,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 80,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 82,
+        "kind": "kill",
+        "detail": "+200"
+       },
+       {
+        "src": 103,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 104,
+        "kind": "kill",
+        "detail": "+500"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 65,
+       "bar": 14,
+       "beat": 4,
+       "dev": 0
+      },
+      {
+       "kind": "kill +200",
+       "src": 82,
+       "bar": 15,
+       "beat": 1,
+       "dev": -3
+      },
+      {
+       "kind": "kill +500",
+       "src": 104,
+       "bar": 15,
+       "beat": 2,
+       "dev": -2
+      }
+     ]
+    }
+   ],
+   "why": "Same take, two bars earlier. First kill on beat 4 of bar 14; the next two are 4 and 3 frames early of the following beats, to be tuned to 21-frame gaps in stage B. Ends before she is hurt (#183).",
+   "restage": {
+    "target": "kills on bar 14 beat 4, bar 15 beats 1 and 2",
+    "probe": "delay the second and third strike presses by 4 and 1 frames",
+    "fallback": "the take as it is (4 and 3 frames early)",
+    "tune": true
+   }
+  },
+  {
+   "b0": 16,
+   "b1": 18,
+   "f0": 1348,
+   "f1": 1515,
+   "t0": 22.466666666666665,
+   "t1": 25.25,
+   "chapter": "MICA",
+   "name": "Slanted triptych: the strike in Sonic 1, Sonic 2, Sonic 3 & K",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "d-ghz2-buzz",
+     "src0": 18,
+     "src1": 185,
+     "label": "S1",
+     "m": {
+      "capture": "d-ghz2-buzz",
+      "src": [
+       18,
+       184
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1189,
+      "mean_speed": 1373,
+      "air_share": 0.86,
+      "cam_px_per_s": 183,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 60,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 66,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 70,
+        "kind": "kill",
+        "detail": "+200"
+       },
+       {
+        "src": 141,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 156,
+        "kind": "kill",
+        "detail": "+200"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 60,
+       "bar": 16,
+       "beat": 3,
+       "dev": 0
+      },
+      {
+       "kind": "kill +200",
+       "src": 70,
+       "bar": 16,
+       "beat": 3,
+       "dev": 10
+      },
+      {
+       "kind": "kill +100",
+       "src": 141,
+       "bar": 17,
+       "beat": 3,
+       "dev": -3
+      },
+      {
+       "kind": "kill +200",
+       "src": 156,
+       "bar": 17,
+       "beat": 4,
+       "dev": -9
+      }
+     ]
+    },
+    {
+     "take": "d-arz1-whisp",
+     "src0": 96,
+     "src1": 242,
+     "label": "S2",
+     "m": {
+      "capture": "d-arz1-whisp",
+      "src": [
+       96,
+       240
+      ],
+      "frames": 146,
+      "kind": "level",
+      "mean_gspeed": 1382,
+      "mean_speed": 1398,
+      "air_share": 0.77,
+      "cam_px_per_s": 148,
+      "idle_s": 0.03,
+      "longest_idle_s": 0.03,
+      "events": [
+       {
+        "src": 138,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 186,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 198,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 138,
+       "bar": 16,
+       "beat": 4,
+       "dev": 0
+      }
+     ]
+    },
+    {
+     "take": "aiz-hero",
+     "src0": 28,
+     "src1": 153,
+     "label": "S3K",
+     "m": {
+      "capture": "aiz-hero",
+      "src": [
+       28,
+       152
+      ],
+      "frames": 126,
+      "kind": "level",
+      "mean_gspeed": 1237,
+      "mean_speed": 1244,
+      "air_share": 0.78,
+      "cam_px_per_s": 208,
+      "idle_s": 0.1,
+      "longest_idle_s": 0.1,
+      "events": [
+       {
+        "src": 63,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 70,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 128,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "Cut from 4 bars to 2. Slices drop on beats 1, 2, 3; the three strikes land on beats 3, 4 and the next downbeat, a 1-2-3.",
+   "restage": null
+  },
+  {
+   "b0": 18,
+   "b1": 20,
+   "f0": 1515,
+   "f1": 1683,
+   "t0": 25.25,
+   "t1": 28.05,
+   "chapter": "MICA",
+   "name": "Hydrocity 1: rolling through the curved channel at speed, out on the spring",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "h-hcz1",
+     "src0": 228,
+     "src1": 396,
+     "label": "",
+     "m": {
+      "capture": "h-hcz1",
+      "src": [
+       228,
+       394
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1404,
+      "mean_speed": 1501,
+      "air_share": 0.74,
+      "cam_px_per_s": 12,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 246,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 255,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 281,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 298,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 373,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "New. A loop at speed; the cut out is the spring launch.",
+   "restage": null
+  },
+  {
+   "b0": 20,
+   "b1": 21,
+   "f0": 1683,
+   "f1": 1766,
+   "t0": 28.05,
+   "t1": 29.433333333333334,
+   "chapter": "MICA",
+   "name": "Chemical Plant 1: spindash rev, release off the ledge",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "d-cpz1-run",
+     "src0": 24,
+     "src1": 107,
+     "label": "",
+     "m": {
+      "capture": "d-cpz1-run",
+      "src": [
+       24,
+       106
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 1025,
+      "mean_speed": 1423,
+      "air_share": 0.55,
+      "cam_px_per_s": 305,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 45,
+        "kind": "spindash",
+        "detail": ""
+       },
+       {
+        "src": 46,
+        "kind": "spring",
+        "detail": "side"
+       },
+       {
+        "src": 70,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spindash",
+       "src": 45,
+       "bar": 20,
+       "beat": 2,
+       "dev": 0
+      },
+      {
+       "kind": "spring side",
+       "src": 46,
+       "bar": 20,
+       "beat": 2,
+       "dev": 1
+      }
+     ]
+    }
+   ],
+   "why": "New, one bar. The release fires on beat 2 and she drops through the plant at 11 px/f. (After #137 this take slows to a walk, so it stops at one bar.)",
+   "restage": null
+  },
+  {
+   "b0": 21,
+   "b1": 22,
+   "f0": 1766,
+   "f1": 1850,
+   "t0": 29.433333333333334,
+   "t1": 30.833333333333332,
+   "chapter": "MICA",
+   "name": "Green Hill 1 (Sonic 1): downhill at top speed",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "p-ghz-ss-a",
+     "src0": 73,
+     "src1": 157,
+     "label": "",
+     "m": {
+      "capture": "p-ghz-ss-a",
+      "src": [
+       73,
+       155
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 1137,
+      "mean_speed": 1802,
+      "air_share": 0.57,
+      "cam_px_per_s": 391,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 98,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 105,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 112,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "New, one bar: Sonic 1 in the speed run, so the block is not all Sonic 2.",
+   "restage": null
+  },
+  {
+   "b0": 22,
+   "b1": 24,
+   "f0": 1850,
+   "f1": 2017,
+   "t0": 30.833333333333332,
+   "t1": 33.61666666666667,
+   "chapter": "MICA",
+   "name": "Emerald Hill 2: corkscrew, then the side spring",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "ehz2-chain-b",
+     "src0": 8,
+     "src1": 175,
+     "label": "",
+     "m": {
+      "capture": "ehz2-chain-b",
+      "src": [
+       8,
+       174
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 880,
+      "mean_speed": 1536,
+      "air_share": 0.87,
+      "cam_px_per_s": 318,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 69,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 81,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 94,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 133,
+        "kind": "spring",
+        "detail": "side"
+       },
+       {
+        "src": 164,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring side",
+       "src": 133,
+       "bar": 23,
+       "beat": 3,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "New. Spring on beat 3 of bar 23.",
+   "restage": null
+  },
+  {
+   "b0": 24,
+   "b1": 26,
+   "f0": 2017,
+   "f1": 2184,
+   "t0": 33.61666666666667,
+   "t1": 36.4,
+   "chapter": "MICA",
+   "name": "Mushroom Hill 1: mushroom spring into the canopy, ring arc",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "f-mhz1-team",
+     "src0": 66,
+     "src1": 233,
+     "label": "",
+     "m": {
+      "capture": "f-mhz1-team",
+      "src": [
+       66,
+       232
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 715,
+      "mean_speed": 2250,
+      "air_share": 0.75,
+      "cam_px_per_s": 493,
+      "idle_s": 0.1,
+      "longest_idle_s": 0.1,
+      "events": [
+       {
+        "src": 108,
+        "kind": "spring",
+        "detail": "up"
+       },
+       {
+        "src": 159,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 163,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 165,
+        "kind": "rings",
+        "detail": "+2"
+       },
+       {
+        "src": 167,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 169,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 171,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 215,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 232,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring up",
+       "src": 108,
+       "bar": 24,
+       "beat": 3,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "New. Spring on beat 3; seven rings in half a second.",
+   "restage": null
+  },
+  {
+   "b0": 26,
+   "b1": 28,
+   "f0": 2184,
+   "f1": 2352,
+   "t0": 36.4,
+   "t1": 39.2,
+   "chapter": "MICA",
+   "name": "Casino Night 1: MICA and TALON bounce through the bumpers",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "d-cnz2-team",
+     "src0": 171,
+     "src1": 339,
+     "label": "",
+     "m": {
+      "capture": "d-cnz2-team",
+      "src": [
+       171,
+       337
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 3285,
+      "mean_speed": 1808,
+      "air_share": 0.96,
+      "cam_px_per_s": 109,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 196,
+        "kind": "kill",
+        "detail": "+10"
+       },
+       {
+        "src": 203,
+        "kind": "rings",
+        "detail": "+2"
+       },
+       {
+        "src": 206,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 208,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 209,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 211,
+        "kind": "kill",
+        "detail": "+10"
+       },
+       {
+        "src": 261,
+        "kind": "kill",
+        "detail": "+10"
+       },
+       {
+        "src": 276,
+        "kind": "kill",
+        "detail": "+10"
+       },
+       {
+        "src": 277,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 278,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 308,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 325,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +10",
+       "src": 196,
+       "bar": 26,
+       "beat": 2,
+       "dev": 4
+      },
+      {
+       "kind": "kill +10",
+       "src": 211,
+       "bar": 26,
+       "beat": 3,
+       "dev": -2
+      },
+      {
+       "kind": "kill +10",
+       "src": 261,
+       "bar": 27,
+       "beat": 1,
+       "dev": 6
+      },
+      {
+       "kind": "kill +10",
+       "src": 276,
+       "bar": 27,
+       "beat": 2,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "Same take as now, moved 131 frames later: the current window ends as the bumpers start. Four bumper hits within 6 frames of beats.",
+   "restage": {
+    "target": "bumper hits on beats",
+    "probe": "shift the leap by a few frames",
+    "fallback": "the window as measured",
+    "tune": true
+   }
+  },
+  {
+   "b0": 28,
+   "b1": 30,
+   "f0": 2352,
+   "f1": 2519,
+   "t0": 39.2,
+   "t1": 41.983333333333334,
+   "chapter": "TALON",
+   "name": "Spring Yard 1: flight, lock-on, two Crabmeats (100, 200); lives read TALON",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "d-syz1-talon",
+     "src0": 55,
+     "src1": 222,
+     "label": "",
+     "m": {
+      "capture": "d-syz1-talon",
+      "src": [
+       55,
+       221
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1067,
+      "mean_speed": 1096,
+      "air_share": 0.87,
+      "cam_px_per_s": 223,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 114,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 118,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 160,
+        "kind": "kill",
+        "detail": "+200"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 118,
+       "bar": 28,
+       "beat": 4,
+       "dev": 0
+      },
+      {
+       "kind": "kill +200",
+       "src": 160,
+       "bar": 29,
+       "beat": 2,
+       "dev": 1
+      }
+     ]
+    }
+   ],
+   "why": "Cut from 4 bars to 2. The kills are 42 frames apart, exactly two beats: beat 4 of bar 28 and beat 2 of bar 29. Lives inset on beat 3. He lands and runs at top speed to the cut.",
+   "restage": null
+  },
+  {
+   "b0": 30,
+   "b1": 32,
+   "f0": 2519,
+   "f1": 2686,
+   "t0": 41.983333333333334,
+   "t1": 44.766666666666666,
+   "chapter": "TALON",
+   "name": "Hill Top 1: divebomb streak across the lake",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "f-htz1-talon",
+     "src0": 93,
+     "src1": 260,
+     "label": "",
+     "m": {
+      "capture": "f-htz1-talon",
+      "src": [
+       93,
+       259
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 770,
+      "mean_speed": 2428,
+      "air_share": 0.69,
+      "cam_px_per_s": 596,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 114,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 141,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 178,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "Replaces the slow flight pane (mean speed 3.2 px/f, nothing touched). The dive starts on beat 2 and reaches 24 px/f; camera 625 px/s.",
+   "restage": null
+  },
+  {
+   "b0": 32,
+   "b1": 34,
+   "f0": 2686,
+   "f1": 2854,
+   "t0": 44.766666666666666,
+   "t1": 47.56666666666667,
+   "chapter": "TALON",
+   "name": "Death Egg 1: dive, land, run into the booster",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "g-dez1-talon-a",
+     "src0": 113,
+     "src1": 281,
+     "label": "",
+     "m": {
+      "capture": "g-dez1-talon-a",
+      "src": [
+       113,
+       279
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1224,
+      "mean_speed": 1421,
+      "air_share": 0.13,
+      "cam_px_per_s": 51,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 123,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 239,
+        "kind": "spring",
+        "detail": "side"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring side",
+       "src": 239,
+       "bar": 33,
+       "beat": 3,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "Replaces the carry pane, which repeated the cold open. Booster on beat 3 of bar 33.",
+   "restage": null
+  },
+  {
+   "b0": 34,
+   "b1": 36,
+   "f0": 2854,
+   "f1": 3021,
+   "t0": 47.56666666666667,
+   "t1": 50.35,
+   "chapter": "TALON",
+   "name": "Aquatic Ruin 1: TALON divebombs two Whisps in a row",
+   "status": "re-stage",
+   "panes": [
+    {
+     "take": "f-lbz1-talon",
+     "src0": 109,
+     "src1": 276,
+     "label": "stand-in (fallback)",
+     "m": {
+      "capture": "f-lbz1-talon",
+      "src": [
+       109,
+       275
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1289,
+      "mean_speed": 1448,
+      "air_share": 0.23,
+      "cam_px_per_s": 208,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 114,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 199,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 215,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 230,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 243,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 256,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "New. His Sonic 2 hits, on the two bars before the drop. He has kills in Sonic 1 and Sonic 3 & K on disk but none in Sonic 2.",
+   "restage": {
+    "target": "kills on bar 34 beat 3 and bar 35 beat 1",
+    "probe": "TALON solo at the position of MICA's Whisp take (8300, 860)",
+    "fallback": "Launch Base 1 flight over the dome (f-lbz1-talon #109-277), no kill"
+   }
+  },
+  {
+   "b0": 36,
+   "b1": 37,
+   "f0": 3021,
+   "f1": 3105,
+   "t0": 50.35,
+   "t1": 51.75,
+   "chapter": "EVERY SCREEN",
+   "name": "Lockstep split, Chemical Plant 1: run, jump, roll",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "f-stock-cpz-medley",
+     "src0": 80,
+     "src1": 164,
+     "label": "stock",
+     "m": {
+      "capture": "f-stock-cpz-medley",
+      "src": [
+       80,
+       162
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 838,
+      "mean_speed": 1072,
+      "air_share": 0.55,
+      "cam_px_per_s": 190,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": []
+     },
+     "hits": []
+    },
+    {
+     "take": "f-cpz-medley",
+     "src0": 80,
+     "src1": 164,
+     "label": "mod",
+     "m": {
+      "capture": "f-cpz-medley",
+      "src": [
+       80,
+       162
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 838,
+      "mean_speed": 1072,
+      "air_share": 0.55,
+      "cam_px_per_s": 190,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": []
+     },
+     "hits": []
+    }
+   ],
+   "why": "The 1.5 s of look-up and duck (speed 0) is cut out: the split now plays two moving bars with a cut on bar 37.",
+   "restage": null
+  },
+  {
+   "b0": 37,
+   "b1": 38,
+   "f0": 3105,
+   "f1": 3188,
+   "t0": 51.75,
+   "t1": 53.13333333333333,
+   "chapter": "EVERY SCREEN",
+   "name": "Lockstep split: spindash release into the spring",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "f-stock-cpz-medley",
+     "src0": 268,
+     "src1": 351,
+     "label": "stock",
+     "m": {
+      "capture": "f-stock-cpz-medley",
+      "src": [
+       268,
+       350
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 1157,
+      "mean_speed": 1132,
+      "air_share": 0.29,
+      "cam_px_per_s": 228,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 289,
+        "kind": "spindash",
+        "detail": ""
+       },
+       {
+        "src": 290,
+        "kind": "spring",
+        "detail": "side"
+       },
+       {
+        "src": 323,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 327,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 330,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spindash",
+       "src": 289,
+       "bar": 37,
+       "beat": 2,
+       "dev": 0
+      },
+      {
+       "kind": "spring side",
+       "src": 290,
+       "bar": 37,
+       "beat": 2,
+       "dev": 1
+      }
+     ]
+    },
+    {
+     "take": "f-cpz-medley",
+     "src0": 268,
+     "src1": 351,
+     "label": "mod",
+     "m": {
+      "capture": "f-cpz-medley",
+      "src": [
+       268,
+       350
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 1157,
+      "mean_speed": 1132,
+      "air_share": 0.29,
+      "cam_px_per_s": 228,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 289,
+        "kind": "spindash",
+        "detail": ""
+       },
+       {
+        "src": 290,
+        "kind": "spring",
+        "detail": "side"
+       },
+       {
+        "src": 323,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 327,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 330,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spindash",
+       "src": 289,
+       "bar": 37,
+       "beat": 2,
+       "dev": 0
+      },
+      {
+       "kind": "spring side",
+       "src": 290,
+       "bar": 37,
+       "beat": 2,
+       "dev": 1
+      }
+     ]
+    }
+   ],
+   "why": "Release on beat 2 in both halves. The line lands here.",
+   "restage": null
+  },
+  {
+   "b0": 38,
+   "b1": 40,
+   "f0": 3188,
+   "f1": 3356,
+   "t0": 53.13333333333333,
+   "t1": 55.93333333333333,
+   "chapter": "EVERY SCREEN",
+   "name": "Lockstep split, Emerald Hill 1 at top speed",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "f-stock-ehz1-run",
+     "src0": 709,
+     "src1": 877,
+     "label": "stock",
+     "m": {
+      "capture": "f-stock-ehz1-run",
+      "src": [
+       709,
+       875
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1893,
+      "mean_speed": 1963,
+      "air_share": 0.01,
+      "cam_px_per_s": 448,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 711,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 716,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 722,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 727,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 732,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 854,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 861,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 866,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 870,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": []
+    },
+    {
+     "take": "f-ehz1-run",
+     "src0": 709,
+     "src1": 877,
+     "label": "mod",
+     "m": {
+      "capture": "f-ehz1-run",
+      "src": [
+       709,
+       875
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1893,
+      "mean_speed": 1963,
+      "air_share": 0.01,
+      "cam_px_per_s": 448,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 711,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 716,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 722,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 727,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 732,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 854,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 861,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 866,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 870,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "New window from takes on disk: the same inputs at 7.4 px/f. From the act start (TIME 0:11), as the Chemical Plant split is; a positioned mid-act pair will be tried in stage B.",
+   "restage": null
+  },
+  {
+   "b0": 40,
+   "b1": 42,
+   "f0": 3356,
+   "f1": 3523,
+   "t0": 55.93333333333333,
+   "t1": 58.71666666666667,
+   "chapter": "EVERY SCREEN",
+   "name": "Slanted triptych: the three title screens",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "title-s1",
+     "src0": 408,
+     "src1": 575,
+     "label": "S1",
+     "m": {
+      "capture": "title-s1",
+      "src": [
+       408,
+       574
+      ],
+      "frames": 168,
+      "kind": "title_screen"
+     },
+     "hits": []
+    },
+    {
+     "take": "title-s2",
+     "src0": 862,
+     "src1": 1008,
+     "label": "S2",
+     "m": {
+      "capture": "title-s2",
+      "src": [
+       862,
+       1006
+      ],
+      "frames": 146,
+      "kind": "title_screen"
+     },
+     "hits": []
+    },
+    {
+     "take": "title-s3k",
+     "src0": 363,
+     "src1": 488,
+     "label": "S3K",
+     "m": {
+      "capture": "title-s3k",
+      "src": [
+       363,
+       487
+      ],
+      "frames": 126,
+      "kind": "title_screen"
+     },
+     "hits": []
+    }
+   ],
+   "why": "Cut from 4 bars to 2; slices on beats 1, 2, 3.",
+   "restage": null
+  },
+  {
+   "b0": 42,
+   "b1": 43,
+   "f0": 3523,
+   "f1": 3607,
+   "t0": 58.71666666666667,
+   "t1": 60.11666666666667,
+   "chapter": "EVERY SCREEN",
+   "name": "Signposts spin and land on MICA: Sonic 1 and Sonic 2",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "d-ghz-clear",
+     "src0": 227,
+     "src1": 311,
+     "label": "S1",
+     "m": {
+      "capture": "d-ghz-clear",
+      "src": [
+       227,
+       309
+      ],
+      "frames": 84,
+      "kind": "act clear, no control",
+      "mean_gspeed": 0,
+      "mean_speed": 1,
+      "air_share": 0.0,
+      "cam_px_per_s": 0,
+      "idle_s": 1.4,
+      "longest_idle_s": 1.4,
+      "events": []
+     },
+     "hits": []
+    },
+    {
+     "take": "d-ehz-clear",
+     "src0": 377,
+     "src1": 461,
+     "label": "S2",
+     "m": {
+      "capture": "d-ehz-clear",
+      "src": [
+       377,
+       459
+      ],
+      "frames": 84,
+      "kind": "act clear, no control",
+      "mean_gspeed": 0,
+      "mean_speed": 0,
+      "air_share": 0.0,
+      "cam_px_per_s": 0,
+      "idle_s": 1.4,
+      "longest_idle_s": 1.4,
+      "events": []
+     },
+     "hits": []
+    }
+   ],
+   "why": "Was 2 bars of running in and standing (idle 2.0 s and 1.4 s). Now one bar that starts mid-spin; both signs land on her face on beat 4.",
+   "restage": null
+  },
+  {
+   "b0": 43,
+   "b1": 44,
+   "f0": 3607,
+   "f1": 3691,
+   "t0": 60.11666666666667,
+   "t1": 61.516666666666666,
+   "chapter": "EVERY SCREEN",
+   "name": "Sonic 2 tally: MICA GOT THROUGH flies in",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "d-ehz-clear",
+     "src0": 471,
+     "src1": 555,
+     "label": "",
+     "m": {
+      "capture": "d-ehz-clear",
+      "src": [
+       471,
+       553
+      ],
+      "frames": 84,
+      "kind": "results tally",
+      "mean_gspeed": 0,
+      "mean_speed": 0,
+      "air_share": 0.0,
+      "cam_px_per_s": 0,
+      "idle_s": 1.4,
+      "longest_idle_s": 1.4,
+      "events": []
+     },
+     "hits": []
+    }
+   ],
+   "why": "Was 2 bars, static after the fly-in. Now the fly-in only.",
+   "restage": null
+  },
+  {
+   "b0": 44,
+   "b1": 46,
+   "f0": 3691,
+   "f1": 3859,
+   "t0": 61.516666666666666,
+   "t1": 64.31666666666666,
+   "chapter": "EVERY SCREEN",
+   "name": "Slanted triptych: the three special stages",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "f-ghz-ss",
+     "src0": 916,
+     "src1": 1084,
+     "label": "S1",
+     "m": {
+      "capture": "f-ghz-ss",
+      "src": [
+       916,
+       1082
+      ],
+      "frames": 168,
+      "kind": "special_stage"
+     },
+     "hits": []
+    },
+    {
+     "take": "halfpipe-run",
+     "src0": 762,
+     "src1": 909,
+     "label": "S2",
+     "m": {
+      "capture": "halfpipe-run",
+      "src": [
+       762,
+       908
+      ],
+      "frames": 148,
+      "kind": "special_stage"
+     },
+     "hits": []
+    },
+    {
+     "take": "q-blue-c",
+     "src0": 473,
+     "src1": 599,
+     "label": "S3K",
+     "m": {
+      "capture": "q-blue-c",
+      "src": [
+       473,
+       597
+      ],
+      "frames": 126,
+      "kind": "special_stage"
+     },
+     "hits": []
+    }
+   ],
+   "why": "Cut from 4 bars to 2; slices on beats 1, 2, 3.",
+   "restage": null
+  },
+  {
+   "b0": 46,
+   "b1": 48,
+   "f0": 3859,
+   "f1": 4026,
+   "t0": 64.31666666666666,
+   "t1": 67.1,
+   "chapter": "EVERY SCREEN",
+   "name": "2x2: Continue, Data Select, special-stage HUD names, lives TALON",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "continue",
+     "src0": 77,
+     "src1": 244,
+     "label": "",
+     "m": {
+      "capture": "continue",
+      "src": [
+       77,
+       243
+      ],
+      "frames": 168,
+      "kind": "continue_screen"
+     },
+     "hits": []
+    },
+    {
+     "take": "data-select",
+     "src0": 405,
+     "src1": 572,
+     "label": "",
+     "m": {
+      "capture": "data-select",
+      "src": [
+       405,
+       571
+      ],
+      "frames": 168,
+      "kind": "data_select"
+     },
+     "hits": []
+    }
+   ],
+   "why": "Cut from 3 bars to 2; cells pop on beats 1 to 4 of bar 46.",
+   "restage": null
+  },
+  {
+   "b0": 48,
+   "b1": 50,
+   "f0": 4026,
+   "f1": 4195,
+   "t0": 67.1,
+   "t1": 69.91666666666667,
+   "chapter": "EVERY SCREEN",
+   "name": "Sky Chase: MICA strikes three badniks from the wing; TALON pilots",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "h-scz-b",
+     "src0": 237,
+     "src1": 406,
+     "label": "",
+     "m": {
+      "capture": "h-scz-b",
+      "src": [
+       237,
+       405
+      ],
+      "frames": 170,
+      "kind": "level",
+      "mean_gspeed": 583,
+      "mean_speed": 1011,
+      "air_share": 0.93,
+      "cam_px_per_s": 60,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 257,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 259,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 267,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 317,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 319,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 357,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 358,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 367,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 368,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 259,
+       "bar": 48,
+       "beat": 2,
+       "dev": 0
+      },
+      {
+       "kind": "kill +100",
+       "src": 319,
+       "bar": 49,
+       "beat": 1,
+       "dev": -3
+      },
+      {
+       "kind": "kill +100",
+       "src": 358,
+       "bar": 49,
+       "beat": 3,
+       "dev": -6
+      }
+     ]
+    }
+   ],
+   "why": "Cut from 4 bars to 2 and moved next to the ending, so the Tornado plays as one beat. First kill on beat 2; the other two are 3 and 6 frames early of their beats, to be tuned in stage B. Callout on beat 3 of bar 49.",
+   "restage": {
+    "target": "kills on bar 48 beat 2, bar 49 beats 1 and 3",
+    "probe": "stretch the two gaps from 60 and 39 frames to 63 and 42",
+    "fallback": "the take as it is",
+    "tune": true
+   }
+  },
+  {
+   "b0": 50,
+   "b1": 51,
+   "f0": 4195,
+   "f1": 4279,
+   "t0": 69.91666666666667,
+   "t1": 71.31666666666666,
+   "chapter": "EVERY SCREEN",
+   "name": "Sonic 2 ending: MICA flies beside the Tornado",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "ending",
+     "src0": 2676,
+     "src1": 2760,
+     "label": "",
+     "m": {
+      "capture": "ending",
+      "src": [
+       2676,
+       2758
+      ],
+      "frames": 84,
+      "kind": "ending cutscene",
+      "mean_gspeed": 0,
+      "mean_speed": 0,
+      "air_share": 0.0,
+      "cam_px_per_s": 0,
+      "idle_s": 1.4,
+      "longest_idle_s": 1.4,
+      "events": []
+     },
+     "hits": []
+    }
+   ],
+   "why": "Was 1.5 bars; one bar.",
+   "restage": null
+  },
+  {
+   "b0": 51,
+   "b1": 52,
+   "f0": 4279,
+   "f1": 4363,
+   "t0": 71.31666666666666,
+   "t1": 72.71666666666667,
+   "chapter": "EVERY SCREEN",
+   "name": "Ending pose: MICA lands on the wing, TALON at the stick",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "ending",
+     "src0": 4077,
+     "src1": 4161,
+     "label": "",
+     "m": {
+      "capture": "ending",
+      "src": [
+       4077,
+       4159
+      ],
+      "frames": 84,
+      "kind": "ending cutscene",
+      "mean_gspeed": 0,
+      "mean_speed": 0,
+      "air_share": 0.0,
+      "cam_px_per_s": 0,
+      "idle_s": 1.4,
+      "longest_idle_s": 1.4,
+      "events": []
+     },
+     "hits": []
+    }
+   ],
+   "why": "Was 2 bars; one bar, the landing on beat 2.",
+   "restage": null
+  },
+  {
+   "b0": 52,
+   "b1": 54,
+   "f0": 4363,
+   "f1": 4532,
+   "t0": 72.71666666666667,
+   "t1": 75.53333333333333,
+   "chapter": "BUILD",
+   "name": "Metropolis 1: the fastest normal-form run, 11 px/f",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "h-mtz1-asteron",
+     "src0": 271,
+     "src1": 440,
+     "label": "",
+     "m": {
+      "capture": "h-mtz1-asteron",
+      "src": [
+       271,
+       439
+      ],
+      "frames": 170,
+      "kind": "level",
+      "mean_gspeed": 2006,
+      "mean_speed": 2855,
+      "air_share": 0.84,
+      "cam_px_per_s": 210,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 291,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 293,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 295,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 297,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 344,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 350,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 378,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 389,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 392,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 394,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 397,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 431,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 438,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "New. Opens the build into the chorus.",
+   "restage": null
+  },
+  {
+   "b0": 54,
+   "b1": 56,
+   "f0": 4532,
+   "f1": 4700,
+   "t0": 75.53333333333333,
+   "t1": 78.33333333333333,
+   "chapter": "BUILD",
+   "name": "Launch Base 1: down the slope, spring, ring line",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "h-lbz1",
+     "src0": 101,
+     "src1": 269,
+     "label": "",
+     "m": {
+      "capture": "h-lbz1",
+      "src": [
+       101,
+       267
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1806,
+      "mean_speed": 1549,
+      "air_share": 0.73,
+      "cam_px_per_s": 370,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 140,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 143,
+        "kind": "spring",
+        "detail": "up"
+       },
+       {
+        "src": 144,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 162,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 172,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 181,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 207,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 212,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 217,
+        "kind": "rings",
+        "detail": "+1"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring up",
+       "src": 143,
+       "bar": 54,
+       "beat": 3,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "New. Spring on beat 3.",
+   "restage": null
+  },
+  {
+   "b0": 56,
+   "b1": 57,
+   "f0": 4700,
+   "f1": 4784,
+   "t0": 78.33333333333333,
+   "t1": 79.73333333333333,
+   "chapter": "BUILD",
+   "name": "Green Hill 2 (Sonic 1): monitor pop on the low road",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "d-ghz2-buzz",
+     "src0": 243,
+     "src1": 327,
+     "label": "",
+     "m": {
+      "capture": "d-ghz2-buzz",
+      "src": [
+       243,
+       325
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 1671,
+      "mean_speed": 1559,
+      "air_share": 0.52,
+      "cam_px_per_s": 445,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 264,
+        "kind": "rings",
+        "detail": "+10"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "New window of a take already in the film. One bar.",
+   "restage": null
+  },
+  {
+   "b0": 57,
+   "b1": 58.5,
+   "f0": 4784,
+   "f1": 4910,
+   "t0": 79.73333333333333,
+   "t1": 81.83333333333333,
+   "chapter": "BUILD",
+   "name": "Emerald Hill 2: run-up and a Buzzer struck on the bar",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "ehz2-chain-b",
+     "src0": 197,
+     "src1": 323,
+     "label": "",
+     "m": {
+      "capture": "ehz2-chain-b",
+      "src": [
+       197,
+       321
+      ],
+      "frames": 126,
+      "kind": "level",
+      "mean_gspeed": 1674,
+      "mean_speed": 1428,
+      "air_share": 0.79,
+      "cam_px_per_s": 314,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 281,
+        "kind": "kill",
+        "detail": "+100"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 281,
+       "bar": 58,
+       "beat": 1,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "New. The kill lands on bar 58; the Gilded run-in starts two beats later.",
+   "restage": null
+  },
+  {
+   "b0": 58.5,
+   "b1": 62,
+   "f0": 4910,
+   "f1": 5205,
+   "t0": 81.83333333333333,
+   "t1": 86.75,
+   "chapter": "POWERED UP",
+   "name": "Hydrocity 1: normal MICA jumps, winds up, snaps open gold; Gilded run, spring",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "d-hcz1-gilded-runin",
+     "src0": 33,
+     "src1": 328,
+     "label": "",
+     "m": {
+      "capture": "d-hcz1-gilded-runin",
+      "src": [
+       33,
+       327
+      ],
+      "frames": 296,
+      "kind": "level",
+      "mean_gspeed": 988,
+      "mean_speed": 1280,
+      "air_share": 0.64,
+      "cam_px_per_s": 262,
+      "idle_s": 0.3,
+      "longest_idle_s": 0.23,
+      "events": [
+       {
+        "src": 135,
+        "kind": "transform",
+        "detail": "MICA"
+       },
+       {
+        "src": 244,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 269,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 288,
+        "kind": "spring",
+        "detail": "up"
+       },
+       {
+        "src": 289,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring up",
+       "src": 288,
+       "bar": 61,
+       "beat": 3,
+       "dev": 2
+      }
+     ]
+    }
+   ],
+   "why": "Cut from 5.5 bars to 3.5. Reveal on the chorus (bar 60) as now; the spring lands on beat 3 of bar 61 and the shot ends on bar 62.",
+   "restage": null
+  },
+  {
+   "b0": 62,
+   "b1": 64,
+   "f0": 5205,
+   "f1": 5373,
+   "t0": 86.75,
+   "t1": 89.55,
+   "chapter": "POWERED UP",
+   "name": "Same Rhinobot twice: jade trail above, gold trail below",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "d-aiz-normal",
+     "src0": 13,
+     "src1": 181,
+     "label": "normal",
+     "m": {
+      "capture": "d-aiz-normal",
+      "src": [
+       13,
+       179
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 1456,
+      "mean_speed": 1637,
+      "air_share": 0.95,
+      "cam_px_per_s": 353,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 47,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 55,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 115,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 163,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 164,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 55,
+       "bar": 62,
+       "beat": 3,
+       "dev": 0
+      },
+      {
+       "kind": "kill +100",
+       "src": 163,
+       "bar": 63,
+       "beat": 4,
+       "dev": 3
+      }
+     ]
+    },
+    {
+     "take": "gilded-aiz",
+     "src0": 9,
+     "src1": 177,
+     "label": "Gilded",
+     "m": {
+      "capture": "gilded-aiz",
+      "src": [
+       9,
+       175
+      ],
+      "frames": 168,
+      "kind": "level",
+      "mean_gspeed": 538,
+      "mean_speed": 938,
+      "air_share": 0.9,
+      "cam_px_per_s": 82,
+      "idle_s": 0.37,
+      "longest_idle_s": 0.33,
+      "events": [
+       {
+        "src": 92,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 94,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 120,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 160,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 173,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "Cut from 3.5 bars to 2; the two strikes land two beats apart.",
+   "restage": null
+  },
+  {
+   "b0": 64,
+   "b1": 65,
+   "f0": 5373,
+   "f1": 5457,
+   "t0": 89.55,
+   "t1": 90.95,
+   "chapter": "POWERED UP",
+   "name": "Gilded MICA in Sonic 1: Star Light at speed",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "f-slz1-gilded",
+     "src0": 112,
+     "src1": 196,
+     "label": "",
+     "m": {
+      "capture": "f-slz1-gilded",
+      "src": [
+       112,
+       194
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 1080,
+      "mean_speed": 1651,
+      "air_share": 0.79,
+      "cam_px_per_s": 417,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 118,
+        "kind": "spring",
+        "detail": "side"
+       },
+       {
+        "src": 149,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring side",
+       "src": 118,
+       "bar": 64,
+       "beat": 1,
+       "dev": 6
+      }
+     ]
+    }
+   ],
+   "why": "Was a triptych pane. One bar, full frame.",
+   "restage": null
+  },
+  {
+   "b0": 65,
+   "b1": 66,
+   "f0": 5457,
+   "f1": 5541,
+   "t0": 90.95,
+   "t1": 92.35,
+   "chapter": "POWERED UP",
+   "name": "Gilded MICA in Sonic 2: Aquatic Ruin treetops, spring",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "s2-gilded-arz",
+     "src0": 230,
+     "src1": 314,
+     "label": "",
+     "m": {
+      "capture": "s2-gilded-arz",
+      "src": [
+       230,
+       312
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 2449,
+      "mean_speed": 2521,
+      "air_share": 0.9,
+      "cam_px_per_s": 653,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 242,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 243,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 245,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 247,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 251,
+        "kind": "spring",
+        "detail": "up"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring up",
+       "src": 251,
+       "bar": 65,
+       "beat": 2,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "New. 10 px/f; spring on beat 2.",
+   "restage": null
+  },
+  {
+   "b0": 66,
+   "b1": 67.5,
+   "f0": 5541,
+   "f1": 5667,
+   "t0": 92.35,
+   "t1": 94.45,
+   "chapter": "POWERED UP",
+   "name": "Gilded MICA in Sonic 2: gold streak through the Chemical Plant tubes",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "f-cpz1-gilded",
+     "src0": 217,
+     "src1": 343,
+     "label": "",
+     "m": {
+      "capture": "f-cpz1-gilded",
+      "src": [
+       217,
+       341
+      ],
+      "frames": 126,
+      "kind": "level",
+      "mean_gspeed": 1561,
+      "mean_speed": 1759,
+      "air_share": 0.38,
+      "cam_px_per_s": 456,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 218,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 238,
+        "kind": "spring",
+        "detail": "up"
+       },
+       {
+        "src": 239,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 247,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring up",
+       "src": 238,
+       "bar": 66,
+       "beat": 2,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "New. Spring on beat 2.",
+   "restage": null
+  },
+  {
+   "b0": 67.5,
+   "b1": 70,
+   "f0": 5667,
+   "f1": 5878,
+   "t0": 94.45,
+   "t1": 97.96666666666667,
+   "chapter": "POWERED UP",
+   "name": "Solar TALON: wind-up, flame reveal on bar 68, straight into a divebomb kill on bar 69",
+   "status": "re-stage",
+   "panes": [
+    {
+     "take": "d-cnz1-solar",
+     "src0": 33,
+     "src1": 244,
+     "label": "stand-in",
+     "m": {
+      "capture": "d-cnz1-solar",
+      "src": [
+       33,
+       243
+      ],
+      "frames": 212,
+      "kind": "level",
+      "mean_gspeed": 290,
+      "mean_speed": 879,
+      "air_share": 0.94,
+      "cam_px_per_s": 165,
+      "idle_s": 1.1,
+      "longest_idle_s": 0.6,
+      "events": []
+     },
+     "hits": []
+    }
+   ],
+   "why": "Was 4.5 bars with 3.5 s of slow hovering after the reveal (mean speed 2.4 px/f, nothing touched). Now 2.5 bars: reveal, then he dives at once and the kill lands a bar later, embers trailing.",
+   "restage": {
+    "target": "reveal on bar 68; kill on bar 69",
+    "probe": "Solar TALON at the Angel Island Rhinobot position (his solar kill take is there): transform within reach, dive on the next bar",
+    "fallback": "the Carnival Night take to bar 69, then its own fast flight (#190-274) for bar 69-70, a time cut inside the take, disclosed"
+   }
+  },
+  {
+   "b0": 70,
+   "b1": 72,
+   "f0": 5878,
+   "f1": 6047,
+   "t0": 97.96666666666667,
+   "t1": 100.78333333333333,
+   "chapter": "POWERED UP",
+   "name": "Solar TALON in Death Egg 1: ember flight into the booster",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "g-dez1-solar",
+     "src0": 225,
+     "src1": 394,
+     "label": "",
+     "m": {
+      "capture": "g-dez1-solar",
+      "src": [
+       225,
+       393
+      ],
+      "frames": 170,
+      "kind": "level",
+      "mean_gspeed": 1636,
+      "mean_speed": 1677,
+      "air_share": 0.34,
+      "cam_px_per_s": 51,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 331,
+        "kind": "spring",
+        "detail": "side"
+       },
+       {
+        "src": 386,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "spring side",
+       "src": 331,
+       "bar": 71,
+       "beat": 2,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "New. Booster on beat 2 of bar 71.",
+   "restage": null
+  },
+  {
+   "b0": 72,
+   "b1": 73,
+   "f0": 6047,
+   "f1": 6132,
+   "t0": 100.78333333333333,
+   "t1": 102.2,
+   "chapter": "POWERED UP",
+   "name": "Solar TALON in Sonic 1: Spring Yard",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "g-syz1-solar",
+     "src0": 405,
+     "src1": 490,
+     "label": "",
+     "m": {
+      "capture": "g-syz1-solar",
+      "src": [
+       405,
+       489
+      ],
+      "frames": 86,
+      "kind": "level",
+      "mean_gspeed": 0,
+      "mean_speed": 2011,
+      "air_share": 1.0,
+      "cam_px_per_s": 486,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": []
+     },
+     "hits": []
+    }
+   ],
+   "why": "One bar at 7.8 px/f; with the next shot it replaces the slow Mystic Cave pane as the proof in the other two games.",
+   "restage": null
+  },
+  {
+   "b0": 73,
+   "b1": 74,
+   "f0": 6132,
+   "f1": 6216,
+   "t0": 102.2,
+   "t1": 103.6,
+   "chapter": "POWERED UP",
+   "name": "Solar TALON in Sonic 2: Hill Top",
+   "status": "replace",
+   "panes": [
+    {
+     "take": "f-htz1-solar",
+     "src0": 165,
+     "src1": 249,
+     "label": "",
+     "m": {
+      "capture": "f-htz1-solar",
+      "src": [
+       165,
+       247
+      ],
+      "frames": 84,
+      "kind": "level",
+      "mean_gspeed": 1299,
+      "mean_speed": 1920,
+      "air_share": 0.93,
+      "cam_px_per_s": 482,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 165,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 208,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 209,
+        "kind": "rings",
+        "detail": "+1"
+       },
+       {
+        "src": 227,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "One bar: the dive across the lake, with embers.",
+   "restage": null
+  },
+  {
+   "b0": 74,
+   "b1": 75.5,
+   "f0": 6216,
+   "f1": 6343,
+   "t0": 103.6,
+   "t1": 105.71666666666667,
+   "chapter": "POWERED UP",
+   "name": "Solar TALON divebombs a Rhinobot in Angel Island",
+   "status": "trim",
+   "panes": [
+    {
+     "take": "d-aiz-solar-dive",
+     "src0": 143,
+     "src1": 270,
+     "label": "",
+     "m": {
+      "capture": "d-aiz-solar-dive",
+      "src": [
+       143,
+       269
+      ],
+      "frames": 128,
+      "kind": "level",
+      "mean_gspeed": 884,
+      "mean_speed": 927,
+      "air_share": 0.67,
+      "cam_px_per_s": 200,
+      "idle_s": 0.2,
+      "longest_idle_s": 0.2,
+      "events": [
+       {
+        "src": 186,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 228,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 186,
+       "bar": 74,
+       "beat": 3,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "Was a triptych pane with 1.6 s of approach. Full frame, the kill on beat 3 of bar 74.",
+   "restage": null
+  },
+  {
+   "b0": 75.5,
+   "b1": 78,
+   "f0": 6343,
+   "f1": 6555,
+   "t0": 105.71666666666667,
+   "t1": 109.25,
+   "chapter": "HERO",
+   "name": "Death Egg 1: Hyper MICA reveal on the lift, one strike, after-image dash",
+   "status": "keep",
+   "panes": [
+    {
+     "take": "d-dez1-hyper",
+     "src0": 58,
+     "src1": 270,
+     "label": "",
+     "m": {
+      "capture": "d-dez1-hyper",
+      "src": [
+       58,
+       268
+      ],
+      "frames": 212,
+      "kind": "level",
+      "mean_gspeed": 1240,
+      "mean_speed": 1732,
+      "air_share": 0.92,
+      "cam_px_per_s": 360,
+      "idle_s": 0.0,
+      "longest_idle_s": 0.0,
+      "events": [
+       {
+        "src": 185,
+        "kind": "kill",
+        "detail": "+100"
+       },
+       {
+        "src": 223,
+        "kind": "air burst",
+        "detail": ""
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "kill +100",
+       "src": 185,
+       "bar": 77,
+       "beat": 1,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "Same take and length. The kill now sits exactly on bar 77; the reveal is then 4 frames early of bar 76. In stage B the strike press moves 4 frames earlier so both land.",
+   "restage": {
+    "target": "reveal on bar 76 and kill on bar 77",
+    "probe": "strike press 4 frames earlier",
+    "fallback": "kill on the bar, reveal 4 frames early",
+    "tune": true
+   }
+  },
+  {
+   "b0": 78,
+   "b1": 80,
+   "f0": 6555,
+   "f1": 6724,
+   "t0": 109.25,
+   "t1": 112.06666666666666,
+   "chapter": "HERO",
+   "name": "Launch Base 1 mini-boss: Hyper MICA runs in and strikes once; ONE HIT.",
+   "status": "re-stage",
+   "panes": [
+    {
+     "take": "d-lbz-boss",
+     "src0": 564,
+     "src1": 733,
+     "label": "stand-in",
+     "m": {
+      "capture": "d-lbz-boss",
+      "src": [
+       564,
+       732
+      ],
+      "frames": 170,
+      "kind": "level",
+      "mean_gspeed": 581,
+      "mean_speed": 456,
+      "air_share": 0.35,
+      "cam_px_per_s": 0,
+      "idle_s": 1.47,
+      "longest_idle_s": 0.8,
+      "events": [
+       {
+        "src": 642,
+        "kind": "air burst",
+        "detail": ""
+       },
+       {
+        "src": 648,
+        "kind": "boss hit",
+        "detail": "+1000"
+       }
+      ]
+     },
+     "hits": [
+      {
+       "kind": "boss hit +1000",
+       "src": 648,
+       "bar": 79,
+       "beat": 1,
+       "dev": 0
+      }
+     ]
+    }
+   ],
+   "why": "She stands and waits 1.4 s for the boss in the current take. Re-staged so she is moving until the hop: back off inside the locked arena, run in as it swings down, strike on bar 79. The card and the revert it covers are unchanged.",
+   "restage": {
+    "target": "no standing; hit on bar 79",
+    "probe": "after the camera locks: L for about 30 frames, R, jump",
+    "fallback": "the current take cut in half a bar later (the Death Egg shot runs to 78.5)"
+   }
+  },
+  {
+   "b0": 80,
+   "b1": 84,
+   "f0": 6724,
+   "f1": 7063,
+   "t0": 112.06666666666666,
+   "t1": 117.71666666666667,
+   "chapter": "HERO: THE PAIR",
+   "name": "Launch Base 1: twin transformation, then TALON catches Hyper MICA and flies her across the skyline",
+   "status": "re-stage",
+   "panes": [
+    {
+     "take": "d-lbz-pair-312",
+     "src0": 49,
+     "src1": 388,
+     "label": "stand-in",
+     "m": {
+      "capture": "d-lbz-pair-312",
+      "src": [
+       49,
+       387
+      ],
+      "frames": 340,
+      "kind": "level",
+      "mean_gspeed": 0,
+      "mean_speed": 328,
+      "air_share": 0.89,
+      "cam_px_per_s": 59,
+      "idle_s": 0.57,
+      "longest_idle_s": 0.43,
+      "events": [
+       {
+        "src": 105,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 128,
+        "kind": "rings",
+        "detail": "+2"
+       },
+       {
+        "src": 166,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 227,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 288,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 349,
+        "kind": "ring loss",
+        "detail": "-2"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "The twin reveal on beat 2 stays. Two things change: nobody stands (TALON lifts off on the reveal instead of walking over for 0.8 s), and the carry travels across the towers instead of rising in place (now 1 px/f, camera 66 px/s).",
+   "restage": {
+    "target": "reveal on bar 80 beat 2, catch on bar 81, then 3 px/f of travel to the end card",
+    "probe": "start about 650 px left of the starpost on the open bridge so the carry can fly right for 3 bars; hold R with the flaps",
+    "fallback": "the current take"
+   }
+  },
+  {
+   "b0": 84,
+   "b1": 88,
+   "f0": 7063,
+   "f1": 7440,
+   "t0": 117.71666666666667,
+   "t1": 124.0,
+   "chapter": "END CARD",
+   "name": "Lock-up, line, URL, disclaimer over the pair take; music fades bars 85-88",
+   "status": "keep",
+   "panes": [
+    {
+     "take": "d-lbz-pair-312",
+     "src0": 415,
+     "src1": 792,
+     "label": "",
+     "m": {
+      "capture": "d-lbz-pair-312",
+      "src": [
+       415,
+       791
+      ],
+      "frames": 378,
+      "kind": "end card backdrop",
+      "mean_gspeed": 0,
+      "mean_speed": 430,
+      "air_share": 0.92,
+      "cam_px_per_s": 54,
+      "idle_s": 0.43,
+      "longest_idle_s": 0.43,
+      "events": [
+       {
+        "src": 471,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 532,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 593,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 654,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 715,
+        "kind": "ring loss",
+        "detail": "-2"
+       },
+       {
+        "src": 776,
+        "kind": "ring loss",
+        "detail": "-2"
+       }
+      ]
+     },
+     "hits": []
+    }
+   ],
+   "why": "Unchanged.",
+   "restage": null
+  }
+ ]
+}

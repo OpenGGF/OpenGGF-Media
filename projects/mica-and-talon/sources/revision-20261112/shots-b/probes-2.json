@@ -1,0 +1,653 @@
+[
+ {
+  "id": "r2a-hover-run50-fl8",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 50 - / R; 1 - / R+A; 8 - / -; 1 - / A; 200 - / -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2a-hover-run70-fl8",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 70 - / R; 1 - / R+A; 8 - / -; 1 - / A; 200 - / -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2a-hover-run50-fl12",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 50 - / R; 1 - / R+A; 12 - / -; 1 - / A; 200 - / -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2a-hover-run70-fl12",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 70 - / R; 1 - / R+A; 12 - / -; 1 - / A; 200 - / -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r3b-arz-t90-d8",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 70 R; 1 R+A; 7 R; 1 D+A; 60 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3b-arz-t90-d14",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 70 R; 1 R+A; 13 R; 1 D+A; 60 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3b-arz-t100-d8",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 80 R; 1 R+A; 7 R; 1 D+A; 60 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3b-arz-t100-d14",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 80 R; 1 R+A; 13 R; 1 D+A; 60 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3b-arz-t110-d8",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 90 R; 1 R+A; 7 R; 1 D+A; 60 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3b-arz-t110-d14",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 90 R; 1 R+A; 13 R; 1 D+A; 60 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3b-arz-t120-d8",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 100 R; 1 R+A; 7 R; 1 D+A; 60 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3b-arz-t120-d14",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 100 R; 1 R+A; 13 R; 1 D+A; 60 R; 1 D+A; 100 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r4b-solar-x6900-f8",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6900,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4b-solar-x6900-f9",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6900,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 9 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4b-solar-x6920-f8",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6920,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4b-solar-x6920-f9",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6920,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 9 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4b-solar-x6940-f8",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6940,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 8 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4b-solar-x6940-f9",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6940,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 9 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r5b-boss-t560-l30-r594",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 338 -; 30 L; 4 -; 32 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r5b-boss-t560-l30-r598",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 338 -; 30 L; 8 -; 28 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r5b-boss-t556-l30-r592",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 334 -; 30 L; 6 -; 34 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r5b-boss-t566-l24-r594",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 344 -; 24 L; 4 -; 32 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r5b-boss-t512-l40-r588",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 290 -; 40 L; 36 -; 38 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r5b-boss-t512-l40-r594",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 290 -; 40 L; 42 -; 32 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r1-look-14300",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14300,
+  "y": 1470,
+  "script": "20 -; 300 R",
+  "props": {
+   "promo.png.every": 6,
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  },
+  "audio": false
+ },
+ {
+  "id": "r6-look-14900",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14900,
+  "y": 440,
+  "script": "60 -; 120 R",
+  "props": {
+   "promo.png.every": 6,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6-look-15100",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15100,
+  "y": 440,
+  "script": "60 -; 120 R",
+  "props": {
+   "promo.png.every": 6,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6-look-15300",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15300,
+  "y": 440,
+  "script": "60 -; 120 R",
+  "props": {
+   "promo.png.every": 6,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6-look-15450",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15450,
+  "y": 440,
+  "script": "60 -; 120 R",
+  "props": {
+   "promo.png.every": 6,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6-look-14640",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14640,
+  "y": 1480,
+  "script": "60 -; 120 R",
+  "props": {
+   "promo.png.every": 6,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "t4-dez-w48",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 48 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 75,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  },
+  "audio": false
+ },
+ {
+  "id": "t4-dez-w49",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 49 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 75,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  },
+  "audio": false
+ }
+]

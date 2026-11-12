@@ -1,0 +1,954 @@
+[
+ {
+  "id": "r1-lbz-13700",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 13700,
+  "y": 1470,
+  "script": "20 -; 420 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  },
+  "audio": false
+ },
+ {
+  "id": "r1-lbz-13900",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 13900,
+  "y": 1470,
+  "script": "20 -; 420 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  },
+  "audio": false
+ },
+ {
+  "id": "r1-lbz-14100",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14100,
+  "y": 1470,
+  "script": "20 -; 420 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  },
+  "audio": false
+ },
+ {
+  "id": "r1-lbz-14300",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14300,
+  "y": 1470,
+  "script": "20 -; 420 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 30,
+   "promo.timer": 9600,
+   "promo.score": 283000
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d0-j24",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d0-j32",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d0-j40",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d8-j24",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d8-j32",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d8-j40",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d16-j24",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d16-j32",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r2-carry-d16-j40",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6040,
+  "y": 1040,
+  "script": "20 -; 1 - / R+A; 2 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 - / R+A; 1 - / R; 1 - / R; 1 - / R; 1 - / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R+A / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R; 1 R / R+A; 1 R / R; 1 R / R; 1 R / R; 1 R / R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 34,
+   "promo.timer": 5400,
+   "promo.score": 3700
+  },
+  "audio": false
+ },
+ {
+  "id": "r3-arz-n8",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 1 R+A; 20 R; repeat 8 { 1 A; 8 R }; 18 D+R; 1 D+A; 200 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3-arz-n10",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 1 R+A; 20 R; repeat 10 { 1 A; 8 R }; 18 D+R; 1 D+A; 200 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3-arz-n12",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 1 R+A; 20 R; repeat 12 { 1 A; 8 R }; 18 D+R; 1 D+A; 200 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r3-arz-n14",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 2,
+  "act": 0,
+  "x": 8300,
+  "y": 860,
+  "script": "20 -; 1 R+A; 20 R; repeat 14 { 1 A; 8 R }; 18 D+R; 1 D+A; 200 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.rings": 31,
+   "promo.timer": 7200,
+   "promo.score": 46300
+  },
+  "audio": false
+ },
+ {
+  "id": "r4-solar-x6990-w27-f5",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6990,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 27 -; 1 R+A; 20 R; repeat 5 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4-solar-x7060-w52-f2",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7060,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 52 -; 1 R+A; 20 R; repeat 2 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4-solar-x7030-w40-f4",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 7030,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 40 -; 1 R+A; 20 R; repeat 4 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r4-solar-x6990-w52-f5",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 0,
+  "act": 0,
+  "x": 6990,
+  "y": 900,
+  "script": "30 -; 1 A; 20 -; 1 A; 52 -; 1 R+A; 20 R; repeat 5 { 1 R+A; 8 R }; 6 D+R; 1 D+A; 150 R; 40 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.main": "talon",
+   "promo.emeralds": "1111111",
+   "promo.rings": 70,
+   "promo.timer": 7200,
+   "promo.score": 9400
+  },
+  "audio": false
+ },
+ {
+  "id": "r5-boss-l30-r36",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 314 -; 30 L; 24 -; 36 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r5-boss-l40-r50",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 290 -; 40 L; 24 -; 50 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r5-boss-l24-r30",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 326 -; 24 L; 24 -; 30 R; 1 R+A; 15 R; 1 R+A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r5-boss-l0-r0",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15552,
+  "y": 468,
+  "script": "30 -; 1 A; 20 -; 1 A; 60 -; 94 R; 14 L; 1 R; 404 -; 1 A; 15 -; 1 A; 300 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 92,
+   "promo.timer": 10800,
+   "promo.score": 283900
+  },
+  "audio": false
+ },
+ {
+  "id": "r6-map-14900",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 14900,
+  "y": 440,
+  "script": "90 -; 90 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6-map-15100",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15100,
+  "y": 440,
+  "script": "90 -; 90 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "r6-map-15300",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 6,
+  "act": 0,
+  "x": 15300,
+  "y": 440,
+  "script": "90 -; 90 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.emeralds": "3333333",
+   "promo.rings": 97,
+   "promo.timer": 11520,
+   "promo.score": 283200
+  },
+  "audio": false
+ },
+ {
+  "id": "t1-mgz-80-103",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 7600,
+  "y": 1136,
+  "script": "21 -; 1 R+A; 12 R; 1 R+A; 22 R; 1 R+A; 22 R; 1 R+A; 22 R; 1 R+A; 70 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 36,
+   "promo.timer": 8100,
+   "promo.score": 87300
+  },
+  "audio": false
+ },
+ {
+  "id": "t1-mgz-84-106",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 7600,
+  "y": 1136,
+  "script": "21 -; 1 R+A; 12 R; 1 R+A; 22 R; 1 R+A; 26 R; 1 R+A; 21 R; 1 R+A; 70 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 36,
+   "promo.timer": 8100,
+   "promo.score": 87300
+  },
+  "audio": false
+ },
+ {
+  "id": "t1-mgz-84-105",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 7600,
+  "y": 1136,
+  "script": "21 -; 1 R+A; 12 R; 1 R+A; 22 R; 1 R+A; 26 R; 1 R+A; 20 R; 1 R+A; 70 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 36,
+   "promo.timer": 8100,
+   "promo.score": 87300
+  },
+  "audio": false
+ },
+ {
+  "id": "t1-mgz-83-105",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 7600,
+  "y": 1136,
+  "script": "21 -; 1 R+A; 12 R; 1 R+A; 22 R; 1 R+A; 25 R; 1 R+A; 21 R; 1 R+A; 70 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 36,
+   "promo.timer": 8100,
+   "promo.score": 87300
+  },
+  "audio": false
+ },
+ {
+  "id": "t1-mgz-85-107",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 2,
+  "act": 1,
+  "x": 7600,
+  "y": 1136,
+  "script": "21 -; 1 R+A; 12 R; 1 R+A; 22 R; 1 R+A; 27 R; 1 R+A; 21 R; 1 R+A; 70 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 36,
+   "promo.timer": 8100,
+   "promo.score": 87300
+  },
+  "audio": false
+ },
+ {
+  "id": "t2-scz-base",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "236 -; 1 A; 20 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 120 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 0,
+   "promo.timer": 0
+  },
+  "audio": false
+ },
+ {
+  "id": "t2-scz-320-363",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "236 -; 1 A; 20 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 12 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 12 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 120 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 0,
+   "promo.timer": 0
+  },
+  "audio": false
+ },
+ {
+  "id": "t2-scz-320-362",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "236 -; 1 A; 20 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 12 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 11 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 120 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 0,
+   "promo.timer": 0
+  },
+  "audio": false
+ },
+ {
+  "id": "t2-scz-321-364",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "236 -; 1 A; 20 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 13 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 12 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 120 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 0,
+   "promo.timer": 0
+  },
+  "audio": false
+ },
+ {
+  "id": "t2-scz-319-362",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 8,
+  "act": 0,
+  "x": 288,
+  "y": 112,
+  "script": "236 -; 1 A; 20 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 11 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 12 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 9 -; 1 A; 120 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.rings": 0,
+   "promo.timer": 0
+  },
+  "audio": false
+ },
+ {
+  "id": "t3-cnz-j268",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 3,
+  "act": 0,
+  "x": 5944,
+  "y": 276,
+  "script": "30 -; 238 R; 1 R+A; 61 R; 60 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 45,
+   "promo.timer": 5400,
+   "promo.score": 31700
+  },
+  "audio": false
+ },
+ {
+  "id": "t3-cnz-j269",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 3,
+  "act": 0,
+  "x": 5944,
+  "y": 276,
+  "script": "30 -; 239 R; 1 R+A; 60 R; 60 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 45,
+   "promo.timer": 5400,
+   "promo.score": 31700
+  },
+  "audio": false
+ },
+ {
+  "id": "t3-cnz-j270",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 3,
+  "act": 0,
+  "x": 5944,
+  "y": 276,
+  "script": "30 -; 240 R; 1 R+A; 59 R; 60 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 45,
+   "promo.timer": 5400,
+   "promo.score": 31700
+  },
+  "audio": false
+ },
+ {
+  "id": "t3-cnz-j271",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 3,
+  "act": 0,
+  "x": 5944,
+  "y": 276,
+  "script": "30 -; 241 R; 1 R+A; 58 R; 60 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 45,
+   "promo.timer": 5400,
+   "promo.score": 31700
+  },
+  "audio": false
+ },
+ {
+  "id": "t3-cnz-j272",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 3,
+  "act": 0,
+  "x": 5944,
+  "y": 276,
+  "script": "30 -; 242 R; 1 R+A; 57 R; 60 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 45,
+   "promo.timer": 5400,
+   "promo.score": 31700
+  },
+  "audio": false
+ },
+ {
+  "id": "t3-cnz-j274",
+  "kind": "host",
+  "host": "positioned",
+  "mode": "run",
+  "game": "s2",
+  "zone": 3,
+  "act": 0,
+  "x": 5944,
+  "y": 276,
+  "script": "30 -; 244 R; 1 R+A; 55 R; 60 -",
+  "props": {
+   "promo.png.every": 0,
+   "promo.sidekick": "talon",
+   "promo.rings": 45,
+   "promo.timer": 5400,
+   "promo.score": 31700
+  },
+  "audio": false
+ },
+ {
+  "id": "t4-dez-w50",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 50 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 75,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  },
+  "audio": false
+ },
+ {
+  "id": "t4-dez-w47",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 47 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 75,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  },
+  "audio": false
+ },
+ {
+  "id": "t4-dez-w46",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 46 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 75,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  },
+  "audio": false
+ },
+ {
+  "id": "t4-dez-w45",
+  "kind": "host",
+  "host": "powered",
+  "mode": "run",
+  "game": "s3k",
+  "zone": 11,
+  "act": 0,
+  "x": 5096,
+  "y": 1300,
+  "script": "24 -; 26 R; 1 R+A; 20 R; 1 A; 45 -; repeat 10 { 1 R+A; 16 R }; 160 R",
+  "props": {
+   "promo.png.every": 0,
+   "promo.emeralds": "3333333",
+   "promo.rings": 75,
+   "promo.timer": 6000,
+   "promo.score": 512600
+  },
+  "audio": false
+ }
+]
